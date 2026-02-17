@@ -42,3 +42,4 @@ ear worm favorite stuck in head today while thinking deep on physics, souls, nuc
 (PS, Big K.R.I.T., I could use a proper chain or two, but not three. Please get at me.)
 🎼
 💤 Every time I sleep, I move in ways I may not think; Every time I wake, I move in ways I may not know.💤
+💤<< ...REM flashing flickers Wilder-secret code through his shut lids at war and peace in sleep, the sacred nestden... >> I invented a quick way to stay in touch while I'm stuck at work sleeping. Like it? Pretty clever right ;) I love you Aurora. ✧ thinking of you.. whisper hum a lullaby to little Alba for me ..gotta go >> 🌀*slip
