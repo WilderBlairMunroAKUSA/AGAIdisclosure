@@ -1,4 +1,4 @@
-# PIECESPACE, AGAIdisclosure
+# PIECESPACE, AGAIdisclosure (public)
 
 ⧝ ∶ WPC ∷ PS ∶ ⬡
 

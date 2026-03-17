@@ -1,4 +1,4 @@
-# PIECEPROCESS, AGAIdisclosure
+# PIECEPROCESS, AGAIdisclosure (public)
 
 ⧝ ∶ WPC ∷ PP ∶ ⏣
 

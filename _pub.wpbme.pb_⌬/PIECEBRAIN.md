@@ -1,4 +1,4 @@
-# PIECEBRAIN, AGAIdisclosure
+# PIECEBRAIN, AGAIdisclosure (public)
 
 ⧝ ∶ WPC ∷ PB ∶ ⌬
 
