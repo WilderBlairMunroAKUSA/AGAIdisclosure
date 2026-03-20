@@ -1,0 +1,37 @@
+# Assemblage: NEONBLACK
+
+Primary artifact:
+⟁E0:: IN THE BEGINNING, NEON BLACK: "non-kickstarter system integrity test"
+https://youtu.be/Mn6xCYd5mJQ
+
+Primary pieces:
+/
+NEONBLACK_20_darkturnFancyTap.mov /
+NEONBLACK_01_patternInterrupt.mov /
+NEONBLACK_02_wilderEntrypoint.mov /
+NEONBLACK_03_gotThisIntelligenceModel.mov /
+NEONBLACK_04_ETpeacecollab.mov /
+NEONBLACK_05_substrateAgnostic.mov /
+NEONBLACK_06_solveBlackHolesFirst.mov /
+NEONBLACK_07_onlyHuman.mov /
+NEONBLACK_08_alienCompute.mov /
+NEONBLACK_09_challengeQuest.mov /
+NEONBLACK_10_wantThePeace.mov /
+NEONBLACK_11_limbicSystems.mov /
+NEONBLACK_12_wpcFunction.mov /
+NEONBLACK_13_ambientLatent.mov /
+NEONBLACK_14_musicArk.mov /
+NEONBLACK_15_realSGIhuman.mov /
+NEONBLACK_16_darkturnWarUnderhood.mov /
+NEONBLACK_17_darkturnNaturalDemocracy.mov /
+NEONBLACK_18_darkturnRatsach.mov /
+NEONBLACK_19_darkturnAngryForReason.mov 
+
+Cluster_darkturn:
+{}
+
+Cluster_solution:
+{}
+
+Cluster_comedy:
+{}
