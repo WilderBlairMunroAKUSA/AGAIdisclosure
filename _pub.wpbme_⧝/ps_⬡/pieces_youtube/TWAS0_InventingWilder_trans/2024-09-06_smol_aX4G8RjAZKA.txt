@@ -1,0 +1,1006 @@
+Title: SEASON 0, PP TRANSPARENCY ~~ pplog X clean version
+Date:  2024-09-06
+
+[0:03] yo this is a peace process
+[0:05] llog haven't done a peace process log in
+[0:08] a
+[0:13] while I'm listening to one of my
+[0:15] programming
+[0:17] playlist two songs on
+[0:21] repeat I'm beyond discouraged right
+[0:25] now and I've kind of just I've kind of
+[0:28] given up like
+[0:32] if people aren't willing to people are
+[0:34] willing to watch but not
+[0:36] help then they're just in it for the
+[0:39] spectacle and I get it but
+[0:45] like unsubscribe stop watching
+[0:49] just I'm going to keep doing what I
+[0:51] usually do and that's I'm just going to
+[0:54] line out the like all the details the
+[0:57] vision hopefully somebody will steal it
+[1:00] hopefully somebody steal it and make ton
+[1:02] of money and I'll just like
+[1:07] disappear
+[1:10] people that's how I feel right
+[1:15] now all right so I'm going to chill out
+[1:19] on the emotional stuff I'm going to get
+[1:22] into talking about the universal peace
+[1:24] computer what I think that'll look like
+[1:26] from artificial intelligence product
+[1:28] standpoint
+[1:31] it's
+[1:34] like imagine we don't we stop we
+[1:38] stop doing this monolithic large
+[1:40] language model thing right instead we
+[1:45] start we start partitioning the spaces
+[1:48] within our our social space our GE
+[1:52] geographical and our just basic social
+[1:54] space into Worlds and each
+[1:58] World well a port like we split the
+[2:00] world into two parts one part interfaces
+[2:03] with the global scope that's the whole
+[2:05] of humanity that would be like the large
+[2:07] language models that we train today like
+[2:10] GPT like like anthropic Cloud uh
+[2:17] llama and we find a way to interface
+[2:20] that Global scope model with a submodel
+[2:23] per World in each submodel it's just
+[2:26] like the the global model but trained to
+[2:29] speak the local language of that world
+[2:32] ideally a peace based
+[2:34] language and and that's that's basically
+[2:37] what defines the peace brain for a world
+[2:39] peace
+[2:40] computer and each world has its own
+[2:43] world peace computer there might be a
+[2:45] world for a geographic location like
+[2:47] Anchor Alaska or there might be a world
+[2:50] for a type of community like twitch
+[2:52] Gamers for example twitch
+[2:54] streamers and each World they uh like
+[2:58] they set up these data streams within
+[3:01] their world piece computer and like some
+[3:04] streams pump straight into training and
+[3:07] providing feedback for the global large
+[3:10] language models and others pump straight
+[3:14] into training and pro providing feedback
+[3:16] for I call them small large small
+[3:18] language models small large SML small
+[3:22] language small slms small language
+[3:27] models and
+[3:29] and some worlds could set it up so that
+[3:31] their world is accessible by all where
+[3:33] if you wanted to like ask my world a
+[3:36] question you could plug into my small
+[3:38] language model with the context of the
+[3:41] larger large language model that we
+[3:42] share and you ask my qu my world a
+[3:46] question about some problem that maybe
+[3:48] you're having a hard time with and I'll
+[3:50] give you my take like this is what works
+[3:51] for me and I might have that just free
+[3:55] free access because I can afford it or I
+[3:57] might want to set it up so that I charge
+[4:00] you a little bit each time you ask my
+[4:01] world a question maybe you respect my
+[4:03] world and that could be an income stream
+[4:06] for me to stablish a livelihood within
+[4:09] this this like upcoming within the
+[4:12] upcoming singularity which is artificial
+[4:15] intelligence outpacing basically
+[4:17] all uh all intelligence scales that we
+[4:22] measure IQ on that's not actual
+[4:24] intelligence actual intelligence is the
+[4:26] person
+[4:27] himself but
+[4:30] what would that look like it would look
+[4:32] like to start some dude programming a
+[4:34] large or a a rag bot so that the rag bot
+[4:38] is that person's
+[4:40] world and the the basis the foundation
+[4:44] for that rag the retrieval augmented
+[4:46] generation bot is a just standard like
+[4:50] global scale large language model like
+[4:52] GPT and then what if they were to refine
+[4:56] that product into an experience
+[5:00] where Not only was it a rag but it's
+[5:02] actually training some sort of a local
+[5:06] llm such as the the mistol
+[5:10] um yeah what what is it the mistol 7B I
+[5:13] forget what the mistol models are called
+[5:15] but those local models are great all you
+[5:17] need is a computer that runs
+[5:19] good and I could set it up so that
+[5:23] people pulling my world pulling the the
+[5:25] chatbot the interface they will get a
+[5:28] combination of the GPT and the local
+[5:30] mistal model that I've been training
+[5:32] with my data feeds my
+[5:34] inputs
+[5:37] and that would be an in between step
+[5:40] right and then a further step would be
+[5:42] like hey if we get enough buyin if there
+[5:44] are enough worlds plugged into the
+[5:46] universal peace computer well then let's
+[5:48] all just train our own large language
+[5:51] model something that is truly Global
+[5:53] truly Universal and something that is
+[5:55] like contextualized trained strictly in
+[5:58] terms of this PE space language you know
+[6:01] what I
+[6:02] mean I'm going to crack a
+[6:06] beer
+[6:10] and all the while perhaps yeah all the
+[6:15] while it's like a distributed language
+[6:17] model where we have small language model
+[6:19] elements per world and the same
+[6:22] architecture applies where it's like not
+[6:24] feudal but definitely Federalist like
+[6:27] the product it would be a federalist
+[6:30] language model or There Are Rules There
+[6:32] are rules for how we train the models
+[6:34] but it's all about people having their
+[6:36] respective Laboratories for democracy
+[6:39] their respective Laboratories for peace
+[6:41] their peace Labs you know what I mean
+[6:43] where there's some United Federation and
+[6:46] that's the large language model that's
+[6:47] the global scope but then there's also
+[6:49] the states the various
+[6:51] States
+[6:53] and I think that's a move I think
+[6:55] there's a lot of money to be made with
+[6:57] that particular model I wouldn't be
+[6:59] surprised so people are working on that
+[7:00] right now but what I would be
+[7:02] surprised is if people are actually
+[7:05] doing that with a piece language like a
+[7:07] peace based language I haven't come
+[7:09] across a peace based
+[7:11] language it's like the thing that makes
+[7:13] World Peace computer unique is that it
+[7:16] leverages a lingua franka a common
+[7:18] language that is strictly in terms of
+[7:21] peace and it's kind of language where if
+[7:24] you were to come up with your own I
+[7:25] argue that inevitably you would be
+[7:27] forced to use the same word words like
+[7:30] pieces pieces and worlds and universe
+[7:33] and Global and process
+[7:36] computational like langua franka common
+[7:39] tongue the the
+[7:42] glue
+[7:48] um I'm just super discouraged right
+[7:52] now I was thinking
+[7:57] about oh I'm at I'm at like I don't I
+[7:59] don't know what to
+[8:01] do I don't know how to like the GoFundMe
+[8:03] thing is stupid gofund me thing
+[8:06] stupid nobody like the only people that
+[8:08] contribute to that are the people who
+[8:11] they've like heard it from my mouth
+[8:13] they've heard it like heard me go on at
+[8:15] length about world peace computer and
+[8:17] like address all their concerns and then
+[8:20] what four years later eight years later
+[8:23] it's like oh you're reaching out and
+[8:25] you're asking for help here's help they
+[8:28] throw down
+[8:30] I don't get that from strangers I get
+[8:31] that from the people that I've gone at
+[8:33] length to like talk about this [ __ ] with
+[8:37] I was hoping to like capture that with
+[8:38] the
+[8:39] YouTube I don't think that's
+[8:41] happening like too weird something about
+[8:44] it turns people off and I get that
+[8:49] so
+[8:53] like weeks like this week I just my
+[8:57] peace process is super black super
+[9:00] black it's not nice uh but I trust it I
+[9:05] have faith in it I just can't compromise
+[9:08] on my Integrity I can't compromise and
+[9:10] go back to how I've been doing it which
+[9:11] is it's unhealthy for me it turns me
+[9:14] black inside like fully black and then
+[9:17] next thing you know I'm engineering
+[9:18] piece computer with that and I can't
+[9:21] have that it's
+[9:23] uh
+[9:26] anyways I'm just going to chill for a
+[9:28] second and sit the beer with
+[9:36] you oh that was a good
+[9:38] sip I can feel it go all the way
+[9:44] down Calvin and Hobs wagon I always
+[9:48] wonder what Calvin would turn into if he
+[9:50] grew up into a a
+[9:54] growing like who would Hobbs
+[9:58] be um man Hobs is a wise one I got a lot
+[10:01] of Hobs in my
+[10:03] world but still they just stuff
+[10:15] animals but the
+[10:17] product the Federation of
+[10:21] Worlds each world the contributing to
+[10:24] like an artificial actual intelligence
+[10:26] where the intelligence is continuously
+[10:29] steered by brains that are deliberately
+[10:31] and methodically programming or training
+[10:34] the act the artificial
+[10:36] intelligence where it's like we don't
+[10:39] need a Safety and Security team to like
+[10:44] to be in charge
+[10:47] of like making sure the large language
+[10:49] model stays on point stays on line like
+[10:52] doesn't turn racist because we're
+[10:54] feeding up the
+[10:55] internet Fe like we're feeding that
+[10:58] human nature like no it's just actual
+[11:02] people that uh as they go they adjust
+[11:05] the way they in they divert their lives
+[11:08] data into training their local world's
+[11:10] intelligence because that'll be a
+[11:12] feedback loop right built into the
+[11:15] interfacing like the chat bot like
+[11:17] obviously you want to program like ways
+[11:20] for the bot to like keep the human in
+[11:22] check where it's like hey actually I
+[11:25] noticed that this don't work so well say
+[11:27] it's like some nasty Human Nature thing
+[11:29] coming out where I'm feeding that into
+[11:31] the bot the Bott will like turn around
+[11:32] and go whoa whoa whoa whoa
+[11:35] whoa like that's not working here's the
+[11:38] data and then just try this instead
+[11:40] would you like okay it would be a
+[11:43] feedback loop that's a Safety and
+[11:45] Security I'm sure there'd be
+[11:46] pathological cases but that's any that's
+[11:49] any technology
+[11:51] so there's no there's no avoid in that
+[11:55] pathological cases
+[12:02] I need my a little more shelter
+[12:13] R
+[12:23] trouble
+[12:27] watch I just want
+[12:40] watch but yeah
+[12:47] um it would have to be business to
+[12:50] customer consumer first b2c as a revenue
+[12:54] stream Revenue generation stream or like
+[12:57] uh model but
+[12:59] the moment things scales it's swapped to
+[13:02] B2B where customers become the
+[13:05] businesses the uh customers that that
+[13:08] adopt the technology Suite that would be
+[13:11] the the world piece computer artificial
+[13:14] intelligence uh like operating system
+[13:17] World pieace computer operating system
+[13:19] the peace brain they would we would set
+[13:21] up a Marketplace for individuals and
+[13:24] communities to connect to companies big
+[13:26] companies that are trying to refine
+[13:27] their like Target advertising they
+[13:29] marketing they're trying to improve
+[13:31] their product uh at their global scale
+[13:35] and so it would be like a subscription
+[13:37] or something where the different tiers
+[13:40] or maybe different like a like an
+[13:41] auction place where it's like hey I'm a
+[13:44] typical super atypical and there's
+[13:46] companies trying to serve me like that
+[13:48] one counseling platform
+[13:51] uh uh counseling platform for example
+[13:55] maybe they want to like get to know like
+[13:57] who needs help the most and so they're
+[13:58] willing throw down some of their
+[14:00] advertising and market research
+[14:02] development money into purchasing
+[14:04] subscriptions to my world piece
+[14:06] computers or artificial intelligence
+[14:08] Suite like my small language model in
+[14:10] conjunction with the universal the the
+[14:13] global scale large language model and
+[14:16] maybe we even have like Global B2B like
+[14:19] Global B like corporate
+[14:22] B2B Services where the universal peace
+[14:24] computer to sustain its like
+[14:26] infrastructure like the global operation
+[14:30] like it it harvests out it it it Farms
+[14:33] out not Farms out Farms out it gives out
+[14:37] sells its large language model to the
+[14:39] same
+[14:40] companies so it's
+[14:44] like companies like open
+[14:47] AI uh anthropic uh mistal
+[14:52] like they're great but they're just
+[14:54] they're so aimless they are aimless
+[14:57] their their sole thing is like like
+[14:59] we're trying to make artificial
+[15:00] intelligence safe that's
+[15:03] it like how does that help
+[15:07] anybody if if your only platform is
+[15:10] safety or your only platform is like
+[15:12] trying to organize like Google trying to
+[15:14] organize the our species intelligence
+[15:17] how does that help anybody if all that's
+[15:20] all you're doing you're not framing it
+[15:22] in terms of Peace you're not framing it
+[15:23] in terms of making our condition better
+[15:26] explicitly it's just like we're a super
+[15:29] Mega Corporation we've got all the money
+[15:31] and we're trying to like make it easier
+[15:33] for you to hack your life and be safe
+[15:36] while we do
+[15:38] it uh we're trying to make it so that
+[15:41] you can you can cheat more with your AI
+[15:46] and we won't get sued for it because of
+[15:48] some like RI going racist or something
+[15:51] how does that help
+[15:54] anybody
+[15:56] people people
+[16:04] peace process log black day black as the
+[16:09] dead of
+[16:12] death it's windy it's a little rainy
+[16:21] too nothing too snoody
+[16:26] either I might go back inside and read
+[16:34] conspiracy against
+[16:37] humanity the the conspiracy against
+[16:40] mankind is that what how it goes why do
+[16:43] I forget the title of that book right
+[16:45] now conspiracy
+[16:48] against humanity yeah that's what it
+[16:54] is is a conspiracy yo
+[17:00] it's just dark out
+[17:02] there like most you all just sitting
+[17:05] bedro and watching
+[17:07] YouTube
+[17:09] like or not even if you all not watching
+[17:12] YouTube You're Just job rotten you job
+[17:15] rot in career and your comfortable life
+[17:19] and the most you'll do is virtue signal
+[17:22] your your your eagerness to see the
+[17:25] world a better place and you won't lift
+[17:27] a finger oh man you might go for a
+[17:30] canned food drive like volunteer at the
+[17:32] homeless shelter but you get off and
+[17:35] actually commit the time it takes to
+[17:37] pull off a project and fail over and
+[17:39] over and over failure by failure no your
+[17:43] family's too
+[17:46] precious like
+[17:55] people why am I so
+[17:57] angry
+[17:59] Blair this ain't Wilder talking this is
+[18:01] Blair Blair's angry Blair's just
+[18:07] been Blair wishes Blair never met mental
+[18:11] health
+[18:12] professionals some 12 years
+[18:15] ago I wish I never would have gone in
+[18:18] for that
+[18:19] test I wish I never would have got up on
+[18:23] that wish that I never would have even
+[18:25] started talking to those people that's
+[18:28] how dis Enchanted I am by the whole
+[18:30] situation now I'm at a point where I'm
+[18:32] firing my therapists because it's like
+[18:35] you're not supposed to be on sides
+[18:37] you're supposed to like serve the
+[18:41] client like if you have an ethical
+[18:43] obligation to not like blend your
+[18:47] personal interest with with your
+[18:50] practice well that means you have an
+[18:51] ethical obligation to not take sides and
+[18:54] to not to like you know like sometimes
+[18:57] people all they need when talk to
+[18:59] somebody is just a little root like
+[19:01] rooting for the
+[19:03] team like not too much to
+[19:05] gas but just
+[19:09] route
+[19:12] like and then I get hooked up with a new
+[19:15] psychiatric doctor and it's like he
+[19:18] can't stop using language like like
+[19:20] someday we'll cure a bipolar and I'm
+[19:21] like yo what the you just say cure
+[19:25] bipolar first off you're not respecting
+[19:27] label that I have like I've suffered for
+[19:31] skizo
+[19:32] Effective with the extra
+[19:35] stuff but you're just all of a sudden
+[19:37] like presuming that I'm this and that
+[19:39] someday we we'll cure that as if I'm
+[19:41] something that needs to be cured more
+[19:43] like people like you need to be cured
+[19:46] you need pull your head out of your you
+[19:48] narrow-minded
+[19:53] bigots
+[19:55] like there's a reason bipolars rage when
+[19:58] they're off their rocker you know what I
+[20:00] mean it's because they're trapped
+[20:02] they're surrounded by people that
+[20:04] they're intolerant it comes out like
+[20:07] once you start testing people like once
+[20:09] you start being kind of an [ __ ] well
+[20:11] then it comes out it's like we don't
+[20:13] like that we don't like we actually we
+[20:15] not actually interested in you being
+[20:18] yourself which is sometimes I just don't
+[20:21] care to like cater to especially not
+[20:25] virtue
+[20:26] signaling so here I am the Pariah see
+[20:31] how many subscribers I lose with this
+[20:32] video
+[20:35] posting you
+[20:42] people this video is officially not for
+[20:47] under
+[20:50] 18 a study in anger and hatred is
+[20:55] perhaps what I'll call this one I've
+[20:57] already listed one video is that that
+[20:59] was a musical piece
+[21:01] but anyways I I'll shift back to talking
+[21:03] about business models
+[21:07] right that's just the AI services like
+[21:10] there's a whole space for Quantum
+[21:12] computation in the world piece computer
+[21:14] agenda
+[21:17] like the whole thing about world peace
+[21:20] computers and the fundamental first
+[21:22] principles that I'm developing to plug
+[21:24] into them as like the the firmware the
+[21:27] kernel
+[21:28] uh that's the subject of physics and
+[21:30] like the the way it works that's that's
+[21:33] differentiating between uh stuff things
+[21:36] and World pieces like the universe is
+[21:38] just full of stuff and as far as we're
+[21:40] concerned we can categorize all this
+[21:42] stuff is just a big ass blob of stuff
+[21:44] it's a r Criterion and our Notions of
+[21:47] quantization at the subatomic level that
+[21:50] lead us to go actually it's quantize no
+[21:53] [ __ ] it's quanti like at the the
+[21:55] greatest level there's just one visible
+[21:57] universe one Quantum that's the quantum
+[22:01] and floating around it are these things
+[22:02] with fuzzy boundaries they don't
+[22:05] actually have definite boundaries like
+[22:07] the boundary of a thing depends on the
+[22:09] wavelength of the instrument you're
+[22:11] using to probe it
+[22:15] period period if if I'm a big giant
+[22:19] sun and I bump into two tiny planets
+[22:22] that are right next door to each other
+[22:24] like this and I just they bump on my
+[22:26] belly I'm just going to feel one thing
+[22:29] because my wavelength is so big there
+[22:31] two tiny planets to resolve it it's so
+[22:34] small I'd have to take out my fingers if
+[22:36] I a giant Sun being and like feel the
+[22:40] planets cuz the wavelength of my fingers
+[22:42] is smaller than the wavelength of those
+[22:43] two planets sitting next door to each
+[22:46] other
+[22:47] like it's just a blob there's one ass
+[22:51] blob and it's just a bunch of stuff not
+[22:53] only that but there's also a bunch of
+[22:55] like imaginary stuff stuff that doesn't
+[22:57] have a physical
+[22:59] correlate to that neural correlate when
+[23:01] we think of
+[23:03] it like the perfect circle for example
+[23:05] we can think of a perfect circle but
+[23:07] there are no like perfect circles in the
+[23:09] real world especially by einsteinian
+[23:12] like SpaceTime
+[23:13] geometry Romanian I guess it would be
+[23:17] but it's like
+[23:19] so but past that blob of stuff level we
+[23:25] immediately recognize there are worlds
+[23:27] there's worlds worlds worlds worlds and
+[23:29] they have a scope of influence a sphere
+[23:32] like a world and they just kind of like
+[23:35] float around sometimes they overlap like
+[23:38] like intricately but a lot of times
+[23:39] they're just floating around by
+[23:40] themselves like the solar system for
+[23:42] example that's a world that has an
+[23:45] atmosphere that because of our sun and
+[23:48] the electromagnetic like field it
+[23:51] produces and all the yada yada yada it's
+[23:53] like we're we're protected from the the
+[23:57] crazy moment may use the world as an
+[23:59] example our Earth our Earth is a world
+[24:02] part of the solar system which is a
+[24:04] bigger world that's a global scope our
+[24:06] Earth world we have a magnetosphere we
+[24:09] have like a magnetic field that protects
+[24:11] us from the the surrounding outer world
+[24:14] the super harsh like cosmic rays that
+[24:17] are sun yeah yeah the the the solar
+[24:21] winds the cosmic radiation like all this
+[24:25] crazy
+[24:26] and but in inside that world if you just
+[24:29] look at up from afar you're like that's
+[24:30] just a blob that's a blob of stuff but
+[24:33] then within that world we have little
+[24:36] little blobs that have their own little
+[24:38] worlds little people and we float around
+[24:41] and we look around we see a bunch of
+[24:43] stuff but as we scan like we pick out
+[24:46] what we call things there's some grass
+[24:48] that's a thing there's an empty can on
+[24:50] the grass that's a thing here's a camera
+[24:52] it's a thing here's two hands those are
+[24:54] two things and before I do that my brain
+[24:57] just SE
+[24:59] stuff but my brain is like quantizing
+[25:02] the surrounding reality as I scan and
+[25:04] identify
+[25:06] things and so that in itself Like You
+[25:08] could argue that that's like the
+[25:11] Observer phenomenon at play from quantum
+[25:14] mechanics where by observing by there
+[25:17] being an observer present at the center
+[25:19] of each world or like defining each
+[25:22] world that that Observer by like
+[25:26] collapsing the wave function the
+[25:27] universal way function around it creates
+[25:30] things now all of a sudden we have
+[25:32] things but not all the things are
+[25:34] important some things are important like
+[25:37] that can that empty can thing that's I
+[25:41] know have to pick it up afterwards
+[25:42] because I'm not a litterbug so that's a
+[25:44] piece now that's a piece in my world
+[25:45] this backpack right here pie my camera
+[25:48] my laptop safe that's a piece it's no
+[25:50] longer just a thing if I dissociated
+[25:53] entirely and I had no idea who I was and
+[25:55] whatnot then I I'd just see a bunch of
+[25:57] things
+[25:58] it's like thing with the things there
+[26:01] thing with the silver there thing with
+[26:04] the little eye right there thing with
+[26:07] the microphone right
+[26:09] here but pieces are different and so
+[26:13] basically I was trying to talk on like
+[26:15] this space the space for Quantum Quantum
+[26:19] computation where it's like same Pro
+[26:21] we'll find the same problem with Quantum
+[26:23] computation that the modern electronic
+[26:26] Von noyman Lo store architecture faces
+[26:28] it's where it's like some things are
+[26:30] just too complex to encode into to bits
+[26:32] and bites period and sometimes
+[26:36] especially if we're trying to do things
+[26:37] like render Graphics we have to create
+[26:39] separate computational architectures
+[26:41] that are aside from the CPU that's a GPU
+[26:45] and that basically makes it so that the
+[26:46] application can be like actually we're
+[26:48] going to do this stuff with the GPU and
+[26:51] we're going to do the regular program
+[26:53] stuff with the CPU CPU also takes care
+[26:55] of all the operating system and the comp
+[26:58] computer thing thing stuffff but the GPU
+[27:02] the GPU oh GPU right here accelerates
+[27:05] the computation in a way that it
+[27:07] bypasses this slow ass thing in the
+[27:09] middle which is a CPU and directly
+[27:11] outputs the thing that the application
+[27:14] like hey I need real time Ray processing
+[27:17] for
+[27:19] uh for video rendering or like video
+[27:23] game
+[27:24] Graphics like that's the thing or I need
+[27:26] real time like real time I need to like
+[27:30] run batches of uh llm training like
+[27:34] operations or I need to run uh I need to
+[27:39] actually run an llm that sort of thing
+[27:42] quantum computer same
+[27:44] thing we're going to find I think the
+[27:46] hardest thing about quantum computers is
+[27:48] programming them I don't know if you've
+[27:49] ever done quantum computer
+[27:51] programming It Ain't Easy you have to
+[27:53] actually understand how the gates and
+[27:56] the different programming elements work
+[27:59] like kind of at a Quantum level actually
+[28:02] and that I think is interesting because
+[28:05] the the interesting problems that
+[28:08] quantum computers will be able to solve
+[28:10] are they're the they're the optimization
+[28:14] problems the high dimensional
+[28:16] optimization and simulation problems
+[28:18] where you have a you have a variable set
+[28:20] that's on the order
+[28:22] of like millions billions of variables
+[28:27] trillions like the large language model
+[28:29] parameters trillions of variables but
+[28:32] you need a simulation that can run
+[28:34] iterations many of them like very
+[28:37] quickly and ideally instantaneously like
+[28:40] a quantum computer but still good luck
+[28:42] programming a quantum computer with
+[28:44] trillions of variables good luck with
+[28:47] that we're going to have to invent
+[28:49] things like the GPU for quantum
+[28:51] computers
+[28:53] off that
+[28:55] burden of of like encod and decoding the
+[28:59] variables programming the actual
+[29:02] equations we're going to have to offload
+[29:04] that into like external hardware that
+[29:06] can just do that uh special purpose and
+[29:10] that's a world piece computer ultimately
+[29:12] because the things that are best at that
+[29:14] honestly are human brains we can't keep
+[29:17] track of many things at once but if we
+[29:18] put a bunch of brains together we can
+[29:20] keep track of a lot of we can actually
+[29:23] like perform complex highly complex
+[29:26] irregular computations
+[29:28] often times
+[29:29] novel like at at speeds that are real
+[29:33] time actually like any governmental
+[29:36] organization if they if they pull
+[29:39] together and go we need an emergency
+[29:40] meeting where we take a vote that's a
+[29:42] bunch of brains coming together and
+[29:44] going yo we got a performing computation
+[29:46] now and so everybody puts their heads
+[29:48] together everybody inputs and then it
+[29:50] generates an output and it happens in a
+[29:52] matter of hours that's crazy like the
+[29:56] time it would take to program quantum
+[29:59] computer
+[30:02] like so I Envision like once the
+[30:05] architecture for World Peace computers
+[30:07] and the universal pieace computers
+[30:08] established in terms of artificial
+[30:10] intelligence then at that point we can
+[30:12] start integrating with proper Quantum
+[30:14] computation where instead of going like
+[30:17] hey we need a super cool minivan siiz
+[30:20] thing to run these Quantum computations
+[30:23] instead we're going to treat our brains
+[30:25] as analog quantum computers and apply
+[30:28] the same like programming
+[30:30] methodologies to to like approaching
+[30:34] piecewise
+[30:36] computations where we go okay let's
+[30:39] let's take this piece say it's a big
+[30:41] piece like War the war piece that's
+[30:45] significant to pretty much everybody I
+[30:47] hope and we're like we need to
+[30:50] actually like create a computer devoted
+[30:52] to making War not so everybody's like
+[30:55] yeah harah
+[30:59] um and we're like okay we have this
+[31:00] world pieace computer infrastructure in
+[31:02] place it's got the universal pieace
+[31:03] computer in place what do we do we're
+[31:07] like ah we can't set up a bunch of
+[31:08] refrigerators for our cubits instead
+[31:11] let's just like assign people as Cubit
+[31:15] sets and then integrate them into a
+[31:19] distributed network with like methodical
+[31:21] protocols for
+[31:23] linking
+[31:25] and and let's establish an API
+[31:28] for this this brain set and let's go
+[31:32] okay the pieces are where they lie let's
+[31:33] let's take all these brains and let's
+[31:35] quantize let's do the perform the first
+[31:37] step of
+[31:39] quantization like the zeroth I guess the
+[31:41] zeroth quantization would be the thing
+[31:44] is
+[31:45] one war the war piece is one piece but
+[31:48] then we realize that we have to
+[31:51] discretize that we need to quantize that
+[31:53] into lots of sub pieces where each one
+[31:55] is irreducible in its own piece and so
+[31:58] we scan that with our distributed analog
+[32:01] quantum computer brain
+[32:03] Network and next thing you know we go
+[32:06] like okay we achieved the the first
+[32:09] order quantization these are the quanta
+[32:11] that make up the system we have like
+[32:14] violence we have money we have politics
+[32:17] we have uh ethnics we have religion we
+[32:21] have uh
+[32:24] nationality uh and the cool thing about
+[32:26] that Quant is that there's not just one
+[32:29] like that's the fundamental unit that
+[32:31] would be like the electron
+[32:33] versus versus the the Quant of energy
+[32:36] versus the photon versus the the
+[32:39] hydrogen atom those are all quanta but
+[32:42] if we create quanta out of the war piece
+[32:44] well then we realize that each each
+[32:46] violence
+[32:48] Quant Quantum it has its it's it's like
+[32:51] a bunch of different Quant that are all
+[32:53] over the place and those are just one
+[32:55] and so you can like start there in terms
+[32:56] of quantization take the sum like sum a
+[33:02] how many violence pieces are there right
+[33:03] now okay well then we have to further
+[33:06] quantize right perform the next order of
+[33:09] quantization like what kind of fighting
+[33:11] is it what kind of violence is it then
+[33:13] we can count that and we already do this
+[33:14] but we just start the other way around
+[33:17] and that's I think that we lose
+[33:19] resolution ultimately we want a tree
+[33:22] where we start at the the fundamental
+[33:24] Quantum which is the piece itself and we
+[33:26] break that tree into a world call that
+[33:28] the war world and that's the war piece
+[33:30] and all the Quant that make up the war
+[33:32] world they're scattered around into a
+[33:34] distributed system and then once we've
+[33:36] quantized in terms of that we establish
+[33:39] relationships between the things using
+[33:41] the actual electronic technologies that
+[33:43] we know so well and love and we again we
+[33:47] apply our brain Network to that to be
+[33:49] like okay let's uh let's let's let's
+[33:54] solve this as an optimization problem
+[33:56] right now in real time without super
+[33:58] cool freezers refrigerators for all our
+[34:00] Q bits in soad we have brain bits these
+[34:03] are quite super cool compared to
+[34:04] Universal temperatures right uh the
+[34:07] sun's hot compared to our brains
+[34:11] um
+[34:12] and yeah we run the optimization problem
+[34:16] and so imagine if we could like pull off
+[34:18] a system like that that's reliable in a
+[34:20] way that people come to you they're like
+[34:22] here's my Corporation I need help I need
+[34:24] I need you to run the optimization
+[34:26] problem with your analog Quantum brain
+[34:27] computer like please please help here my
+[34:31] Corporation is all up we're willing to
+[34:33] pay you big money okay we play that same
+[34:36] process quantize quantize quantize
+[34:38] create the optimization problem like
+[34:40] Define it constrain it and then run the
+[34:44] actual
+[34:45] simulations and the iterations for the
+[34:48] like the problem solving
+[34:50] process and
+[34:53] I the individual there are individuals
+[34:56] and and small groups of people people
+[34:57] among us who do this so naturally well
+[35:00] that those are the ones that profit the
+[35:01] most from their efforts I argue and it's
+[35:03] like it's only a matter of scaling like
+[35:05] how do you scale well you need a
+[35:07] universal language you need that
+[35:09] universal language that's peace based
+[35:11] it's the sort of language that doesn't
+[35:13] matter what your natural language is or
+[35:14] what your upbringing is you can
+[35:17] obviously understand the fact that
+[35:19] there's stuff there are things and there
+[35:21] are pieces there's blob there are things
+[35:25] within that blob that you can identify
+[35:27] if you scan and then if you actually
+[35:29] evaluate each thing you go like that's
+[35:30] important that's not important those are
+[35:33] pieces and then with those pieces it's
+[35:36] doesn't take a rocket scientist to
+[35:38] realize it's like yeah you just you just
+[35:42] look at them and think about it and
+[35:44] that's your optimization process just
+[35:45] naturally happening our brains are
+[35:47] naturally wired to optimize like
+[35:50] high-dimensional systems uh for
+[35:53] configuration at least with respect to
+[35:56] serving the individual or serving some
+[35:59] cause so like AI the the money is there
+[36:04] the model is there
+[36:06] Quantum the the money is there it will
+[36:09] be there definitely in the next 10 years
+[36:12] and the models are there terms of the
+[36:14] universal piece computer like the sooner
+[36:16] people can get their head out of their
+[36:18] ass and realize that it's not the
+[36:22] electronics of the computer that make it
+[36:25] valuable it's the fact that the
+[36:26] electronics can make maintain rigor and
+[36:29] systematic like method meth
+[36:33] methodological like
+[36:35] process like I
+[36:37] argue a computer that flips bits at a
+[36:40] rate of a couple times a second which is
+[36:43] slow as compared to billions of times a
+[36:45] second that computer can still be that
+[36:48] electronic computer can still be like
+[36:51] way more valuable than just a naked
+[36:54] brain without any programming alone like
+[36:56] that was the origin
+[36:58] of electronic
+[36:59] computers like their bit flip rate was
+[37:02] slow and some of them didn't even have
+[37:04] bits they had
+[37:05] like yeah
+[37:11] dials a lot of them were analog
+[37:14] computers and that's the thing too like
+[37:16] World piece computer ultimately is like
+[37:19] there's a Quantum side Quantum side's
+[37:21] digital like when you quantize something
+[37:23] that's a digital zero or one but within
+[37:26] that from the objective scope or like
+[37:30] perspective uh the the processes are
+[37:34] analog and like some of the earliest
+[37:36] electronic computers that they used for
+[37:38] simulating physics to make airplanes and
+[37:40] bombs and like all the things in their
+[37:44] secret super secret squirel Laboratories
+[37:46] like a lot of those computers were
+[37:48] analog where they would use wires to
+[37:50] plug components together like like a
+[37:53] whole list of capacitors that each
+[37:55] capacitor was a different value and they
+[37:57] plug in this value according to their
+[37:59] differential equation what they computed
+[38:01] the coefficients to be for it this or
+[38:03] that and then once it's all plugged in
+[38:06] you just press go and you watch it in
+[38:07] real time generate the outcome the
+[38:10] output it's crazy you should check out
+[38:13] Veritas
+[38:15] veritus ver Veritas veritaserum
+[38:19] veritaserum I'll link that in the
+[38:21] description like that guy's a physics
+[38:23] nut that does a bunch of educational
+[38:25] physics YouTube videos and like he's got
+[38:27] a few about analog computers that are
+[38:29] just dope super dope especially in the
+[38:32] space of analog computers being applied
+[38:35] to like creating neural networks like
+[38:38] there's a lot of potential there like
+[38:40] ultimately though this thing is analog
+[38:42] our neurons might fire off digitally
+[38:45] like one one one one one that's not
+[38:48] binary though that's that's
+[38:50] monary
+[38:52] uh it it might be perceived it might be
+[38:55] processed binary but I doubt it I think
+[38:57] it's monary so barely
+[39:00] digital but our our brains our
+[39:02] experience like how we actually process
+[39:05] as
+[39:06] individuals that's very much an analog
+[39:08] thing and so there's
+[39:12] AI there's a
+[39:15] Quantum
+[39:17] um what
+[39:20] else just the the realm and then and
+[39:23] then it all Loops back it all Loops back
+[39:25] to electronic computers
+[39:29] like like once we crack the brain analog
+[39:32] computation in a way that the business
+[39:34] models are sound and the results are
+[39:37] obvious then it's like okay let's
+[39:40] sophisticate let's create electronic
+[39:43] systems that are based on this
+[39:46] architecture this analog architecture
+[39:48] that we know Works
+[39:50] fundamentally and like from that let's
+[39:54] create that actual a AGI that act ual
+[39:58] little that little actual intelligence
+[40:00] actual general intelligence cuz we need
+[40:03] more allies yo we can't count on the
+[40:05] aliens just swooping down and be like
+[40:07] hey yall look like you need some help
+[40:10] like no artificial intelligence will be
+[40:13] useless to us because artificial
+[40:14] intelligence can't it can't tackle
+[40:17] proper problems that's the Turning
+[40:18] nightmare test like only humans are
+[40:21] Wilder and so we got to take what works
+[40:24] for human brains scale it to out compete
+[40:27] the electronic brains out there the
+[40:29] artificial intelligent brains then once
+[40:31] we've scaled and outco competed then we
+[40:34] use the technology of artificial
+[40:36] intelligence and like digital Quantum
+[40:39] compute to create systems that are
+[40:43] actually intelligent extend our
+[40:45] intelligence into proper Electronics
+[40:47] things that can cycle at billions of
+[40:49] flops per
+[40:52] second and that's next
+[40:54] level that'll be that's beyond on the
+[40:57] quadrillion dollar market that's just
+[41:00] beyond
+[41:01] money like we play God we create an ally
+[41:06] for ourselves so that like we have it's
+[41:10] not just n equals one veing off into the
+[41:13] cosmos once we fry the out of our planet
+[41:15] and we have nowhere else L to go we
+[41:17] actually have an ally we have n equals
+[41:20] 2 and we need that need that like yo
+[41:24] Elon Musk if you're listening Elon Musk
+[41:27] please I could really use a million
+[41:28] dollars just to start this off like yo
+[41:32] Elon Musk yo Zuckerberg please I could
+[41:36] really use aund million doll just to
+[41:38] kick off the actual like social media
+[41:40] platform that I think will definitely
+[41:41] outperform Facebook because it's not
+[41:44] garbage oh yeah you remember that
+[41:46] billion dollar like like Charter or
+[41:49] initiative that you established to like
+[41:51] end all all illness within our species
+[41:55] well why don't you divert a couple
+[41:56] million
+[41:57] to the world peace computer Message in a
+[42:01] Bottle like
+[42:04] yo they're like you're definitely going
+[42:07] to need an alternative to all social
+[42:09] media because it's all garbage and
+[42:11] contributing to mental
+[42:13] illness like if you actually mean that
+[42:15] why don't you Fork over the money yo
+[42:18] yeah I'm happy to like meet in person
+[42:20] sit down for lunch or something or like
+[42:22] three lunches four lunches five lunches
+[42:24] talk as long as we need but I need
+[42:26] actual
+[42:27] money actual money go find me stupid
+[42:33] BL yo
+[42:35] Jensen you know remember what you did
+[42:37] with 20 million or whatever it was give
+[42:40] me 100 million cuz that's chump change
+[42:42] for you yo I will extend your concept of
+[42:46] accelerated computation you and your
+[42:48] people's concept to the
+[42:51] extreme yo Gates I don't even know what
+[42:55] to say just throw me some
+[43:00] money yo who else hey Bezos you know how
+[43:05] you think got that that must thing going
+[43:07] on we like trying to get to space it's
+[43:09] like we need actual general intelligence
+[43:12] fool actual actual
+[43:15] actual
+[43:18] yo hey rich
+[43:20] people
+[43:22] money what are you you doing with your
+[43:24] money
+[43:26] anyways as sooner or later you're gonna
+[43:28] have to learn that you got to diversify
+[43:30] you got to stop delegating you gotta
+[43:32] just like trust that hey uh I'm gonna
+[43:34] invest in this this like long
+[43:38] bet
+[43:41] man I am so discouraged right
+[43:49] now part of me just part of me wonders I
+[43:53] had a therapist once tell me he's like
+[43:56] hey Blair
+[43:58] uh
+[44:00] honestly um if
+[44:04] if if if things got bad
+[44:09] enough like nobody would blame you like
+[44:13] actually tell me
+[44:16] that in the moment it may have been what
+[44:19] I needed because I really wanted to do
+[44:21] that but now I don't want to do that
+[44:22] like I don't want to kill myself like I
+[44:25] am not suicidal absolutely not
+[44:28] but those words still flutter in my head
+[44:31] like
+[44:34] parasites it'd be so nice to just give
+[44:40] up you
+[44:50] people peace process log I think this
+[44:53] might be number 13 looking number 13
+[44:57] it's my
+[44:59] birthday oh yo I have a a moose coming
+[45:01] up
+[45:05] here looks dangerous I'm going to log
+[45:07] off now thanks for listening
