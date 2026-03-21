@@ -1,3 +1,5 @@
+> _! Big thank you to The Sponsorships._
+
 FTF (First Things First): [Review General Circular, Neon Double Rainbow Pill](./NDRP/NeonDoubleRainbow_GeneralCircular.pdf)
 
 ## Executive Statement (The Dunce Encoding):
