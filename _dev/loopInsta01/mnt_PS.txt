@@ -1,0 +1,6 @@
+⬡ PIECESPACE BLOCK ⊞:
+
+mount -o loop << DOME: mkdir mtn/img/insta01 \ cd '' \ git init \ gh repo create \ 𐂷 pop gitacp >>
+
+insert: gh / symlink
+TODO, QUICKINVENT:🝁💡 gh symlink auto OI correspondence.
