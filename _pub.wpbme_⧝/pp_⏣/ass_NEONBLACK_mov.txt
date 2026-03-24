@@ -6,7 +6,6 @@ https://youtu.be/Mn6xCYd5mJQ
 
 Primary pieces:
 /
-NEONBLACK_20_darkturnFancyTap.mov /
 NEONBLACK_01_patternInterrupt.mov /
 NEONBLACK_02_wilderEntrypoint.mov /
 NEONBLACK_03_gotThisIntelligenceModel.mov /
@@ -26,12 +25,28 @@ NEONBLACK_16_darkturnWarUnderhood.mov /
 NEONBLACK_17_darkturnNaturalDemocracy.mov /
 NEONBLACK_18_darkturnRatsach.mov /
 NEONBLACK_19_darkturnAngryForReason.mov 
+NEONBLACK_20_darkturnFancyTap.mov /
 
-Cluster_darkturn:
+
+PATTERN_INTERRUPT.
+NEONBLACK_01_patternInterrupt.mov
+NEONBLACK_02_wilderEntrypoint.mov
+
+
+Cluster_zombieapocalypse:
 {}
 
+Cluster_problem:
+NEONBLACK_04_ETpeacecollab.mov
+
+
 Cluster_solution:
+NEONBLACK_03_gotThisIntelligenceModel.mov
 {}
 
 Cluster_comedy:
 {}
+
+Cluster_anger:
+{}
+
