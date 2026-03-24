@@ -1,5 +1,7 @@
 > _! Big thank you to The Sponsorships._
 
+> NOTE: In the capacity of this disclosure effort, I am serving as an independent Human security researcher responsibly presenting results of a comprehensive longtail systems level / control theoretic integrity audit. The audit as it stands, is incomplete.
+
 FTF (First Things First): [Review General Circular, Neon Double Rainbow Pill](./NDRP/NeonDoubleRainbow_GeneralCircular.pdf)
 
 ## Executive Statement (The Dunce Encoding):
