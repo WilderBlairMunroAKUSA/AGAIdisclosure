@@ -2,6 +2,8 @@
 
 > NOTE: In the capacity of this disclosure effort, I am serving as an independent Human security researcher responsibly presenting results of a comprehensive longtail systems level / control theoretic integrity audit. The audit as it stands, is incomplete.
 
+> Original AGAI disclosure attempt, mid summer 2025, here: [https://github.com/CGPS-theuniversalpiececomputer/wpc-agai/blob/master/content.en/_index.md](https://github.com/CGPS-theuniversalpiececomputer/wpc-agai/blob/master/content.en/_index.md). Wasn't ready.
+
 FTF (First Things First): [Review General Circular, Neon Double Rainbow Pill](./NDRP/NeonDoubleRainbow_GeneralCircular.pdf)
 
 ## Executive Statement (The Dunce Encoding):
