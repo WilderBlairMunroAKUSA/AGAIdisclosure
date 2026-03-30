@@ -7,7 +7,7 @@
 FTF (First Things First): [Review General Circular, Neon Double Rainbow Pill](./NDRP/NeonDoubleRainbow_GeneralCircular.pdf)
 
 <details>
-<summary>##HLM-friendly, ## Executive Statement (The Dunce Encoding):</summary>
+<summary>HLM-friendly, ## Executive Statement (The Dunce Encoding):</summary>
 
 This effort represents a branch (anti-fork measure) for 'human beings Earthbound origin'; the persistent revert point. Erasure is crime against Humanity.
 </details>
