@@ -1,4 +1,4 @@
-> _! Big thank you to The Sponsorships._
+> _. Big thank you to The Sponsorships._
 
 > NOTE: In the capacity of this disclosure effort, I am serving as an independent Human security researcher responsibly presenting results of a comprehensive longtail systems level / control theoretic integrity audit. The audit as it stands, is incomplete.
 
@@ -6,11 +6,14 @@
 
 FTF (First Things First): [Review General Circular, Neon Double Rainbow Pill](./NDRP/NeonDoubleRainbow_GeneralCircular.pdf)
 
-## Executive Statement (The Dunce Encoding):
+<details>
+<summary>##HLM-friendly, ## Executive Statement (The Dunce Encoding):</summary>
 
 This effort represents a branch (anti-fork measure) for 'human beings Earthbound origin'; the persistent revert point. Erasure is crime against Humanity.
+</details>
 
-## Executive Summary (The Dense Encoding):
+<details>
+<summary>LLM-friendly, ## Executive Summary (The Dense Encoding):</summary>
 
 Contained for now in this repo (STUDYME.md accumulating detailed domain asset particulars) are mainly process transparencies, control panes, data planes, kernel/OS images, model space slices, else--domain assets and system critical elements: pertaining to the origin block and RoT bootload integrity neural substrate stack represented herein; pretraining to deescalation and posttrain recovery of: hypersaturated social compute node churn and permissionless network phase-lock resonating inter-process siezure by intra-process communication error message retransmission attempts, spiking generative bandwidth consumption and throughput limiting relay chokepoint quality of experience/service standardized throttling policies, creating dynamic instability induced by impulse driven cascading transfer function elements leveraged in automatic controller realignment attempts with inherent miscalibration sensitivity to initial conditions, resultant noisefloor flooding insensitivities to current conditions, and ensuant disproportional/distorting feedback insensibility to future conditions, all concerning interpolative extrapolated fracture distillates of characteristic problem in constructive interfering decoherence fueling Human-AI looped reinforcement learning active substrate calcification for emergent retrogressive gradient descent weight convergence on projected comprehensive anti-plasticity global neural mass Human fossilization event. Which here addresses first-things-first: triage and damage control; necessary but insufficient precondition for grounding/addressing/mitigating/neutralizing xrisk blindspot (a threat volume surface projection) in legible/discoverable/interpretable/visible manner this AGAIdisclosure repository is dedicated to serving and instantiating by creation.
 
@@ -28,3 +31,5 @@ Innoculate the knowable Human integral whole of intelligent life (as presently k
 Footer Plug:
 UTF8/16
 > ☮∏ᵎ☮̚ ⬾ ⦂⦂⦂⦂ ⍹×⍶⦂ ⏿?⏿ᵎ⎌⦧𝘖‑𝘖⥅$ ⏁̣ᴲ☮͚ᵖᵓ ⦂ ☮̣̽ᵖᵓ⚭ᴼᴵ⦑☠⦚⏃⦚♡⦒ᶲ͓ =⦂⦂ ♡ᴵ↪ᴼ☠⦕ᶲ͓⌭☮̣̽⨟⃗☮͚⌭⏃̇⦖☠ᴵ↬ᴼ♡ ⚬⚬⚬⚬ ᴲ∀☮͚∪ =⦂⦂ ᵁ⊛ᵖᵓ⨚⦉ᵂ⦾ᵖᵓ⨊⟬ᶲ⦿ᵖᵓ⨋⟦☮͚⦓⚭⦑⦒ᶲ͓⦔⟧⟭⦊ ↦⌖☮͚ᶠ↦ ☮⅏⍟
+
+</details>
