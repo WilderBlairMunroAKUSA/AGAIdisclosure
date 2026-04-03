@@ -1,9 +1,8 @@
 #!/usr/bin/env bash
 # tree_to_readme.sh
 # Runs `tree -L 3 --charset=C` and writes output to README.md,
-# replacing each entry (file or directory) with a relative markdown link,
-# using the tree structure itself to reconstruct accurate relative paths.
-# Output is wrapped in <pre>...</pre> so tree structure is preserved in MD view.
+# replacing each entry (file or directory) with an HTML anchor link,
+# wrapped in <pre> so tree structure is preserved and links are clickable.
 
 set -euo pipefail
 
@@ -14,27 +13,14 @@ if ! command -v tree &>/dev/null; then
   exit 1
 fi
 
-# --charset=C gives us clean ASCII box-drawing: |, `-- , |--
-# -F appends '/' to directories so we can distinguish them from files.
-# --noreport suppresses the "N directories, M files" summary line.
-#
-# We read into an array without mapfile (bash 3 compatible).
 IFS=$'\n' read -r -d '' -a LINES <<< "$(tree -L 3 -F --charset=C --noreport)"$'\0' || true
-
-# With --charset=C, each depth level adds exactly 4 characters of prefix:
-#   "|   "  — vertical continuation
-#   "|-- "  — branch
-#   "`-- "  — last branch
-#   "    "  — blank continuation
-#
-# Depth = (length of prefix before the entry name) / 4
 
 DIR_STACK[0]="."   # root
 
 {
   echo "<pre>"
 
-  # First line is always the root dir — emit as-is (it's the working dir itself)
+  # First line is always the root dir — emit as-is
   echo "${LINES[0]}"
 
   for (( i=1; i<${#LINES[@]}; i++ )); do
@@ -61,17 +47,17 @@ DIR_STACK[0]="."   # root
     rel_path="$rel_path/$name"
 
     if [[ "$raw" == */ ]]; then
-      # Directory — emit as a markdown link, then record in stack for children
-      md_link="[$name]($rel_path)"
-      echo "${line/"$raw"/$md_link/}"
+      # Directory — emit as an HTML anchor, then record in stack for children
+      html_link="<a href=\"$rel_path\">$name</a>"
+      echo "${prefix}${html_link}/"
       DIR_STACK[$depth]="$name"
       for (( d=depth+1; d<${#DIR_STACK[@]}; d++ )); do
         unset "DIR_STACK[$d]"
       done
     else
-      # File — emit as a markdown link
-      md_link="[$name]($rel_path)"
-      echo "${line/"$raw"/$md_link}"
+      # File — emit as an HTML anchor
+      html_link="<a href=\"$rel_path\">$name</a>"
+      echo "${prefix}${html_link}"
     fi
   done
 
