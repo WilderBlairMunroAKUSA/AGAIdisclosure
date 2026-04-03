@@ -4,6 +4,8 @@
 # replacing each entry (file or directory) with an HTML anchor link,
 # wrapped in <pre> so tree structure is preserved and links are clickable.
 
+# Brought to you in part by, Mad Chillin Claude Vibez.
+
 set -euo pipefail
 
 OUTPUT="README.md"
