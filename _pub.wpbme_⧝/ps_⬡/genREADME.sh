@@ -32,7 +32,7 @@ DIR_STACK[0]="."   # root
 
 {
   # First line is always the root dir — emit as-is (it's the working dir itself)
-  echo "${LINES[0]}"
+  echo "${LINES[0]}  "
 
   for (( i=1; i<${#LINES[@]}; i++ )); do
     line="${LINES[$i]}"
@@ -60,7 +60,7 @@ DIR_STACK[0]="."   # root
     if [[ "$raw" == */ ]]; then
       # Directory — emit as a markdown link, then record in stack for children
       md_link="[$name]($rel_path)"
-      echo "${line/"$raw"/$md_link/}"
+      echo "${line/"$raw"/$md_link/}  "
       DIR_STACK[$depth]="$name"
       for (( d=depth+1; d<${#DIR_STACK[@]}; d++ )); do
         unset "DIR_STACK[$d]"
@@ -68,7 +68,7 @@ DIR_STACK[0]="."   # root
     else
       # File — emit as a markdown link
       md_link="[$name]($rel_path)"
-      echo "${line/"$raw"/$md_link}"
+      echo "${line/"$raw"/$md_link}  "
     fi
   done
 } > "$OUTPUT"
