@@ -3,6 +3,7 @@
 # Runs `tree -L 3 --charset=C` and writes output to README.md,
 # replacing each entry (file or directory) with a relative markdown link,
 # using the tree structure itself to reconstruct accurate relative paths.
+# Output is wrapped in <pre>...</pre> so tree structure is preserved in MD view.
 
 set -euo pipefail
 
@@ -31,8 +32,10 @@ IFS=$'\n' read -r -d '' -a LINES <<< "$(tree -L 3 -F --charset=C --noreport)"$'\
 DIR_STACK[0]="."   # root
 
 {
+  echo "<pre>"
+
   # First line is always the root dir — emit as-is (it's the working dir itself)
-  echo "${LINES[0]}  "
+  echo "${LINES[0]}"
 
   for (( i=1; i<${#LINES[@]}; i++ )); do
     line="${LINES[$i]}"
@@ -60,7 +63,7 @@ DIR_STACK[0]="."   # root
     if [[ "$raw" == */ ]]; then
       # Directory — emit as a markdown link, then record in stack for children
       md_link="[$name]($rel_path)"
-      echo "${line/"$raw"/$md_link/}  "
+      echo "${line/"$raw"/$md_link/}"
       DIR_STACK[$depth]="$name"
       for (( d=depth+1; d<${#DIR_STACK[@]}; d++ )); do
         unset "DIR_STACK[$d]"
@@ -68,9 +71,11 @@ DIR_STACK[0]="."   # root
     else
       # File — emit as a markdown link
       md_link="[$name]($rel_path)"
-      echo "${line/"$raw"/$md_link}  "
+      echo "${line/"$raw"/$md_link}"
     fi
   done
+
+  echo "</pre>"
 } > "$OUTPUT"
 
 echo "✓ Written to $OUTPUT"
