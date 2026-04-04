@@ -29,17 +29,17 @@ render_tree() {
   local -a extra_flags=("$@")
 
   local -a LINES
-  IFS=$'\n' read -r -d '' -a LINES <<< "$(tree -L 3 -F --charset=C --noreport "${extra_flags[@]}" "$root_dir")"$'\0' || true
+  IFS=$'\n' read -r -d '' -a LINES <<< "$(tree -L 3 -F --charset=C --noreport ${extra_flags[@]+"${extra_flags[@]}"} "$root_dir")"$'\0' || true
 
   local -a DIR_STACK
   DIR_STACK[0]="$root_dir"
 
-  echo "$heading"
+  echo "# TREE ."
   echo ""
   echo "<env>"
   echo "<pre>"
   # First line is always the root dir label — emit as-is
-  echo "${LINES[0]}"
+  echo "${LINES[0]+"${LINES[0]}"}"
 
   for (( i=1; i<${#LINES[@]}; i++ )); do
     local line="${LINES[$i]}"
@@ -88,13 +88,12 @@ render_tree() {
   # -------------------------------------------------------------------------
   # Part 1 — full working directory, .github excluded
   # -------------------------------------------------------------------------
-  render_tree "." "# Repo listing:" "." -I ".github"
+  render_tree "." "" "." -I ".github"
 
   # -------------------------------------------------------------------------
   # Part 2 — .github sub-tree
   # -------------------------------------------------------------------------
   if [[ -d ".github" ]]; then
-    echo "# Github tracker"
     echo ""
     render_tree ".github" "## .github" ".github"
   fi
