@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 # tree_to_readme.sh
-# Runs `tree -L 3 --charset=C` and writes output to README.md,
+# Runs `tree -L 3 --charset=C` and writes output to ~README.md,
 # replacing each entry (file or directory) with an HTML anchor link,
 # wrapped in <pre> so tree structure is preserved and links are clickable.
 # Brought to you in part by, Mad Chillin Claude Vibez.
 set -euo pipefail
-OUTPUT="README.md"
+OUTPUT="~README.md"
 if ! command -v tree &>/dev/null; then
   echo "Error: 'tree' is not installed." >&2
   exit 1
