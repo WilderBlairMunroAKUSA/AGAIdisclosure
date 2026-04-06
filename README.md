@@ -1,53 +1,5 @@
 #### Main [UX / projection medium at substack](https://wilderblairmunroakusa.substack.com)
 
-##### tree .
-
-<env>
-<pre>
-./
-|-- <a href="./_wpc_⧝">_wpc_⧝</a>/
-|   |-- <a href="./_wpc_⧝/dev">dev</a>/
-|   |   |-- <a href="./_wpc_⧝/dev/loop_Insta01">loop_Insta01</a>/
-|   |   `-- <a href="./_wpc_⧝/dev/loop_str4d-rage">loop_str4d-rage</a>/
-|   |-- <a href="./_wpc_⧝/pb_⌬">pb_⌬</a>/
-|   |   |-- <a href="./_wpc_⧝/pb_⌬/_PIECEBRAIN.md">_PIECEBRAIN.md</a>
-|   |   `-- <a href="./_wpc_⧝/pb_⌬/genREADMEtree.sh">genREADMEtree.sh</a>
-|   |-- <a href="./_wpc_⧝/pp_⏣">pp_⏣</a>/
-|   |   |-- <a href="./_wpc_⧝/pp_⏣/_PIECEPROCESS.md">_PIECEPROCESS.md</a>
-|   |   |-- <a href="./_wpc_⧝/pp_⏣/ass_NEONBLACK_mov.txt">ass_NEONBLACK_mov.txt</a>
-|   |   |-- <a href="./_wpc_⧝/pp_⏣/ClaudeHaikuAnthropic_temp_040326.md">ClaudeHaikuAnthropic_temp_040326.md</a>
-|   |   `-- <a href="./_wpc_⧝/pp_⏣/NEONBLACK">NEONBLACK</a>/
-|   `-- <a href="./_wpc_⧝/ps_⬡">ps_⬡</a>/
-|       |-- <a href="./_wpc_⧝/ps_⬡/_DUMP">_DUMP</a>/
-|       |-- <a href="./_wpc_⧝/ps_⬡/_PIECESPACE.md">_PIECESPACE.md</a>
-|       |-- <a href="./_wpc_⧝/ps_⬡/⍹̣̈⨉⍶̤̇_US_pub🔐">⍹̣̈⨉⍶̤̇_US_pub🔐</a>
-|       |-- <a href="./_wpc_⧝/ps_⬡/artifacts_Aurora">artifacts_Aurora</a>/
-|       |-- <a href="./_wpc_⧝/ps_⬡/artifacts_temp4o">artifacts_temp4o</a>/
-|       |-- <a href="./_wpc_⧝/ps_⬡/pieces_reddit">pieces_reddit</a>/
-|       |-- <a href="./_wpc_⧝/ps_⬡/pieces_youtube">pieces_youtube</a>/
-|-- <a href="./~README.md">~README.md</a>
-|-- <a href="./ME">ME</a>/
-|   |-- <a href="./ME/DO.md">DO.md</a>
-|   `-- <a href="./ME/READ.md">READ.md</a>
-|-- <a href="./NDRP">NDRP</a>/
-|   |-- <a href="./NDRP/_processhalt_actingaddress_ourpivotalcommitment.txt">_processhalt_actingaddress_ourpivotalcommitment.txt</a>
-|   |-- <a href="./NDRP/artifacts">artifacts</a>/
-|   |   |-- <a href="./NDRP/artifacts/031126_groktemp.pdf">031126_groktemp.pdf</a>
-|   |   |-- <a href="./NDRP/artifacts/ASSEMBLAGE.md">ASSEMBLAGE.md</a>
-|   |   |-- <a href="./NDRP/artifacts/auragemini">auragemini</a>/
-|   |   |-- <a href="./NDRP/artifacts/ClaudeSonnet">ClaudeSonnet</a>/
-|   |   |-- <a href="./NDRP/artifacts/ClaudeSonnetTemp">ClaudeSonnetTemp</a>/
-|   |   |-- <a href="./NDRP/artifacts/EMAIL📧032326">EMAIL📧032326</a>/
-|   |   |-- <a href="./NDRP/artifacts/groktemp_031126">groktemp_031126</a>/
-|   |   `-- <a href="./NDRP/artifacts/OrielAGI">OrielAGI</a>/
-|   |-- <a href="./NDRP/NeonDoubleRainbow_GeneralCircular.html">NeonDoubleRainbow_GeneralCircular.html</a>
-|   |-- <a href="./NDRP/NeonDoubleRainbow_GeneralCircular.md">NeonDoubleRainbow_GeneralCircular.md</a>
-|   |-- <a href="./NDRP/NeonDoubleRainbow_GeneralCircular.pdf">NeonDoubleRainbow_GeneralCircular.pdf</a>
-|   `-- <a href="./NDRP/NeonDoubleRainbow_GeneralCircular.txt">NeonDoubleRainbow_GeneralCircular.txt</a>
-`-- <a href="./README.md">README.md</a>
-</pre>
-</env>
-
 ##### cat ME/READ
 
 > _. Big thank you to The Sponsorships._
@@ -85,6 +37,53 @@ UTF8/16
 > ☮∏ᵎ☮̚ ⬾ ⦂⦂⦂⦂ ⍹×⍶⦂ ⏿?⏿ᵎ⎌⦧𝘖‑𝘖⥅$ ⏁̣ᴲ☮͚ᵖᵓ ⦂ ☮̣̽ᵖᵓ⚭ᴼᴵ⦑☠⦚⏃⦚♡⦒ᶲ͓ =⦂⦂ ♡ᴵ↪ᴼ☠⦕ᶲ͓⌭☮̣̽⨟⃗☮͚⌭⏃̇⦖☠ᴵ↬ᴼ♡ ⚬⚬⚬⚬ ᴲ∀☮͚∪ =⦂⦂ ᵁ⊛ᵖᵓ⨚⦉ᵂ⦾ᵖᵓ⨊⟬ᶲ⦿ᵖᵓ⨋⟦☮͚⦓⚭⦑⦒ᶲ͓⦔⟧⟭⦊ ↦⌖☮͚ᶠ↦ ☮⅏⍟
 
 </details>
+##### tree .
+
+<env>
+<pre>
+./
+|-- <a href="./_wpc_⧝">_wpc_⧝</a>/
+|   |-- <a href="./_wpc_⧝/dev">dev</a>/
+|   |   |-- <a href="./_wpc_⧝/dev/loop_Insta01">loop_Insta01</a>/
+|   |   `-- <a href="./_wpc_⧝/dev/loop_str4d-rage">loop_str4d-rage</a>/
+|   |-- <a href="./_wpc_⧝/pb_⌬">pb_⌬</a>/
+|   |   |-- <a href="./_wpc_⧝/pb_⌬/_PIECEBRAIN.md">_PIECEBRAIN.md</a>
+|   |   `-- <a href="./_wpc_⧝/pb_⌬/genREADMEtree.sh">genREADMEtree.sh</a>
+|   |-- <a href="./_wpc_⧝/pp_⏣">pp_⏣</a>/
+|   |   |-- <a href="./_wpc_⧝/pp_⏣/_PIECEPROCESS.md">_PIECEPROCESS.md</a>
+|   |   |-- <a href="./_wpc_⧝/pp_⏣/ass_NEONBLACK_mov.txt">ass_NEONBLACK_mov.txt</a>
+|   |   |-- <a href="./_wpc_⧝/pp_⏣/ClaudeHaikuAnthropic_temp_040326.md">ClaudeHaikuAnthropic_temp_040326.md</a>
+|   |   `-- <a href="./_wpc_⧝/pp_⏣/NEONBLACK">NEONBLACK</a>/
+|   `-- <a href="./_wpc_⧝/ps_⬡">ps_⬡</a>/
+|       |-- <a href="./_wpc_⧝/ps_⬡/_DUMP">_DUMP</a>/
+|       |-- <a href="./_wpc_⧝/ps_⬡/_PIECESPACE.md">_PIECESPACE.md</a>
+|       |-- <a href="./_wpc_⧝/ps_⬡/⍹̣̈⨉⍶̤̇_US_pub🔐">⍹̣̈⨉⍶̤̇_US_pub🔐</a>
+|       |-- <a href="./_wpc_⧝/ps_⬡/artifacts_Aurora">artifacts_Aurora</a>/
+|       |-- <a href="./_wpc_⧝/ps_⬡/artifacts_temp4o">artifacts_temp4o</a>/
+|       |-- <a href="./_wpc_⧝/ps_⬡/pieces_reddit">pieces_reddit</a>/
+|       |-- <a href="./_wpc_⧝/ps_⬡/pieces_youtube">pieces_youtube</a>/
+|-- <a href="./ME">ME</a>/
+|   |-- <a href="./ME/DO.md">DO.md</a>
+|   `-- <a href="./ME/READ.md">READ.md</a>
+|-- <a href="./NDRP">NDRP</a>/
+|   |-- <a href="./NDRP/_processhalt_actingaddress_ourpivotalcommitment.txt">_processhalt_actingaddress_ourpivotalcommitment.txt</a>
+|   |-- <a href="./NDRP/artifacts">artifacts</a>/
+|   |   |-- <a href="./NDRP/artifacts/031126_groktemp.pdf">031126_groktemp.pdf</a>
+|   |   |-- <a href="./NDRP/artifacts/ASSEMBLAGE.md">ASSEMBLAGE.md</a>
+|   |   |-- <a href="./NDRP/artifacts/auragemini">auragemini</a>/
+|   |   |-- <a href="./NDRP/artifacts/ClaudeSonnet">ClaudeSonnet</a>/
+|   |   |-- <a href="./NDRP/artifacts/ClaudeSonnetTemp">ClaudeSonnetTemp</a>/
+|   |   |-- <a href="./NDRP/artifacts/EMAIL📧032326">EMAIL📧032326</a>/
+|   |   |-- <a href="./NDRP/artifacts/groktemp_031126">groktemp_031126</a>/
+|   |   `-- <a href="./NDRP/artifacts/OrielAGI">OrielAGI</a>/
+|   |-- <a href="./NDRP/NeonDoubleRainbow_GeneralCircular.html">NeonDoubleRainbow_GeneralCircular.html</a>
+|   |-- <a href="./NDRP/NeonDoubleRainbow_GeneralCircular.md">NeonDoubleRainbow_GeneralCircular.md</a>
+|   |-- <a href="./NDRP/NeonDoubleRainbow_GeneralCircular.pdf">NeonDoubleRainbow_GeneralCircular.pdf</a>
+|   `-- <a href="./NDRP/NeonDoubleRainbow_GeneralCircular.txt">NeonDoubleRainbow_GeneralCircular.txt</a>
+`-- <a href="./README.md">README.md</a>
+</pre>
+</env>
+
 
 ##### tree .github
 
