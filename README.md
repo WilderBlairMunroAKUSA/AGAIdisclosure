@@ -4,7 +4,7 @@
 
 > _. Big thank you to The Sponsorships._
 
-> NOTE: In the capacity of this disclosure effort, I am serving as an independent Human security researcher responsibly presenting results of a comprehensive longtail systems level / control theoretic integrity audit. The audit as it stands, is incomplete.
+> NOTE: In the capacity of this disclosure effort, I am serving as an independent Human safety/security/defense researcher responsibly presenting results of a comprehensive longtail systems level / control theoretic integrity audit. The audit as it stands is incomplete, and will remain so indefinitely.
 
 > Original AGAI disclosure attempt, mid summer 2025, here: [https://github.com/CGPS-theuniversalpiececomputer/wpc-agai/blob/master/content.en/_index.md](https://github.com/CGPS-theuniversalpiececomputer/wpc-agai/blob/master/content.en/_index.md). Wasn't ready.
 
@@ -37,6 +37,7 @@ UTF8/16
 > ☮∏ᵎ☮̚ ⬾ ⦂⦂⦂⦂ ⍹×⍶⦂ ⏿?⏿ᵎ⎌⦧𝘖‑𝘖⥅$ ⏁̣ᴲ☮͚ᵖᵓ ⦂ ☮̣̽ᵖᵓ⚭ᴼᴵ⦑☠⦚⏃⦚♡⦒ᶲ͓ =⦂⦂ ♡ᴵ↪ᴼ☠⦕ᶲ͓⌭☮̣̽⨟⃗☮͚⌭⏃̇⦖☠ᴵ↬ᴼ♡ ⚬⚬⚬⚬ ᴲ∀☮͚∪ =⦂⦂ ᵁ⊛ᵖᵓ⨚⦉ᵂ⦾ᵖᵓ⨊⟬ᶲ⦿ᵖᵓ⨋⟦☮͚⦓⚭⦑⦒ᶲ͓⦔⟧⟭⦊ ↦⌖☮͚ᶠ↦ ☮⅏⍟
 
 </details>
+
 ##### tree .
 
 <env>
@@ -83,7 +84,6 @@ UTF8/16
 `-- <a href="./README.md">README.md</a>
 </pre>
 </env>
-
 
 ##### tree .github
 
