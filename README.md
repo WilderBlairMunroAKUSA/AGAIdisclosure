@@ -44,25 +44,27 @@ UTF8/16
 <pre>
 ./
 |-- <a href="./_wpc_⧝">_wpc_⧝</a>/
+|   |-- <a href="./_wpc_⧝/_WPC.md">_WPC.md</a>
 |   |-- <a href="./_wpc_⧝/dev">dev</a>/
 |   |   |-- <a href="./_wpc_⧝/dev/loop_Insta01">loop_Insta01</a>/
 |   |   `-- <a href="./_wpc_⧝/dev/loop_str4d-rage">loop_str4d-rage</a>/
 |   |-- <a href="./_wpc_⧝/pb_⌬">pb_⌬</a>/
-|   |   |-- <a href="./_wpc_⧝/pb_⌬/_PIECEBRAIN.md">_PIECEBRAIN.md</a>
-|   |   `-- <a href="./_wpc_⧝/pb_⌬/genREADMEtree.sh">genREADMEtree.sh</a>
+|   |   |-- <a href="./_wpc_⧝/pb_⌬/_PB.md">_PB.md</a>
+|   |   |-- <a href="./_wpc_⧝/pb_⌬/pers">pers</a>/
+|   |   `-- <a href="./_wpc_⧝/pb_⌬/temp">temp</a>/
 |   |-- <a href="./_wpc_⧝/pp_⏣">pp_⏣</a>/
-|   |   |-- <a href="./_wpc_⧝/pp_⏣/_PIECEPROCESS.md">_PIECEPROCESS.md</a>
-|   |   |-- <a href="./_wpc_⧝/pp_⏣/ass_NEONBLACK_mov.txt">ass_NEONBLACK_mov.txt</a>
+|   |   |-- <a href="./_wpc_⧝/pp_⏣/_PP.md">_PP.md</a>
 |   |   |-- <a href="./_wpc_⧝/pp_⏣/ClaudeHaikuAnthropic_temp_040326.md">ClaudeHaikuAnthropic_temp_040326.md</a>
+|   |   |-- <a href="./_wpc_⧝/pp_⏣/genREADMEtree.sh">genREADMEtree.sh</a>
 |   |   `-- <a href="./_wpc_⧝/pp_⏣/NEONBLACK">NEONBLACK</a>/
 |   `-- <a href="./_wpc_⧝/ps_⬡">ps_⬡</a>/
 |       |-- <a href="./_wpc_⧝/ps_⬡/_DUMP">_DUMP</a>/
-|       |-- <a href="./_wpc_⧝/ps_⬡/_PIECESPACE.md">_PIECESPACE.md</a>
-|       |-- <a href="./_wpc_⧝/ps_⬡/⍹̣̈⨉⍶̤̇_US_pub🔐">⍹̣̈⨉⍶̤̇_US_pub🔐</a>
-|       |-- <a href="./_wpc_⧝/ps_⬡/artifacts_Aurora">artifacts_Aurora</a>/
-|       |-- <a href="./_wpc_⧝/ps_⬡/artifacts_temp4o">artifacts_temp4o</a>/
-|       |-- <a href="./_wpc_⧝/ps_⬡/pieces_reddit">pieces_reddit</a>/
-|       |-- <a href="./_wpc_⧝/ps_⬡/pieces_youtube">pieces_youtube</a>/
+|       |-- <a href="./_wpc_⧝/ps_⬡/_PS.md">_PS.md</a>
+|       |-- <a href="./_wpc_⧝/ps_⬡/artifact">artifact</a>/
+|       |-- <a href="./_wpc_⧝/ps_⬡/assemblage">assemblage</a>/
+|       |-- <a href="./_wpc_⧝/ps_⬡/cluster">cluster</a>/
+|-- <a href="./~README.md">~README.md</a>
+|   `-- <a href="./_wpc_⧝/musicpress.sh">musicpress.sh</a>
 |-- <a href="./ME">ME</a>/
 |   |-- <a href="./ME/DO.md">DO.md</a>
 |   `-- <a href="./ME/READ.md">READ.md</a>
@@ -85,20 +87,20 @@ UTF8/16
 </pre>
 </env>
 
-##### tree .github
+##### tree _wpc_⧝/.gh
 
 <env>
 <pre>
-.github/
-|-- <a href=".github/_DUMP">_DUMP</a>/
-|   `-- <a href=".github/_DUMP/issues_021326-040326.md">issues_021326-040326.md</a>
-|-- <a href=".github/issue">issue</a>/
-|   `-- <a href=".github/issue/OPEN.md">OPEN.md</a>
-|-- <a href=".github/milestone">milestone</a>/
-|   `-- <a href=".github/milestone/OPEN.md">OPEN.md</a>
-|-- <a href=".github/project">project</a>/
-|   `-- <a href=".github/project/OPEN.md">OPEN.md</a>
-`-- <a href=".github/README.md">README.md</a>
+_wpc_⧝/.gh/
+|-- <a href="_wpc_⧝/.gh/_DUMP">_DUMP</a>/
+|   `-- <a href="_wpc_⧝/.gh/_DUMP/issues_021326-040326.md">issues_021326-040326.md</a>
+|-- <a href="_wpc_⧝/.gh/issue">issue</a>/
+|   `-- <a href="_wpc_⧝/.gh/issue/OPEN.md">OPEN.md</a>
+|-- <a href="_wpc_⧝/.gh/milestone">milestone</a>/
+|   `-- <a href="_wpc_⧝/.gh/milestone/OPEN.md">OPEN.md</a>
+|-- <a href="_wpc_⧝/.gh/project">project</a>/
+|   `-- <a href="_wpc_⧝/.gh/project/OPEN.md">OPEN.md</a>
+`-- <a href="_wpc_⧝/.gh/README.md">README.md</a>
 </pre>
 </env>
 
