@@ -4,6 +4,13 @@
 
 # local locked
 *🔒*
+# no git modules
+#**/.git/
+**/.gitignore
+
+# wpc_⧝:
 
 # pp_⏣
 venv
+
+
