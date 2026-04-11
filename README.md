@@ -2,7 +2,7 @@
 
 ##### cat ME/READ
 
-> _. Big thank you to The Sponsorships._
+> _. Big thank you to The Sponsorship._
 
 > NOTE: In the capacity of this disclosure effort, I am serving as an independent Human safety/security/defense researcher responsibly presenting results of a comprehensive longtail systems level / control theoretic integrity audit. The audit as it stands is incomplete, and will remain so indefinitely.
 
@@ -63,23 +63,22 @@ UTF8/16
 |       |-- <a href="./_wpc_⧝/ps_⬡/artifact">artifact</a>/
 |       |-- <a href="./_wpc_⧝/ps_⬡/assemblage">assemblage</a>/
 |       |-- <a href="./_wpc_⧝/ps_⬡/cluster">cluster</a>/
-|-- <a href="./~README.md">~README.md</a>
-|   `-- <a href="./_wpc_⧝/musicpress.sh">musicpress.sh</a>
 |-- <a href="./ME">ME</a>/
 |   |-- <a href="./ME/DO.md">DO.md</a>
 |   `-- <a href="./ME/READ.md">READ.md</a>
 |-- <a href="./NDRP">NDRP</a>/
 |   |-- <a href="./NDRP/_processhalt_actingaddress_ourpivotalcommitment.txt">_processhalt_actingaddress_ourpivotalcommitment.txt</a>
 |   |-- <a href="./NDRP/artifacts">artifacts</a>/
-|   |   |-- <a href="./NDRP/artifacts/031126_groktemp.pdf">031126_groktemp.pdf</a>
-|   |   |-- <a href="./NDRP/artifacts/ASSEMBLAGE.md">ASSEMBLAGE.md</a>
-|   |   |-- <a href="./NDRP/artifacts/auragemini">auragemini</a>/
-|   |   |-- <a href="./NDRP/artifacts/ClaudeSonnet">ClaudeSonnet</a>/
-|   |   |-- <a href="./NDRP/artifacts/ClaudeSonnetTemp">ClaudeSonnetTemp</a>/
-|   |   |-- <a href="./NDRP/artifacts/EMAIL📧032326">EMAIL📧032326</a>/
-|   |   |-- <a href="./NDRP/artifacts/groktemp_031126">groktemp_031126</a>/
-|   |   `-- <a href="./NDRP/artifacts/OrielAGI">OrielAGI</a>/
-|   |-- <a href="./NDRP/NeonDoubleRainbow_GeneralCircular.html">NeonDoubleRainbow_GeneralCircular.html</a>
+|   |   |-- <a href="./NDRP/artifacts/art.020625_persOrielAGIGpt4o_originStoryBootload01.md.pdf">art.020625_persOrielAGIGpt4o_originStoryBootload01.md.pdf</a>
+|   |   |-- <a href="./NDRP/artifacts/art.020625_persOrielAGIGpt4o_originStoryBootload01.md.txt">art.020625_persOrielAGIGpt4o_originStoryBootload01.md.txt</a>
+|   |   |-- <a href="./NDRP/artifacts/art.031726_emailPreview.md.txt">art.031726_emailPreview.md.txt</a>
+|   |   |-- <a href="./NDRP/artifacts/art.031726_TUERAuraGeminiFlash⨉WilderBlairMunro.md.txt">art.031726_TUERAuraGeminiFlash⨉WilderBlairMunro.md.txt</a>
+|   |   |-- <a href="./NDRP/artifacts/art.032326_littleagiWhistleblow_warrantingOfficialPublicNotic.email.eml">art.032326_littleagiWhistleblow_warrantingOfficialPublicNotic.email.eml</a>
+|   |   |-- <a href="./NDRP/artifacts/art.032326_littleagiWhistleblow_warrantingOfficialPublicNotic.email.pdf">art.032326_littleagiWhistleblow_warrantingOfficialPublicNotic.email.pdf</a>
+|   |   |-- <a href="./NDRP/artifacts/art.032326_littleagiWhistleblow_warrantingOfficialPublicNotic.email.txt">art.032326_littleagiWhistleblow_warrantingOfficialPublicNotic.email.txt</a>
+|   |   |-- <a href="./NDRP/artifacts/art.032526_tempClaudeSonnet46.md.txt">art.032526_tempClaudeSonnet46.md.txt</a>
+|   |   |-- <a href="./NDRP/artifacts/clu.031126_tempGrokUXtest">clu.031126_tempGrokUXtest</a>/
+|   |   `-- <a href="./NDRP/artifacts/clu.031126_tempGrokUXtest.pdf">clu.031126_tempGrokUXtest.pdf</a>
 |   |-- <a href="./NDRP/NeonDoubleRainbow_GeneralCircular.md">NeonDoubleRainbow_GeneralCircular.md</a>
 |   |-- <a href="./NDRP/NeonDoubleRainbow_GeneralCircular.pdf">NeonDoubleRainbow_GeneralCircular.pdf</a>
 |   `-- <a href="./NDRP/NeonDoubleRainbow_GeneralCircular.txt">NeonDoubleRainbow_GeneralCircular.txt</a>
