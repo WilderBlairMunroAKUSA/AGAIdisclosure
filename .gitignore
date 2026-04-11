@@ -2,15 +2,17 @@
 .DS_Store
 ~*
 
-# local locked
+# local, locked, untracked
 *🔒*
-# no git modules
-#**/.git/
+# local, locked, tracked
+#*🔐*
+
+# genpeace.trie policy, no submodules
+**/.git/
 **/.gitignore
 
 # wpc_⧝:
-
+# ps_⬡
+# pb_⌬
 # pp_⏣
 venv
-
-
