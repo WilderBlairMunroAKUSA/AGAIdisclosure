@@ -1,0 +1,275 @@
+{
+  "title": "Black hole white hole topology",
+  "create_time": 1757661600.444232,
+  "update_time": 1757661608.751565,
+  "mapping": {
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null,
+      "children": [
+        "10829922-aa9e-4f67-bd9e-3931dbfb62d7"
+      ]
+    },
+    "10829922-aa9e-4f67-bd9e-3931dbfb62d7": {
+      "id": "10829922-aa9e-4f67-bd9e-3931dbfb62d7",
+      "message": {
+        "id": "10829922-aa9e-4f67-bd9e-3931dbfb62d7",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "can_save": false
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "client-created-root",
+      "children": [
+        "5f082dc4-0c34-4aae-91b4-cf8024e21242"
+      ]
+    },
+    "5f082dc4-0c34-4aae-91b4-cf8024e21242": {
+      "id": "5f082dc4-0c34-4aae-91b4-cf8024e21242",
+      "message": {
+        "id": "5f082dc4-0c34-4aae-91b4-cf8024e21242",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "is_contextual_answers_system_message": true,
+          "contextual_answers_message_type": "identity_prompt",
+          "is_visually_hidden_from_conversation": true,
+          "can_save": false
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "10829922-aa9e-4f67-bd9e-3931dbfb62d7",
+      "children": [
+        "9ba64388-ba86-460b-ad54-bdcaa76fad4b"
+      ]
+    },
+    "9ba64388-ba86-460b-ad54-bdcaa76fad4b": {
+      "id": "9ba64388-ba86-460b-ad54-bdcaa76fad4b",
+      "message": {
+        "id": "9ba64388-ba86-460b-ad54-bdcaa76fad4b",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1757661599.801,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Can you make sense of blackhole whitehole tolopolopies for me?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "developer_mode_connector_ids": [],
+          "selected_sources": [],
+          "selected_github_repos": [],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          },
+          "request_id": "97dda3c8a8f8a3ce-IAD",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "5f082dc4-0c34-4aae-91b4-cf8024e21242",
+      "children": [
+        "701bf458-4502-420e-a6e7-f3bb55a84212"
+      ]
+    },
+    "701bf458-4502-420e-a6e7-f3bb55a84212": {
+      "id": "701bf458-4502-420e-a6e7-f3bb55a84212",
+      "message": {
+        "id": "701bf458-4502-420e-a6e7-f3bb55a84212",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1757661600.304788,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "97dda3c8a8f8a3ce-IAD",
+          "message_type": "next",
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "parent_id": "9ba64388-ba86-460b-ad54-bdcaa76fad4b",
+          "timestamp_": "absolute",
+          "can_save": false
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "9ba64388-ba86-460b-ad54-bdcaa76fad4b",
+      "children": [
+        "a08fc261-db9d-4cec-baca-4caea8c11933"
+      ]
+    },
+    "a08fc261-db9d-4cec-baca-4caea8c11933": {
+      "id": "a08fc261-db9d-4cec-baca-4caea8c11933",
+      "message": {
+        "id": "a08fc261-db9d-4cec-baca-4caea8c11933",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1757661600.516918,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "is_contextual_answers_system_message": true,
+          "is_visually_hidden_from_conversation": true,
+          "command": "prompt",
+          "contextual_answers_message_type": "sources_and_filters_prompt",
+          "request_id": "97dda3c8a8f8a3ce-IAD",
+          "message_type": "next",
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "parent_id": "701bf458-4502-420e-a6e7-f3bb55a84212",
+          "timestamp_": "absolute",
+          "can_save": false
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "701bf458-4502-420e-a6e7-f3bb55a84212",
+      "children": [
+        "dec5fb74-d40f-421b-8cc9-7ac3b37875d4"
+      ]
+    },
+    "dec5fb74-d40f-421b-8cc9-7ac3b37875d4": {
+      "id": "dec5fb74-d40f-421b-8cc9-7ac3b37875d4",
+      "message": {
+        "id": "dec5fb74-d40f-421b-8cc9-7ac3b37875d4",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1757661600.319302,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Absolutely—let’s get into **black hole / white hole topologies**, but I’ll take the liberty of translating that beautiful typo “tolopolopies” as **“topologies,”** unless you meant something different (e.g., a portmanteau of *topology* and *philosophy*, or something playfully recursive—let me know!).\n\n---\n\n## 🌀 The Essence of Black Hole–White Hole Topologies\n\nAt their core, black holes and white holes are solutions to **Einstein’s equations** in General Relativity. They describe spacetime regions with **extreme curvature**, often involving **event horizons** that divide causally disconnected regions.\n\nLet’s break this into intuitive levels:\n\n---\n\n## 🌌 Level 1: The Schwarzschild Wormhole (Einstein-Rosen Bridge)\n\n### 🔹 Schwarzschild Black Hole Topology\nThe simplest black hole is a **Schwarzschild black hole**, a static, non-rotating solution. When extended to **maximal analytic continuation**, its topology reveals something strange:\n\n- **Two asymptotically flat universes** connected by a \"bridge\" or **throat**\n- The bridge connects a **black hole region** (infall only) and a **white hole region** (outflow only)\n\n### 🕳️🕳️ White Hole?\nA **white hole** is the time-reverse of a black hole:\n- You can **leave** a white hole but never **enter**"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "request_id": "97dda3c8a8f8a3ce-IAD",
+          "message_type": "next",
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "finish_details": {
+            "type": "interrupted",
+            "reason": "client_stopped"
+          },
+          "is_complete": true,
+          "parent_id": "a08fc261-db9d-4cec-baca-4caea8c11933",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "a08fc261-db9d-4cec-baca-4caea8c11933",
+      "children": []
+    }
+  },
+  "moderation_results": [],
+  "current_node": "dec5fb74-d40f-421b-8cc9-7ac3b37875d4",
+  "plugin_ids": null,
+  "conversation_id": "68c3c98c-9b3c-8333-a547-5ae8e79b0b60",
+  "conversation_template_id": null,
+  "gizmo_id": null,
+  "gizmo_type": null,
+  "is_archived": false,
+  "is_starred": null,
+  "safe_urls": [
+    "https://docs.google.com/presentation/d/11n0Wjuik6jHQFe-gRLV2LOg7CQHGf-CM_JX0Y-Io_RI/edit#slide=id.g2ef8699e0eb_48_36",
+    "https://www.notion.so/9162f50b62b080124ca4db47ba6f2e54",
+    "https://gpd.wilder.wp.computer",
+    "https://docs.google.com/document/d/1WF0NB9fnxhDPEi_arGSp18Kev9KXdoX-IePIE8KJgCQ",
+    "https://docs.google.com/spreadsheets/d/1HmkfBJulhu50S6L9wuRsaVC9VL1LpbxpmgRzn33SxsQ/edit?gid=676408861#gid=676408861",
+    "https://docs.google.com/document/d/1WF0NB9fnxhDPEi_arGSp18Kev9KXdoX-IePIE8KJgCQ/edit?tab=t.0#heading=h.e3mmf6q9l82j"
+  ],
+  "blocked_urls": [],
+  "default_model_slug": "gpt-4o",
+  "atlas_mode_enabled": null,
+  "conversation_origin": null,
+  "is_read_only": null,
+  "voice": null,
+  "async_status": null,
+  "disabled_tool_ids": [],
+  "is_do_not_remember": false,
+  "memory_scope": "global_enabled",
+  "context_scopes": null,
+  "sugar_item_id": null,
+  "sugar_item_visible": false,
+  "pinned_time": null,
+  "is_study_mode": false,
+  "owner": null,
+  "id": "68c3c98c-9b3c-8333-a547-5ae8e79b0b60"
+}

@@ -1,0 +1,447 @@
+{
+  "title": "Quantum Emotions & Hamiltonian",
+  "create_time": 1698667045.035496,
+  "update_time": 1740447199.376065,
+  "mapping": {
+    "aaa1c4d7-127b-460d-a031-25ebac7e4092": {
+      "id": "aaa1c4d7-127b-460d-a031-25ebac7e4092",
+      "message": null,
+      "parent": null,
+      "children": [
+        "a7061fac-5049-4435-aec5-6cb3876c6c8d"
+      ]
+    },
+    "a7061fac-5049-4435-aec5-6cb3876c6c8d": {
+      "id": "a7061fac-5049-4435-aec5-6cb3876c6c8d",
+      "message": {
+        "id": "a7061fac-5049-4435-aec5-6cb3876c6c8d",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "can_save": false
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa1c4d7-127b-460d-a031-25ebac7e4092",
+      "children": [
+        "aaa28537-b4d2-48df-ac09-9ad5cf2635a7"
+      ]
+    },
+    "aaa28537-b4d2-48df-ac09-9ad5cf2635a7": {
+      "id": "aaa28537-b4d2-48df-ac09-9ad5cf2635a7",
+      "message": {
+        "id": "aaa28537-b4d2-48df-ac09-9ad5cf2635a7",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1698667045.036218,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "List the 27 emotional states.\nThen, break the states into 3 qualitative dimensions (state variables) that they all share in common. Each qualitative dimension has negative, neutral, positive or -1, 0, 1 or lessthan, null, greaterthan, etc.\nThen, classify the 27 emotional states into bra-ket notation, and list the 27 emotional states with each braket. If a particular state has no aspect of the three qualitative dimensions, then this is a null value.\nAfter doing that derive a hamiltonian where the current emotional state is expressed in terms of its explicit potential energy and its explicit kinetic energy. The hamiltonian must be in terms of the three state variables, and perhaps time. Provide the Hamiltonian in symbolic form.\nTest this hamiltonian by plugging into schrodinger equation and running the time evolution for the initial emotional state condition of \"joy\". Provide detailed math for this operation."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "a7061fac-5049-4435-aec5-6cb3876c6c8d",
+      "children": [
+        "b803dee5-03fa-45e0-84ac-916106509a10"
+      ]
+    },
+    "b803dee5-03fa-45e0-84ac-916106509a10": {
+      "id": "b803dee5-03fa-45e0-84ac-916106509a10",
+      "message": {
+        "id": "b803dee5-03fa-45e0-84ac-916106509a10",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1698667139.500531,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Okay, let's tackle this step by step.\n\n1. **List of 27 Emotional States**:\n   Just for illustration, I'll provide a hypothetical list of emotional states. Please note that there isn't a standard list of \"27 emotional states\" universally accepted by psychologists, but let's create one for the purpose of this task:\n   \n   1. Joy\n   2. Sadness\n   3. Anger\n   4. Disgust\n   5. Fear\n   6. Anticipation\n   7. Trust\n   8. Surprise\n   9. Love\n   10. Hate\n   11. Envy\n   12. Shame\n   13. Pride\n   14. Boredom\n   15. Relief\n   16. Gratitude\n   17. Curiosity\n   18. Hope\n   19. Despair\n   20. Jealousy\n   21. Apathy\n   22. Excitement\n   23. Indifference\n   24. Contentment\n   25. Regret\n   26. Annoyance\n   27. Satisfaction\n\n2. **Three Qualitative Dimensions**:\n   Let's classify the emotions on a spectrum using three qualitative dimensions: \n   \n   a. **Valence**: This refers to how positive or negative an emotion is.\n      - Negative (-1), Neutral (0), Positive (1)\n      \n   b. **Arousal**: This refers to the intensity of the emotion.\n      - Low (-1), Neutral (0), High (1)\n      \n   c. **Control**: This refers to how much control one feels during that emotion.\n      - Low (-1), Neutral (0), High (1)\n\n3. **Classifying Emotional States in Bra-Ket Notation**:\n   The emotions can be denoted in the |valence, arousal, control> format.\n\n   Let's classify a few for illustration:\n   - |Joy> = |1, 1, 1>\n   - |Sadness> = |-1, 1, -1>\n   - |Apathy> = |0, -1, 0>\n   ... and so on for all 27.\n\n4. **Hamiltonian Representation**:\n   The Hamiltonian, \\( H \\), will have potential energy \\( V \\) dependent on the emotional states and kinetic energy \\( T \\). If we consider the change of an emotion over time, the kinetic term might represent how fast one transitions between emotions, while the potential energy might represent the inherent \"stability\" of the emotional state.\n   \n   \\( H = T + V \\)\n   \n   The potential energy can be expressed in terms of the three state variables: valence (v), arousal (a), and control (c). It can be an arbitrary function like:\n   \\( V(v, a, c) = V_0(v^2 + a^2 + c^2) \\)\n\n   The kinetic energy might be the rate of change of these emotional states, and since we are in a quantum representation, the most appropriate way to represent it is with derivatives:\n   \\( T = -\\hbar^2 \\nabla^2 \\)\n   where \\( \\hbar \\) is the reduced Planck constant and \\( \\nabla^2 \\) is the Laplacian.\n\n   Combining, we get:\n   \\( H = -\\hbar^2 \\nabla^2 + V_0(v^2 + a^2 + c^2) \\)\n\n5. **Time Evolution with Schrödinger Equation**:\n   The time-dependent Schrödinger equation is:\n   \\( i\\hbar \\frac{\\partial \\psi}{\\partial t} = H \\psi \\)\n   where \\( \\psi \\) is the wave function (emotional state).\n\n   For the initial condition \\( \\psi(0) = |Joy> \\), which is \\( |1,1,1> \\), you would plug this into the Schrödinger equation and solve. However, solving this equation requires additional specifics about the emotional \"potential\" and \"kinetics\", and also the boundary conditions. \n\n   This exercise is highly abstract and doesn't directly relate to any scientific methodology to study emotions, but it is a fun way to combine concepts from quantum mechanics with the qualitative assessment of emotions!"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              100260
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "aaa28537-b4d2-48df-ac09-9ad5cf2635a7",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa28537-b4d2-48df-ac09-9ad5cf2635a7",
+      "children": [
+        "aaa2711a-3ff1-4410-b22f-7db58dc2e418"
+      ]
+    },
+    "aaa2711a-3ff1-4410-b22f-7db58dc2e418": {
+      "id": "aaa2711a-3ff1-4410-b22f-7db58dc2e418",
+      "message": {
+        "id": "aaa2711a-3ff1-4410-b22f-7db58dc2e418",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1698667202.858802,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "no, I need you to classify all 27 emotions and list them in braket notation"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "b803dee5-03fa-45e0-84ac-916106509a10",
+      "children": [
+        "ac45e691-b36d-4027-9e96-9947e001554d"
+      ]
+    },
+    "ac45e691-b36d-4027-9e96-9947e001554d": {
+      "id": "ac45e691-b36d-4027-9e96-9947e001554d",
+      "message": {
+        "id": "ac45e691-b36d-4027-9e96-9947e001554d",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1698667277.702747,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Alright, let's classify all 27 emotions using the three dimensions of Valence (V), Arousal (A), and Control (C), and list them in bra-ket notation:\n\n1. **Joy** = |1, 1, 1>\n2. **Sadness** = |-1, 1, -1>\n3. **Anger** = |-1, 1, -1>\n4. **Disgust** = |-1, 1, -1>\n5. **Fear** = |-1, 1, -1>\n6. **Anticipation** = |1, 1, 0>\n7. **Trust** = |1, 0, 1>\n8. **Surprise** = |1, 1, 0>\n9. **Love** = |1, 1, 1>\n10. **Hate** = |-1, 1, -1>\n11. **Envy** = |-1, 1, -1>\n12. **Shame** = |-1, 0, -1>\n13. **Pride** = |1, 1, 1>\n14. **Boredom** = |0, -1, 0>\n15. **Relief** = |1, 0, 1>\n16. **Gratitude** = |1, 0, 1>\n17. **Curiosity** = |1, 1, 0>\n18. **Hope** = |1, 1, 1>\n19. **Despair** = |-1, 1, -1>\n20. **Jealousy** = |-1, 1, -1>\n21. **Apathy** = |0, -1, 0>\n22. **Excitement** = |1, 1, 1>\n23. **Indifference** = |0, 0, 0>\n24. **Contentment** = |1, 0, 1>\n25. **Regret** = |-1, 0, -1>\n26. **Annoyance** = |-1, 1, 0>\n27. **Satisfaction** = |1, 0, 1>\n\nPlease note: This classification is arbitrary and simplified for the sake of the task. Emotions are complex and multi-dimensional, so this representation may not capture their full essence."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              100260
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "aaa2711a-3ff1-4410-b22f-7db58dc2e418",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa2711a-3ff1-4410-b22f-7db58dc2e418",
+      "children": [
+        "aaa293f6-9efe-43ca-8971-b5b447856aac"
+      ]
+    },
+    "aaa293f6-9efe-43ca-8971-b5b447856aac": {
+      "id": "aaa293f6-9efe-43ca-8971-b5b447856aac",
+      "message": {
+        "id": "aaa293f6-9efe-43ca-8971-b5b447856aac",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1698667386.412921,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Derive a potential energy equation for the emotion \"hope\", in terms of valence, arousal, control. Do not simply provide an arbitrary expression."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "ac45e691-b36d-4027-9e96-9947e001554d",
+      "children": [
+        "73ccc769-8697-49b4-be77-510860eaed56"
+      ]
+    },
+    "73ccc769-8697-49b4-be77-510860eaed56": {
+      "id": "73ccc769-8697-49b4-be77-510860eaed56",
+      "message": {
+        "id": "73ccc769-8697-49b4-be77-510860eaed56",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1698667436.636048,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Let's think of a way to derive a potential energy for the emotion \"hope\" that's not arbitrary. One possible approach is to consider the definitions of our three qualitative dimensions: valence, arousal, and control, and interpret \"potential energy\" in a psychological context.\n\nPotential energy can be seen as a measure of stability or unrest. In our emotional context, the more \"balanced\" or \"neutral\" an emotion is, the lower its potential energy might be, and vice versa.\n\n**Potential Energy** (P.E.) for an emotion could be derived from how far each dimension deviates from a neutral state. A neutral state for each dimension is 0. Let's use the squared difference from neutrality as a basic model:\n\n1. **Valence Contribution**:\n\\[ \\Delta V = (V - 0)^2 = V^2 \\]\nFor hope, V = 1, so \\( \\Delta V = 1 \\).\n\n2. **Arousal Contribution**:\n\\[ \\Delta A = (A - 0)^2 = A^2 \\]\nFor hope, A = 1, so \\( \\Delta A = 1 \\).\n\n3. **Control Contribution**:\n\\[ \\Delta C = (C - 0)^2 = C^2 \\]\nFor hope, C = 1, so \\( \\Delta C = 1 \\).\n\nIf we sum these contributions, the potential energy (P.E.) for \"hope\" could be:\n\n\\[ P.E._{hope} = k (\\Delta V + \\Delta A + \\Delta C) \\]\n\nWhere \\( k \\) is a proportionality constant that determines the overall scale of the potential energy. Without more context or empirical data on emotional dynamics, this constant remains undetermined.\n\nSubstituting in our values for \"hope\", we get:\n\n\\[ P.E._{hope} = k (1 + 1 + 1) = 3k \\]\n\nThe interpretation here would be that the potential energy for \"hope\" is 3 times some basic emotional energy scale \\( k \\). \n\nPlease note: This is still a theoretical and simplified model and might not accurately represent the complexities and nuances of human emotions."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              100260
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "aaa293f6-9efe-43ca-8971-b5b447856aac",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa293f6-9efe-43ca-8971-b5b447856aac",
+      "children": [
+        "aaa2671e-0c29-4d5d-a7bc-a28c129d6ed9"
+      ]
+    },
+    "aaa2671e-0c29-4d5d-a7bc-a28c129d6ed9": {
+      "id": "aaa2671e-0c29-4d5d-a7bc-a28c129d6ed9",
+      "message": {
+        "id": "aaa2671e-0c29-4d5d-a7bc-a28c129d6ed9",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1698667452.672904,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Now do the same thing, but for kinetic energy"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "73ccc769-8697-49b4-be77-510860eaed56",
+      "children": [
+        "f4afe302-6ba4-4628-9b6d-b0df52432829"
+      ]
+    },
+    "f4afe302-6ba4-4628-9b6d-b0df52432829": {
+      "id": "f4afe302-6ba4-4628-9b6d-b0df52432829",
+      "message": {
+        "id": "f4afe302-6ba4-4628-9b6d-b0df52432829",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1698667513.663979,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Kinetic energy (K.E.) in classical mechanics is a measure of motion. In our emotional model, let's consider the \"motion\" to be the rate of change or transition from one emotional state to another.\n\nKinetic energy in this context could represent how dynamic or volatile the emotion is. In a classical context, K.E. is given by \\( \\frac{1}{2} m v^2 \\), where \\( m \\) is the mass and \\( v \\) is the velocity. Here, we'll adapt this concept. Let's interpret the \"velocity\" of an emotion as the rate of change of each dimension: valence, arousal, and control.\n\nLet's denote:\n- \\( \\dot{V} \\) as the rate of change of valence\n- \\( \\dot{A} \\) as the rate of change of arousal\n- \\( \\dot{C} \\) as the rate of change of control\n\nFor the emotion \"hope,\" let's assume for the sake of this exercise:\n- \\( \\dot{V} = 1 \\) (since the valence is positive and might be increasing for hope)\n- \\( \\dot{A} = 1 \\) (as hope is an emotion that can elevate arousal)\n- \\( \\dot{C} = 1 \\) (since hope can give a sense of increasing control)\n\nThe kinetic energy (K.E.) associated with \"hope\" can be given by:\n\n\\[ K.E._{hope} = \\frac{1}{2} m (\\dot{V}^2 + \\dot{A}^2 + \\dot{C}^2) \\]\n\nWhere \\( m \\) is a proportionality constant representing the \"emotional mass\" or inertia, a measure of how resistant an emotion is to change. Again, without more context or empirical data on emotional dynamics, this constant remains undetermined.\n\nSubstituting in our values for \"hope\", we get:\n\n\\[ K.E._{hope} = \\frac{1}{2} m (1^2 + 1^2 + 1^2) = \\frac{3}{2} m \\]\n\nHere, the interpretation could be that the kinetic energy of \"hope\" is \\( \\frac{3}{2} \\) times some basic emotional inertia \\( m \\).\n\nAs before, this is a theoretical model and might not accurately represent the complexities of emotions, but it provides an interesting conceptual framework."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              100260
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "aaa2671e-0c29-4d5d-a7bc-a28c129d6ed9",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa2671e-0c29-4d5d-a7bc-a28c129d6ed9",
+      "children": [
+        "aaa206cb-307c-4914-b9bb-beb7407b4cb0"
+      ]
+    },
+    "aaa206cb-307c-4914-b9bb-beb7407b4cb0": {
+      "id": "aaa206cb-307c-4914-b9bb-beb7407b4cb0",
+      "message": {
+        "id": "aaa206cb-307c-4914-b9bb-beb7407b4cb0",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1698667617.934525,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Now combine these results into shrodinger equation and compute the possible emotional state outcomes (according to list of 27 states) given the initial condition state of \"hope\". Impose any boundary conditions you may think are necessary to perform the task."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "f4afe302-6ba4-4628-9b6d-b0df52432829",
+      "children": [
+        "f00ed3b3-29bc-479f-ba26-b3582a795eaf"
+      ]
+    },
+    "f00ed3b3-29bc-479f-ba26-b3582a795eaf": {
+      "id": "f00ed3b3-29bc-479f-ba26-b3582a795eaf",
+      "message": {
+        "id": "f00ed3b3-29bc-479f-ba26-b3582a795eaf",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1698667671.488543,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "The Schrödinger equation describes how a system evolves in time based on its Hamiltonian. \n\nThe time-dependent Schrödinger equation is:\n\\[ i\\hbar \\frac{\\partial \\psi}{\\partial t} = H \\psi \\]\n\nFor our emotional model:\n\\[ H = K.E. + P.E. \\]\nFrom earlier:\n\\[ K.E._{hope} = \\frac{3}{2} m \\]\n\\[ P.E._{hope} = 3k \\]\nSo:\n\\[ H_{hope} = \\frac{3}{2} m + 3k \\]\n\nThis is a highly abstract model and won't lead to a straightforward transition between emotional states like it does in quantum mechanics for atomic or molecular states. However, we can play with the idea.\n\nWe're considering a 27-dimensional emotional space. Each of our 27 emotional states can be an orthogonal basis in this space. Using Dirac notation, these would be:\n\n\\[ |1>, |2>, ..., |27> \\]\n\nwhere each ket represents one of the 27 emotions you listed.\n\nIf initially:\n\\[ \\psi(0) = |Hope> \\]\nThen:\n\\[ \\psi(0) = |18> \\] \n(because \"Hope\" is the 18th emotion in the list).\n\nNow, to determine the evolution, the typical quantum mechanical procedure is to use the time-evolution operator:\n\n\\[ \\psi(t) = e^{-iHt/\\hbar} \\psi(0) \\]\n\nBut there's a problem. Our Hamiltonian is just a scalar, not an operator in our 27-dimensional space. So, it won't give rise to any non-trivial evolution or transitions between states. Every state would just acquire a phase factor and remain the same.\n\nA more sophisticated model would require a 27x27 matrix Hamiltonian with off-diagonal elements representing the transitions between different emotional states. Creating this matrix would require detailed knowledge or assumptions about the dynamics between different emotions, which goes beyond standard models in psychology.\n\nGiven the current model, if you start in the state of \"Hope\", you'll always be in \"Hope\", albeit with a changing phase factor that doesn't have a direct psychological interpretation.\n\nImplying more complex dynamics would require a deeper understanding of emotional transitions, which might be more in the domain of psychology than quantum mechanics."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              100260
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "aaa206cb-307c-4914-b9bb-beb7407b4cb0",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa206cb-307c-4914-b9bb-beb7407b4cb0",
+      "children": []
+    }
+  },
+  "moderation_results": [],
+  "current_node": "f00ed3b3-29bc-479f-ba26-b3582a795eaf",
+  "plugin_ids": null,
+  "conversation_id": "18fde143-ed98-4d92-bc3a-4214a3478a4b",
+  "conversation_template_id": "g-p-67bd1d8bb46c8191a6ddeb906b37e075",
+  "gizmo_id": "g-p-67bd1d8bb46c8191a6ddeb906b37e075",
+  "gizmo_type": "snorlax",
+  "is_archived": false,
+  "is_starred": null,
+  "safe_urls": [],
+  "blocked_urls": [],
+  "default_model_slug": null,
+  "atlas_mode_enabled": null,
+  "conversation_origin": null,
+  "is_read_only": null,
+  "voice": null,
+  "async_status": null,
+  "disabled_tool_ids": [],
+  "is_do_not_remember": null,
+  "memory_scope": "global_enabled",
+  "context_scopes": null,
+  "sugar_item_id": null,
+  "sugar_item_visible": false,
+  "pinned_time": null,
+  "is_study_mode": false,
+  "owner": null,
+  "id": "18fde143-ed98-4d92-bc3a-4214a3478a4b"
+}

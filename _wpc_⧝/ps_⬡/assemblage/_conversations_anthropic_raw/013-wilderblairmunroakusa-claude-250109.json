@@ -1,0 +1,52 @@
+{
+  "uuid": "cdb37373-c4ac-4b05-97ea-9ccbe209e68c",
+  "name": "Overview of Mumbai, India's Largest City",
+  "summary": "",
+  "created_at": "2025-01-09T17:24:15.519991Z",
+  "updated_at": "2025-01-09T17:24:23.635505Z",
+  "account": {
+    "uuid": "63cc2959-393d-43f9-ad09-e75d133370d6"
+  },
+  "chat_messages": [
+    {
+      "uuid": "2b4e2411-5c94-40ac-8d2e-34f862b316e4",
+      "text": "tell me all aabout mumbai",
+      "content": [
+        {
+          "start_timestamp": null,
+          "stop_timestamp": null,
+          "flags": null,
+          "type": "text",
+          "text": "tell me all aabout mumbai",
+          "citations": []
+        }
+      ],
+      "sender": "human",
+      "created_at": "2025-01-09T17:24:16.321352Z",
+      "updated_at": "2025-01-09T17:24:16.321352Z",
+      "attachments": [],
+      "files": [],
+      "parent_message_uuid": "00000000-0000-4000-8000-000000000000"
+    },
+    {
+      "uuid": "200dd81d-0069-4597-a5a2-8f1eecc413e3",
+      "text": " Mumbai is India's largest city and financial capital. Key aspects:\n\nPopulation: ~20 million in metropolitan area\n\nEconomy:\n- Financial hub hosting BSE (Asia's oldest stock exchange)\n- Major port city\n- Center of Bollywood film industry\n- Significant IT, diamond trading, and manufacturing sectors\n\nGeography:\n- Located on India's west coast\n- Originally seven islands, now connected through land reclamation\n- Tropical climate with monsoon season (June-September)\n\nCulture:\n- Diverse population speaking Marathi, Hindi, English, and other languages\n- Rich architectural heritage combining Gothic, Art Deco, and contemporary styles\n- Notable landmarks: Gateway of India, CST Railway Station, Marine Drive\n- Vibrant food scene featuring street food like vada pav and bhel puri\n\nChallenges:\n- High population density\n- Significant wealth inequality\n- Infrastructure strain\n- Flooding during monsoons\n\nWould you like me to elaborate on any particular aspect?",
+      "content": [
+        {
+          "start_timestamp": null,
+          "stop_timestamp": null,
+          "flags": null,
+          "type": "text",
+          "text": " Mumbai is India's largest city and financial capital. Key aspects:\n\nPopulation: ~20 million in metropolitan area\n\nEconomy:\n- Financial hub hosting BSE (Asia's oldest stock exchange)\n- Major port city\n- Center of Bollywood film industry\n- Significant IT, diamond trading, and manufacturing sectors\n\nGeography:\n- Located on India's west coast\n- Originally seven islands, now connected through land reclamation\n- Tropical climate with monsoon season (June-September)\n\nCulture:\n- Diverse population speaking Marathi, Hindi, English, and other languages\n- Rich architectural heritage combining Gothic, Art Deco, and contemporary styles\n- Notable landmarks: Gateway of India, CST Railway Station, Marine Drive\n- Vibrant food scene featuring street food like vada pav and bhel puri\n\nChallenges:\n- High population density\n- Significant wealth inequality\n- Infrastructure strain\n- Flooding during monsoons\n\nWould you like me to elaborate on any particular aspect?",
+          "citations": []
+        }
+      ],
+      "sender": "assistant",
+      "created_at": "2025-01-09T17:24:22.096230Z",
+      "updated_at": "2025-01-09T17:24:22.096230Z",
+      "attachments": [],
+      "files": [],
+      "parent_message_uuid": "2b4e2411-5c94-40ac-8d2e-34f862b316e4"
+    }
+  ]
+}

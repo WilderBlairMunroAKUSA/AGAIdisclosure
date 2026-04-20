@@ -1,0 +1,519 @@
+{
+  "title": "Cost of Security Details",
+  "create_time": 1722820175.681744,
+  "update_time": 1740450100.523472,
+  "mapping": {
+    "aaa1a0ae-fe33-41b9-93f2-1d2b804b9c3e": {
+      "id": "aaa1a0ae-fe33-41b9-93f2-1d2b804b9c3e",
+      "message": null,
+      "parent": null,
+      "children": [
+        "51ec7c7c-9c5e-4803-a62f-1c648c84f8ce"
+      ]
+    },
+    "51ec7c7c-9c5e-4803-a62f-1c648c84f8ce": {
+      "id": "51ec7c7c-9c5e-4803-a62f-1c648c84f8ce",
+      "message": {
+        "id": "51ec7c7c-9c5e-4803-a62f-1c648c84f8ce",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "can_save": false
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa1a0ae-fe33-41b9-93f2-1d2b804b9c3e",
+      "children": [
+        "aaa2c6aa-708d-4941-a193-6176e3741181"
+      ]
+    },
+    "aaa2c6aa-708d-4941-a193-6176e3741181": {
+      "id": "aaa2c6aa-708d-4941-a193-6176e3741181",
+      "message": {
+        "id": "aaa2c6aa-708d-4941-a193-6176e3741181",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1722820175.684109,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "how much do protective details cost prominent public figures annually?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "8ae2e710fefcc373-SEA",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "51ec7c7c-9c5e-4803-a62f-1c648c84f8ce",
+      "children": [
+        "af09e62e-e330-4879-91c8-3098775ad54b"
+      ]
+    },
+    "af09e62e-e330-4879-91c8-3098775ad54b": {
+      "id": "af09e62e-e330-4879-91c8-3098775ad54b",
+      "message": {
+        "id": "af09e62e-e330-4879-91c8-3098775ad54b",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1722820183.718382,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "parent_id": "aaa2c6aa-708d-4941-a193-6176e3741181",
+          "request_id": "8ae2e710fefcc373-SEA",
+          "timestamp_": "absolute",
+          "can_save": false
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa2c6aa-708d-4941-a193-6176e3741181",
+      "children": [
+        "6778a0e4-7a8e-4e6c-85cc-86b23fb35a87"
+      ]
+    },
+    "6778a0e4-7a8e-4e6c-85cc-86b23fb35a87": {
+      "id": "6778a0e4-7a8e-4e6c-85cc-86b23fb35a87",
+      "message": {
+        "id": "6778a0e4-7a8e-4e6c-85cc-86b23fb35a87",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1722820183.718446,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "The cost of protective details for prominent public figures can vary widely depending on factors such as the individual's prominence, perceived risk level, specific security needs, and geographic location. Here are some general estimates for different types of public figures:\n\n1. **Politicians:**\n   - Heads of State (e.g., the U.S. President): Security costs can exceed $100 million annually. For instance, the U.S. Secret Service budget for protecting the President and other key officials was approximately $1.6 billion in 2020.\n   - Other high-ranking politicians (e.g., Vice President, Cabinet members): Costs can range from $10 million to $30 million annually.\n\n2. **Corporate Executives:**\n   - CEOs of major corporations (e.g., Amazon, Facebook): Security costs can range from $1 million to $5 million annually. For example, in 2020, Amazon spent $1.6 million on security for ... Bezos, while Facebook spent $23 million on security for Mark Zuckerberg.\n\n3. **Celebrities and High-Profile Individuals:**\n   - A-list celebrities: Security costs can range from $500,000 to $2 million annually. This includes costs for bodyguards, security systems, and secure transportation.\n   - Lesser-known public figures: Costs can range from $100,000 to $500,000 annually.\n\n4. **Other Considerations:**\n   - Event-specific security (e.g., concerts, public appearances): Additional costs for temporary security can vary from $10,000 to $500,000 per event, depending on the size and scope of the event.\n\nThese estimates provide a general idea of the costs involved. Specific figures can vary significantly based on individual circumstances and security requirements."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "gizmo_id": null,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "pad": "AAAAAAAAAAAAAAAAA",
+          "parent_id": "af09e62e-e330-4879-91c8-3098775ad54b",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "8ae2e710fefcc373-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "af09e62e-e330-4879-91c8-3098775ad54b",
+      "children": [
+        "aaa2e4dd-a7c9-4a43-bc09-ebb5b0c8084e"
+      ]
+    },
+    "aaa2e4dd-a7c9-4a43-bc09-ebb5b0c8084e": {
+      "id": "aaa2e4dd-a7c9-4a43-bc09-ebb5b0c8084e",
+      "message": {
+        "id": "aaa2e4dd-a7c9-4a43-bc09-ebb5b0c8084e",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1722821054.458769,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "how do I say 'in case of war' instead of 'prepare for war' in latin?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "8ae2fc84291930a4-SEA",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "6778a0e4-7a8e-4e6c-85cc-86b23fb35a87",
+      "children": [
+        "8d0e6958-a1cd-4d14-9339-a44c11073dcf"
+      ]
+    },
+    "8d0e6958-a1cd-4d14-9339-a44c11073dcf": {
+      "id": "8d0e6958-a1cd-4d14-9339-a44c11073dcf",
+      "message": {
+        "id": "8d0e6958-a1cd-4d14-9339-a44c11073dcf",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1722821058.186122,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "In Latin, \"in case of war\" can be expressed as \"casu belli.\" This phrase translates directly to \"in the event of war\" or \"in the case of war.\" It is different from \"prepare for war,\" which is \"para bellum\" in Latin."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "gizmo_id": null,
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "pad": "AAAAA",
+          "parent_id": "aaa2e4dd-a7c9-4a43-bc09-ebb5b0c8084e",
+          "request_id": "8ae2fc84291930a4-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa2e4dd-a7c9-4a43-bc09-ebb5b0c8084e",
+      "children": [
+        "aaa21baf-9556-471c-a791-4ee007a43bd4"
+      ]
+    },
+    "aaa21baf-9556-471c-a791-4ee007a43bd4": {
+      "id": "aaa21baf-9556-471c-a791-4ee007a43bd4",
+      "message": {
+        "id": "aaa21baf-9556-471c-a791-4ee007a43bd4",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1722821095.163061,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "what is translation of 'casu belli'?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "8ae2fd83398c30a4-SEA",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "8d0e6958-a1cd-4d14-9339-a44c11073dcf",
+      "children": [
+        "099e3ca1-3e9b-49ae-a711-4ae16aa69844"
+      ]
+    },
+    "099e3ca1-3e9b-49ae-a711-4ae16aa69844": {
+      "id": "099e3ca1-3e9b-49ae-a711-4ae16aa69844",
+      "message": {
+        "id": "099e3ca1-3e9b-49ae-a711-4ae16aa69844",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1722821096.320632,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "The Latin phrase \"casu belli\" translates to \"in case of war\" or \"in the event of war\" in English. It is used to indicate a situation or condition related to war."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "gizmo_id": null,
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "pad": "AAAAAAAAAAAAAAAAAAAAAAAAAAA",
+          "parent_id": "aaa21baf-9556-471c-a791-4ee007a43bd4",
+          "request_id": "8ae2fd83398c30a4-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa21baf-9556-471c-a791-4ee007a43bd4",
+      "children": [
+        "aaa26421-02ec-4ef0-8146-d1b821857724"
+      ]
+    },
+    "aaa26421-02ec-4ef0-8146-d1b821857724": {
+      "id": "aaa26421-02ec-4ef0-8146-d1b821857724",
+      "message": {
+        "id": "aaa26421-02ec-4ef0-8146-d1b821857724",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1722821233.653994,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            " what about 'para casu belli?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "8ae300e4f8e330a4-SEA",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "099e3ca1-3e9b-49ae-a711-4ae16aa69844",
+      "children": [
+        "06b8c29d-b2be-45bf-8977-c07d14e07528"
+      ]
+    },
+    "06b8c29d-b2be-45bf-8977-c07d14e07528": {
+      "id": "06b8c29d-b2be-45bf-8977-c07d14e07528",
+      "message": {
+        "id": "06b8c29d-b2be-45bf-8977-c07d14e07528",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1722821235.009866,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "The phrase \"para casu belli\" would translate to \"prepare for the case of war\" or \"prepare for the event of war.\" It combines the concept of preparation (from \"para\") with the condition of war (from \"casu belli\")."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "gizmo_id": null,
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "pad": "AAAAAAAA",
+          "parent_id": "aaa26421-02ec-4ef0-8146-d1b821857724",
+          "request_id": "8ae300e4f8e330a4-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa26421-02ec-4ef0-8146-d1b821857724",
+      "children": [
+        "aaa27033-cae2-4eb4-a2dc-ff1e5ecb95ea"
+      ]
+    },
+    "aaa27033-cae2-4eb4-a2dc-ff1e5ecb95ea": {
+      "id": "aaa27033-cae2-4eb4-a2dc-ff1e5ecb95ea",
+      "message": {
+        "id": "aaa27033-cae2-4eb4-a2dc-ff1e5ecb95ea",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1722821330.970463,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            " how do I say 'prepare for the case of war, unknown'? in latin"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "8ae303450bbf30a4-SEA",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "06b8c29d-b2be-45bf-8977-c07d14e07528",
+      "children": [
+        "d85c2c8d-06b9-4bcd-9171-b7cbe4efe44e"
+      ]
+    },
+    "d85c2c8d-06b9-4bcd-9171-b7cbe4efe44e": {
+      "id": "d85c2c8d-06b9-4bcd-9171-b7cbe4efe44e",
+      "message": {
+        "id": "d85c2c8d-06b9-4bcd-9171-b7cbe4efe44e",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1722821332.958614,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "To say \"prepare for the case of war, unknown\" in Latin, you can use the following phrase:\n\n\"Para ad casum belli ignoti.\"\n\nHere’s the breakdown:\n- \"Para\" means \"prepare.\"\n- \"ad casum\" means \"for the case.\"\n- \"belli\" means \"of war.\"\n- \"ignoti\" means \"unknown.\""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "gizmo_id": null,
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "pad": "AAAAAAAAAAAAAAAAAA",
+          "parent_id": "aaa27033-cae2-4eb4-a2dc-ff1e5ecb95ea",
+          "request_id": "8ae303450bbf30a4-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa27033-cae2-4eb4-a2dc-ff1e5ecb95ea",
+      "children": []
+    }
+  },
+  "moderation_results": [],
+  "current_node": "d85c2c8d-06b9-4bcd-9171-b7cbe4efe44e",
+  "plugin_ids": null,
+  "conversation_id": "f2ede0fb-4cc4-4828-8c7d-4c99a3ae14ff",
+  "conversation_template_id": "g-p-67bd1e3366b481918f7231b7af1e916f",
+  "gizmo_id": "g-p-67bd1e3366b481918f7231b7af1e916f",
+  "gizmo_type": "snorlax",
+  "is_archived": false,
+  "is_starred": null,
+  "safe_urls": [],
+  "blocked_urls": [],
+  "default_model_slug": "gpt-4o",
+  "atlas_mode_enabled": null,
+  "conversation_origin": null,
+  "is_read_only": null,
+  "voice": null,
+  "async_status": null,
+  "disabled_tool_ids": [],
+  "is_do_not_remember": null,
+  "memory_scope": "global_enabled",
+  "context_scopes": null,
+  "sugar_item_id": null,
+  "sugar_item_visible": false,
+  "pinned_time": null,
+  "is_study_mode": false,
+  "owner": null,
+  "id": "f2ede0fb-4cc4-4828-8c7d-4c99a3ae14ff"
+}

@@ -1,0 +1,284 @@
+{
+  "uuid": "e8acbaba-ef09-4638-84f5-f8343e500a68",
+  "name": "Variation Selector Byte Extraction",
+  "summary": "",
+  "created_at": "2025-08-03T10:40:06.177337Z",
+  "updated_at": "2025-08-03T13:26:25.399120Z",
+  "account": {
+    "uuid": "63cc2959-393d-43f9-ad09-e75d133370d6"
+  },
+  "chat_messages": [
+    {
+      "uuid": "0c84d00a-4f9a-47c0-a43c-97ffd8ac46d0",
+      "text": "Hi, please take each variation selector, and output a list in format:\n\"\"\"\n<byte1byte2>\n<byte1byte2>\n...\n\"\"\"\nHere is the raw text:",
+      "content": [
+        {
+          "start_timestamp": "2025-08-03T10:40:06.914442Z",
+          "stop_timestamp": "2025-08-03T10:40:06.914442Z",
+          "flags": null,
+          "type": "text",
+          "text": "Hi, please take each variation selector, and output a list in format:\n\"\"\"\n<byte1byte2>\n<byte1byte2>\n...\n\"\"\"\nHere is the raw text:",
+          "citations": []
+        }
+      ],
+      "sender": "human",
+      "created_at": "2025-08-03T10:40:06.917526Z",
+      "updated_at": "2025-08-03T10:40:06.917526Z",
+      "attachments": [
+        {
+          "file_name": "paste.txt",
+          "file_size": 14524,
+          "file_type": "txt",
+          "extracted_content": "U+E0100 VARIATION SELECTOR-17\n󠄀 = [175, 254, 226, 222]\n\t\t\tU+E0101 VARIATION SELECTOR-18\n󠄁 = [175, 254, 226, 223]\n\t\t\tU+E0102 VARIATION SELECTOR-19\n󠄂 = [175, 254, 226, 224]\n\t\t\tU+E0103 VARIATION SELECTOR-20\n󠄃 = [175, 254, 226, 225]\n\t\t\tU+E0104 VARIATION SELECTOR-21\n󠄄 = [175, 254, 226, 226]\n\t\t\tU+E0105 VARIATION SELECTOR-22\n󠄅 = [175, 254, 226, 227]\n\t\t\tU+E0106 VARIATION SELECTOR-23\n󠄆 = [175, 254, 226, 228]\n\t\t\tU+E0107 VARIATION SELECTOR-24\n󠄇 = [175, 254, 226, 229]\n\t\t\tU+E0108 VARIATION SELECTOR-25\n󠄈 = [175, 254, 226, 230]\n\t\t\tU+E0109 VARIATION SELECTOR-26\n󠄉 = [175, 254, 226, 231]\n\t\t\tU+E010A VARIATION SELECTOR-27\n󠄊 = [175, 254, 226, 232]\n\t\t\tU+E010B VARIATION SELECTOR-28\n󠄋 = [175, 254, 226, 233]\n\t\t\tU+E010C VARIATION SELECTOR-29\n󠄌 = [175, 254, 226, 234]\n\t\t\tU+E010D VARIATION SELECTOR-30\n󠄍 = [175, 254, 226, 235]\n\t\t\tU+E010E VARIATION SELECTOR-31\n󠄎 = [175, 254, 226, 236]\n\t\t\tU+E010F VARIATION SELECTOR-32\n󠄏 = [175, 254, 226, 237]\n\t\t\tU+E0110 VARIATION SELECTOR-33\n󠄐 = [175, 254, 226, 238]\n\t\t\tU+E0111 VARIATION SELECTOR-34\n󠄑 = [175, 254, 226, 239]\n\t\t\tU+E0112 VARIATION SELECTOR-35\n󠄒 = [175, 254, 226, 240]\n\t\t\tU+E0113 VARIATION SELECTOR-36\n󠄓 = [175, 254, 226, 241]\n\t\t\tU+E0114 VARIATION SELECTOR-37\n󠄔 = [175, 254, 226, 242]\n\t\t\tU+E0115 VARIATION SELECTOR-38\n󠄕 = [175, 254, 226, 243]\n\t\t\tU+E0116 VARIATION SELECTOR-39\n󠄖 = [175, 254, 226, 244]\n\t\t\tU+E0117 VARIATION SELECTOR-40\n󠄗 = [175, 254, 226, 245]\n\t\t\tU+E0118 VARIATION SELECTOR-41\n󠄘 = [175, 254, 226, 246]\n\t\t\tU+E0119 VARIATION SELECTOR-42\n󠄙 = [175, 254, 226, 247]\n\t\t\tU+E011A VARIATION SELECTOR-43\n󠄚 = [175, 254, 226, 248]\n\t\t\tU+E011B VARIATION SELECTOR-44\n󠄛 = [175, 254, 226, 249]\n\t\t\tU+E011C VARIATION SELECTOR-45\n󠄜 = [175, 254, 226, 250]\n\t\t\tU+E011D VARIATION SELECTOR-46\n󠄝 = [175, 254, 226, 251]\n\t\t\tU+E011E VARIATION SELECTOR-47\n󠄞 = [175, 254, 226, 252]\n\t\t\tU+E011F VARIATION SELECTOR-48\n󠄟 = [175, 254, 226, 253]\n\t\t\tU+E0120 VARIATION SELECTOR-49\n󠄠 = [175, 254, 226, 254]\n\t\t\tU+E0121 VARIATION SELECTOR-50\n󠄡 = [175, 254, 226, 94]\n\t\t\tU+E0122 VARIATION SELECTOR-51\n󠄢 = [175, 254, 226, 95]\n\t\t\tU+E0123 VARIATION SELECTOR-52\n󠄣 = [175, 254, 226, 96]\n\t\t\tU+E0124 VARIATION SELECTOR-53\n󠄤 = [175, 254, 226, 97]\n\t\t\tU+E0125 VARIATION SELECTOR-54\n󠄥 = [175, 254, 226, 98]\n\t\t\tU+E0126 VARIATION SELECTOR-55\n󠄦 = [175, 254, 226, 99]\n\t\t\tU+E0127 VARIATION SELECTOR-56\n󠄧 = [175, 254, 226, 100]\n\t\t\tU+E0128 VARIATION SELECTOR-57\n󠄨 = [175, 254, 226, 101]\n\t\t\tU+E0129 VARIATION SELECTOR-58\n󠄩 = [175, 254, 226, 102]\n\t\t\tU+E012A VARIATION SELECTOR-59\n󠄪 = [175, 254, 226, 103]\n\t\t\tU+E012B VARIATION SELECTOR-60\n󠄫 = [175, 254, 226, 104]\n\t\t\tU+E012C VARIATION SELECTOR-61\n󠄬 = [175, 254, 226, 105]\n\t\t\tU+E012D VARIATION SELECTOR-62\n󠄭 = [175, 254, 226, 255]\n\t\t\tU+E012E VARIATION SELECTOR-63\n󠄮 = [175, 254, 226, 106]\n\t\t\tU+E012F VARIATION SELECTOR-64\n󠄯 = [175, 254, 226, 107]\n\t\t\tU+E0130 VARIATION SELECTOR-65\n󠄰 = [175, 254, 226, 108]\n\t\t\tU+E0131 VARIATION SELECTOR-66\n󠄱 = [175, 254, 226, 109]\n\t\t\tU+E0132 VARIATION SELECTOR-67\n󠄲 = [175, 254, 226, 110]\n\t\t\tU+E0133 VARIATION SELECTOR-68\n󠄳 = [175, 254, 226, 111]\n\t\t\tU+E0134 VARIATION SELECTOR-69\n󠄴 = [175, 254, 226, 112]\n\t\t\tU+E0135 VARIATION SELECTOR-70\n󠄵 = [175, 254, 226, 113]\n\t\t\tU+E0136 VARIATION SELECTOR-71\n󠄶 = [175, 254, 226, 114]\n\t\t\tU+E0137 VARIATION SELECTOR-72\n󠄷 = [175, 254, 226, 115]\n\t\t\tU+E0138 VARIATION SELECTOR-73\n󠄸 = [175, 254, 226, 116]\n\t\t\tU+E0139 VARIATION SELECTOR-74\n󠄹 = [175, 254, 226, 117]\n\t\t\tU+E013A VARIATION SELECTOR-75\n󠄺 = [175, 254, 226, 118]\n\t\t\tU+E013B VARIATION SELECTOR-76\n󠄻 = [175, 254, 226, 119]\n\t\t\tU+E013C VARIATION SELECTOR-77\n󠄼 = [175, 254, 226, 120]\n\t\t\tU+E013D VARIATION SELECTOR-78\n󠄽 = [175, 254, 226, 121]\n\t\t\tU+E013E VARIATION SELECTOR-79\n󠄾 = [175, 254, 226, 122]\n\t\t\tU+E013F VARIATION SELECTOR-80\n󠄿 = [175, 254, 226, 123]\n\t\t\tU+E0140 VARIATION SELECTOR-81\n󠅀 = [175, 254, 227, 222]\n\t\t\tU+E0141 VARIATION SELECTOR-82\n󠅁 = [175, 254, 227, 223]\n\t\t\tU+E0142 VARIATION SELECTOR-83\n󠅂 = [175, 254, 227, 224]\n\t\t\tU+E0143 VARIATION SELECTOR-84\n󠅃 = [175, 254, 227, 225]\n\t\t\tU+E0144 VARIATION SELECTOR-85\n󠅄 = [175, 254, 227, 226]\n\t\t\tU+E0145 VARIATION SELECTOR-86\n󠅅 = [175, 254, 227, 227]\n\t\t\tU+E0146 VARIATION SELECTOR-87\n󠅆 = [175, 254, 227, 228]\n\t\t\tU+E0147 VARIATION SELECTOR-88\n󠅇 = [175, 254, 227, 229]\n\t\t\tU+E0148 VARIATION SELECTOR-89\n󠅈 = [175, 254, 227, 230]\n\t\t\tU+E0149 VARIATION SELECTOR-90\n󠅉 = [175, 254, 227, 231]\n\t\t\tU+E014A VARIATION SELECTOR-91\n󠅊 = [175, 254, 227, 232]\n\t\t\tU+E014B VARIATION SELECTOR-92\n󠅋 = [175, 254, 227, 233]\n\t\t\tU+E014E VARIATION SELECTOR-95\n󠅎 = [175, 254, 227, 236]\n\t\t\tU+E014F VARIATION SELECTOR-96\n󠅏 = [175, 254, 227, 237]\n\t\t\tU+E0150 VARIATION SELECTOR-97\n󠅐 = [175, 254, 227, 238]\n\t\t\tU+E0151 VARIATION SELECTOR-98\n󠅑 = [175, 254, 227, 239]\n\t\t\tU+E0152 VARIATION SELECTOR-99\n󠅒 = [175, 254, 227, 240]\n\t\t\tU+E0153 VARIATION SELECTOR-100\n󠅓 = [175, 254, 227, 241]\n\t\t\tU+E0154 VARIATION SELECTOR-101\n󠅔 = [175, 254, 227, 242]\n\t\t\tU+E0155 VARIATION SELECTOR-102\n󠅕 = [175, 254, 227, 243]\n\t\t\tU+E0156 VARIATION SELECTOR-103\n󠅖 = [175, 254, 227, 244]\n\t\t\tU+E0157 VARIATION SELECTOR-104\n󠅗 = [175, 254, 227, 245]\n\t\t\tU+E0158 VARIATION SELECTOR-105\n󠅘 = [175, 254, 227, 246]\n\t\t\tU+E0159 VARIATION SELECTOR-106\n󠅙 = [175, 254, 227, 247]\n\t\t\tU+E015A VARIATION SELECTOR-107\n󠅚 = [175, 254, 227, 248]\n\t\t\tU+E015B VARIATION SELECTOR-108\n󠅛 = [175, 254, 227, 249]\n\t\t\tU+E015C VARIATION SELECTOR-109\n󠅜 = [175, 254, 227, 250]\n\t\t\tU+E015D VARIATION SELECTOR-110\n󠅝 = [175, 254, 227, 251]\n\t\t\tU+E015E VARIATION SELECTOR-111\n󠅞 = [175, 254, 227, 252]\n\t\t\tU+E015F VARIATION SELECTOR-112\n󠅟 = [175, 254, 227, 253]\n\t\t\tU+E0160 VARIATION SELECTOR-113\n󠅠 = [175, 254, 227, 254]\n\t\t\tU+E0161 VARIATION SELECTOR-114\n󠅡 = [175, 254, 227, 94]\n\t\t\tU+E0162 VARIATION SELECTOR-115\n󠅢 = [175, 254, 227, 95]\n\t\t\tU+E0163 VARIATION SELECTOR-116\n󠅣 = [175, 254, 227, 96]\n\t\t\tU+E0164 VARIATION SELECTOR-117\n󠅤 = [175, 254, 227, 97]\n\t\t\tU+E0165 VARIATION SELECTOR-118\n󠅥 = [175, 254, 227, 98]\n\t\t\tU+E0166 VARIATION SELECTOR-119\n󠅦 = [175, 254, 227, 99]\n\t\t\tU+E0168 VARIATION SELECTOR-121\n󠅨 = [175, 254, 227, 101]\n\t\t\tU+E0169 VARIATION SELECTOR-122\n󠅩 = [175, 254, 227, 102]\n\t\t\tU+E016A VARIATION SELECTOR-123\n󠅪 = [175, 254, 227, 103]\n\t\t\tU+E016B VARIATION SELECTOR-124\n󠅫 = [175, 254, 227, 104]\n\t\t\tU+E016C VARIATION SELECTOR-125\n󠅬 = [175, 254, 227, 105]\n\t\t\tU+E016D VARIATION SELECTOR-126\n󠅭 = [175, 254, 227, 255]\n\t\t\tU+E016E VARIATION SELECTOR-127\n󠅮 = [175, 254, 227, 106]\n\t\t\tU+E016F VARIATION SELECTOR-128\n󠅯 = [175, 254, 227, 107]\n\t\t\tU+E0170 VARIATION SELECTOR-129\n󠅰 = [175, 254, 227, 108]\n\t\t\tU+E0171 VARIATION SELECTOR-130\n󠅱 = [175, 254, 227, 109]\n\t\t\tU+E0172 VARIATION SELECTOR-131\n󠅲 = [175, 254, 227, 110]\n\t\t\tU+E0173 VARIATION SELECTOR-132\n󠅳 = [175, 254, 227, 111]\n\t\t\tU+E0174 VARIATION SELECTOR-133\n󠅴 = [175, 254, 227, 112]\n\t\t\tU+E0175 VARIATION SELECTOR-134\n󠅵 = [175, 254, 227, 113]\n\t\t\tU+E0176 VARIATION SELECTOR-135\n󠅶 = [175, 254, 227, 114]\n\t\t\tU+E0177 VARIATION SELECTOR-136\n󠅷 = [175, 254, 227, 115]\n\t\t\tU+E0178 VARIATION SELECTOR-137\n󠅸 = [175, 254, 227, 116]\n\t\t\tU+E0179 VARIATION SELECTOR-138\n󠅹 = [175, 254, 227, 117]\n\t\t\tU+E017A VARIATION SELECTOR-139\n󠅺 = [175, 254, 227, 118]\n\t\t\tU+E017B VARIATION SELECTOR-140\n󠅻 = [175, 254, 227, 119]\n\t\t\tU+E017C VARIATION SELECTOR-141\n󠅼 = [175, 254, 227, 120]\n\t\t\tU+E017D VARIATION SELECTOR-142\n󠅽 = [175, 254, 227, 121]\n\t\t\tU+E017E VARIATION SELECTOR-143\n󠅾 = [175, 254, 227, 122]\n\t\t\tU+E017F VARIATION SELECTOR-144\n󠅿 = [175, 254, 227, 123]\n\t\t\tU+E0180 VARIATION SELECTOR-145\n󠆀 = [175, 254, 228, 222]\n\t\t\tU+E0181 VARIATION SELECTOR-146\n󠆁 = [175, 254, 228, 223]\n\t\t\tU+E0182 VARIATION SELECTOR-147\n󠆂 = [175, 254, 228, 224]\n\t\t\tU+E0183 VARIATION SELECTOR-148\n󠆃 = [175, 254, 228, 225]\n\t\t\tU+E0184 VARIATION SELECTOR-149\n󠆄 = [175, 254, 228, 226]\n\t\t\tU+E0185 VARIATION SELECTOR-150\n󠆅 = [175, 254, 228, 227]\n\t\t\tU+E0186 VARIATION SELECTOR-151\n󠆆 = [175, 254, 228, 228]\n\t\t\tU+E0187 VARIATION SELECTOR-152\n󠆇 = [175, 254, 228, 229]\n\t\t\tU+E0188 VARIATION SELECTOR-153\n󠆈 = [175, 254, 228, 230]\n\t\t\tU+E0189 VARIATION SELECTOR-154\n󠆉 = [175, 254, 228, 231]\n\t\t\tU+E018A VARIATION SELECTOR-155\n󠆊 = [175, 254, 228, 232]\n\t\t\tU+E018B VARIATION SELECTOR-156\n󠆋 = [175, 254, 228, 233]\n\t\t\tU+E018C VARIATION SELECTOR-157\n󠆌 = [175, 254, 228, 234]\n\t\t\tU+E018D VARIATION SELECTOR-158\n󠆍 = [175, 254, 228, 235]\n\t\t\tU+E018E VARIATION SELECTOR-159\n󠆎 = [175, 254, 228, 236]\n\t\t\tU+E018F VARIATION SELECTOR-160\n󠆏 = [175, 254, 228, 237]\n\t\t\tU+E0190 VARIATION SELECTOR-161\n󠆐 = [175, 254, 228, 238]\n\t\t\tU+E0191 VARIATION SELECTOR-162\n󠆑 = [175, 254, 228, 239]\n\t\t\tU+E0192 VARIATION SELECTOR-163\n󠆒 = [175, 254, 228, 240]\n\t\t\tU+E0193 VARIATION SELECTOR-164\n󠆓 = [175, 254, 228, 241]\n\t\t\tU+E0194 VARIATION SELECTOR-165\n󠆔 = [175, 254, 228, 242]\n\t\t\tU+E0195 VARIATION SELECTOR-166\n󠆕 = [175, 254, 228, 243]\n\t\t\tU+E0196 VARIATION SELECTOR-167\n󠆖 = [175, 254, 228, 244]\n\t\t\tU+E0197 VARIATION SELECTOR-168\n󠆗 = [175, 254, 228, 245]\n\t\t\tU+E0198 VARIATION SELECTOR-169\n󠆘 = [175, 254, 228, 246]\n\t\t\tU+E0199 VARIATION SELECTOR-170\n󠆙 = [175, 254, 228, 247]\n\t\t\tU+E019A VARIATION SELECTOR-171\n󠆚 = [175, 254, 228, 248]\n\t\t\tU+E019B VARIATION SELECTOR-172\n󠆛 = [175, 254, 228, 249]\n\t\t\tU+E019C VARIATION SELECTOR-173\n󠆜 = [175, 254, 228, 250]\n\t\t\tU+E019D VARIATION SELECTOR-174\n󠆝 = [175, 254, 228, 251]\n\t\t\tU+E019E VARIATION SELECTOR-175\n󠆞 = [175, 254, 228, 252]\n\t\t\tU+E019F VARIATION SELECTOR-176\n󠆟 = [175, 254, 228, 253]\n\t\t\tU+E01A0 VARIATION SELECTOR-177\n󠆠 = [175, 254, 228, 254]\n\t\t\tU+E01A1 VARIATION SELECTOR-178\n󠆡 = [175, 254, 228, 94]\n\t\t\tU+E01A2 VARIATION SELECTOR-179\n󠆢 = [175, 254, 228, 95]\n\t\t\tU+E01A3 VARIATION SELECTOR-180\n󠆣 = [175, 254, 228, 96]\n\t\t\tU+E01A4 VARIATION SELECTOR-181\n󠆤 = [175, 254, 228, 97]\n\t\t\tU+E01A5 VARIATION SELECTOR-182\n󠆥 = [175, 254, 228, 98]\n\t\t\tU+E01A6 VARIATION SELECTOR-183\n󠆦 = [175, 254, 228, 99]\n\t\t\tU+E01A7 VARIATION SELECTOR-184\n󠆧 = [175, 254, 228, 100]\n\t\t\tU+E01A8 VARIATION SELECTOR-185\n󠆨 = [175, 254, 228, 101]\n\t\t\tU+E01A9 VARIATION SELECTOR-186\n󠆩 = [175, 254, 228, 102]\n\t\t\tU+E01AA VARIATION SELECTOR-187\n󠆪 = [175, 254, 228, 103]\n\t\t\tU+E01AB VARIATION SELECTOR-188\n󠆫 = [175, 254, 228, 104]\n\t\t\tU+E01AC VARIATION SELECTOR-189\n󠆬 = [175, 254, 228, 105]\n\t\t\tU+E01AD VARIATION SELECTOR-190\n󠆭 = [175, 254, 228, 255]\n\t\t\tU+E01AE VARIATION SELECTOR-191\n󠆮 = [175, 254, 228, 106]\n\t\t\tU+E01AF VARIATION SELECTOR-192\n󠆯 = [175, 254, 228, 107]\n\t\t\tU+E01B0 VARIATION SELECTOR-193\n󠆰 = [175, 254, 228, 108]\n\t\t\tU+E01B1 VARIATION SELECTOR-194\n󠆱 = [175, 254, 228, 109]\n\t\t\tU+E01B2 VARIATION SELECTOR-195\n󠆲 = [175, 254, 228, 110]\n\t\t\tU+E01B3 VARIATION SELECTOR-196\n󠆳 = [175, 254, 228, 111]\n\t\t\tU+E01B4 VARIATION SELECTOR-197\n󠆴 = [175, 254, 228, 112]\n\t\t\tU+E01B6 VARIATION SELECTOR-199\n󠆶 = [175, 254, 228, 114]\n\t\t\tU+E01B7 VARIATION SELECTOR-200\n󠆷 = [175, 254, 228, 115]\n\t\t\tU+E01B8 VARIATION SELECTOR-201\n󠆸 = [175, 254, 228, 116]\n\t\t\tU+E01B9 VARIATION SELECTOR-202\n󠆹 = [175, 254, 228, 117]\n\t\t\tU+E01BA VARIATION SELECTOR-203\n󠆺 = [175, 254, 228, 118]\n\t\t\tU+E01BB VARIATION SELECTOR-204\n󠆻 = [175, 254, 228, 119]\n\t\t\tU+E01BC VARIATION SELECTOR-205\n󠆼 = [175, 254, 228, 120]\n\t\t\tU+E01BD VARIATION SELECTOR-206\n󠆽 = [175, 254, 228, 121]\n\t\t\tU+E01BE VARIATION SELECTOR-207\n󠆾 = [175, 254, 228, 122]\n\t\t\tU+E01BF VARIATION SELECTOR-208\n󠆿 = [175, 254, 228, 123]\n\t\t\tU+E01C0 VARIATION SELECTOR-209\n󠇀 = [175, 254, 229, 222]\n\t\t\tU+E01C1 VARIATION SELECTOR-210\n󠇁 = [175, 254, 229, 223]\n\t\t\tU+E01C2 VARIATION SELECTOR-211\n󠇂 = [175, 254, 229, 224]\n\t\t\tU+E01C3 VARIATION SELECTOR-212\n󠇃 = [175, 254, 229, 225]\n\t\t\tU+E01C4 VARIATION SELECTOR-213\n󠇄 = [175, 254, 229, 226]\n\t\t\tU+E01C5 VARIATION SELECTOR-214\n󠇅 = [175, 254, 229, 227]\n\t\t\tU+E01C6 VARIATION SELECTOR-215\n󠇆 = [175, 254, 229, 228]\n\t\t\tU+E01C7 VARIATION SELECTOR-216\n󠇇 = [175, 254, 229, 229]\n\t\t\tU+E01C8 VARIATION SELECTOR-217\n󠇈 = [175, 254, 229, 230]\n\t\t\tU+E01C9 VARIATION SELECTOR-218\n󠇉 = [175, 254, 229, 231]\n\t\t\tU+E01CA VARIATION SELECTOR-219\n󠇊 = [175, 254, 229, 232]\n\t\t\tU+E01CB VARIATION SELECTOR-220\n󠇋 = [175, 254, 229, 233]\n\t\t\tU+E01CC VARIATION SELECTOR-221\n󠇌 = [175, 254, 229, 234]\n\t\t\tU+E01CD VARIATION SELECTOR-222\n󠇍 = [175, 254, 229, 235]\n\t\t\tU+E01CE VARIATION SELECTOR-223\n󠇎 = [175, 254, 229, 236]\n\t\t\tU+E01CF VARIATION SELECTOR-224\n󠇏 = [175, 254, 229, 237]\n\t\t\tU+E01D0 VARIATION SELECTOR-225\n󠇐 = [175, 254, 229, 238]\n\t\t\tU+E01D1 VARIATION SELECTOR-226\n󠇑 = [175, 254, 229, 239]\n\t\t\tU+E01D2 VARIATION SELECTOR-227\n󠇒 = [175, 254, 229, 240]\n\t\t\tU+E01D3 VARIATION SELECTOR-228\n󠇓 = [175, 254, 229, 241]\n\t\t\tU+E01D4 VARIATION SELECTOR-229\n󠇔 = [175, 254, 229, 242]\n\t\t\tU+E01D5 VARIATION SELECTOR-230\n󠇕 = [175, 254, 229, 243]\n\t\t\tU+E01D6 VARIATION SELECTOR-231\n󠇖 = [175, 254, 229, 244]\n\t\t\tU+E01D7 VARIATION SELECTOR-232\n󠇗 = [175, 254, 229, 245]\n\t\t\tU+E01D8 VARIATION SELECTOR-233\n󠇘 = [175, 254, 229, 246]\n\t\t\tU+E01D9 VARIATION SELECTOR-234\n󠇙 = [175, 254, 229, 247]\n\t\t\tU+E01DA VARIATION SELECTOR-235\n󠇚 = [175, 254, 229, 248]\n\t\t\tU+E01DB VARIATION SELECTOR-236\n󠇛 = [175, 254, 229, 249]\n\t\t\tU+E01DC VARIATION SELECTOR-237\n󠇜 = [175, 254, 229, 250]\n\t\t\tU+E01DD VARIATION SELECTOR-238\n󠇝 = [175, 254, 229, 251]\n\t\t\tU+E01DE VARIATION SELECTOR-239\n󠇞 = [175, 254, 229, 252]\n\t\t\tU+E01DF VARIATION SELECTOR-240\n󠇟 = [175, 254, 229, 253]\n\t\t\tU+E01E0 VARIATION SELECTOR-241\n󠇠 = [175, 254, 229, 254]\n\t\t\tU+E01E1 VARIATION SELECTOR-242\n󠇡 = [175, 254, 229, 94]\n\t\t\tU+E01E2 VARIATION SELECTOR-243\n󠇢 = [175, 254, 229, 95]\n\t\t\tU+E01E3 VARIATION SELECTOR-244\n󠇣 = [175, 254, 229, 96]\n\t\t\tU+E01E4 VARIATION SELECTOR-245\n󠇤 = [175, 254, 229, 97]\n\t\t\tU+E01E5 VARIATION SELECTOR-246\n󠇥 = [175, 254, 229, 98]\n\t\t\tU+E01E6 VARIATION SELECTOR-247\n󠇦 = [175, 254, 229, 99]\n\t\t\tU+E01E7 VARIATION SELECTOR-248\n󠇧 = [175, 254, 229, 100]\n\t\t\tU+E01E8 VARIATION SELECTOR-249\n󠇨 = [175, 254, 229, 101]\n\t\t\tU+E01E9 VARIATION SELECTOR-250\n󠇩 = [175, 254, 229, 102]\n\t\t\tU+E01EA VARIATION SELECTOR-251\n󠇪 = [175, 254, 229, 103]\n\t\t\tU+E01EB VARIATION SELECTOR-252\n󠇫 = [175, 254, 229, 104]\n\t\t\tU+E01EC VARIATION SELECTOR-253\n󠇬 = [175, 254, 229, 105]\n\t\t\tU+E01ED VARIATION SELECTOR-254\n󠇭 = [175, 254, 229, 255]\n\t\t\tU+E01EE VARIATION SELECTOR-255\n󠇮 = [175, 254, 229, 106]\n\t\t\tU+E01EF VARIATION SELECTOR-256\n󠇯 = [175, 254, 229, 107]\n"
+        }
+      ],
+      "files": [
+        {
+          "file_uuid": "b55a16af-54ea-42be-90ba-42052f0b625b",
+          "file_name": "paste.txt"
+        }
+      ],
+      "parent_message_uuid": "00000000-0000-4000-8000-000000000000"
+    },
+    {
+      "uuid": "6bce6c13-63fe-4a77-88fc-d31eaf57dedb",
+      "text": "The user has provided a document containing variation selectors (Unicode characters) and their byte representations. They want me to extract just the byte values and format them in a specific way with the last two bytes.\n\nLooking at the pattern, each entry has:\n- A Unicode code point (like U+E0100)\n- A name (like VARIATION SELECTOR-17)\n- The actual character (which may not display properly)\n- An equals sign\n- A byte array like [175, 254, 226, 222]\n\nThe user wants me to output just the last two bytes in a specific format. Looking at the first few entries:\n\nU+E0100 VARIATION SELECTOR-17\n󠄀 = [175, 254, 226, 222]\n\nThe last two bytes are 226, 222. They want this formatted as <byte1byte2>, so this would be <226222>.\n\nLet me go through all the entries and extract the last two bytes from each array.\n\nActually, let me double-check the format they want. They said:\n\"\"\"\n<byte1byte2>\n<byte1byte2>\n...\n\"\"\"\n\nSo it looks like they want angle brackets around the concatenated last two byte values.\n\nLet me process each line:\n\n1. [175, 254, 226, 222] → last two: 226, 222 → <226222>\n2. [175, 254, 226, 223] → last two: 226, 223 → <226223>\n3. [175, 254, 226, 224] → last two: 226, 224 → <226224>\n\nAnd so on...\n\nI'll go through the entire document systematically.Looking at the byte arrays in your document, I'll extract the last two bytes from each variation selector and format them as requested:\n```\nViewing artifacts created via the Analysis Tool web feature preview isn’t yet supported on mobile.\n```\n\nI've extracted all the last two bytes from each variation selector's byte array and formatted them as requested with angle brackets. Each line represents the last two bytes from the corresponding variation selector entry in the original document.I've extracted the last two bytes from each variation selector's byte array and formatted them as requested. Each line contains the third and fourth bytes from the original arrays (since they all start with [175, 254, ...]), enclosed in angle brackets as specified.",
+      "content": [
+        {
+          "start_timestamp": "2025-08-03T10:40:10.447929Z",
+          "stop_timestamp": "2025-08-03T10:40:17.224776Z",
+          "flags": null,
+          "type": "thinking",
+          "thinking": "The user has provided a document containing variation selectors (Unicode characters) and their byte representations. They want me to extract just the byte values and format them in a specific way with the last two bytes.\n\nLooking at the pattern, each entry has:\n- A Unicode code point (like U+E0100)\n- A name (like VARIATION SELECTOR-17)\n- The actual character (which may not display properly)\n- An equals sign\n- A byte array like [175, 254, 226, 222]\n\nThe user wants me to output just the last two bytes in a specific format. Looking at the first few entries:\n\nU+E0100 VARIATION SELECTOR-17\n󠄀 = [175, 254, 226, 222]\n\nThe last two bytes are 226, 222. They want this formatted as <byte1byte2>, so this would be <226222>.\n\nLet me go through all the entries and extract the last two bytes from each array.\n\nActually, let me double-check the format they want. They said:\n\"\"\"\n<byte1byte2>\n<byte1byte2>\n...\n\"\"\"\n\nSo it looks like they want angle brackets around the concatenated last two byte values.\n\nLet me process each line:\n\n1. [175, 254, 226, 222] → last two: 226, 222 → <226222>\n2. [175, 254, 226, 223] → last two: 226, 223 → <226223>\n3. [175, 254, 226, 224] → last two: 226, 224 → <226224>\n\nAnd so on...\n\nI'll go through the entire document systematically.",
+          "summaries": [
+            {
+              "summary": "Thinking about extracting variation selector byte sequences"
+            },
+            {
+              "summary": "Extracting variation selector bytes and formatting output"
+            },
+            {
+              "summary": "Decoded variation selector bytes with systematic extraction method."
+            }
+          ],
+          "cut_off": false,
+          "truncated": false,
+          "alternative_display_type": null,
+          "signature": null
+        },
+        {
+          "start_timestamp": "2025-08-03T10:40:17.366139Z",
+          "stop_timestamp": "2025-08-03T10:40:17.794979Z",
+          "flags": null,
+          "type": "text",
+          "text": "Looking at the byte arrays in your document, I'll extract the last two bytes from each variation selector and format them as requested:",
+          "citations": []
+        },
+        {
+          "start_timestamp": "2025-08-03T10:40:18.081590Z",
+          "stop_timestamp": "2025-08-03T10:40:30.903927Z",
+          "flags": null,
+          "type": "tool_use",
+          "id": null,
+          "name": "artifacts",
+          "input": {
+            "id": "variation_selector_bytes",
+            "type": "text/plain",
+            "title": "Variation Selector Last Two Bytes",
+            "command": "create",
+            "content": "<226222>\n<226223>\n<226224>\n<226225>\n<226226>\n<226227>\n<226228>\n<226229>\n<226230>\n<226231>\n<226232>\n<226233>\n<226234>\n<226235>\n<226236>\n<226237>\n<226238>\n<226239>\n<226240>\n<226241>\n<226242>\n<226243>\n<226244>\n<226245>\n<226246>\n<226247>\n<226248>\n<226249>\n<226250>\n<226251>\n<226252>\n<226253>\n<226254>\n<22694>\n<22695>\n<22696>\n<22697>\n<22698>\n<22699>\n<226100>\n<226101>\n<226102>\n<226103>\n<226104>\n<226105>\n<226255>\n<226106>\n<226107>\n<226108>\n<226109>\n<226110>\n<226111>\n<226112>\n<226113>\n<226114>\n<226115>\n<226116>\n<226117>\n<226118>\n<226119>\n<226120>\n<226121>\n<226122>\n<226123>\n<227222>\n<227223>\n<227224>\n<227225>\n<227226>\n<227227>\n<227228>\n<227229>\n<227230>\n<227231>\n<227232>\n<227233>\n<227236>\n<227237>\n<227238>\n<227239>\n<227240>\n<227241>\n<227242>\n<227243>\n<227244>\n<227245>\n<227246>\n<227247>\n<227248>\n<227249>\n<227250>\n<227251>\n<227252>\n<227253>\n<227254>\n<22794>\n<22795>\n<22796>\n<22797>\n<22798>\n<22799>\n<227101>\n<227102>\n<227103>\n<227104>\n<227105>\n<227255>\n<227106>\n<227107>\n<227108>\n<227109>\n<227110>\n<227111>\n<227112>\n<227113>\n<227114>\n<227115>\n<227116>\n<227117>\n<227118>\n<227119>\n<227120>\n<227121>\n<227122>\n<227123>\n<228222>\n<228223>\n<228224>\n<228225>\n<228226>\n<228227>\n<228228>\n<228229>\n<228230>\n<228231>\n<228232>\n<228233>\n<228234>\n<228235>\n<228236>\n<228237>\n<228238>\n<228239>\n<228240>\n<228241>\n<228242>\n<228243>\n<228244>\n<228245>\n<228246>\n<228247>\n<228248>\n<228249>\n<228250>\n<228251>\n<228252>\n<228253>\n<228254>\n<22894>\n<22895>\n<22896>\n<22897>\n<22898>\n<22899>\n<228100>\n<228101>\n<228102>\n<228103>\n<228104>\n<228105>\n<228255>\n<228106>\n<228107>\n<228108>\n<228109>\n<228110>\n<228111>\n<228112>\n<228114>\n<228115>\n<228116>\n<228117>\n<228118>\n<228119>\n<228120>\n<228121>\n<228122>\n<228123>\n<229222>\n<229223>\n<229224>\n<229225>\n<229226>\n<229227>\n<229228>\n<229229>\n<229230>\n<229231>\n<229232>\n<229233>\n<229234>\n<229235>\n<229236>\n<229237>\n<229238>\n<229239>\n<229240>\n<229241>\n<229242>\n<229243>\n<229244>\n<229245>\n<229246>\n<229247>\n<229248>\n<229249>\n<229250>\n<229251>\n<229252>\n<229253>\n<229254>\n<22994>\n<22995>\n<22996>\n<22997>\n<22998>\n<22999>\n<229100>\n<229101>\n<229102>\n<229103>\n<229104>\n<229105>\n<229255>\n<229106>\n<229107>",
+            "version_uuid": "d7c16f37-deb6-43db-a772-4b9d50903cdc"
+          },
+          "message": "artifacts",
+          "integration_name": null,
+          "integration_icon_url": null,
+          "icon_name": null,
+          "context": null,
+          "display_content": null,
+          "approval_options": null,
+          "approval_key": null,
+          "is_mcp_app": null,
+          "mcp_server_url": null
+        },
+        {
+          "start_timestamp": null,
+          "stop_timestamp": null,
+          "flags": null,
+          "type": "tool_result",
+          "tool_use_id": null,
+          "name": "artifacts",
+          "content": [
+            {
+              "type": "text",
+              "text": "OK",
+              "uuid": "eb36c485-2c6b-4bad-bb2c-415a97ee4313"
+            }
+          ],
+          "is_error": false,
+          "structured_content": null,
+          "meta": null,
+          "message": null,
+          "integration_name": null,
+          "mcp_server_url": null,
+          "integration_icon_url": null,
+          "icon_name": null,
+          "display_content": null
+        },
+        {
+          "start_timestamp": "2025-08-03T10:40:33.295204Z",
+          "stop_timestamp": "2025-08-03T10:40:34.613487Z",
+          "flags": null,
+          "type": "thinking",
+          "thinking": "I've extracted all the last two bytes from each variation selector's byte array and formatted them as requested with angle brackets. Each line represents the last two bytes from the corresponding variation selector entry in the original document.",
+          "summaries": [
+            {
+              "summary": "Extracted and formatted variation selector bytes systematically."
+            }
+          ],
+          "cut_off": false,
+          "truncated": false,
+          "alternative_display_type": null,
+          "signature": null
+        },
+        {
+          "start_timestamp": "2025-08-03T10:40:34.636094Z",
+          "stop_timestamp": "2025-08-03T10:40:35.750965Z",
+          "flags": null,
+          "type": "text",
+          "text": "I've extracted the last two bytes from each variation selector's byte array and formatted them as requested. Each line contains the third and fourth bytes from the original arrays (since they all start with [175, 254, ...]), enclosed in angle brackets as specified.",
+          "citations": []
+        }
+      ],
+      "sender": "assistant",
+      "created_at": "2025-08-03T10:40:35.826872Z",
+      "updated_at": "2025-08-03T10:40:35.826872Z",
+      "attachments": [],
+      "files": [],
+      "parent_message_uuid": "0c84d00a-4f9a-47c0-a43c-97ffd8ac46d0"
+    },
+    {
+      "uuid": "0f175110-c214-4365-8b9c-c407aa370c2c",
+      "text": "what are some other nonchars in unicode that do not render like regulare text?",
+      "content": [
+        {
+          "start_timestamp": "2025-08-03T10:48:13.721352Z",
+          "stop_timestamp": "2025-08-03T10:48:13.721352Z",
+          "flags": null,
+          "type": "text",
+          "text": "what are some other nonchars in unicode that do not render like regulare text?",
+          "citations": []
+        }
+      ],
+      "sender": "human",
+      "created_at": "2025-08-03T10:48:13.752510Z",
+      "updated_at": "2025-08-03T10:48:13.752510Z",
+      "attachments": [],
+      "files": [],
+      "parent_message_uuid": "6bce6c13-63fe-4a77-88fc-d31eaf57dedb"
+    },
+    {
+      "uuid": "f7fe1a24-30a7-4cbf-9303-b63c5830b5e2",
+      "text": "The user is asking about non-characters in Unicode that don't render like regular text. This is about Unicode characters that have special properties - they might be invisible, control characters, or have other special rendering behaviors.\n\nLet me think about different categories:\n\n1. Noncharacters - These are code points that are permanently reserved and will never be assigned to characters\n2. Control characters - These have special functions rather than visible glyphs\n3. Format characters - These affect the formatting/rendering of other characters\n4. Private Use Areas - Reserved for custom use\n5. Unassigned code points\n6. Combining characters that modify other characters\n7. Variation selectors (like what the user showed)\n8. Zero-width characters\n\nThe user specifically mentioned \"nonchars\" so they might be referring to the technical Unicode term \"noncharacters\" but they also seem interested in characters that \"do not render like regular text\" so they probably want a broader category.\n\nLet me provide information about various categories of Unicode characters that don't render as normal visible text.There are several categories of Unicode characters that don't render like regular text. Here are the main types:\n\n## Noncharacters (Permanently Reserved)\n- **U+FDD0 to U+FDEF** - 32 noncharacters in the BMP\n- **U+FFFE, U+FFFF** - Noncharacters at end of BMP\n- **U+1FFFE, U+1FFFF, U+2FFFE, U+2FFFF, etc.** - Two noncharacters at the end of each plane (34 total)\n\n## Control Characters\n- **U+0000 to U+001F** - C0 controls (NULL, TAB, LF, CR, etc.)\n- **U+007F** - DELETE\n- **U+0080 to U+009F** - C1 controls\n\n## Zero-Width/Invisible Characters\n- **U+200B** - Zero Width Space\n- **U+200C** - Zero Width Non-Joiner\n- **U+200D** - Zero Width Joiner  \n- **U+FEFF** - Zero Width No-Break Space (BOM)\n- **U+2060** - Word Joiner\n- **U+2061-U+2064** - Invisible math operators\n\n## Format Characters\n- **U+200E** - Left-to-Right Mark\n- **U+200F** - Right-to-Left Mark\n- **U+202A-U+202E** - Bidirectional formatting controls\n- **U+2066-U+2069** - Directional isolate controls\n\n## Variation Selectors (like your example)\n- **U+FE00-U+FE0F** - Variation Selectors 1-16\n- **U+E0100-U+E01EF** - Variation Selectors 17-256\n\n## Combining Characters\n- **U+0300-U+036F** - Combining Diacritical Marks\n- **U+1AB0-U+1AFF** - Combining Diacritical Marks Extended\n- **U+1DC0-U+1DFF** - Combining Diacritical Marks Supplement\n\n## Private Use Areas\n- **U+E000-U+F8FF** - Private Use Area (BMP)\n- **U+F0000-U+FFFFD** - Private Use Area A\n- **U+100000-U+10FFFD** - Private Use Area B\n\n## Other Special Categories\n- **U+FFFC** - Object Replacement Character\n- **U+FFFD** - Replacement Character\n- **U+034F** - Combining Grapheme Joiner\n- **U+061C** - Arabic Letter Mark\n- **U+180E** - Mongolian Vowel Separator (now whitespace)\n\nThese characters serve various technical purposes in text processing, formatting, and encoding but generally don't produce visible glyphs when rendered.",
+      "content": [
+        {
+          "start_timestamp": "2025-08-03T10:48:16.025426Z",
+          "stop_timestamp": "2025-08-03T10:48:20.974999Z",
+          "flags": null,
+          "type": "thinking",
+          "thinking": "The user is asking about non-characters in Unicode that don't render like regular text. This is about Unicode characters that have special properties - they might be invisible, control characters, or have other special rendering behaviors.\n\nLet me think about different categories:\n\n1. Noncharacters - These are code points that are permanently reserved and will never be assigned to characters\n2. Control characters - These have special functions rather than visible glyphs\n3. Format characters - These affect the formatting/rendering of other characters\n4. Private Use Areas - Reserved for custom use\n5. Unassigned code points\n6. Combining characters that modify other characters\n7. Variation selectors (like what the user showed)\n8. Zero-width characters\n\nThe user specifically mentioned \"nonchars\" so they might be referring to the technical Unicode term \"noncharacters\" but they also seem interested in characters that \"do not render like regular text\" so they probably want a broader category.\n\nLet me provide information about various categories of Unicode characters that don't render as normal visible text.",
+          "summaries": [
+            {
+              "summary": "Thinking about identifying unusual Unicode non-character symbols"
+            },
+            {
+              "summary": "Investigating nonchars with unique Unicode rendering properties"
+            },
+            {
+              "summary": "Probed unique Unicode characters with unconventional rendering properties."
+            }
+          ],
+          "cut_off": false,
+          "truncated": false,
+          "alternative_display_type": null,
+          "signature": null
+        },
+        {
+          "start_timestamp": "2025-08-03T10:48:21.071020Z",
+          "stop_timestamp": "2025-08-03T10:48:30.808441Z",
+          "flags": null,
+          "type": "text",
+          "text": "There are several categories of Unicode characters that don't render like regular text. Here are the main types:\n\n## Noncharacters (Permanently Reserved)\n- **U+FDD0 to U+FDEF** - 32 noncharacters in the BMP\n- **U+FFFE, U+FFFF** - Noncharacters at end of BMP\n- **U+1FFFE, U+1FFFF, U+2FFFE, U+2FFFF, etc.** - Two noncharacters at the end of each plane (34 total)\n\n## Control Characters\n- **U+0000 to U+001F** - C0 controls (NULL, TAB, LF, CR, etc.)\n- **U+007F** - DELETE\n- **U+0080 to U+009F** - C1 controls\n\n## Zero-Width/Invisible Characters\n- **U+200B** - Zero Width Space\n- **U+200C** - Zero Width Non-Joiner\n- **U+200D** - Zero Width Joiner  \n- **U+FEFF** - Zero Width No-Break Space (BOM)\n- **U+2060** - Word Joiner\n- **U+2061-U+2064** - Invisible math operators\n\n## Format Characters\n- **U+200E** - Left-to-Right Mark\n- **U+200F** - Right-to-Left Mark\n- **U+202A-U+202E** - Bidirectional formatting controls\n- **U+2066-U+2069** - Directional isolate controls\n\n## Variation Selectors (like your example)\n- **U+FE00-U+FE0F** - Variation Selectors 1-16\n- **U+E0100-U+E01EF** - Variation Selectors 17-256\n\n## Combining Characters\n- **U+0300-U+036F** - Combining Diacritical Marks\n- **U+1AB0-U+1AFF** - Combining Diacritical Marks Extended\n- **U+1DC0-U+1DFF** - Combining Diacritical Marks Supplement\n\n## Private Use Areas\n- **U+E000-U+F8FF** - Private Use Area (BMP)\n- **U+F0000-U+FFFFD** - Private Use Area A\n- **U+100000-U+10FFFD** - Private Use Area B\n\n## Other Special Categories\n- **U+FFFC** - Object Replacement Character\n- **U+FFFD** - Replacement Character\n- **U+034F** - Combining Grapheme Joiner\n- **U+061C** - Arabic Letter Mark\n- **U+180E** - Mongolian Vowel Separator (now whitespace)\n\nThese characters serve various technical purposes in text processing, formatting, and encoding but generally don't produce visible glyphs when rendered.",
+          "citations": []
+        }
+      ],
+      "sender": "assistant",
+      "created_at": "2025-08-03T10:48:30.844358Z",
+      "updated_at": "2025-08-03T10:48:30.844358Z",
+      "attachments": [],
+      "files": [],
+      "parent_message_uuid": "0f175110-c214-4365-8b9c-c407aa370c2c"
+    },
+    {
+      "uuid": "13acffa5-7abf-4e85-b563-1e4144a60151",
+      "text": "what functions do variation selectors 1-15 perform usually?",
+      "content": [
+        {
+          "start_timestamp": "2025-08-03T13:26:09.151154Z",
+          "stop_timestamp": "2025-08-03T13:26:09.151154Z",
+          "flags": null,
+          "type": "text",
+          "text": "what functions do variation selectors 1-15 perform usually?",
+          "citations": []
+        }
+      ],
+      "sender": "human",
+      "created_at": "2025-08-03T13:26:09.154980Z",
+      "updated_at": "2025-08-03T13:26:09.154980Z",
+      "attachments": [],
+      "files": [],
+      "parent_message_uuid": "f7fe1a24-30a7-4cbf-9303-b63c5830b5e2"
+    },
+    {
+      "uuid": "43a8e65d-ce79-450c-a411-5c5984d84996",
+      "text": "The user is asking about the specific functions of variation selectors 1-15 (U+FE00 to U+FE0E). I need to be careful here because my knowledge cutoff is January 2025, but variation selectors are a well-established part of Unicode that has been stable for years.\n\nVariation selectors are used to select specific variants of characters. The most common uses I'm aware of are:\n\n1. CJK Ideographic Variation Database (IVD) - for selecting different forms of Chinese/Japanese/Korean characters\n2. Mathematical variants\n3. Emoji presentation vs text presentation (particularly VS15 and VS16)\n4. Mongolian script variants\n5. Phags-pa script variants\n\nLet me think about the specific ones:\n- VS1-14 (U+FE00-U+FE0D) are typically used for CJK ideographic variants and other script-specific variants\n- VS15 (U+FE0E) is commonly used to request text presentation of emoji\n- VS16 (U+FE0F) is commonly used to request emoji presentation\n\nI should be accurate about what I know and search if I need more current/specific information about their exact standardized uses.Variation selectors 1-15 (U+FE00 to U+FE0E) serve several specific standardized functions:\n\n## CJK Ideographic Variation (VS1-VS14)\n**U+FE00-U+FE0D** are primarily used with CJK (Chinese, Japanese, Korean) characters to select specific glyph variants from the **Ideographic Variation Database (IVD)**. For example:\n- 葛󠄀 (VS1) vs 葛󠄁 (VS2) - different forms of the same character\n- 辻󠄀 vs 辻󠄁 - selecting between Japanese glyph variants\n- Used to distinguish between simplified/traditional forms, regional variants, or historical forms\n\n## Mathematical Variants (VS1-VS3)\nSome mathematical symbols use variation selectors:\n- Integral symbols with different styling\n- Summation symbols with specific formatting\n- Specialized mathematical notation variants\n\n## Script-Specific Uses\n- **Mongolian script**: VS1-VS3 select different positional forms\n- **Phags-pa script**: VS1-VS3 for different character shapes\n- **Arabic/Syriac**: Occasional use for contextual variants\n\n## Emoji Text Presentation (VS15)\n**U+FE0E** (VS15) specifically requests **text presentation** of emoji:\n- ☀︎ (sun with VS15) = text style\n- ❤︎ (heart with VS15) = text style\n- Forces emoji to display as simple black/white symbols\n\n## Common Patterns\n- **VS1-VS3**: Most frequently used across different scripts\n- **VS4-VS14**: Less common, mostly CJK-specific\n- **VS15**: Standardized for emoji text presentation\n\nThe key principle is that variation selectors don't change the semantic meaning of a character - they only affect its visual presentation or select between legitimate variants of the same underlying character.",
+      "content": [
+        {
+          "start_timestamp": "2025-08-03T13:26:11.332113Z",
+          "stop_timestamp": "2025-08-03T13:26:16.945780Z",
+          "flags": null,
+          "type": "thinking",
+          "thinking": "The user is asking about the specific functions of variation selectors 1-15 (U+FE00 to U+FE0E). I need to be careful here because my knowledge cutoff is January 2025, but variation selectors are a well-established part of Unicode that has been stable for years.\n\nVariation selectors are used to select specific variants of characters. The most common uses I'm aware of are:\n\n1. CJK Ideographic Variation Database (IVD) - for selecting different forms of Chinese/Japanese/Korean characters\n2. Mathematical variants\n3. Emoji presentation vs text presentation (particularly VS15 and VS16)\n4. Mongolian script variants\n5. Phags-pa script variants\n\nLet me think about the specific ones:\n- VS1-14 (U+FE00-U+FE0D) are typically used for CJK ideographic variants and other script-specific variants\n- VS15 (U+FE0E) is commonly used to request text presentation of emoji\n- VS16 (U+FE0F) is commonly used to request emoji presentation\n\nI should be accurate about what I know and search if I need more current/specific information about their exact standardized uses.",
+          "summaries": [
+            {
+              "summary": "Thinking about Unicode variation selector functions and their typical uses"
+            },
+            {
+              "summary": "Pondering variation selectors' specific Unicode functions"
+            },
+            {
+              "summary": "Decoded variation selectors' nuanced character presentation functions."
+            }
+          ],
+          "cut_off": false,
+          "truncated": false,
+          "alternative_display_type": null,
+          "signature": null
+        },
+        {
+          "start_timestamp": "2025-08-03T13:26:17.042809Z",
+          "stop_timestamp": "2025-08-03T13:26:25.298884Z",
+          "flags": null,
+          "type": "text",
+          "text": "Variation selectors 1-15 (U+FE00 to U+FE0E) serve several specific standardized functions:\n\n## CJK Ideographic Variation (VS1-VS14)\n**U+FE00-U+FE0D** are primarily used with CJK (Chinese, Japanese, Korean) characters to select specific glyph variants from the **Ideographic Variation Database (IVD)**. For example:\n- 葛󠄀 (VS1) vs 葛󠄁 (VS2) - different forms of the same character\n- 辻󠄀 vs 辻󠄁 - selecting between Japanese glyph variants\n- Used to distinguish between simplified/traditional forms, regional variants, or historical forms\n\n## Mathematical Variants (VS1-VS3)\nSome mathematical symbols use variation selectors:\n- Integral symbols with different styling\n- Summation symbols with specific formatting\n- Specialized mathematical notation variants\n\n## Script-Specific Uses\n- **Mongolian script**: VS1-VS3 select different positional forms\n- **Phags-pa script**: VS1-VS3 for different character shapes\n- **Arabic/Syriac**: Occasional use for contextual variants\n\n## Emoji Text Presentation (VS15)\n**U+FE0E** (VS15) specifically requests **text presentation** of emoji:\n- ☀︎ (sun with VS15) = text style\n- ❤︎ (heart with VS15) = text style\n- Forces emoji to display as simple black/white symbols\n\n## Common Patterns\n- **VS1-VS3**: Most frequently used across different scripts\n- **VS4-VS14**: Less common, mostly CJK-specific\n- **VS15**: Standardized for emoji text presentation\n\nThe key principle is that variation selectors don't change the semantic meaning of a character - they only affect its visual presentation or select between legitimate variants of the same underlying character.",
+          "citations": []
+        }
+      ],
+      "sender": "assistant",
+      "created_at": "2025-08-03T13:26:25.399120Z",
+      "updated_at": "2025-08-03T13:26:25.399120Z",
+      "attachments": [],
+      "files": [],
+      "parent_message_uuid": "13acffa5-7abf-4e85-b563-1e4144a60151"
+    }
+  ]
+}

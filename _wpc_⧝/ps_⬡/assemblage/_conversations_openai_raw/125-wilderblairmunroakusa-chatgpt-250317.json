@@ -1,0 +1,194 @@
+{
+  "title": "Message clarification request",
+  "create_time": 1742241207.746765,
+  "update_time": 1755090608.391122,
+  "mapping": {
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null,
+      "children": [
+        "c43f7d8a-3dd6-4312-be86-66a51537ef34"
+      ]
+    },
+    "c43f7d8a-3dd6-4312-be86-66a51537ef34": {
+      "id": "c43f7d8a-3dd6-4312-be86-66a51537ef34",
+      "message": {
+        "id": "c43f7d8a-3dd6-4312-be86-66a51537ef34",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "can_save": false
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "client-created-root",
+      "children": [
+        "44ec4d11-54b6-404d-bd7b-8d2c32869a49"
+      ]
+    },
+    "44ec4d11-54b6-404d-bd7b-8d2c32869a49": {
+      "id": "44ec4d11-54b6-404d-bd7b-8d2c32869a49",
+      "message": {
+        "id": "44ec4d11-54b6-404d-bd7b-8d2c32869a49",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1742241206.284,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "adfgwfbged"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          },
+          "dictation": false,
+          "request_id": "921f095678ef757c-SEA",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "c43f7d8a-3dd6-4312-be86-66a51537ef34",
+      "children": [
+        "10a53426-8e21-48ec-aee5-ae147f70d314"
+      ]
+    },
+    "10a53426-8e21-48ec-aee5-ae147f70d314": {
+      "id": "10a53426-8e21-48ec-aee5-ae147f70d314",
+      "message": {
+        "id": "10a53426-8e21-48ec-aee5-ae147f70d314",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1742241214.15363,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "message_type": null,
+          "model_slug": "gpt-4-5",
+          "default_model_slug": "gpt-4-5",
+          "parent_id": "44ec4d11-54b6-404d-bd7b-8d2c32869a49",
+          "request_id": "921f095678ef757c-SEA",
+          "timestamp_": "absolute",
+          "can_save": false
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "44ec4d11-54b6-404d-bd7b-8d2c32869a49",
+      "children": [
+        "83754efe-6e64-48b2-ab4f-c455c7f58624"
+      ]
+    },
+    "83754efe-6e64-48b2-ab4f-c455c7f58624": {
+      "id": "83754efe-6e64-48b2-ab4f-c455c7f58624",
+      "message": {
+        "id": "83754efe-6e64-48b2-ab4f-c455c7f58624",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1742241207.880451,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "It seems your message might have been sent by mistake or is unclear. Could you please clarify or resend what you intended?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-5",
+          "default_model_slug": "gpt-4-5",
+          "parent_id": "10a53426-8e21-48ec-aee5-ae147f70d314",
+          "request_id": "921f095678ef757c-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "10a53426-8e21-48ec-aee5-ae147f70d314",
+      "children": []
+    }
+  },
+  "moderation_results": [],
+  "current_node": "83754efe-6e64-48b2-ab4f-c455c7f58624",
+  "plugin_ids": null,
+  "conversation_id": "67d87db7-6994-8003-acfd-3825cfe5faa1",
+  "conversation_template_id": null,
+  "gizmo_id": null,
+  "gizmo_type": null,
+  "is_archived": false,
+  "is_starred": null,
+  "safe_urls": [],
+  "blocked_urls": [],
+  "default_model_slug": "gpt-4-5",
+  "atlas_mode_enabled": null,
+  "conversation_origin": null,
+  "is_read_only": null,
+  "voice": null,
+  "async_status": null,
+  "disabled_tool_ids": [],
+  "is_do_not_remember": null,
+  "memory_scope": "global_enabled",
+  "context_scopes": null,
+  "sugar_item_id": null,
+  "sugar_item_visible": false,
+  "pinned_time": null,
+  "is_study_mode": false,
+  "owner": null,
+  "id": "67d87db7-6994-8003-acfd-3825cfe5faa1"
+}

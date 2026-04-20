@@ -1,0 +1,145 @@
+{
+  "title": "Rephrase Bad Language.",
+  "create_time": 1691435986.912492,
+  "update_time": 1755090847.458934,
+  "mapping": {
+    "aaa1cb96-7c1b-4a45-9eab-8e03ab6a7240": {
+      "id": "aaa1cb96-7c1b-4a45-9eab-8e03ab6a7240",
+      "message": null,
+      "parent": null,
+      "children": [
+        "91f69f47-cd7d-4aeb-a232-9ac458ab3667"
+      ]
+    },
+    "91f69f47-cd7d-4aeb-a232-9ac458ab3667": {
+      "id": "91f69f47-cd7d-4aeb-a232-9ac458ab3667",
+      "message": {
+        "id": "91f69f47-cd7d-4aeb-a232-9ac458ab3667",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1691435986.912789,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "can_save": false
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa1cb96-7c1b-4a45-9eab-8e03ab6a7240",
+      "children": [
+        "aaa24e1e-7bde-4443-a158-a4c50d029785"
+      ]
+    },
+    "aaa24e1e-7bde-4443-a158-a4c50d029785": {
+      "id": "aaa24e1e-7bde-4443-a158-a4c50d029785",
+      "message": {
+        "id": "aaa24e1e-7bde-4443-a158-a4c50d029785",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1691435986.927542,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "MAKE BAD WORD SENTENCE GOOD WORD"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "91f69f47-cd7d-4aeb-a232-9ac458ab3667",
+      "children": [
+        "227d3287-e841-4fcd-bae8-92b7de134f4d"
+      ]
+    },
+    "227d3287-e841-4fcd-bae8-92b7de134f4d": {
+      "id": "227d3287-e841-4fcd-bae8-92b7de134f4d",
+      "message": {
+        "id": "227d3287-e841-4fcd-bae8-92b7de134f4d",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1691435992.167706,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Certainly! If you have a sentence that contains inappropriate language, I can help you rephrase it into a more suitable form. Just provide me the sentence, and I'll give you a cleaned-up version. If you don't want to share the actual content, you can also describe what the sentence is about, and I'll do my best to assist you."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop": "<|fim_suffix|>"
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "aaa24e1e-7bde-4443-a158-a4c50d029785",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa24e1e-7bde-4443-a158-a4c50d029785",
+      "children": []
+    }
+  },
+  "moderation_results": [],
+  "current_node": "227d3287-e841-4fcd-bae8-92b7de134f4d",
+  "plugin_ids": null,
+  "conversation_id": "b37c62b9-fc6c-4eaf-a9c0-97e3fd0be62f",
+  "conversation_template_id": null,
+  "gizmo_id": null,
+  "gizmo_type": null,
+  "is_archived": false,
+  "is_starred": null,
+  "safe_urls": [],
+  "blocked_urls": [],
+  "default_model_slug": null,
+  "atlas_mode_enabled": null,
+  "conversation_origin": null,
+  "is_read_only": null,
+  "voice": null,
+  "async_status": null,
+  "disabled_tool_ids": [],
+  "is_do_not_remember": null,
+  "memory_scope": "global_enabled",
+  "context_scopes": null,
+  "sugar_item_id": null,
+  "sugar_item_visible": false,
+  "pinned_time": null,
+  "is_study_mode": false,
+  "owner": null,
+  "id": "b37c62b9-fc6c-4eaf-a9c0-97e3fd0be62f"
+}

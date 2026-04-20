@@ -1,0 +1,411 @@
+{
+  "title": "Rewrite Code with Promises",
+  "create_time": 1694558805.710441,
+  "update_time": 1740447330.911059,
+  "mapping": {
+    "aaa1c9aa-7ec2-4774-bbee-b827f9ff113a": {
+      "id": "aaa1c9aa-7ec2-4774-bbee-b827f9ff113a",
+      "message": null,
+      "parent": null,
+      "children": [
+        "8832662f-1f73-4f2b-a03d-b46b270d94f2"
+      ]
+    },
+    "8832662f-1f73-4f2b-a03d-b46b270d94f2": {
+      "id": "8832662f-1f73-4f2b-a03d-b46b270d94f2",
+      "message": {
+        "id": "8832662f-1f73-4f2b-a03d-b46b270d94f2",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "can_save": false
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa1c9aa-7ec2-4774-bbee-b827f9ff113a",
+      "children": [
+        "aaa20b52-47a9-4957-a810-76a369d0f618"
+      ]
+    },
+    "aaa20b52-47a9-4957-a810-76a369d0f618": {
+      "id": "aaa20b52-47a9-4957-a810-76a369d0f618",
+      "message": {
+        "id": "aaa20b52-47a9-4957-a810-76a369d0f618",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1694558805.711242,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Please rewrite this code with proper indentation and in terms of Promises\n```\n\n      function testWeb3() {\n\n\t    let ext;\n\tweb3Enable('polkadot-extension-dapp-example')\n\t\t      .then((injectedExtensions) => {\n        if (!injectedExtensions.length) {\n          return Promise.reject(new Error('NO_INJECTED_EXTENSIONS'));\n        }\n\n        return web3Accounts();\n      })\n      .then((accounts) => {\n        if (!accounts.length) {\n          return Promise.reject(new Error('NO_ACCOUNTS'));\n        }\n\n        setState({\n          error: null,\n          loading: false,\n          data: {\n            accounts: accounts,\n            defaultAccount: accounts[ 0 ],\n          }\n        });\n      })\n      .catch((error) => {\n        console.error('Error with connect', error);\n        setState({ error, loading: false, data: undefined });\n      });\n\n\n      }\n\t\tchrome.tabs.create({ 'url': 'https://interlock.network', 'active': true }, (tab) => {\n\n\n\t\t\tif (tab.status == \"loading\") {\n\t\t\tconsole.log(tab)\n\t\t\tchrome.scripting.executeScript({\n\t\t\t\ttarget: {tabId: tab.id},\n\t\t\t\tfunc: testWeb3,\n\t\t\t})\n\t\t\t.then(() => console.log(\"injected a function\"));\n\t\t\t}\n\t\t})\n```"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "8832662f-1f73-4f2b-a03d-b46b270d94f2",
+      "children": [
+        "2300251d-5062-4d82-ba28-decab72e4843"
+      ]
+    },
+    "2300251d-5062-4d82-ba28-decab72e4843": {
+      "id": "2300251d-5062-4d82-ba28-decab72e4843",
+      "message": {
+        "id": "2300251d-5062-4d82-ba28-decab72e4843",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1694558827.191739,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I've properly indented the given code and kept it using Promises:\n\n```javascript\nfunction testWeb3() {\n    return web3Enable('polkadot-extension-dapp-example')\n        .then((injectedExtensions) => {\n            if (!injectedExtensions.length) {\n                return Promise.reject(new Error('NO_INJECTED_EXTENSIONS'));\n            }\n            return web3Accounts();\n        })\n        .then((accounts) => {\n            if (!accounts.length) {\n                return Promise.reject(new Error('NO_ACCOUNTS'));\n            }\n            setState({\n                error: null,\n                loading: false,\n                data: {\n                    accounts: accounts,\n                    defaultAccount: accounts[0],\n                }\n            });\n        })\n        .catch((error) => {\n            console.error('Error with connect', error);\n            setState({ error, loading: false, data: undefined });\n        });\n}\n\nchrome.tabs.create({ 'url': 'https://interlock.network', 'active': true }, (tab) => {\n    if (tab.status === \"loading\") {\n        console.log(tab);\n        chrome.scripting.executeScript({\n            target: { tabId: tab.id },\n            func: testWeb3\n        })\n        .then(() => console.log(\"injected a function\"))\n        .catch(error => console.error('Error injecting the script:', error));\n    }\n});\n```\n\nNote: \n1. Be aware of potential errors due to asynchronous behaviour when `chrome.scripting.executeScript` gets executed before the tab is ready.\n2. The use of `chrome.scripting.executeScript` with the `func` property is not the typical way of injecting code. Ensure that this is how you intend to use it, and that it works as expected. If you have issues, consider passing the code as a string or using the `code` or `file` properties."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              100260
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "aaa20b52-47a9-4957-a810-76a369d0f618",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa20b52-47a9-4957-a810-76a369d0f618",
+      "children": [
+        "aaa2731b-9fe6-4e58-880c-6362f9834e99"
+      ]
+    },
+    "aaa2731b-9fe6-4e58-880c-6362f9834e99": {
+      "id": "aaa2731b-9fe6-4e58-880c-6362f9834e99",
+      "message": {
+        "id": "aaa2731b-9fe6-4e58-880c-6362f9834e99",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1694558906.748515,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "The problem I have is that the above code returns this:\n```\nindex.html:1 Uncaught (in promise) Error: Frame with ID 0 is not ready\n```"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "2300251d-5062-4d82-ba28-decab72e4843",
+      "children": [
+        "d0ef98e4-f050-4abd-b37e-b4baf2b23a5e"
+      ]
+    },
+    "d0ef98e4-f050-4abd-b37e-b4baf2b23a5e": {
+      "id": "d0ef98e4-f050-4abd-b37e-b4baf2b23a5e",
+      "message": {
+        "id": "d0ef98e4-f050-4abd-b37e-b4baf2b23a5e",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1694558938.827675,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "The error you're seeing (`Error: Frame with ID 0 is not ready`) indicates that the tab or frame is not fully ready for script injection when you're trying to inject the script. Here's how you can address it:\n\n1. **Use an event listener**: Instead of directly injecting the script upon tab creation, you might want to consider using a `chrome.tabs.onUpdated` event listener to ensure the tab has completed loading.\n\n2. **Check `tab.status`**: Only inject the script when the tab's status is `\"complete\"`, which indicates the tab is fully loaded.\n\nHere's a modified version of your code based on the above suggestions:\n\n```javascript\nfunction testWeb3() {\n    return web3Enable('polkadot-extension-dapp-example')\n        .then((injectedExtensions) => {\n            if (!injectedExtensions.length) {\n                return Promise.reject(new Error('NO_INJECTED_EXTENSIONS'));\n            }\n            return web3Accounts();\n        })\n        .then((accounts) => {\n            if (!accounts.length) {\n                return Promise.reject(new Error('NO_ACCOUNTS'));\n            }\n            setState({\n                error: null,\n                loading: false,\n                data: {\n                    accounts: accounts,\n                    defaultAccount: accounts[0],\n                }\n            });\n        })\n        .catch((error) => {\n            console.error('Error with connect', error);\n            setState({ error, loading: false, data: undefined });\n        });\n}\n\nchrome.tabs.create({ 'url': 'https://interlock.network', 'active': true }, (tab) => {\n    // Set up a listener to check for tab updates\n    chrome.tabs.onUpdated.addListener(function listener(tabId, changeInfo) {\n        // Check if the updated tab is the one we just opened\n        if (tabId === tab.id && changeInfo.status === 'complete') {\n            // Remove the listener once we've found our tab and it's completed loading\n            chrome.tabs.onUpdated.removeListener(listener);\n\n            chrome.scripting.executeScript({\n                target: { tabId: tabId },\n                func: testWeb3\n            })\n            .then(() => console.log(\"injected a function\"))\n            .catch(error => console.error('Error injecting the script:', error));\n        }\n    });\n});\n```\n\nThe key change here is the use of `chrome.tabs.onUpdated` to listen for tab update events. Once the desired tab's status changes to 'complete', the script gets injected."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              100260
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "aaa2731b-9fe6-4e58-880c-6362f9834e99",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa2731b-9fe6-4e58-880c-6362f9834e99",
+      "children": [
+        "aaa250cb-f7f4-450c-9d0c-515c32470c41"
+      ]
+    },
+    "aaa250cb-f7f4-450c-9d0c-515c32470c41": {
+      "id": "aaa250cb-f7f4-450c-9d0c-515c32470c41",
+      "message": {
+        "id": "aaa250cb-f7f4-450c-9d0c-515c32470c41",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1695183959.926395,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Evaluate this statement: Peace is not a product. It is a process that never ends. General war is the pursuit of peace, the product. Therefore peace, is general war."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "d0ef98e4-f050-4abd-b37e-b4baf2b23a5e",
+      "children": [
+        "4ab4dbe8-161c-40a9-a014-6c9b1cdd93dd"
+      ]
+    },
+    "4ab4dbe8-161c-40a9-a014-6c9b1cdd93dd": {
+      "id": "4ab4dbe8-161c-40a9-a014-6c9b1cdd93dd",
+      "message": {
+        "id": "4ab4dbe8-161c-40a9-a014-6c9b1cdd93dd",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1695183961.678996,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "rebase_system_message": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "aaa250cb-f7f4-450c-9d0c-515c32470c41",
+          "timestamp_": "absolute",
+          "is_visually_hidden_from_conversation": true,
+          "can_save": false
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa250cb-f7f4-450c-9d0c-515c32470c41",
+      "children": [
+        "f3ffe229-b894-4410-b86e-a1b678156c7f"
+      ]
+    },
+    "f3ffe229-b894-4410-b86e-a1b678156c7f": {
+      "id": "f3ffe229-b894-4410-b86e-a1b678156c7f",
+      "message": {
+        "id": "f3ffe229-b894-4410-b86e-a1b678156c7f",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1695183961.679439,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "The statement \"Peace is not a product. It is a process that never ends. General war is the pursuit of peace, the product. Therefore peace, is general war.\" is philosophically dense and can be dissected on various layers.\n\n1. **\"Peace is not a product. It is a process that never ends.\"** \n    - This implies that peace is not a static end-state, but rather an ongoing effort. It needs continuous nurturing, maintenance, and vigilance. Peace is a dynamic state, sensitive to changes and disruptions, and it needs consistent work to be maintained. This is consistent with the perspectives of many philosophers and political thinkers who argue that true peace requires consistent effort, rather than simply the absence of conflict.\n\n2. **\"General war is the pursuit of peace, the product.\"** \n    - This is a more contentious statement. At face value, it seems contradictory as war is often seen as the antithesis of peace. However, what it might be suggesting is the idea that wars are often fought with the intention (or under the pretext) of achieving a lasting peace or a better order. Historically, many wars have been justified as being necessary to achieve a greater, more enduring peace. This perspective reflects the \"war to end all wars\" sentiment that can sometimes precede or justify conflicts.\n\n3. **\"Therefore peace, is general war.\"** \n    - This conclusion seems paradoxical. If taken literally, it equates two opposites. However, if interpreted metaphorically, it suggests that the constant effort to maintain peace (as an ongoing process) is akin to a war—a continuous battle against disruptions, conflicts, and potential instabilities. \n\nWhile the statement is certainly thought-provoking, it also poses risks of oversimplification. Equating peace directly with war can be misleading. The two have distinct characteristics, implications, and consequences. Still, the underlying sentiment of the statement seems to be that the pursuit of peace requires ongoing, intense effort comparable to the rigor and strategy of wartime pursuits. \n\nThe statement also underscores the complexities inherent in the concepts of war and peace, highlighting that they are not always as dichotomous as they seem. Still, any acceptance or exploration of this idea should be approached with nuance and a keen understanding of the profound implications of war."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              100260
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "4ab4dbe8-161c-40a9-a014-6c9b1cdd93dd",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "4ab4dbe8-161c-40a9-a014-6c9b1cdd93dd",
+      "children": [
+        "aaa25c2f-9d6a-4d13-bc6f-903b2e8322f4"
+      ]
+    },
+    "aaa25c2f-9d6a-4d13-bc6f-903b2e8322f4": {
+      "id": "aaa25c2f-9d6a-4d13-bc6f-903b2e8322f4",
+      "message": {
+        "id": "aaa25c2f-9d6a-4d13-bc6f-903b2e8322f4",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1695184224.141003,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "The statement says explicitly, \"peace is _general_ war\", which as a statement is quite different than the oversimplification you worry about which is to equate \"peace\" with \"war\" (which omits the qualifier \"general\"). What are your thoughts on this feedback?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "f3ffe229-b894-4410-b86e-a1b678156c7f",
+      "children": [
+        "48bbf6f7-0443-46f1-aea2-70f13f084040"
+      ]
+    },
+    "48bbf6f7-0443-46f1-aea2-70f13f084040": {
+      "id": "48bbf6f7-0443-46f1-aea2-70f13f084040",
+      "message": {
+        "id": "48bbf6f7-0443-46f1-aea2-70f13f084040",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1695184251.366934,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Your feedback is valid. Let's take a deeper look at the distinction.\n\nThe use of the qualifier \"general\" in \"general war\" suggests a particular type or scale of war, likely one that is broad in scope, comprehensive, or pervasive. By emphasizing \"general war\" instead of just \"war,\" the statement could be referring to:\n\n1. **All-Encompassing Conflict**: A war that isn't limited to a particular front or theater but instead encompasses entire societies, economies, or even global dynamics. This might allude to the total and continuous effort required to maintain peace.\n\n2. **Enduring Nature**: Much like \"general war\" can be protracted and enduring, the pursuit of peace is a ceaseless endeavor. \n\n3. **A Universal State of Affairs**: Just as \"general war\" could be interpreted as a state where everyone or everything is impacted or involved, peace might also be seen as a state of equilibrium affecting and involving all facets of a society or system.\n\nGiven this refined perspective, the statement \"peace is general war\" could mean that achieving and maintaining a true and comprehensive peace requires effort and vigilance on all fronts, at all times, and by everyone involved. It's an assertion that peace, much like a state of \"general war,\" is an all-encompassing state of affairs that permeates every aspect of society.\n\nThis nuanced interpretation underscores the intricacies of peace as not just the absence of conflict but a proactive, all-hands-on-deck effort, akin to a large-scale war where all parts of society are mobilized. It serves as a reminder that peace, to be lasting and genuine, demands continuous and universal attention.\n\nYour feedback highlights the importance of carefully considering every term in a statement, especially when dealing with profound subjects like war and peace. The distinction you pointed out indeed adds depth and nuance to the interpretation."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              100260
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "aaa25c2f-9d6a-4d13-bc6f-903b2e8322f4",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa25c2f-9d6a-4d13-bc6f-903b2e8322f4",
+      "children": []
+    }
+  },
+  "moderation_results": [],
+  "current_node": "48bbf6f7-0443-46f1-aea2-70f13f084040",
+  "plugin_ids": null,
+  "conversation_id": "9249d7d0-260f-4450-a7e4-1da3fcc20c27",
+  "conversation_template_id": "g-p-67bd1e3366b481918f7231b7af1e916f",
+  "gizmo_id": "g-p-67bd1e3366b481918f7231b7af1e916f",
+  "gizmo_type": "snorlax",
+  "is_archived": false,
+  "is_starred": null,
+  "safe_urls": [
+    "https://interlock.network"
+  ],
+  "blocked_urls": [],
+  "default_model_slug": null,
+  "atlas_mode_enabled": null,
+  "conversation_origin": null,
+  "is_read_only": null,
+  "voice": null,
+  "async_status": null,
+  "disabled_tool_ids": [],
+  "is_do_not_remember": null,
+  "memory_scope": "global_enabled",
+  "context_scopes": null,
+  "sugar_item_id": null,
+  "sugar_item_visible": false,
+  "pinned_time": null,
+  "is_study_mode": false,
+  "owner": null,
+  "id": "9249d7d0-260f-4450-a7e4-1da3fcc20c27"
+}

@@ -1,0 +1,366 @@
+{
+  "title": "Multiplicity Problem in Statistics",
+  "create_time": 1727838294.391045,
+  "update_time": 1740452701.714572,
+  "mapping": {
+    "aaa17b07-5a1a-4e1d-bdec-3e7f4cb5febb": {
+      "id": "aaa17b07-5a1a-4e1d-bdec-3e7f4cb5febb",
+      "message": null,
+      "parent": null,
+      "children": [
+        "71485ec6-a304-4cc1-b296-079a7706ee6c"
+      ]
+    },
+    "71485ec6-a304-4cc1-b296-079a7706ee6c": {
+      "id": "71485ec6-a304-4cc1-b296-079a7706ee6c",
+      "message": {
+        "id": "71485ec6-a304-4cc1-b296-079a7706ee6c",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "can_save": false
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa17b07-5a1a-4e1d-bdec-3e7f4cb5febb",
+      "children": [
+        "aaa2d98c-3565-4dbf-942c-409debfbbec2"
+      ]
+    },
+    "aaa2d98c-3565-4dbf-942c-409debfbbec2": {
+      "id": "aaa2d98c-3565-4dbf-942c-409debfbbec2",
+      "message": {
+        "id": "aaa2d98c-3565-4dbf-942c-409debfbbec2",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1727838294.398208,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "what is the Multiplicity Problem"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          },
+          "request_id": "8cc177ba5e43b9c8-SEA",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "71485ec6-a304-4cc1-b296-079a7706ee6c",
+      "children": [
+        "b71a7243-2270-496f-8cdf-01193e653339"
+      ]
+    },
+    "b71a7243-2270-496f-8cdf-01193e653339": {
+      "id": "b71a7243-2270-496f-8cdf-01193e653339",
+      "message": {
+        "id": "b71a7243-2270-496f-8cdf-01193e653339",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1727838305.69705,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "parent_id": "aaa2d98c-3565-4dbf-942c-409debfbbec2",
+          "request_id": "8cc177ba5e43b9c8-SEA",
+          "timestamp_": "absolute",
+          "can_save": false
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa2d98c-3565-4dbf-942c-409debfbbec2",
+      "children": [
+        "a6251852-c453-4fce-92b4-7e22a06b828a"
+      ]
+    },
+    "a6251852-c453-4fce-92b4-7e22a06b828a": {
+      "id": "a6251852-c453-4fce-92b4-7e22a06b828a",
+      "message": {
+        "id": "a6251852-c453-4fce-92b4-7e22a06b828a",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1727838305.697447,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "The **Multiplicity Problem** generally refers to the issue of handling multiple comparisons or multiple hypotheses testing in statistics. When you perform a large number of statistical tests or comparisons, the probability of getting a false positive (incorrectly rejecting a true null hypothesis) increases. This problem is often discussed in the context of fields like genomics, clinical trials, and machine learning, where researchers are often dealing with many variables simultaneously.\n\n### Key Concepts:\n1. **False Positives (Type I Errors)**: When testing multiple hypotheses, even if all null hypotheses are true, the probability of falsely rejecting at least one increases with the number of tests.\n2. **Family-Wise Error Rate (FWER)**: The probability of making one or more false discoveries among all the hypotheses being tested. Controlling FWER means ensuring that the likelihood of even one false positive remains below a certain threshold, typically by adjusting p-values (e.g., Bonferroni correction).\n3. **False Discovery Rate (FDR)**: Rather than controlling for any false positive, FDR controls the expected proportion of false discoveries among all the rejected hypotheses, which can be more flexible in situations with many tests.\n\n### Example:\nIf you test 20 independent hypotheses at a significance level of 0.05, there's a good chance one or more of those tests will falsely indicate significance purely by chance. Without correcting for this, the results may be misleading.\n\nThere are several methods to adjust for the multiplicity problem, such as the **Bonferroni correction** or **Benjamini-Hochberg procedure**. These methods help maintain the integrity of statistical inferences when dealing with multiple hypotheses.\n\nDoes this align with the context in which you're exploring the multiplicity problem?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "gizmo_id": null,
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "pad": "AAAAAA",
+          "parent_id": "b71a7243-2270-496f-8cdf-01193e653339",
+          "request_id": "8cc177ba5e43b9c8-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "b71a7243-2270-496f-8cdf-01193e653339",
+      "children": [
+        "aaa26b99-dc50-4d03-9502-9b18c719be13"
+      ]
+    },
+    "aaa26b99-dc50-4d03-9502-9b18c719be13": {
+      "id": "aaa26b99-dc50-4d03-9502-9b18c719be13",
+      "message": {
+        "id": "aaa26b99-dc50-4d03-9502-9b18c719be13",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1727838376.97044,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Please summarize the bonferroni correction and the benjamini-hochberg principle"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          },
+          "request_id": "8cc179bcfb26b9c8-SEA",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "a6251852-c453-4fce-92b4-7e22a06b828a",
+      "children": [
+        "9e7d7263-bf60-4020-b18e-527d06bad856"
+      ]
+    },
+    "9e7d7263-bf60-4020-b18e-527d06bad856": {
+      "id": "9e7d7263-bf60-4020-b18e-527d06bad856",
+      "message": {
+        "id": "9e7d7263-bf60-4020-b18e-527d06bad856",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1727838394.170618,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "### **Bonferroni Correction:**\nThe **Bonferroni correction** is a simple method to address the multiplicity problem by controlling the **Family-Wise Error Rate (FWER)**. The idea is to reduce the risk of false positives when conducting multiple comparisons.\n\n- **How it works**: You divide the significance level (usually \\( \\alpha = 0.05 \\)) by the number of comparisons or tests (\\( m \\)). For example, if you're conducting 10 tests, each test must have a p-value less than \\( \\frac{0.05}{10} = 0.005 \\) to be considered statistically significant.\n  \n- **Pros**: It is conservative and straightforward, effectively controlling the chance of even one false positive.\n  \n- **Cons**: It's often too strict, especially when there are many comparisons, which can reduce the power of the tests, increasing the chance of false negatives (missing a true effect).\n\n### **Benjamini-Hochberg Procedure (FDR Control):**\nThe **Benjamini-Hochberg (BH) procedure** is a more flexible method aimed at controlling the **False Discovery Rate (FDR)**, which is the expected proportion of false positives among the rejected hypotheses.\n\n- **How it works**: First, the p-values are sorted in ascending order. Then, for each p-value \\( p_i \\), it is compared to \\( \\frac{i}{m} \\alpha \\), where \\( i \\) is the rank of the p-value, \\( m \\) is the total number of comparisons, and \\( \\alpha \\) is the overall significance level. You find the largest \\( p_i \\) that satisfies this condition and reject all hypotheses with p-values less than or equal to this value.\n  \n- **Pros**: The BH procedure is less conservative than Bonferroni and increases the power to detect true positives, making it useful when dealing with many hypotheses.\n  \n- **Cons**: While it controls FDR, it does not strictly control the probability of even one false positive, so in cases where this is critical, it may not be ideal.\n\n### Key Differences:\n- **Bonferroni**: Controls for the probability of any false positive (FWER), but is often too conservative.\n- **Benjamini-Hochberg**: Controls the proportion of false positives among rejected hypotheses (FDR), offering a better balance between detecting true effects and limiting false positives."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "gizmo_id": null,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "pad": "AAAAAAAAAAAAAAAAAAAAAAAAAAA",
+          "parent_id": "aaa26b99-dc50-4d03-9502-9b18c719be13",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "8cc179bcfb26b9c8-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa26b99-dc50-4d03-9502-9b18c719be13",
+      "children": [
+        "aaa2d645-ff27-4f24-b171-bcc2174cde30"
+      ]
+    },
+    "aaa2d645-ff27-4f24-b171-bcc2174cde30": {
+      "id": "aaa2d645-ff27-4f24-b171-bcc2174cde30",
+      "message": {
+        "id": "aaa2d645-ff27-4f24-b171-bcc2174cde30",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1727857008.343598,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "what is a corporation that serves every industry?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          },
+          "request_id": "8cc3409b9d489b56-SEA",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "9e7d7263-bf60-4020-b18e-527d06bad856",
+      "children": [
+        "b5c32ac3-c4c2-47a6-9704-d54981e54b9b"
+      ]
+    },
+    "b5c32ac3-c4c2-47a6-9704-d54981e54b9b": {
+      "id": "b5c32ac3-c4c2-47a6-9704-d54981e54b9b",
+      "message": {
+        "id": "b5c32ac3-c4c2-47a6-9704-d54981e54b9b",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1727857025.093644,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "A corporation that serves every industry would typically be a **diversified conglomerate** or a **multi-industry service provider** offering products or services that are universally applicable across a wide range of sectors. These companies may not necessarily be specialized in any one industry but provide essential tools, technology, or services that are used by virtually all types of businesses. \n\nHere are a few examples of corporations that serve multiple or all industries:\n\n1. **Alphabet (Google)**: Through its various subsidiaries like Google Cloud, Alphabet provides digital infrastructure, advertising services, artificial intelligence, and data analytics, which are utilized by businesses in almost every industry, from healthcare to retail to entertainment.\n\n2. **Amazon (AWS)**: Amazon Web Services (AWS) offers cloud computing, storage, and data services that power organizations in virtually every sector, including finance, healthcare, education, entertainment, and manufacturing.\n\n3. **Microsoft**: Microsoft’s software (like Windows and Office), cloud services (Azure), and enterprise solutions are used by almost every industry for communication, productivity, and digital infrastructure.\n\n4. **IBM**: Known for its hardware, software, and services, IBM provides technology and consulting solutions across various sectors like finance, healthcare, education, and government.\n\n5. **Siemens**: A diversified multinational company, Siemens operates in sectors ranging from energy to healthcare, providing infrastructure, automation technology, and digital solutions to a wide array of industries.\n\n6. **GE (General Electric)**: Historically, GE has been involved in many industries, including healthcare, aviation, energy, and finance, offering products and services across these diverse fields.\n\nThese types of corporations have expansive portfolios that address needs across a broad spectrum of industries, from IT and cloud services to infrastructure, data solutions, and more. They tend to have the scale and reach to impact nearly every segment of the global economy."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "gizmo_id": null,
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "parent_id": "aaa2d645-ff27-4f24-b171-bcc2174cde30",
+          "request_id": "8cc3409b9d489b56-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa2d645-ff27-4f24-b171-bcc2174cde30",
+      "children": []
+    }
+  },
+  "moderation_results": [],
+  "current_node": "b5c32ac3-c4c2-47a6-9704-d54981e54b9b",
+  "plugin_ids": null,
+  "conversation_id": "66fcb856-2804-8003-be38-9064f8a1b777",
+  "conversation_template_id": "g-p-67bd1d8bb46c8191a6ddeb906b37e075",
+  "gizmo_id": "g-p-67bd1d8bb46c8191a6ddeb906b37e075",
+  "gizmo_type": "snorlax",
+  "is_archived": false,
+  "is_starred": null,
+  "safe_urls": [],
+  "blocked_urls": [],
+  "default_model_slug": "gpt-4o",
+  "atlas_mode_enabled": null,
+  "conversation_origin": null,
+  "is_read_only": null,
+  "voice": null,
+  "async_status": null,
+  "disabled_tool_ids": [],
+  "is_do_not_remember": null,
+  "memory_scope": "global_enabled",
+  "context_scopes": null,
+  "sugar_item_id": null,
+  "sugar_item_visible": false,
+  "pinned_time": null,
+  "is_study_mode": false,
+  "owner": null,
+  "id": "66fcb856-2804-8003-be38-9064f8a1b777"
+}

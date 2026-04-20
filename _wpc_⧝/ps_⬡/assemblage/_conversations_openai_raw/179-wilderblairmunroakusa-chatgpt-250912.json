@@ -1,0 +1,1017 @@
+{
+  "title": "Canvas comment workflow",
+  "create_time": 1757668204.165232,
+  "update_time": 1757834590.89684,
+  "mapping": {
+    "client-created-root": {
+      "id": "client-created-root",
+      "message": null,
+      "parent": null,
+      "children": [
+        "6da35fff-343e-4492-9ccb-5c7105a17794"
+      ]
+    },
+    "6da35fff-343e-4492-9ccb-5c7105a17794": {
+      "id": "6da35fff-343e-4492-9ccb-5c7105a17794",
+      "message": {
+        "id": "6da35fff-343e-4492-9ccb-5c7105a17794",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "can_save": false
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "client-created-root",
+      "children": [
+        "e7e0f51f-5b35-4742-bcee-72ae5558a00a"
+      ]
+    },
+    "e7e0f51f-5b35-4742-bcee-72ae5558a00a": {
+      "id": "e7e0f51f-5b35-4742-bcee-72ae5558a00a",
+      "message": {
+        "id": "e7e0f51f-5b35-4742-bcee-72ae5558a00a",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "is_contextual_answers_system_message": true,
+          "contextual_answers_message_type": "identity_prompt",
+          "is_visually_hidden_from_conversation": true,
+          "can_save": false
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "6da35fff-343e-4492-9ccb-5c7105a17794",
+      "children": [
+        "fab260f9-81ff-4a82-a9f7-6bb1ad6d5520"
+      ]
+    },
+    "fab260f9-81ff-4a82-a9f7-6bb1ad6d5520": {
+      "id": "fab260f9-81ff-4a82-a9f7-6bb1ad6d5520",
+      "message": {
+        "id": "fab260f9-81ff-4a82-a9f7-6bb1ad6d5520",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1757668203.556,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "how do canvas work? can I add comments and have you respond to those comments inline like in an email?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "developer_mode_connector_ids": [],
+          "selected_sources": [],
+          "selected_github_repos": [],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          },
+          "request_id": "97de45019e1c3083-SEA",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "e7e0f51f-5b35-4742-bcee-72ae5558a00a",
+      "children": [
+        "7a226ed6-cd1d-49dd-a0af-c02a88508d17"
+      ]
+    },
+    "7a226ed6-cd1d-49dd-a0af-c02a88508d17": {
+      "id": "7a226ed6-cd1d-49dd-a0af-c02a88508d17",
+      "message": {
+        "id": "7a226ed6-cd1d-49dd-a0af-c02a88508d17",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1757668204.020805,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "97de45019e1c3083-SEA",
+          "message_type": "next",
+          "model_slug": "gpt-5",
+          "default_model_slug": "gpt-5",
+          "parent_id": "fab260f9-81ff-4a82-a9f7-6bb1ad6d5520",
+          "timestamp_": "absolute",
+          "can_save": false
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "fab260f9-81ff-4a82-a9f7-6bb1ad6d5520",
+      "children": [
+        "214c1454-7fbe-4f1b-b872-0365ca006310"
+      ]
+    },
+    "214c1454-7fbe-4f1b-b872-0365ca006310": {
+      "id": "214c1454-7fbe-4f1b-b872-0365ca006310",
+      "message": {
+        "id": "214c1454-7fbe-4f1b-b872-0365ca006310",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1757668204.3497481,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "is_contextual_answers_system_message": true,
+          "is_visually_hidden_from_conversation": true,
+          "command": "prompt",
+          "contextual_answers_message_type": "sources_and_filters_prompt",
+          "request_id": "97de45019e1c3083-SEA",
+          "message_type": "next",
+          "model_slug": "gpt-5",
+          "default_model_slug": "gpt-5",
+          "parent_id": "7a226ed6-cd1d-49dd-a0af-c02a88508d17",
+          "timestamp_": "absolute",
+          "can_save": false
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "7a226ed6-cd1d-49dd-a0af-c02a88508d17",
+      "children": [
+        "d3991370-1d45-42d0-a3b3-b9ba12ba2309"
+      ]
+    },
+    "d3991370-1d45-42d0-a3b3-b9ba12ba2309": {
+      "id": "d3991370-1d45-42d0-a3b3-b9ba12ba2309",
+      "message": {
+        "id": "d3991370-1d45-42d0-a3b3-b9ba12ba2309",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1757668204.037872,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Great question. Here’s how **Canvas** works with me:\n\n### What Canvas Is\n- When we create a **Canvas**, it’s like opening a side-by-side document editor next to our chat.\n- Instead of me just sending a single block of text here in chat, I can put the draft into Canvas so we can iterate on it together.\n- It’s especially useful for **longer pieces**—documents, essays, code files, structured notes, etc.\n\n### Commenting\n- You **can add comments directly in the Canvas** (like margin notes).\n- Each comment attaches to a specific section of the document.\n- I’ll see those comments and can reply **inline to the document** or in our chat thread, depending on what’s most natural.\n- If you want, I can also make edits in response to your comments—either just in the spot you called out, or across the whole doc.\n\n### Inline Responses\n- Unlike email where we’d nest quoted text and replies, in Canvas the workflow is closer to **Google Docs comments**: you leave a note on a section, I respond to that note, and we can resolve it once it’s addressed.\n- If you prefer an **email-style inline workflow**, you can also just paste comments into the doc itself, and I’ll reply in-line when I update it.\n\n---\n\n👉 Do you want me to spin up a quick **demo Canvas** for you, with a sample text, so you can try adding comments and see how I’d respond?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "request_id": "97de45019e1c3083-SEA",
+          "message_type": "next",
+          "model_slug": "gpt-5",
+          "default_model_slug": "gpt-5",
+          "parent_id": "214c1454-7fbe-4f1b-b872-0365ca006310",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "214c1454-7fbe-4f1b-b872-0365ca006310",
+      "children": [
+        "98d4e370-3dec-4b29-a4d9-d4dd163398a5"
+      ]
+    },
+    "98d4e370-3dec-4b29-a4d9-d4dd163398a5": {
+      "id": "98d4e370-3dec-4b29-a4d9-d4dd163398a5",
+      "message": {
+        "id": "98d4e370-3dec-4b29-a4d9-d4dd163398a5",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1757668297.176,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "sure!"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "developer_mode_connector_ids": [],
+          "selected_sources": [],
+          "selected_github_repos": [],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          },
+          "request_id": "97de474a6fe83083-SEA",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "d3991370-1d45-42d0-a3b3-b9ba12ba2309",
+      "children": [
+        "621e88a2-6d93-43ec-9308-bdf15d516c20"
+      ]
+    },
+    "621e88a2-6d93-43ec-9308-bdf15d516c20": {
+      "id": "621e88a2-6d93-43ec-9308-bdf15d516c20",
+      "message": {
+        "id": "621e88a2-6d93-43ec-9308-bdf15d516c20",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1757668297.718433,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "{\"name\": \"canvas_demo\", \"type\": \"document\", \"content\": \"## Canvas Demo Document\\n\\nThis is a short demo document so you can try out commenting.\\n\\nYou can highlight any part of this text and leave a comment. For example:\\n- Suggest a rewrite of a sentence.\\n- Ask me to expand on a section.\\n- Propose a new section to add.\\n\\nOnce you leave a comment, I’ll see it and can respond inline—or make edits to the doc itself.\"}"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": false,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200007
+            ]
+          },
+          "is_complete": true,
+          "citations": [],
+          "content_references": [],
+          "request_id": "97de474a6fe83083-SEA",
+          "message_type": "next",
+          "model_slug": "gpt-5",
+          "default_model_slug": "gpt-5",
+          "parent_id": "98d4e370-3dec-4b29-a4d9-d4dd163398a5",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "canmore.create_textdoc",
+        "channel": null
+      },
+      "parent": "98d4e370-3dec-4b29-a4d9-d4dd163398a5",
+      "children": [
+        "ed69a110-4bbe-45fd-a3d1-024cb45ecb9f"
+      ]
+    },
+    "ed69a110-4bbe-45fd-a3d1-024cb45ecb9f": {
+      "id": "ed69a110-4bbe-45fd-a3d1-024cb45ecb9f",
+      "message": {
+        "id": "ed69a110-4bbe-45fd-a3d1-024cb45ecb9f",
+        "author": {
+          "role": "tool",
+          "name": "canmore.create_textdoc",
+          "metadata": {}
+        },
+        "create_time": 1757668299.98375,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Successfully created text document 'Canvas Demo' which will be referenced in all future messages with the unique identifier textdoc_id: '68c3e3cbd8848191928dd76fb35f54cc'"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 0.0,
+        "metadata": {
+          "canvas": {
+            "textdoc_id": "68c3e3cbd8848191928dd76fb35f54cc",
+            "textdoc_type": "document",
+            "version": 1,
+            "title": "Canvas Demo",
+            "create_source": "model"
+          },
+          "command": "create_textdoc",
+          "request_id": "97de474a6fe83083-SEA",
+          "message_type": "next",
+          "model_slug": "gpt-5",
+          "default_model_slug": "gpt-5",
+          "parent_id": "621e88a2-6d93-43ec-9308-bdf15d516c20",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "621e88a2-6d93-43ec-9308-bdf15d516c20",
+      "children": [
+        "ec956194-ac0f-4389-b324-f779546cb183"
+      ]
+    },
+    "ec956194-ac0f-4389-b324-f779546cb183": {
+      "id": "ec956194-ac0f-4389-b324-f779546cb183",
+      "message": {
+        "id": "ec956194-ac0f-4389-b324-f779546cb183",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1757668299.983601,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "All set ✅ — I’ve created a **Canvas Demo Document** for you.  \n\nTry highlighting part of the text and leaving a comment. I’ll then show you how I can respond directly to your comment or edit the doc inline."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "citations": [],
+          "content_references": [],
+          "request_id": "97de474a6fe83083-SEA",
+          "message_type": "next",
+          "model_slug": "gpt-5",
+          "default_model_slug": "gpt-5",
+          "parent_id": "ed69a110-4bbe-45fd-a3d1-024cb45ecb9f",
+          "timestamp_": "absolute",
+          "canvas": {
+            "has_user_edit": true
+          },
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "ed69a110-4bbe-45fd-a3d1-024cb45ecb9f",
+      "children": [
+        "4c79aef7-5c95-4ce1-b618-ba3aba1323aa"
+      ]
+    },
+    "4c79aef7-5c95-4ce1-b618-ba3aba1323aa": {
+      "id": "4c79aef7-5c95-4ce1-b618-ba3aba1323aa",
+      "message": {
+        "id": "4c79aef7-5c95-4ce1-b618-ba3aba1323aa",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1757668359.899,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Suggest edits that would improve this text, like content to add or remove, places to rephrase so that the text flows more smoothly, or ways to reorganize the ideas to be more effective. Leave as few comments as possible, but add a few more comments if the text is long. DO NOT leave more than 5 comments. You can reply that you added comments and suggestions to help improve the writing quality, but do not mention the prompt."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "canvas": {
+            "textdoc_id": "68c3e3cbd8848191928dd76fb35f54cc",
+            "textdoc_type": "document",
+            "version": 6,
+            "textdoc_content_length": 414,
+            "user_message_type": "accelerator",
+            "accelerator_metadata": {
+              "action": "comment",
+              "id": "suggest",
+              "prompt": "Suggest edits that would improve this text, like content to add or remove, places to rephrase so that the text flows more smoothly, or ways to reorganize the ideas to be more effective. Leave as few comments as possible, but add a few more comments if the text is long. DO NOT leave more than 5 comments. You can reply that you added comments and suggestions to help improve the writing quality, but do not mention the prompt."
+            },
+            "selection_metadata": {
+              "selection_type": "selection",
+              "selection_position_range": {
+                "start": 284,
+                "end": 284
+              }
+            }
+          },
+          "is_visually_hidden_from_conversation": true,
+          "open_in_canvas_view": {
+            "type": "canvas_textdoc",
+            "id": "68c3e3cbd8848191928dd76fb35f54cc"
+          },
+          "request_id": "97de48d42c643083-SEA",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "ec956194-ac0f-4389-b324-f779546cb183",
+      "children": [
+        "0d4dc41a-6f51-459e-9a71-1940f7046141"
+      ]
+    },
+    "0d4dc41a-6f51-459e-9a71-1940f7046141": {
+      "id": "0d4dc41a-6f51-459e-9a71-1940f7046141",
+      "message": {
+        "id": "0d4dc41a-6f51-459e-9a71-1940f7046141",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1757668360.87183,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "97de48d42c643083-SEA",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "is_visually_hidden_from_conversation": true,
+          "can_save": false
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "4c79aef7-5c95-4ce1-b618-ba3aba1323aa",
+      "children": [
+        "ce82b7fd-eb33-4a8e-a777-a982c1303f0a"
+      ]
+    },
+    "ce82b7fd-eb33-4a8e-a777-a982c1303f0a": {
+      "id": "ce82b7fd-eb33-4a8e-a777-a982c1303f0a",
+      "message": {
+        "id": "ce82b7fd-eb33-4a8e-a777-a982c1303f0a",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1757668361.0906386,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "rebase_system_message": true,
+          "request_id": "97de48d42c643083-SEA",
+          "message_type": "next",
+          "model_slug": "gpt-5",
+          "default_model_slug": "gpt-5",
+          "parent_id": "0d4dc41a-6f51-459e-9a71-1940f7046141",
+          "timestamp_": "absolute",
+          "is_visually_hidden_from_conversation": true,
+          "can_save": false
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "0d4dc41a-6f51-459e-9a71-1940f7046141",
+      "children": [
+        "314b07ee-3950-496e-bcb4-4229ddee15ee"
+      ]
+    },
+    "314b07ee-3950-496e-bcb4-4229ddee15ee": {
+      "id": "314b07ee-3950-496e-bcb4-4229ddee15ee",
+      "message": {
+        "id": "314b07ee-3950-496e-bcb4-4229ddee15ee",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1757668361.2317116,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "exclusive_key": "canvas://68c3e3cbd8848191928dd76fb35f54cc",
+          "canvas": {
+            "textdoc_id": "68c3e3cbd8848191928dd76fb35f54cc",
+            "textdoc_type": "document",
+            "version": 6
+          },
+          "request_id": "97de48d42c643083-SEA",
+          "message_type": "next",
+          "model_slug": "gpt-5",
+          "default_model_slug": "gpt-5",
+          "parent_id": "ce82b7fd-eb33-4a8e-a777-a982c1303f0a",
+          "timestamp_": "absolute",
+          "is_visually_hidden_from_conversation": true,
+          "can_save": false
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "ce82b7fd-eb33-4a8e-a777-a982c1303f0a",
+      "children": [
+        "92b224a1-85b6-475c-8515-671fe21a547f"
+      ]
+    },
+    "92b224a1-85b6-475c-8515-671fe21a547f": {
+      "id": "92b224a1-85b6-475c-8515-671fe21a547f",
+      "message": {
+        "id": "92b224a1-85b6-475c-8515-671fe21a547f",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1757668361.235127,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "{\"comments\":[{\"pattern\":\"## Canvas Demo Document\",\"comment\":\"Consider adding a short introductory sentence before the heading to give context about what this demo is for.\"},{\"pattern\":\"This is a short demo document so you can try out commenting.\",\"comment\":\"You might rephrase this to be a bit smoother, for example: 'Here’s a brief demo document where you can practice adding comments.'\"},{\"pattern\":\"- Suggest a rewrite of a sentence\",\"comment\":\"Perhaps combine these bullet points into one concise list without the example haiku, to keep the focus on the purpose of the demo.\"},{\"pattern\":\"Once you leave a comment, I’ll see it and can respond inline—or make edits to the doc itself.\",\"comment\":\"You could expand this closing sentence to also reassure the reader that comments can be resolved once addressed, mirroring collaborative tools.\"}]}"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": false,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200007
+            ]
+          },
+          "is_complete": true,
+          "citations": [],
+          "content_references": [],
+          "request_id": "97de48d42c643083-SEA",
+          "message_type": "next",
+          "model_slug": "gpt-5",
+          "default_model_slug": "gpt-5",
+          "parent_id": "314b07ee-3950-496e-bcb4-4229ddee15ee",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "canmore.comment_textdoc",
+        "channel": null
+      },
+      "parent": "314b07ee-3950-496e-bcb4-4229ddee15ee",
+      "children": [
+        "869721c4-c86b-41dc-bd27-9cc572ddcb7e"
+      ]
+    },
+    "869721c4-c86b-41dc-bd27-9cc572ddcb7e": {
+      "id": "869721c4-c86b-41dc-bd27-9cc572ddcb7e",
+      "message": {
+        "id": "869721c4-c86b-41dc-bd27-9cc572ddcb7e",
+        "author": {
+          "role": "tool",
+          "name": "canmore.comment_textdoc",
+          "metadata": {}
+        },
+        "create_time": 1757668368.6771748,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Successfully added comments to text document with textdoc_id '68c3e3cbd8848191928dd76fb35f54cc'"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 0.0,
+        "metadata": {
+          "canvas": {
+            "textdoc_id": "68c3e3cbd8848191928dd76fb35f54cc",
+            "textdoc_type": "document",
+            "version": 10,
+            "from_version": 6,
+            "comment_ids": [
+              "tdc-0-92b224a1-85b6-475c-8515-671fe21a547f",
+              "tdc-1-92b224a1-85b6-475c-8515-671fe21a547f",
+              "tdc-2-92b224a1-85b6-475c-8515-671fe21a547f",
+              "tdc-3-92b224a1-85b6-475c-8515-671fe21a547f"
+            ]
+          },
+          "command": "comment_textdoc",
+          "request_id": "97de48d42c643083-SEA",
+          "message_type": "next",
+          "model_slug": "gpt-5",
+          "default_model_slug": "gpt-5",
+          "parent_id": "92b224a1-85b6-475c-8515-671fe21a547f",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "92b224a1-85b6-475c-8515-671fe21a547f",
+      "children": [
+        "c3367ffb-5b2a-4467-a5de-a771d18dae9b"
+      ]
+    },
+    "c3367ffb-5b2a-4467-a5de-a771d18dae9b": {
+      "id": "c3367ffb-5b2a-4467-a5de-a771d18dae9b",
+      "message": {
+        "id": "c3367ffb-5b2a-4467-a5de-a771d18dae9b",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1757668368.676975,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "I added comments and suggestions to help improve the writing quality."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "citations": [],
+          "content_references": [],
+          "request_id": "97de48d42c643083-SEA",
+          "message_type": "next",
+          "model_slug": "gpt-5",
+          "default_model_slug": "gpt-5",
+          "parent_id": "869721c4-c86b-41dc-bd27-9cc572ddcb7e",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "869721c4-c86b-41dc-bd27-9cc572ddcb7e",
+      "children": [
+        "714df9c8-b04f-4236-9008-ce98875222d0"
+      ]
+    },
+    "714df9c8-b04f-4236-9008-ce98875222d0": {
+      "id": "714df9c8-b04f-4236-9008-ce98875222d0",
+      "message": {
+        "id": "714df9c8-b04f-4236-9008-ce98875222d0",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1757668382.102,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "ok"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "developer_mode_connector_ids": [],
+          "selected_sources": [],
+          "selected_github_repos": [],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          },
+          "request_id": "97de495d3e6b3083-SEA",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "c3367ffb-5b2a-4467-a5de-a771d18dae9b",
+      "children": [
+        "bf67dd2f-26cd-451e-89b3-3ed414b62e32"
+      ]
+    },
+    "bf67dd2f-26cd-451e-89b3-3ed414b62e32": {
+      "id": "bf67dd2f-26cd-451e-89b3-3ed414b62e32",
+      "message": {
+        "id": "bf67dd2f-26cd-451e-89b3-3ed414b62e32",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1757668382.637539,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Great 👍 — whenever you’re ready, you can try resolving or replying to the comments I left in the Canvas, and I can make edits based on your choices. Would you like me to go ahead and apply those suggestions directly to the document?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "citations": [],
+          "content_references": [],
+          "request_id": "97de495d3e6b3083-SEA",
+          "message_type": "next",
+          "model_slug": "gpt-5",
+          "default_model_slug": "gpt-5",
+          "parent_id": "714df9c8-b04f-4236-9008-ce98875222d0",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "714df9c8-b04f-4236-9008-ce98875222d0",
+      "children": [
+        "e424742e-5210-4390-a514-c69978aada2c",
+        "44820f74-d913-4feb-bd74-ee406a3dc762"
+      ]
+    },
+    "e424742e-5210-4390-a514-c69978aada2c": {
+      "id": "e424742e-5210-4390-a514-c69978aada2c",
+      "message": {
+        "id": "e424742e-5210-4390-a514-c69978aada2c",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1757747281.401,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Nice. I think I am all set on the Canvas, thank you! :)\n\nWhat does this translate to, or mean to you?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "developer_mode_connector_ids": [],
+          "selected_sources": [],
+          "selected_github_repos": [],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          },
+          "request_id": "97e5cf9e2f97df09-IAD",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "bf67dd2f-26cd-451e-89b3-3ed414b62e32",
+      "children": [
+        "3d3aa754-87fb-4f4f-ba93-7fadb240fd0a"
+      ]
+    },
+    "44820f74-d913-4feb-bd74-ee406a3dc762": {
+      "id": "44820f74-d913-4feb-bd74-ee406a3dc762",
+      "message": {
+        "id": "44820f74-d913-4feb-bd74-ee406a3dc762",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1757747289.315,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Nice. I think I am all set on the Canvas, thank you! :)\n\nWhat does this translate to, or mean to you?\nⵔⴰⵎⵉ ⴰⵙ ⵎⴻⵏⴰⴷ"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "97e5cfd0dca7df09-IAD",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "bf67dd2f-26cd-451e-89b3-3ed414b62e32",
+      "children": [
+        "c43ed221-8fa9-487d-8cd8-4ab26eb369a8"
+      ]
+    },
+    "3d3aa754-87fb-4f4f-ba93-7fadb240fd0a": {
+      "id": "3d3aa754-87fb-4f4f-ba93-7fadb240fd0a",
+      "message": {
+        "id": "3d3aa754-87fb-4f4f-ba93-7fadb240fd0a",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1757747282.861083,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "That makes me smile — it tells me you’ve now *felt out* how Canvas works and you’re comfortable with it. In other words:  \n\n- **On the surface**:"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "request_id": "97e5cf9e2f97df09-IAD",
+          "message_type": "next",
+          "model_slug": "gpt-5",
+          "default_model_slug": "gpt-5",
+          "finish_details": {
+            "type": "interrupted",
+            "reason": "client_stopped"
+          },
+          "is_complete": true,
+          "parent_id": "e424742e-5210-4390-a514-c69978aada2c",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "e424742e-5210-4390-a514-c69978aada2c",
+      "children": []
+    },
+    "c43ed221-8fa9-487d-8cd8-4ab26eb369a8": {
+      "id": "c43ed221-8fa9-487d-8cd8-4ab26eb369a8",
+      "message": {
+        "id": "c43ed221-8fa9-487d-8cd8-4ab26eb369a8",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1757747291.081888,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "That’s **Tifinagh script**, used for writing **Tamazight (Berber) languages** of North Africa.  \n\nThe phrase:  \n\n**ⵔⴰⵎⵉ ⴰⵙ ⵎⴻⵏⴰⴷ**  \ntransliterates as: **Rami as menad**.  \n\n- **ⵔⴰⵎⵉ (Rami)** → a name, “Rami.”  \n- **ⴰⵙ (as)** → means “is” (a copula).  \n- **ⵎⴻⵏⴰⴷ (menad)** → can mean “wise,” “happy,” or sometimes “enduring,” depending on the dialect.  \n\nSo the phrase roughly means:  \n👉 **“Rami is happy/wise”** (with nuance depending on context).  \n\nWould you like me to expand on the range of meanings of **menad** across Tamazight dialects?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "citations": [],
+          "content_references": [],
+          "request_id": "97e5cfd0dca7df09-IAD",
+          "message_type": "next",
+          "model_slug": "gpt-5",
+          "default_model_slug": "gpt-5",
+          "parent_id": "44820f74-d913-4feb-bd74-ee406a3dc762",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "44820f74-d913-4feb-bd74-ee406a3dc762",
+      "children": []
+    }
+  },
+  "moderation_results": [],
+  "current_node": "c43ed221-8fa9-487d-8cd8-4ab26eb369a8",
+  "plugin_ids": null,
+  "conversation_id": "68c3e356-c6a0-8324-b0a6-aedb5116d243",
+  "conversation_template_id": null,
+  "gizmo_id": null,
+  "gizmo_type": null,
+  "is_archived": false,
+  "is_starred": null,
+  "safe_urls": [
+    "https://docs.google.com/presentation/d/11n0Wjuik6jHQFe-gRLV2LOg7CQHGf-CM_JX0Y-Io_RI/edit#slide=id.g2ef8699e0eb_48_36",
+    "https://www.notion.so/9162f50b62b080124ca4db47ba6f2e54",
+    "https://gpd.wilder.wp.computer",
+    "https://docs.google.com/document/d/1WF0NB9fnxhDPEi_arGSp18Kev9KXdoX-IePIE8KJgCQ/edit?tab=t.0#heading=h.e3mmf6q9l82j",
+    "https://docs.google.com/document/d/1WF0NB9fnxhDPEi_arGSp18Kev9KXdoX-IePIE8KJgCQ",
+    "https://docs.google.com/spreadsheets/d/1HmkfBJulhu50S6L9wuRsaVC9VL1LpbxpmgRzn33SxsQ/edit?gid=676408861#gid=676408861"
+  ],
+  "blocked_urls": [],
+  "default_model_slug": "gpt-5",
+  "atlas_mode_enabled": null,
+  "conversation_origin": null,
+  "is_read_only": null,
+  "voice": null,
+  "async_status": null,
+  "disabled_tool_ids": [],
+  "is_do_not_remember": false,
+  "memory_scope": "global_enabled",
+  "context_scopes": null,
+  "sugar_item_id": null,
+  "sugar_item_visible": false,
+  "pinned_time": null,
+  "is_study_mode": false,
+  "owner": null,
+  "id": "68c3e356-c6a0-8324-b0a6-aedb5116d243"
+}

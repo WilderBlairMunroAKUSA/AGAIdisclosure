@@ -1,0 +1,147 @@
+{
+  "title": "World Peace: How Achieve?",
+  "create_time": 1705476640.027199,
+  "update_time": 1740447430.066678,
+  "mapping": {
+    "aaa13a02-cb5e-4d51-b229-1de464f9134c": {
+      "id": "aaa13a02-cb5e-4d51-b229-1de464f9134c",
+      "message": null,
+      "parent": null,
+      "children": [
+        "641deadb-b263-40bf-9375-a3541dfe3887"
+      ]
+    },
+    "641deadb-b263-40bf-9375-a3541dfe3887": {
+      "id": "641deadb-b263-40bf-9375-a3541dfe3887",
+      "message": {
+        "id": "641deadb-b263-40bf-9375-a3541dfe3887",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "can_save": false
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa13a02-cb5e-4d51-b229-1de464f9134c",
+      "children": [
+        "aaa23b12-42a0-453e-82d5-fdd32898ca51"
+      ]
+    },
+    "aaa23b12-42a0-453e-82d5-fdd32898ca51": {
+      "id": "aaa23b12-42a0-453e-82d5-fdd32898ca51",
+      "message": {
+        "id": "aaa23b12-42a0-453e-82d5-fdd32898ca51",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1705476640.028176,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "How do we achieve world peace?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "641deadb-b263-40bf-9375-a3541dfe3887",
+      "children": [
+        "85b98844-3f4a-4ee7-aaa6-6b67534c8dd0"
+      ]
+    },
+    "85b98844-3f4a-4ee7-aaa6-6b67534c8dd0": {
+      "id": "85b98844-3f4a-4ee7-aaa6-6b67534c8dd0",
+      "message": {
+        "id": "85b98844-3f4a-4ee7-aaa6-6b67534c8dd0",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1705476643.272554,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Achieving world peace is a complex and challenging goal that requires cooperation at various levels. Some key steps include:\n\n1. Diplomacy: Encourage nations to resolve conflicts through peaceful negotiations and diplomacy rather than military force.\n\n2. International Organizations: Support and strengthen international organizations like the United Nations, which aim to promote peace, security, and cooperation among nations.\n\n3. Conflict Resolution: Invest in conflict resolution and mediation efforts to address underlying issues causing conflicts.\n\n4. Education: Promote education, awareness, and cultural exchange programs to foster understanding and tolerance among different cultures and nations.\n\n5. Economic Development: Address poverty, inequality, and economic instability, as these can be sources of conflict.\n\n6. Disarmament: Work towards global disarmament and arms control agreements to reduce the likelihood of conflict escalation.\n\n7. Human Rights: Advocate for the protection of human rights and the rule of law worldwide.\n\n8. Grassroots Efforts: Support grassroots movements and initiatives that promote peace, dialogue, and reconciliation.\n\nRemember that achieving world peace is a long-term goal that requires the collective efforts of individuals, communities, governments, and international organizations."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              100260
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "text-davinci-002-render-sha",
+          "parent_id": "aaa23b12-42a0-453e-82d5-fdd32898ca51",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa23b12-42a0-453e-82d5-fdd32898ca51",
+      "children": []
+    }
+  },
+  "moderation_results": [],
+  "current_node": "85b98844-3f4a-4ee7-aaa6-6b67534c8dd0",
+  "plugin_ids": null,
+  "conversation_id": "b59c5b8e-a9c1-4944-ac39-c124b20eafb8",
+  "conversation_template_id": "g-p-67bd1e3366b481918f7231b7af1e916f",
+  "gizmo_id": "g-p-67bd1e3366b481918f7231b7af1e916f",
+  "gizmo_type": "snorlax",
+  "is_archived": false,
+  "is_starred": null,
+  "safe_urls": [],
+  "blocked_urls": [],
+  "default_model_slug": null,
+  "atlas_mode_enabled": null,
+  "conversation_origin": null,
+  "is_read_only": null,
+  "voice": null,
+  "async_status": null,
+  "disabled_tool_ids": [],
+  "is_do_not_remember": null,
+  "memory_scope": "global_enabled",
+  "context_scopes": null,
+  "sugar_item_id": null,
+  "sugar_item_visible": false,
+  "pinned_time": null,
+  "is_study_mode": false,
+  "owner": null,
+  "id": "b59c5b8e-a9c1-4944-ac39-c124b20eafb8"
+}

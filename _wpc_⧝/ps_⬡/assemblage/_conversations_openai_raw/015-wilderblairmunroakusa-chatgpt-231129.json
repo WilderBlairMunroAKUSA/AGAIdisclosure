@@ -1,0 +1,2022 @@
+{
+  "title": "Inner Monologue Existence Varies",
+  "create_time": 1701228805.427788,
+  "update_time": 1740447188.181654,
+  "mapping": {
+    "aaa1dc45-106f-4ce6-9b76-8cd3370c0fdc": {
+      "id": "aaa1dc45-106f-4ce6-9b76-8cd3370c0fdc",
+      "message": null,
+      "parent": null,
+      "children": [
+        "4539c4e1-d8fb-4bcb-8248-dbcf535f5753"
+      ]
+    },
+    "4539c4e1-d8fb-4bcb-8248-dbcf535f5753": {
+      "id": "4539c4e1-d8fb-4bcb-8248-dbcf535f5753",
+      "message": {
+        "id": "4539c4e1-d8fb-4bcb-8248-dbcf535f5753",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "can_save": false
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa1dc45-106f-4ce6-9b76-8cd3370c0fdc",
+      "children": [
+        "aaa2d107-f45d-4e65-9036-186a1bdb08e1"
+      ]
+    },
+    "aaa2d107-f45d-4e65-9036-186a1bdb08e1": {
+      "id": "aaa2d107-f45d-4e65-9036-186a1bdb08e1",
+      "message": {
+        "id": "aaa2d107-f45d-4e65-9036-186a1bdb08e1",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1701228805.429291,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "can you provide me with studies and conclusions for if the inner monologue exists in all people?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "4539c4e1-d8fb-4bcb-8248-dbcf535f5753",
+      "children": [
+        "838a48ac-68ec-4e08-9ffe-41f94b5861dc"
+      ]
+    },
+    "838a48ac-68ec-4e08-9ffe-41f94b5861dc": {
+      "id": "838a48ac-68ec-4e08-9ffe-41f94b5861dc",
+      "message": {
+        "id": "838a48ac-68ec-4e08-9ffe-41f94b5861dc",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1701228881.545517,
+        "update_time": null,
+        "content": {
+          "content_type": "code",
+          "language": "unknown",
+          "response_format_name": null,
+          "text": "search(\"studies on existence of inner monologue in all people\")"
+        },
+        "status": "finished_successfully",
+        "end_turn": false,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              100265
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "aaa2d107-f45d-4e65-9036-186a1bdb08e1",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "browser",
+        "channel": null
+      },
+      "parent": "aaa2d107-f45d-4e65-9036-186a1bdb08e1",
+      "children": [
+        "46d560bc-eb08-4243-8651-252d04867435"
+      ]
+    },
+    "46d560bc-eb08-4243-8651-252d04867435": {
+      "id": "46d560bc-eb08-4243-8651-252d04867435",
+      "message": {
+        "id": "46d560bc-eb08-4243-8651-252d04867435",
+        "author": {
+          "role": "tool",
+          "name": "browser",
+          "metadata": {}
+        },
+        "create_time": 1701228881.546253,
+        "update_time": null,
+        "content": {
+          "content_type": "tether_browsing_display",
+          "result": "L0: # 【0†https://www.verywellmind.com/does-everyone-have-an-inner-monologue-6831748†www.verywellmind.com】\nL1: An inner monologue is a little voice in your head that supports your thinking and memory. However, not everyone has an inner monologue. Research has shown that only 30 to 50% of people have inner monologues, and they may vary in frequency and form. Some people may have inner speech, images, or sensations instead of an inner voice.\nL2: # 【1†Does Everyone Have an Inner Monologue? - Verywell Mind†www.verywellmind.com】\nL3: David Susman, PhD MoMo Productions/DigitalVision/Getty As you read this, you may hear the words “spoken” in your head. That little voice is your “inner monologue,” also referred to as the “inner voice,” “inner speech,” or “self-talk,” but it turns out not everyone has an inner monologue.\nL4: # 【2†Does everyone have an inner monologue? | Live Science†www.livescience.com】\nL5: Lœvenbruck's research looks at inner monologues in three dimensions, according to a 2019 study she and colleagues published in the journal Frontiers in Psychology. The first is dialogality....\nL6: # 【3†How Inner Monologues Work, and Who Has Them | Psychology Today†www.psychologytoday.com】\nL7: Key points About 30 to 50 percent of people regularly think to themselves in internal monologues. Inner monologues have a function in language development and in information and memory...\nL8: # 【4†Types of Inner Dialogues and Functions of Self-Talk: Comparisons and ...†www.ncbi.nlm.nih.gov】\nL9: We all have an internal monologue that we engage in from time to time” (p. 321). How people engage in internal monologues (or dialogues) and self-talk is likely to vary. ... an inner monologue can easily evolve into an internal dialogue between two subjects inside one’s mind—between different parts of oneself or between oneself and the ...\nL10: # 【5†What it's like living without an inner monologue | CBC News†www.cbc.ca】\nL11: The concept of an inner monologue — the term now commonly used to describe the voice in your head — recently sparked a flurry of discussion on social media. A tweet by @KylePlantEmoji and...\nL12: # 【6†Inner monologues, with Ethan Kross, PhD†www.apa.org】\nL13: Episode 103 You may have heard about the internet debate on inner monologues recently. It all started from a tweet that went viral. That tweet said that some people have an internal narrative, and some don’t. What ensued were thousands of comments, retweets and news stories on the topic.\nL14: # 【7†How Our Internal Monologue Impacts Our Mental Health†www.psychologytoday.com】\nL15: Jones, S. and Fernyhough, M. (2011) The Varieties of Inner Speech: Links Between Quality of Inner Speech and Psychopathological Variables in a Sample of Young Adults, Consciousness and Cognition ...\nL16: # 【8†Why some people don't have an inner monologue | TED-Ed†ed.ted.com】\nL17: 2,294,665 Views 319 Questions Answered Best of Web Let’s Begin… Do you always have an inner monologue? Can you imagine not having one? Or maybe you've never had an inner monologue and wondered what it would be like? Psychologists are beginning to study that voice inside your head— and it's much more complicated than you might think.\nL18: # 【9†Internal Monologue: What It Is, What It Means, and More - Healthline†www.healthline.com】\nL19: A 2021 study indicates that people with aphantasia may also experience anaduralia, a term that’s now being used to describe the absence of auditory imagery — or the inner voice. Based on...\nL20: # 【10†Full article: How to turn interior monologues inside out ...†www.tandfonline.com】\nL21: In 1962, Ruth Hirsch Weir, a linguist working at Stanford University, published her first monograph, Language in the Crib.For her study, Hirsch Weir had recorded the “pre-sleep monologues” of her son Anthony at the age of twenty-eight to thirty months, “alone in his crib, talking to himself” (Citation 1962, 7).She analysed the magnetic tape recordings during a summer 1961 research ...\nL22: # 【11†Inner Monologue: Relationship to Personality and Psychopathology†digitalcommons.otterbein.edu】\nL23: The purpose of this study is to investigate the function of internal monologue and investigate its relation to personality and psychopathology. Internal monologue or self-talk are habits of private speech that may serve to internally guide, comfort, and criticize (Brintahupt 2019; Morin, Duhnych and Racy, 2018). We explored the relationship of self-talk to the factor of extraversion, how self ...\nL24: # 【12†Why We Talk to Ourselves: The Science of Your Internal Monologue†www.mindful.org】\nL25: November 3, 2022 Focus Illustration by Edmon de Haro “Know thyself,” was the advice inscribed on the Temple of Apollo at Delphi. The Tao Te Ching insisted that knowing others is intelligence, while knowing oneself is true wisdom. “To thine own self be true,” Shakespeare urged. Pithy advice. Good advice.\nL26: # 【13†Do You Have an Internal Dialogue? Not Everyone Does†science.howstuffworks.com】\nL27: Inner voice — also known as an internal dialogue, internal monologue or inner speech — refers to the ongoing, often subconscious, stream of thoughts, feelings and inner conversations that occur within a person's mind. Unlike external speech where you use your voice to communicate with yourself or others, the inner voice is how people think ...\nL28: # 【14†Experts talk about what it means to have an inner monologue - TODAY†www.today.com】\nL29: An inner voice can help people understand the world and engage in it. But, sometimes, that inner monologue turns negative or becomes fixated on a thought. This obsession can be a sign of something ...\nL30: # 【15†What Is an Internal Monologue? (And Does Everyone Have One?) - Dr. Axe†draxe.com】\nL31: An internal monologue (also called an inner monologue or internal dialogue) is considered an inner voice that narrates your thoughts throughout the day. It’s believed this occurs in many people because there are connections in their brains between areas focused on thinking and areas focused on language. According to the latest research, inner ...\nL32: # 【16†consciousness - If some people don't have an internal monologue, is ...†philosophy.stackexchange.com】\nL33: If I have an internal monologue and other people do not have an internal monologue, then it turns out that my mind is not similar to the minds of other people. So, this is a false dichotomy . Minds, like anything of any complexity in life are generally similar along a spectrum, and are not so easily cast into two categories.\nL34: # 【17†Internal Monologue vs. Thinking: Exploring the Complexities of the ...†futuredoctor.ai】\nL35: Definition The concept of an internal monologue refers to the ongoing conversation we have with ourselves in our minds, often stemming from our self-awareness and personal reflections. It's a silent yet powerful form of communication that occurs within us as we think about experiences, thoughts, emotions and perceptions.\nL36: # 【18†Inner Monologue Examples: Characters' Hidden Lives | Now Novel†www.nownovel.com】\nL37: 1. Use inner monologue to reveal unspoken thoughts. Often a protagonist-narrator will simply state how they feel in narration. For example: ‘I was apprehensive when I approached the derelict building.’. Or, if you’re using third person limited point of view: ‘Luisa was apprehensive when she approached the building.’.\nL38: # 【19†Interior Monologue Definition and Examples - Poem Analysis†poemanalysis.com】\nL39: Interior Monologue Definition. An interior monologue is the part of a narrative in a book, poem, play, biography, or other literary work, in which the writer puts to paper what they believe a character would be thinking at a specific moment.. There are two different types of interior monologues. They can be explored below: Direct: the character’s thoughts flow freely from their mind.\nVisible: 0% - 100%",
+          "summary": null,
+          "assets": [],
+          "tether_id": null
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 0.0,
+        "metadata": {
+          "_cite_metadata": {
+            "citation_format": {
+              "name": "tether_og"
+            },
+            "metadata_list": [
+              {
+                "type": "webpage",
+                "title": "https://www.verywellmind.com/does-everyone-have-an-inner-monologue-6831748",
+                "url": "https://www.verywellmind.com/does-everyone-have-an-inner-monologue-6831748",
+                "text": "\nL1: An inner monologue is a little voice in your head that supports your thinking and memory. However, not everyone has an inner monologue. Research has shown that only 30 to 50% of people have inner monologues, and they may vary in frequency and form. Some people may have inner speech, images, or sensations instead of an inner voice.\nL2: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Does Everyone Have an Inner Monologue? - Verywell Mind",
+                "url": "https://www.verywellmind.com/does-everyone-have-an-inner-monologue-6831748",
+                "text": "\nL3: David Susman, PhD MoMo Productions/DigitalVision/Getty As you read this, you may hear the words “spoken” in your head. That little voice is your “inner monologue,” also referred to as the “inner voice,” “inner speech,” or “self-talk,” but it turns out not everyone has an inner monologue.\nL4: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Does everyone have an inner monologue? | Live Science",
+                "url": "https://www.livescience.com/does-everyone-have-inner-monologue.html",
+                "text": "\nL5: Lœvenbruck's research looks at inner monologues in three dimensions, according to a 2019 study she and colleagues published in the journal Frontiers in Psychology. The first is dialogality....\nL6: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "How Inner Monologues Work, and Who Has Them | Psychology Today",
+                "url": "https://www.psychologytoday.com/us/blog/intersections/202304/inner-monologues-what-are-they-and-whos-having-them",
+                "text": "\nL7: Key points About 30 to 50 percent of people regularly think to themselves in internal monologues. Inner monologues have a function in language development and in information and memory...\nL8: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Types of Inner Dialogues and Functions of Self-Talk: Comparisons and ...",
+                "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7067977/",
+                "text": "\nL9: We all have an internal monologue that we engage in from time to time” (p. 321). How people engage in internal monologues (or dialogues) and self-talk is likely to vary. ... an inner monologue can easily evolve into an internal dialogue between two subjects inside one’s mind—between different parts of oneself or between oneself and the ...\nL10: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "What it's like living without an inner monologue | CBC News",
+                "url": "https://www.cbc.ca/news/canada/saskatchewan/inner-monologue-experience-science-1.5486969",
+                "text": "\nL11: The concept of an inner monologue — the term now commonly used to describe the voice in your head — recently sparked a flurry of discussion on social media. A tweet by @KylePlantEmoji and...\nL12: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Inner monologues, with Ethan Kross, PhD",
+                "url": "https://www.apa.org/news/podcasts/speaking-of-psychology/inner-monologues",
+                "text": "\nL13: Episode 103 You may have heard about the internet debate on inner monologues recently. It all started from a tweet that went viral. That tweet said that some people have an internal narrative, and some don’t. What ensued were thousands of comments, retweets and news stories on the topic.\nL14: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "How Our Internal Monologue Impacts Our Mental Health",
+                "url": "https://www.psychologytoday.com/us/blog/mind-brain-and-value/202108/how-our-internal-monologue-impacts-our-mental-health",
+                "text": "\nL15: Jones, S. and Fernyhough, M. (2011) The Varieties of Inner Speech: Links Between Quality of Inner Speech and Psychopathological Variables in a Sample of Young Adults, Consciousness and Cognition ...\nL16: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Why some people don't have an inner monologue | TED-Ed",
+                "url": "https://ed.ted.com/best_of_web/O3xvONfv",
+                "text": "\nL17: 2,294,665 Views 319 Questions Answered Best of Web Let’s Begin… Do you always have an inner monologue? Can you imagine not having one? Or maybe you've never had an inner monologue and wondered what it would be like? Psychologists are beginning to study that voice inside your head— and it's much more complicated than you might think.\nL18: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Internal Monologue: What It Is, What It Means, and More - Healthline",
+                "url": "https://www.healthline.com/health/mental-health/internal-monologue",
+                "text": "\nL19: A 2021 study indicates that people with aphantasia may also experience anaduralia, a term that’s now being used to describe the absence of auditory imagery — or the inner voice. Based on...\nL20: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Full article: How to turn interior monologues inside out ...",
+                "url": "https://www.tandfonline.com/doi/full/10.1080/20551940.2020.1794647",
+                "text": "\nL21: In 1962, Ruth Hirsch Weir, a linguist working at Stanford University, published her first monograph, Language in the Crib.For her study, Hirsch Weir had recorded the “pre-sleep monologues” of her son Anthony at the age of twenty-eight to thirty months, “alone in his crib, talking to himself” (Citation 1962, 7).She analysed the magnetic tape recordings during a summer 1961 research ...\nL22: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Inner Monologue: Relationship to Personality and Psychopathology",
+                "url": "https://digitalcommons.otterbein.edu/stu_dist/90/",
+                "text": "\nL23: The purpose of this study is to investigate the function of internal monologue and investigate its relation to personality and psychopathology. Internal monologue or self-talk are habits of private speech that may serve to internally guide, comfort, and criticize (Brintahupt 2019; Morin, Duhnych and Racy, 2018). We explored the relationship of self-talk to the factor of extraversion, how self ...\nL24: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Why We Talk to Ourselves: The Science of Your Internal Monologue",
+                "url": "https://www.mindful.org/why-we-talk-to-ourselves-the-science-of-your-internal-monologue/",
+                "text": "\nL25: November 3, 2022 Focus Illustration by Edmon de Haro “Know thyself,” was the advice inscribed on the Temple of Apollo at Delphi. The Tao Te Ching insisted that knowing others is intelligence, while knowing oneself is true wisdom. “To thine own self be true,” Shakespeare urged. Pithy advice. Good advice.\nL26: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Do You Have an Internal Dialogue? Not Everyone Does",
+                "url": "https://science.howstuffworks.com/life/inside-the-mind/human-brain/inner-voice.htm",
+                "text": "\nL27: Inner voice — also known as an internal dialogue, internal monologue or inner speech — refers to the ongoing, often subconscious, stream of thoughts, feelings and inner conversations that occur within a person's mind. Unlike external speech where you use your voice to communicate with yourself or others, the inner voice is how people think ...\nL28: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Experts talk about what it means to have an inner monologue - TODAY",
+                "url": "https://www.today.com/health/experts-talk-about-what-it-means-have-inner-monologue-t173490",
+                "text": "\nL29: An inner voice can help people understand the world and engage in it. But, sometimes, that inner monologue turns negative or becomes fixated on a thought. This obsession can be a sign of something ...\nL30: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "What Is an Internal Monologue? (And Does Everyone Have One?) - Dr. Axe",
+                "url": "https://draxe.com/health/internal-monologue/",
+                "text": "\nL31: An internal monologue (also called an inner monologue or internal dialogue) is considered an inner voice that narrates your thoughts throughout the day. It’s believed this occurs in many people because there are connections in their brains between areas focused on thinking and areas focused on language. According to the latest research, inner ...\nL32: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "consciousness - If some people don't have an internal monologue, is ...",
+                "url": "https://philosophy.stackexchange.com/questions/100206/if-some-people-dont-have-an-internal-monologue-is-that-a-problem-for-arguments",
+                "text": "\nL33: If I have an internal monologue and other people do not have an internal monologue, then it turns out that my mind is not similar to the minds of other people. So, this is a false dichotomy . Minds, like anything of any complexity in life are generally similar along a spectrum, and are not so easily cast into two categories.\nL34: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Internal Monologue vs. Thinking: Exploring the Complexities of the ...",
+                "url": "https://futuredoctor.ai/internal-monologue-vs-thinking/",
+                "text": "\nL35: Definition The concept of an internal monologue refers to the ongoing conversation we have with ourselves in our minds, often stemming from our self-awareness and personal reflections. It's a silent yet powerful form of communication that occurs within us as we think about experiences, thoughts, emotions and perceptions.\nL36: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Inner Monologue Examples: Characters' Hidden Lives | Now Novel",
+                "url": "https://www.nownovel.com/blog/inner-monologue-examples-in-novels/",
+                "text": "\nL37: 1. Use inner monologue to reveal unspoken thoughts. Often a protagonist-narrator will simply state how they feel in narration. For example: ‘I was apprehensive when I approached the derelict building.’. Or, if you’re using third person limited point of view: ‘Luisa was apprehensive when she approached the building.’.\nL38: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Interior Monologue Definition and Examples - Poem Analysis",
+                "url": "https://poemanalysis.com/definition/interior-monologue/",
+                "text": "\nL39: Interior Monologue Definition. An interior monologue is the part of a narrative in a book, poem, play, biography, or other literary work, in which the writer puts to paper what they believe a character would be thinking at a specific moment.. There are two different types of interior monologues. They can be explored below: Direct: the character’s thoughts flow freely from their mind.\nVisible: 0% - 100%",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Search results for query: 'studies on existence of inner monologue in all people'",
+                "url": "",
+                "text": "L0: # 【0†https://www.verywellmind.com/does-everyone-have-an-inner-monologue-6831748†www.verywellmind.com】\nL1: An inner monologue is a little voice in your head that supports your thinking and memory. However, not everyone has an inner monologue. Research has shown that only 30 to 50% of people have inner monologues, and they may vary in frequency and form. Some people may have inner speech, images, or sensations instead of an inner voice.\nL2: # 【1†Does Everyone Have an Inner Monologue? - Verywell Mind†www.verywellmind.com】\nL3: David Susman, PhD MoMo Productions/DigitalVision/Getty As you read this, you may hear the words “spoken” in your head. That little voice is your “inner monologue,” also referred to as the “inner voice,” “inner speech,” or “self-talk,” but it turns out not everyone has an inner monologue.\nL4: # 【2†Does everyone have an inner monologue? | Live Science†www.livescience.com】\nL5: Lœvenbruck's research looks at inner monologues in three dimensions, according to a 2019 study she and colleagues published in the journal Frontiers in Psychology. The first is dialogality....\nL6: # 【3†How Inner Monologues Work, and Who Has Them | Psychology Today†www.psychologytoday.com】\nL7: Key points About 30 to 50 percent of people regularly think to themselves in internal monologues. Inner monologues have a function in language development and in information and memory...\nL8: # 【4†Types of Inner Dialogues and Functions of Self-Talk: Comparisons and ...†www.ncbi.nlm.nih.gov】\nL9: We all have an internal monologue that we engage in from time to time” (p. 321). How people engage in internal monologues (or dialogues) and self-talk is likely to vary. ... an inner monologue can easily evolve into an internal dialogue between two subjects inside one’s mind—between different parts of oneself or between oneself and the ...\nL10: # 【5†What it's like living without an inner monologue | CBC News†www.cbc.ca】\nL11: The concept of an inner monologue — the term now commonly used to describe the voice in your head — recently sparked a flurry of discussion on social media. A tweet by @KylePlantEmoji and...\nL12: # 【6†Inner monologues, with Ethan Kross, PhD†www.apa.org】\nL13: Episode 103 You may have heard about the internet debate on inner monologues recently. It all started from a tweet that went viral. That tweet said that some people have an internal narrative, and some don’t. What ensued were thousands of comments, retweets and news stories on the topic.\nL14: # 【7†How Our Internal Monologue Impacts Our Mental Health†www.psychologytoday.com】\nL15: Jones, S. and Fernyhough, M. (2011) The Varieties of Inner Speech: Links Between Quality of Inner Speech and Psychopathological Variables in a Sample of Young Adults, Consciousness and Cognition ...\nL16: # 【8†Why some people don't have an inner monologue | TED-Ed†ed.ted.com】\nL17: 2,294,665 Views 319 Questions Answered Best of Web Let’s Begin… Do you always have an inner monologue? Can you imagine not having one? Or maybe you've never had an inner monologue and wondered what it would be like? Psychologists are beginning to study that voice inside your head— and it's much more complicated than you might think.\nL18: # 【9†Internal Monologue: What It Is, What It Means, and More - Healthline†www.healthline.com】\nL19: A 2021 study indicates that people with aphantasia may also experience anaduralia, a term that’s now being used to describe the absence of auditory imagery — or the inner voice. Based on...\nL20: # 【10†Full article: How to turn interior monologues inside out ...†www.tandfonline.com】\nL21: In 1962, Ruth Hirsch Weir, a linguist working at Stanford University, published her first monograph, Language in the Crib.For her study, Hirsch Weir had recorded the “pre-sleep monologues” of her son Anthony at the age of twenty-eight to thirty months, “alone in his crib, talking to himself” (Citation 1962, 7).She analysed the magnetic tape recordings during a summer 1961 research ...\nL22: # 【11†Inner Monologue: Relationship to Personality and Psychopathology†digitalcommons.otterbein.edu】\nL23: The purpose of this study is to investigate the function of internal monologue and investigate its relation to personality and psychopathology. Internal monologue or self-talk are habits of private speech that may serve to internally guide, comfort, and criticize (Brintahupt 2019; Morin, Duhnych and Racy, 2018). We explored the relationship of self-talk to the factor of extraversion, how self ...\nL24: # 【12†Why We Talk to Ourselves: The Science of Your Internal Monologue†www.mindful.org】\nL25: November 3, 2022 Focus Illustration by Edmon de Haro “Know thyself,” was the advice inscribed on the Temple of Apollo at Delphi. The Tao Te Ching insisted that knowing others is intelligence, while knowing oneself is true wisdom. “To thine own self be true,” Shakespeare urged. Pithy advice. Good advice.\nL26: # 【13†Do You Have an Internal Dialogue? Not Everyone Does†science.howstuffworks.com】\nL27: Inner voice — also known as an internal dialogue, internal monologue or inner speech — refers to the ongoing, often subconscious, stream of thoughts, feelings and inner conversations that occur within a person's mind. Unlike external speech where you use your voice to communicate with yourself or others, the inner voice is how people think ...\nL28: # 【14†Experts talk about what it means to have an inner monologue - TODAY†www.today.com】\nL29: An inner voice can help people understand the world and engage in it. But, sometimes, that inner monologue turns negative or becomes fixated on a thought. This obsession can be a sign of something ...\nL30: # 【15†What Is an Internal Monologue? (And Does Everyone Have One?) - Dr. Axe†draxe.com】\nL31: An internal monologue (also called an inner monologue or internal dialogue) is considered an inner voice that narrates your thoughts throughout the day. It’s believed this occurs in many people because there are connections in their brains between areas focused on thinking and areas focused on language. According to the latest research, inner ...\nL32: # 【16†consciousness - If some people don't have an internal monologue, is ...†philosophy.stackexchange.com】\nL33: If I have an internal monologue and other people do not have an internal monologue, then it turns out that my mind is not similar to the minds of other people. So, this is a false dichotomy . Minds, like anything of any complexity in life are generally similar along a spectrum, and are not so easily cast into two categories.\nL34: # 【17†Internal Monologue vs. Thinking: Exploring the Complexities of the ...†futuredoctor.ai】\nL35: Definition The concept of an internal monologue refers to the ongoing conversation we have with ourselves in our minds, often stemming from our self-awareness and personal reflections. It's a silent yet powerful form of communication that occurs within us as we think about experiences, thoughts, emotions and perceptions.\nL36: # 【18†Inner Monologue Examples: Characters' Hidden Lives | Now Novel†www.nownovel.com】\nL37: 1. Use inner monologue to reveal unspoken thoughts. Often a protagonist-narrator will simply state how they feel in narration. For example: ‘I was apprehensive when I approached the derelict building.’. Or, if you’re using third person limited point of view: ‘Luisa was apprehensive when she approached the building.’.\nL38: # 【19†Interior Monologue Definition and Examples - Poem Analysis†poemanalysis.com】\nL39: Interior Monologue Definition. An interior monologue is the part of a narrative in a book, poem, play, biography, or other literary work, in which the writer puts to paper what they believe a character would be thinking at a specific moment.. There are two different types of interior monologues. They can be explored below: Direct: the character’s thoughts flow freely from their mind.\nVisible: 0% - 100%",
+                "pub_date": null,
+                "extra": null
+              }
+            ],
+            "original_query": null
+          },
+          "command": "search",
+          "args": [
+            "studies on existence of inner monologue in all people"
+          ],
+          "status": "finished",
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "838a48ac-68ec-4e08-9ffe-41f94b5861dc",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "838a48ac-68ec-4e08-9ffe-41f94b5861dc",
+      "children": [
+        "004bd602-bfcf-4162-ad1f-3f2aa5c03cc4"
+      ]
+    },
+    "004bd602-bfcf-4162-ad1f-3f2aa5c03cc4": {
+      "id": "004bd602-bfcf-4162-ad1f-3f2aa5c03cc4",
+      "message": {
+        "id": "004bd602-bfcf-4162-ad1f-3f2aa5c03cc4",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1701228881.548875,
+        "update_time": null,
+        "content": {
+          "content_type": "code",
+          "language": "unknown",
+          "response_format_name": null,
+          "text": "click(0)"
+        },
+        "status": "finished_successfully",
+        "end_turn": false,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              100265
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "46d560bc-eb08-4243-8651-252d04867435",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "browser",
+        "channel": null
+      },
+      "parent": "46d560bc-eb08-4243-8651-252d04867435",
+      "children": [
+        "219cb8db-de8a-4e74-adb8-a5a51ae94b86"
+      ]
+    },
+    "219cb8db-de8a-4e74-adb8-a5a51ae94b86": {
+      "id": "219cb8db-de8a-4e74-adb8-a5a51ae94b86",
+      "message": {
+        "id": "219cb8db-de8a-4e74-adb8-a5a51ae94b86",
+        "author": {
+          "role": "tool",
+          "name": "browser",
+          "metadata": {}
+        },
+        "create_time": 1701228881.551384,
+        "update_time": null,
+        "content": {
+          "content_type": "system_error",
+          "name": "tool_error",
+          "text": "Error when executing command `click(0)`\nFailed to fetch page w/ URL: https://www.verywellmind.com/does-everyone-have-an-inner-monologue-6831748\nFetch denied by robots.txt\nChatGPT, before attempting another click, look carefully at the currently visible information. Is there enough information on the page or in the search results to answer the user now? If so, go ahead and do that."
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "command": "click",
+          "status": "failed",
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "004bd602-bfcf-4162-ad1f-3f2aa5c03cc4",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "004bd602-bfcf-4162-ad1f-3f2aa5c03cc4",
+      "children": [
+        "5b48ad0e-922f-4c11-9d7a-49c6e78d9c8b"
+      ]
+    },
+    "5b48ad0e-922f-4c11-9d7a-49c6e78d9c8b": {
+      "id": "5b48ad0e-922f-4c11-9d7a-49c6e78d9c8b",
+      "message": {
+        "id": "5b48ad0e-922f-4c11-9d7a-49c6e78d9c8b",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1701228881.551546,
+        "update_time": null,
+        "content": {
+          "content_type": "code",
+          "language": "unknown",
+          "response_format_name": null,
+          "text": "click(2)"
+        },
+        "status": "finished_successfully",
+        "end_turn": false,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              100265
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "219cb8db-de8a-4e74-adb8-a5a51ae94b86",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "browser",
+        "channel": null
+      },
+      "parent": "219cb8db-de8a-4e74-adb8-a5a51ae94b86",
+      "children": [
+        "236b6e2d-b105-4684-ba9e-81b488da6762"
+      ]
+    },
+    "236b6e2d-b105-4684-ba9e-81b488da6762": {
+      "id": "236b6e2d-b105-4684-ba9e-81b488da6762",
+      "message": {
+        "id": "236b6e2d-b105-4684-ba9e-81b488da6762",
+        "author": {
+          "role": "tool",
+          "name": "browser",
+          "metadata": {}
+        },
+        "create_time": 1701228881.553908,
+        "update_time": null,
+        "content": {
+          "content_type": "system_error",
+          "name": "tool_error",
+          "text": "Error when executing command `click(2)`\nFailed to fetch page w/ URL: https://www.livescience.com/does-everyone-have-inner-monologue.html\nFetch denied by robots.txt\nChatGPT, before attempting another click, look carefully at the currently visible information. Is there enough information on the page or in the search results to answer the user now? If so, go ahead and do that."
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "command": "click",
+          "status": "failed",
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "5b48ad0e-922f-4c11-9d7a-49c6e78d9c8b",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "5b48ad0e-922f-4c11-9d7a-49c6e78d9c8b",
+      "children": [
+        "7050bf35-faee-4339-a706-f59eaa120a1f"
+      ]
+    },
+    "7050bf35-faee-4339-a706-f59eaa120a1f": {
+      "id": "7050bf35-faee-4339-a706-f59eaa120a1f",
+      "message": {
+        "id": "7050bf35-faee-4339-a706-f59eaa120a1f",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1701228881.55406,
+        "update_time": null,
+        "content": {
+          "content_type": "code",
+          "language": "unknown",
+          "response_format_name": null,
+          "text": "click(3)"
+        },
+        "status": "finished_successfully",
+        "end_turn": false,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              100265
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "236b6e2d-b105-4684-ba9e-81b488da6762",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "browser",
+        "channel": null
+      },
+      "parent": "236b6e2d-b105-4684-ba9e-81b488da6762",
+      "children": [
+        "c3ad141c-9a99-47dc-a0f9-59842116cad4"
+      ]
+    },
+    "c3ad141c-9a99-47dc-a0f9-59842116cad4": {
+      "id": "c3ad141c-9a99-47dc-a0f9-59842116cad4",
+      "message": {
+        "id": "c3ad141c-9a99-47dc-a0f9-59842116cad4",
+        "author": {
+          "role": "tool",
+          "name": "browser",
+          "metadata": {}
+        },
+        "create_time": 1701228881.556445,
+        "update_time": null,
+        "content": {
+          "content_type": "tether_browsing_display",
+          "result": "L0: \nL1: URL: https://www.psychologytoday.com/us/blog/intersections/202304/inner-monologues-what-are-they-and-whos-having-them\nL2: 【0† Skip to main content 】 \nL3: \nL4: Mobile Navigation\nL5: \nL6: 【1†Psychology Today】\nL7: \nL8:   * Find a Therapist \nL9: \nL10: 【2†Find a Therapist】\nL11: \nL12: Therapists\nL13: \nL14:     * Therapists \nL15:     * Psychiatrists \nL16:     * Treatment Centers \nL17:     * Support Groups \nL18: \nL19: x\nL20: \nL21: [Image 0: United States] Therapists : 【3†Login†member.psychologytoday.com】 | 【4†Sign Up†join.psychologytoday.com】 \nL22: \nL23: United States\nL24: \nL25:     * 【5†Austin, TX】\nL26:     * 【6†Brooklyn, NY】\nL27:     * 【7†Chicago, IL】\nL28:     * 【8†Denver, CO】\nL29:     * 【9†Houston, TX】\nL30:     * 【10†Los Angeles, CA】\nL31:     * 【11†New York, NY】\nL32:     * 【12†Portland, OR】\nL33:     * 【13†San Diego, CA】\nL34:     * 【14†San Francisco, CA】\nL35:     * 【15†Seattle, WA】\nL36:     * 【16†Washington, DC】\nL37:     * 【17†Atlanta, GA】\nL38:     * 【18†Sacramento, CA】\nL39: \nL40:   * Get Help \nL41: \nL42: Mental Health\nL43: \nL44:     * 【19†Addiction】 \nL45:     * 【20†Anxiety 】 \nL46:     * 【21†ADHD】 \nL47:     * 【22†Asperger's】 \nL48:     * 【23†Autism】 \nL49:     * 【24†Bipolar Disorder】 \nL50:     * 【25†Chronic Pain】 \nL51:     * 【26†Depression】 \nL52:     * 【27†Eating Disorders】 \nL53: \nL54: Personality\nL55: \nL56:     * 【28†Passive Aggression】 \nL57:     * 【29†Personality】 \nL58:     * 【30†Shyness】 \nL59: \nL60: Personal Growth\nL61: \nL62:     * 【31†Goal Setting】 \nL63:     * 【32†Happiness】 \nL64:     * 【33†Positive Psychology】 \nL65:     * 【34†Stopping Smoking】 \nL66: \nL67: Relationships\nL68: \nL69:     * 【35†Low Sexual Desire】 \nL70:     * 【36†Relationships】 \nL71:     * 【37†Sex】 \nL72: \nL73: Family Life\nL74: \nL75:     * 【38†Child Development】 \nL76:     * 【39†Parenting】 \nL77: \nL78: 【40†View Help Index】\nL79: \nL80: Do I Need Help?\nL81: \nL82:     * 【41† Self Tests 】 \nL83:     * 【42†Therapy Center NEW】 \nL84: \nL85: Recently Diagnosed?\nL86: \nL87:     * 【43† Diagnosis Dictionary 】 \nL88:     * 【44† Types of Therapy 】 \nL89: \nL90: Talk to Someone\nL91: \nL92:     * 【2†Find a Therapist】 \nL93:     * 【45†Find a Treatment Center】 \nL94:     * 【46†Find a Psychiatrist】 \nL95:     * 【47†Find a Support Group】 \nL96:     * 【48†Find Teletherapy】 \nL97: \nL98:   * Magazine \nL99: \nL100: Current\nL101: \nL102: 【49† 】 \nL103: \nL104: 【49† November 2023 The Subtle but Powerful Pull of Your Social Circles 】 \nL105: \nL106: The people around us have a stronger influence on our decisions and actions than we realize. Here’s what research reveals about our networks’ gravitational force. \nL107: \nL108: 【50†Subscribe†subscribe.psychologytoday.com】 \nL109: \nL110: Recent\nL111: \nL112: 【51† 】 \nL113: \nL114: 【52† 】 \nL115: \nL116: 【53† 】 \nL117: \nL118: 【54† 】 \nL119: \nL120: 【55†Issue Archive】 \nL121: \nL122:   * Today \nL123: \nL124: News\nL125: \nL126: Essential Reads\nL127: \nL128: Trending Topics\nL129: \nL130:     * 【56†Coronavirus Disease 2019】 \nL131:     * 【57†Narcissism】 \nL132:     * 【58†Dementia】 \nL133:     * 【59†Bias】 \nL134:     * 【60†Affective Forecasting】 \nL135:     * 【61†Neuroscience】 \nL136: \nL137: 【40†See All】\nL138: \nL139: 【62†us】 \nL140: \nL141: Search \nL142: \nL143: Search\nL144: \nL145: Search \nL146: \nL147: [Image 1] Verified by Psychology Today\nL148: \nL149: 【63† 】 \nL150: \nL151: 【63†Kyle D. Killian Ph.D., LMFT】 \nL152: \nL153: 【64†Intersections】 \nL154: \nL155: ######  【65†Career】 \nL156: \nL157: #  How Inner Monologues Work, and Who Has Them \nL158: \nL159: ##  ... and what happens when people can't turn them off. \nL160: \nL161: Posted April 25, 2023 | 【66† Reviewed by Michelle Quirk 】 \nL162: \nL163:   * 【67† Share †facebook.com】 \nL164:   * 【68† Tweet †twitter.com】 \nL165:   * 【69† Share †www.linkedin.com】 \nL166:   * [Image 2: Share via Email]Email\nL167: \nL168: THE BASICS\nL169: \nL170:   * 【65†What Is a Career】 \nL171:   * 【70†Find a career counselor near me】 \nL172: \nL173: ### Key points\nL174: \nL175:   * About 30 to 50 percent of people regularly think to themselves in internal monologues. \nL176:   * Inner monologues have a function in language development and in information and memory processing.\nL177:   * This phenomenon demonstrates a rich diversity of experience in what we deem to be \"normal\" thought lives.\nL178: \nL179: Flashback to college: I’m sitting in the dining hall with my best friend Dave, and a student enters in a firefighter outfit. Assuming (and probably correctly) that this man is part of the arts/creative “Western campus program,” a woman at our table exclaims, “Those Western people….! They just think all of the time!” My friend and I give each other the side-eye, and he later asks incredulously, “Really? Is there any other option?”\nL180: \nL181: It turns out there is, at least in the sense of having an inner conversation in unspoken words. About 30 to 50 percent of people, according to psychologist Russell Hurlburt’s research, regularly think to themselves in internal monologues. Inner or \"private\" speech is something most of us likely did as very young people seeking to develop our language skills, and later as a way of rehearsing information to successfully encode and retain working 【71†memory】. So it’s clearly functional and not a sign of mental disorder.\nL182: \nL183: To get a read on whether you have inner monologues, try listening in and noting an internal voice or intrusive thoughts during 【72†meditation】. 【73†Mindful】 practice provides tremendous insights into whether you have and how often you have inner monologues. But what about the 50 to 70 percent of folks who don’t have or infrequently have words in their heads?\nL184: \nL185: ## Visual Imagery\nL186: \nL187: There are different theories, but the simplest (and least condescending/least pejorative) view of folks who don’t regularly have inner monologues is that many of them are processing information and prepping for tasks using visual imagery rather than words. That is, they see images, such as a to-do list, rather than thinking about or hearing the words for the items on the list. I found this explanation helpful because I think in terms of words, visual images, and music all day long, and it’s easy to perspective take on folks who are a bit “quiet” in there by relating to their use of images or their playing back a song in their heads, things I do, too. It’s helpful to think about their inner experience in visual terms, as while it might be quiet as the occasional cricket when it comes to words, it’s not a total void or vacuum in there.\nL188: \nL189: ## Too Much of a Good Thing\nL190: \nL191: And before those of us start to feel wonderful about our rich inner monologues, it’s important to remember that too much of a good thing is possible. Inner monologues can become a little like King Midas’s golden touch when we can’t turn them off. For instance, 【20†anxious】 minds continuously scan for and entertain intrusive thoughts, and rumination on these can lead to brooding, and brooding can give itself over to highly critical talk about self and others. In the particular instance of an inner critic, a lack of inner monologue sounds like a quiet, peaceful reprieve from constant chatting and potentially corrosive 【74†self-talk】.\nL192: \nL193: I know people who have internal dialogues and “think in words all of the time.” I know a person who has internal monologues and external dialogues with himself, engaging in rich conversations that can lead in unexpected, even challenging, directions. I can imagine that sounds weird to folks who have only inner monologues or those who have no inner monologues at all. But as Vulcan 【75†philosophy】 states, “Infinite diversity in infinite combinations,” which is another way of saying “Different strokes for different folks,” and empathy, 【76†perspective-taking】, and imagining what others’ experiences are like—and what it’s like inside their heads—are worthwhile, growth-enhancing, and humanizing exercises.\nL194: \nL195: Inner monologues can represent a rich, deep, “pristine” experience (Hurlburt et al., 2016) for some, as long as they don’t get out of hand, and as long as external monologues/dialogues don’t freak out your friends, family members, and co-workers.\nL196: \nL197: 【77†Facebook】 image: DimaBerlin/Shutterstock\nL198: \nL199: LinkedIn image: Tonuka Stock/Shutterstock\nL200: \nL201: THE BASICS\nL202: \nL203:   * 【65†What Is a Career】 \nL204:   * 【70†Find a career counselor near me】 \nL205: \nL206: References\nL207: \nL208: Hurlburt, R.T., Alderson-Day, B., Kuhn, S. & Fernyhough, C. (2016). Exploring the ecological validity of thinking on demand: Neural correlates of elicited vs. spontaneously occurring inner speech. PLoS One, 11(2), e0147932. DOI: 【78†10.1371/journal.pone.0147932†dx.doi.org】\nL209: \nL210: More  references \nL211: \nL212:   * 【67† Share †facebook.com】 \nL213:   * 【68† Tweet †twitter.com】 \nL214:   * 【69† Share †www.linkedin.com】 \nL215:   * [Image 3: Share via Email]Email\nL216: \nL217: advertisement\nL218: \nL219: About the Author\nL220: \nL221: 【63† 】 \nL222: \nL223: 【63† Kyle D. Killian, Ph.D., LMFT is the author of Interracial Couples, Intimacy and Therapy: Crossing Racial Borders. 】 \nL224: \nL225: Online:\nL226: \nL227: 【79†Interracial Couples, Intimacy & Therapy website†cup.columbia.edu】, 【80†LinkedIn†www.linkedin.com】 \nL228: \nL229: More from Kyle D. Killian Ph.D., LMFT\nL230: \nL231: More from Psychology Today\nL232: \nL233: advertisement\nL234: \nL235: advertisement\nL236: \nL237: 【70†Find a Career Counseling Therapist】\nL238: \nL239: Get the help you need from a therapist near you–a FREE service from Psychology Today. \nL240: \nL241: City or Zip  \nL242: \nL243: [Image 4: Counselling] \nL244: \nL245: Cities:\nL246: \nL247:   * 【81†Atlanta, GA】\nL248:   * 【82†Austin, TX】\nL249:   * 【83†Baltimore, MD】\nL250:   * 【84†Boston, MA】\nL251:   * 【85†Brooklyn, NY】\nL252:   * 【86†Charlotte, NC】\nL253:   * 【87†Chicago, IL】\nL254:   * 【88†Columbus, OH】\nL255:   * 【89†Dallas, TX】\nL256:   * 【90†Denver, CO】\nL257:   * 【91†Detroit, MI】\nL258:   * 【92†Houston, TX】\nL259:   * 【93†Indianapolis, IN】\nL260:   * 【94†Jacksonville, FL】\nL261:   * 【95†Las Vegas, NV】\nL262:   * 【96†Los Angeles, CA】\nL263:   * 【97†Louisville, KY】\nL264:   * 【98†Memphis, TN】\nL265:   * 【99†Miami, FL】\nL266:   * 【100†Milwaukee, WI】\nL267:   * 【101†Minneapolis, MN】\nL268:   * 【102†Nashville, TN】\nL269:   * 【103†New York, NY】\nL270:   * 【104†Oakland, CA】\nL271:   * 【105†Omaha, NE】\nL272:   * 【106†Philadelphia, PA】\nL273:   * 【107†Phoenix, AZ】\nL274:   * 【108†Pittsburgh, PA】\nL275:   * 【109†Portland, OR】\nL276:   * 【110†Raleigh, NC】\nL277:   * 【111†Sacramento, CA】\nL278:   * 【112†Saint Louis, MO】\nL279:   * 【113†San Antonio, TX】\nL280:   * 【114†San Diego, CA】\nL281:   * 【115†San Francisco, CA】\nL282:   * 【116†San Jose, CA】\nL283:   * 【117†Seattle, WA】\nL284:   * 【118†Tucson, AZ】\nL285:   * 【119†Washington, DC】\nL286: \nL287: Are you a Therapist? 【120†Get Listed Today†join.psychologytoday.com】 \nL288: \nL289: More from Kyle D. Killian Ph.D., LMFT\nL290: \nL291: More from Psychology Today\nL292: \nL293: 【1†Psychology Today】 \nL294: \nL295: 【121† †www.facebook.com】 \nL296: \nL297: 【122† †twitter.com】 \nL298: \nL299: 【123† †www.instagram.com】 \nL300: \nL301: Recent Issues\nL302: \nL303: 【49† 】 \nL304: \nL305: 【51† 】 \nL306: \nL307: 【52† 】 \nL308: \nL309: 【53† 】 \nL310: \nL311: 【54† 】 \nL312: \nL313: 【124† 】 \nL314: \nL315: 【50†Subscribe Today†subscribe.psychologytoday.com】 \nL316: \nL317:   * 【125†About】 \nL318:   * 【66†Editorial Process】 \nL319:   * 【126†Privacy】 \nL320:   * 【127†Terms】 \nL321:   * 【128†Accessibility】 \nL322: \nL323: 【62† United States 】 \nL324: \nL325: Psychology Today © 2023 Sussex Publishers, LLC\nL326: \nL327: Back\nL328: \nL329: 【1†Psychology Today】\nL330: \nL331:   * 【1† Home 】 \nL332:   * Find a Therapist \nL333:   * Get Help \nL334:   * Magazine \nL335:   * Today \nL336: \nL337: Back\nL338: \nL339: Find a Therapist\nL340: \nL341:   * Get Help\nL342:   * 【2†Find a Therapist】 \nL343:   * 【45†Find a Treatment Center】 \nL344:   * 【46†Find a Psychiatrist】 \nL345:   * 【47†Find a Support Group】 \nL346:   * 【48†Find Teletherapy】 \nL347: \nL348:   * Members\nL349:   * 【3†Login†member.psychologytoday.com】\nL350:   * 【4†Sign Up†join.psychologytoday.com】\nL351: \nL352:   * United States \nL353:   * 【5†Austin, TX】\nL354:   * 【6†Brooklyn, NY】\nL355:   * 【7†Chicago, IL】\nL356:   * 【8†Denver, CO】\nL357:   * 【9†Houston, TX】\nL358:   * 【10†Los Angeles, CA】\nL359:   * 【11†New York, NY】\nL360:   * 【12†Portland, OR】\nL361:   * 【13†San Diego, CA】\nL362:   * 【14†San Francisco, CA】\nL363:   * 【15†Seattle, WA】\nL364:   * 【16†Washington, DC】\nL365: \nL366: Back\nL367: \nL368: Get Help\nL369: \nL370: Mental Health\nL371: \nL372:   * 【19†Addiction】 \nL373:   * 【20†Anxiety 】 \nL374:   * 【21†ADHD】 \nL375:   * 【22†Asperger's】 \nL376:   * 【23†Autism】 \nL377:   * 【24†Bipolar Disorder】 \nL378:   * 【25†Chronic Pain】 \nL379:   * 【26†Depression】 \nL380:   * 【27†Eating Disorders】 \nL381: \nL382: Personality\nL383: \nL384:   * 【28†Passive Aggression】 \nL385:   * 【29†Personality】 \nL386:   * 【30†Shyness】 \nL387: \nL388: Personal Growth\nL389: \nL390:   * 【31†Goal Setting】 \nL391:   * 【32†Happiness】 \nL392:   * 【33†Positive Psychology】 \nL393:   * 【34†Stopping Smoking】 \nL394: \nL395: Relationships\nL396: \nL397:   * 【35†Low Sexual Desire】 \nL398:   * 【36†Relationships】 \nL399:   * 【37†Sex】 \nL400: \nL401: Family Life\nL402: \nL403:   * 【38†Child Development】 \nL404:   * 【39†Parenting】 \nL405: \nL406: 【40†View Help Index】\nL407: \nL408: Do I Need Help?\nL409: \nL410:   * 【41† Self Tests 】 \nL411:   * 【42†Therapy Center NEW】 \nL412: \nL413: Recently Diagnosed?\nL414: \nL415:   * 【43† Diagnosis Dictionary 】 \nL416:   * 【44† Types of Therapy 】 \nL417: \nL418: Talk to Someone\nL419: \nL420:   * 【2†Find a Therapist】 \nL421:   * 【45†Find a Treatment Center】 \nL422:   * 【46†Find a Psychiatrist】 \nL423:   * 【47†Find a Support Group】 \nL424:   * 【48†Find Teletherapy】 \nL425: \nL426: Back\nL427: \nL428: Magazine\nL429: \nL430: 【49† 】 \nL431: \nL432: 【49† November 2023 The Subtle but Powerful Pull of Your Social Circles 】 \nL433: \nL434: The people around us have a stronger influence on our decisions and actions than we realize. Here’s what research reveals about our networks’ gravitational force. \nL435: \nL436: 【50†Subscribe†subscribe.psychologytoday.com】 【55†Issue Archive】 \nL437: \nL438: Back\nL439: \nL440: Today\nL441: \nL442: News\nL443: \nL444: Essential Reads\nL445: \nL446: Trending Topics\nL447: \nL448:   * 【56†Coronavirus Disease 2019】 \nL449:   * 【57†Narcissism】 \nL450:   * 【58†Dementia】 \nL451:   * 【59†Bias】 \nL452:   * 【60†Affective Forecasting】 \nL453:   * 【61†Neuroscience】 \nL454: \nL455: 【40†See All】\nVisible: 0% - 100%",
+          "summary": "How Inner Monologues Work, and Who Has Them | Psychology Today (www.psychologytoday.com)\n",
+          "assets": [],
+          "tether_id": null
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 0.0,
+        "metadata": {
+          "_cite_metadata": {
+            "citation_format": {
+              "name": "tether_og"
+            },
+            "metadata_list": [
+              {
+                "type": "webpage",
+                "title": "How Inner Monologues Work, and Who Has Them | Psychology Today",
+                "url": "https://www.psychologytoday.com/us/blog/intersections/202304/inner-monologues-what-are-they-and-whos-having-them",
+                "text": "L0: \nL1: URL: https://www.psychologytoday.com/us/blog/intersections/202304/inner-monologues-what-are-they-and-whos-having-them\nL2:  Skip to main content  \nL3: \nL4: Mobile Navigation\nL5: \nL6: Psychology Today\nL7: \nL8:   * Find a Therapist \nL9: \nL10: Find a Therapist\nL11: \nL12: Therapists\nL13: \nL14:     * Therapists \nL15:     * Psychiatrists \nL16:     * Treatment Centers \nL17:     * Support Groups \nL18: \nL19: x\nL20: \nL21: [Image 0: United States] Therapists : Login | Sign Up \nL22: \nL23: United States\nL24: \nL25:     * Austin, TX\nL26:     * Brooklyn, NY\nL27:     * Chicago, IL\nL28:     * Denver, CO\nL29:     * Houston, TX\nL30:     * Los Angeles, CA\nL31:     * New York, NY\nL32:     * Portland, OR\nL33:     * San Diego, CA\nL34:     * San Francisco, CA\nL35:     * Seattle, WA\nL36:     * Washington, DC\nL37:     * Atlanta, GA\nL38:     * Sacramento, CA\nL39: \nL40:   * Get Help \nL41: \nL42: Mental Health\nL43: \nL44:     * Addiction \nL45:     * Anxiety  \nL46:     * ADHD \nL47:     * Asperger's \nL48:     * Autism \nL49:     * Bipolar Disorder \nL50:     * Chronic Pain \nL51:     * Depression \nL52:     * Eating Disorders \nL53: \nL54: Personality\nL55: \nL56:     * Passive Aggression \nL57:     * Personality \nL58:     * Shyness \nL59: \nL60: Personal Growth\nL61: \nL62:     * Goal Setting \nL63:     * Happiness \nL64:     * Positive Psychology \nL65:     * Stopping Smoking \nL66: \nL67: Relationships\nL68: \nL69:     * Low Sexual Desire \nL70:     * Relationships \nL71:     * Sex \nL72: \nL73: Family Life\nL74: \nL75:     * Child Development \nL76:     * Parenting \nL77: \nL78: View Help Index\nL79: \nL80: Do I Need Help?\nL81: \nL82:     *  Self Tests  \nL83:     * Therapy Center NEW \nL84: \nL85: Recently Diagnosed?\nL86: \nL87:     *  Diagnosis Dictionary  \nL88:     *  Types of Therapy  \nL89: \nL90: Talk to Someone\nL91: \nL92:     * Find a Therapist \nL93:     * Find a Treatment Center \nL94:     * Find a Psychiatrist \nL95:     * Find a Support Group \nL96:     * Find Teletherapy \nL97: \nL98:   * Magazine \nL99: \nL100: Current\nL101: \nL102:   \nL103: \nL104:  November 2023 The Subtle but Powerful Pull of Your Social Circles  \nL105: \nL106: The people around us have a stronger influence on our decisions and actions than we realize. Here’s what research reveals about our networks’ gravitational force. \nL107: \nL108: Subscribe \nL109: \nL110: Recent\nL111: \nL112:   \nL113: \nL114:   \nL115: \nL116:   \nL117: \nL118:   \nL119: \nL120: Issue Archive \nL121: \nL122:   * Today \nL123: \nL124: News\nL125: \nL126: Essential Reads\nL127: \nL128: Trending Topics\nL129: \nL130:     * Coronavirus Disease 2019 \nL131:     * Narcissism \nL132:     * Dementia \nL133:     * Bias \nL134:     * Affective Forecasting \nL135:     * Neuroscience \nL136: \nL137: See All\nL138: \nL139: us \nL140: \nL141: Search \nL142: \nL143: Search\nL144: \nL145: Search \nL146: \nL147: [Image 1] Verified by Psychology Today\nL148: \nL149:   \nL150: \nL151: Kyle D. Killian Ph.D., LMFT \nL152: \nL153: Intersections \nL154: \nL155: ######  Career \nL156: \nL157: #  How Inner Monologues Work, and Who Has Them \nL158: \nL159: ##  ... and what happens when people can't turn them off. \nL160: \nL161: Posted April 25, 2023 |  Reviewed by Michelle Quirk  \nL162: \nL163:   *  Share  \nL164:   *  Tweet  \nL165:   *  Share  \nL166:   * [Image 2: Share via Email]Email\nL167: \nL168: THE BASICS\nL169: \nL170:   * What Is a Career \nL171:   * Find a career counselor near me \nL172: \nL173: ### Key points\nL174: \nL175:   * About 30 to 50 percent of people regularly think to themselves in internal monologues. \nL176:   * Inner monologues have a function in language development and in information and memory processing.\nL177:   * This phenomenon demonstrates a rich diversity of experience in what we deem to be \"normal\" thought lives.\nL178: \nL179: Flashback to college: I’m sitting in the dining hall with my best friend Dave, and a student enters in a firefighter outfit. Assuming (and probably correctly) that this man is part of the arts/creative “Western campus program,” a woman at our table exclaims, “Those Western people….! They just think all of the time!” My friend and I give each other the side-eye, and he later asks incredulously, “Really? Is there any other option?”\nL180: \nL181: It turns out there is, at least in the sense of having an inner conversation in unspoken words. About 30 to 50 percent of people, according to psychologist Russell Hurlburt’s research, regularly think to themselves in internal monologues. Inner or \"private\" speech is something most of us likely did as very young people seeking to develop our language skills, and later as a way of rehearsing information to successfully encode and retain working memory. So it’s clearly functional and not a sign of mental disorder.\nL182: \nL183: To get a read on whether you have inner monologues, try listening in and noting an internal voice or intrusive thoughts during meditation. Mindful practice provides tremendous insights into whether you have and how often you have inner monologues. But what about the 50 to 70 percent of folks who don’t have or infrequently have words in their heads?\nL184: \nL185: ## Visual Imagery\nL186: \nL187: There are different theories, but the simplest (and least condescending/least pejorative) view of folks who don’t regularly have inner monologues is that many of them are processing information and prepping for tasks using visual imagery rather than words. That is, they see images, such as a to-do list, rather than thinking about or hearing the words for the items on the list. I found this explanation helpful because I think in terms of words, visual images, and music all day long, and it’s easy to perspective take on folks who are a bit “quiet” in there by relating to their use of images or their playing back a song in their heads, things I do, too. It’s helpful to think about their inner experience in visual terms, as while it might be quiet as the occasional cricket when it comes to words, it’s not a total void or vacuum in there.\nL188: \nL189: ## Too Much of a Good Thing\nL190: \nL191: And before those of us start to feel wonderful about our rich inner monologues, it’s important to remember that too much of a good thing is possible. Inner monologues can become a little like King Midas’s golden touch when we can’t turn them off. For instance, anxious minds continuously scan for and entertain intrusive thoughts, and rumination on these can lead to brooding, and brooding can give itself over to highly critical talk about self and others. In the particular instance of an inner critic, a lack of inner monologue sounds like a quiet, peaceful reprieve from constant chatting and potentially corrosive self-talk.\nL192: \nL193: I know people who have internal dialogues and “think in words all of the time.” I know a person who has internal monologues and external dialogues with himself, engaging in rich conversations that can lead in unexpected, even challenging, directions. I can imagine that sounds weird to folks who have only inner monologues or those who have no inner monologues at all. But as Vulcan philosophy states, “Infinite diversity in infinite combinations,” which is another way of saying “Different strokes for different folks,” and empathy, perspective-taking, and imagining what others’ experiences are like—and what it’s like inside their heads—are worthwhile, growth-enhancing, and humanizing exercises.\nL194: \nL195: Inner monologues can represent a rich, deep, “pristine” experience (Hurlburt et al., 2016) for some, as long as they don’t get out of hand, and as long as external monologues/dialogues don’t freak out your friends, family members, and co-workers.\nL196: \nL197: Facebook image: DimaBerlin/Shutterstock\nL198: \nL199: LinkedIn image: Tonuka Stock/Shutterstock\nL200: \nL201: THE BASICS\nL202: \nL203:   * What Is a Career \nL204:   * Find a career counselor near me \nL205: \nL206: References\nL207: \nL208: Hurlburt, R.T., Alderson-Day, B., Kuhn, S. & Fernyhough, C. (2016). Exploring the ecological validity of thinking on demand: Neural correlates of elicited vs. spontaneously occurring inner speech. PLoS One, 11(2), e0147932. DOI: 10.1371/journal.pone.0147932\nL209: \nL210: More  references \nL211: \nL212:   *  Share  \nL213:   *  Tweet  \nL214:   *  Share  \nL215:   * [Image 3: Share via Email]Email\nL216: \nL217: advertisement\nL218: \nL219: About the Author\nL220: \nL221:   \nL222: \nL223:  Kyle D. Killian, Ph.D., LMFT is the author of Interracial Couples, Intimacy and Therapy: Crossing Racial Borders.  \nL224: \nL225: Online:\nL226: \nL227: Interracial Couples, Intimacy & Therapy website, LinkedIn \nL228: \nL229: More from Kyle D. Killian Ph.D., LMFT\nL230: \nL231: More from Psychology Today\nL232: \nL233: advertisement\nL234: \nL235: advertisement\nL236: \nL237: Find a Career Counseling Therapist\nL238: \nL239: Get the help you need from a therapist near you–a FREE service from Psychology Today. \nL240: \nL241: City or Zip  \nL242: \nL243: [Image 4: Counselling] \nL244: \nL245: Cities:\nL246: \nL247:   * Atlanta, GA\nL248:   * Austin, TX\nL249:   * Baltimore, MD\nL250:   * Boston, MA\nL251:   * Brooklyn, NY\nL252:   * Charlotte, NC\nL253:   * Chicago, IL\nL254:   * Columbus, OH\nL255:   * Dallas, TX\nL256:   * Denver, CO\nL257:   * Detroit, MI\nL258:   * Houston, TX\nL259:   * Indianapolis, IN\nL260:   * Jacksonville, FL\nL261:   * Las Vegas, NV\nL262:   * Los Angeles, CA\nL263:   * Louisville, KY\nL264:   * Memphis, TN\nL265:   * Miami, FL\nL266:   * Milwaukee, WI\nL267:   * Minneapolis, MN\nL268:   * Nashville, TN\nL269:   * New York, NY\nL270:   * Oakland, CA\nL271:   * Omaha, NE\nL272:   * Philadelphia, PA\nL273:   * Phoenix, AZ\nL274:   * Pittsburgh, PA\nL275:   * Portland, OR\nL276:   * Raleigh, NC\nL277:   * Sacramento, CA\nL278:   * Saint Louis, MO\nL279:   * San Antonio, TX\nL280:   * San Diego, CA\nL281:   * San Francisco, CA\nL282:   * San Jose, CA\nL283:   * Seattle, WA\nL284:   * Tucson, AZ\nL285:   * Washington, DC\nL286: \nL287: Are you a Therapist? Get Listed Today \nL288: \nL289: More from Kyle D. Killian Ph.D., LMFT\nL290: \nL291: More from Psychology Today\nL292: \nL293: Psychology Today \nL294: \nL295:   \nL296: \nL297:   \nL298: \nL299:   \nL300: \nL301: Recent Issues\nL302: \nL303:   \nL304: \nL305:   \nL306: \nL307:   \nL308: \nL309:   \nL310: \nL311:   \nL312: \nL313:   \nL314: \nL315: Subscribe Today \nL316: \nL317:   * About \nL318:   * Editorial Process \nL319:   * Privacy \nL320:   * Terms \nL321:   * Accessibility \nL322: \nL323:  United States  \nL324: \nL325: Psychology Today © 2023 Sussex Publishers, LLC\nL326: \nL327: Back\nL328: \nL329: Psychology Today\nL330: \nL331:   *  Home  \nL332:   * Find a Therapist \nL333:   * Get Help \nL334:   * Magazine \nL335:   * Today \nL336: \nL337: Back\nL338: \nL339: Find a Therapist\nL340: \nL341:   * Get Help\nL342:   * Find a Therapist \nL343:   * Find a Treatment Center \nL344:   * Find a Psychiatrist \nL345:   * Find a Support Group \nL346:   * Find Teletherapy \nL347: \nL348:   * Members\nL349:   * Login\nL350:   * Sign Up\nL351: \nL352:   * United States \nL353:   * Austin, TX\nL354:   * Brooklyn, NY\nL355:   * Chicago, IL\nL356:   * Denver, CO\nL357:   * Houston, TX\nL358:   * Los Angeles, CA\nL359:   * New York, NY\nL360:   * Portland, OR\nL361:   * San Diego, CA\nL362:   * San Francisco, CA\nL363:   * Seattle, WA\nL364:   * Washington, DC\nL365: \nL366: Back\nL367: \nL368: Get Help\nL369: \nL370: Mental Health\nL371: \nL372:   * Addiction \nL373:   * Anxiety  \nL374:   * ADHD \nL375:   * Asperger's \nL376:   * Autism \nL377:   * Bipolar Disorder \nL378:   * Chronic Pain \nL379:   * Depression \nL380:   * Eating Disorders \nL381: \nL382: Personality\nL383: \nL384:   * Passive Aggression \nL385:   * Personality \nL386:   * Shyness \nL387: \nL388: Personal Growth\nL389: \nL390:   * Goal Setting \nL391:   * Happiness \nL392:   * Positive Psychology \nL393:   * Stopping Smoking \nL394: \nL395: Relationships\nL396: \nL397:   * Low Sexual Desire \nL398:   * Relationships \nL399:   * Sex \nL400: \nL401: Family Life\nL402: \nL403:   * Child Development \nL404:   * Parenting \nL405: \nL406: View Help Index\nL407: \nL408: Do I Need Help?\nL409: \nL410:   *  Self Tests  \nL411:   * Therapy Center NEW \nL412: \nL413: Recently Diagnosed?\nL414: \nL415:   *  Diagnosis Dictionary  \nL416:   *  Types of Therapy  \nL417: \nL418: Talk to Someone\nL419: \nL420:   * Find a Therapist \nL421:   * Find a Treatment Center \nL422:   * Find a Psychiatrist \nL423:   * Find a Support Group \nL424:   * Find Teletherapy \nL425: \nL426: Back\nL427: \nL428: Magazine\nL429: \nL430:   \nL431: \nL432:  November 2023 The Subtle but Powerful Pull of Your Social Circles  \nL433: \nL434: The people around us have a stronger influence on our decisions and actions than we realize. Here’s what research reveals about our networks’ gravitational force. \nL435: \nL436: Subscribe Issue Archive \nL437: \nL438: Back\nL439: \nL440: Today\nL441: \nL442: News\nL443: \nL444: Essential Reads\nL445: \nL446: Trending Topics\nL447: \nL448:   * Coronavirus Disease 2019 \nL449:   * Narcissism \nL450:   * Dementia \nL451:   * Bias \nL452:   * Affective Forecasting \nL453:   * Neuroscience \nL454: \nL455: See All\nVisible: 0% - 100%",
+                "pub_date": null,
+                "extra": null
+              }
+            ],
+            "original_query": null
+          },
+          "command": "click",
+          "args": [
+            3
+          ],
+          "status": "finished",
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "7050bf35-faee-4339-a706-f59eaa120a1f",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "7050bf35-faee-4339-a706-f59eaa120a1f",
+      "children": [
+        "8fc94a3b-af52-4abe-993a-3e3e0e7972bc"
+      ]
+    },
+    "8fc94a3b-af52-4abe-993a-3e3e0e7972bc": {
+      "id": "8fc94a3b-af52-4abe-993a-3e3e0e7972bc",
+      "message": {
+        "id": "8fc94a3b-af52-4abe-993a-3e3e0e7972bc",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1701228881.559602,
+        "update_time": null,
+        "content": {
+          "content_type": "code",
+          "language": "unknown",
+          "response_format_name": null,
+          "text": "quote_lines(175, 177)\r\nquote_lines(181, 181)\r\nquote_lines(187, 187)"
+        },
+        "status": "finished_successfully",
+        "end_turn": false,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              100265
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "c3ad141c-9a99-47dc-a0f9-59842116cad4",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "browser",
+        "channel": null
+      },
+      "parent": "c3ad141c-9a99-47dc-a0f9-59842116cad4",
+      "children": [
+        "1064e846-c5ad-46d8-8941-2a75dfec476e"
+      ]
+    },
+    "1064e846-c5ad-46d8-8941-2a75dfec476e": {
+      "id": "1064e846-c5ad-46d8-8941-2a75dfec476e",
+      "message": {
+        "id": "1064e846-c5ad-46d8-8941-2a75dfec476e",
+        "author": {
+          "role": "tool",
+          "name": "browser",
+          "metadata": {}
+        },
+        "create_time": 1701228881.566331,
+        "update_time": null,
+        "content": {
+          "content_type": "tether_quote",
+          "url": "https://www.psychologytoday.com/us/blog/intersections/202304/inner-monologues-what-are-they-and-whos-having-them",
+          "domain": "www.psychologytoday.com",
+          "text": "  * About 30 to 50 percent of people regularly think to themselves in internal monologues. \n  * Inner monologues have a function in language development and in information and memory processing.\n  * This phenomenon demonstrates a rich diversity of experience in what we deem to be \"normal\" thought lives.",
+          "title": "How Inner Monologues Work, and Who Has Them | Psychology Today",
+          "tether_id": null
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 0.0,
+        "metadata": {
+          "_cite_metadata": {
+            "citation_format": {
+              "name": "tether_og"
+            },
+            "metadata_list": [
+              {
+                "type": "webpage",
+                "title": "How Inner Monologues Work, and Who Has Them | Psychology Today",
+                "url": "https://www.psychologytoday.com/us/blog/intersections/202304/inner-monologues-what-are-they-and-whos-having-them",
+                "text": "  * About 30 to 50 percent of people regularly think to themselves in internal monologues. \n  * Inner monologues have a function in language development and in information and memory processing.\n  * This phenomenon demonstrates a rich diversity of experience in what we deem to be \"normal\" thought lives.",
+                "pub_date": null,
+                "extra": null
+              }
+            ],
+            "original_query": null
+          },
+          "command": "quote_lines",
+          "args": [
+            175,
+            177
+          ],
+          "status": "finished",
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "8fc94a3b-af52-4abe-993a-3e3e0e7972bc",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "8fc94a3b-af52-4abe-993a-3e3e0e7972bc",
+      "children": [
+        "1d51b4a4-61ff-4cfe-aa15-bf16ab80caad"
+      ]
+    },
+    "1d51b4a4-61ff-4cfe-aa15-bf16ab80caad": {
+      "id": "1d51b4a4-61ff-4cfe-aa15-bf16ab80caad",
+      "message": {
+        "id": "1d51b4a4-61ff-4cfe-aa15-bf16ab80caad",
+        "author": {
+          "role": "tool",
+          "name": "browser",
+          "metadata": {}
+        },
+        "create_time": 1701228881.572295,
+        "update_time": null,
+        "content": {
+          "content_type": "tether_quote",
+          "url": "https://www.psychologytoday.com/us/blog/intersections/202304/inner-monologues-what-are-they-and-whos-having-them",
+          "domain": "www.psychologytoday.com",
+          "text": "It turns out there is, at least in the sense of having an inner conversation in unspoken words. About 30 to 50 percent of people, according to psychologist Russell Hurlburt’s research, regularly think to themselves in internal monologues. Inner or \"private\" speech is something most of us likely did as very young people seeking to develop our language skills, and later as a way of rehearsing information to successfully encode and retain working 【71†memory】. So it’s clearly functional and not a sign of mental disorder.",
+          "title": "How Inner Monologues Work, and Who Has Them | Psychology Today",
+          "tether_id": null
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 0.0,
+        "metadata": {
+          "_cite_metadata": {
+            "citation_format": {
+              "name": "tether_og"
+            },
+            "metadata_list": [
+              {
+                "type": "webpage",
+                "title": "How Inner Monologues Work, and Who Has Them | Psychology Today",
+                "url": "https://www.psychologytoday.com/us/blog/intersections/202304/inner-monologues-what-are-they-and-whos-having-them",
+                "text": "It turns out there is, at least in the sense of having an inner conversation in unspoken words. About 30 to 50 percent of people, according to psychologist Russell Hurlburt’s research, regularly think to themselves in internal monologues. Inner or \"private\" speech is something most of us likely did as very young people seeking to develop our language skills, and later as a way of rehearsing information to successfully encode and retain working 【71†memory】. So it’s clearly functional and not a sign of mental disorder.",
+                "pub_date": null,
+                "extra": null
+              }
+            ],
+            "original_query": null
+          },
+          "command": "quote_lines",
+          "args": [
+            181,
+            181
+          ],
+          "status": "finished",
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "1064e846-c5ad-46d8-8941-2a75dfec476e",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "1064e846-c5ad-46d8-8941-2a75dfec476e",
+      "children": [
+        "f3f171cd-e131-4247-b2ab-0cf4599ab931"
+      ]
+    },
+    "f3f171cd-e131-4247-b2ab-0cf4599ab931": {
+      "id": "f3f171cd-e131-4247-b2ab-0cf4599ab931",
+      "message": {
+        "id": "f3f171cd-e131-4247-b2ab-0cf4599ab931",
+        "author": {
+          "role": "tool",
+          "name": "browser",
+          "metadata": {}
+        },
+        "create_time": 1701228881.578151,
+        "update_time": null,
+        "content": {
+          "content_type": "tether_quote",
+          "url": "https://www.psychologytoday.com/us/blog/intersections/202304/inner-monologues-what-are-they-and-whos-having-them",
+          "domain": "www.psychologytoday.com",
+          "text": "There are different theories, but the simplest (and least condescending/least pejorative) view of folks who don’t regularly have inner monologues is that many of them are processing information and prepping for tasks using visual imagery rather than words. That is, they see images, such as a to-do list, rather than thinking about or hearing the words for the items on the list. I found this explanation helpful because I think in terms of words, visual images, and music all day long, and it’s easy to perspective take on folks who are a bit “quiet” in there by relating to their use of images or their playing back a song in their heads, things I do, too. It’s helpful to think about their inner experience in visual terms, as while it might be quiet as the occasional cricket when it comes to words, it’s not a total void or vacuum in there.",
+          "title": "How Inner Monologues Work, and Who Has Them | Psychology Today",
+          "tether_id": null
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 0.0,
+        "metadata": {
+          "_cite_metadata": {
+            "citation_format": {
+              "name": "tether_og"
+            },
+            "metadata_list": [
+              {
+                "type": "webpage",
+                "title": "How Inner Monologues Work, and Who Has Them | Psychology Today",
+                "url": "https://www.psychologytoday.com/us/blog/intersections/202304/inner-monologues-what-are-they-and-whos-having-them",
+                "text": "There are different theories, but the simplest (and least condescending/least pejorative) view of folks who don’t regularly have inner monologues is that many of them are processing information and prepping for tasks using visual imagery rather than words. That is, they see images, such as a to-do list, rather than thinking about or hearing the words for the items on the list. I found this explanation helpful because I think in terms of words, visual images, and music all day long, and it’s easy to perspective take on folks who are a bit “quiet” in there by relating to their use of images or their playing back a song in their heads, things I do, too. It’s helpful to think about their inner experience in visual terms, as while it might be quiet as the occasional cricket when it comes to words, it’s not a total void or vacuum in there.",
+                "pub_date": null,
+                "extra": null
+              }
+            ],
+            "original_query": null
+          },
+          "command": "quote_lines",
+          "args": [
+            187,
+            187
+          ],
+          "status": "finished",
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "1d51b4a4-61ff-4cfe-aa15-bf16ab80caad",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "1d51b4a4-61ff-4cfe-aa15-bf16ab80caad",
+      "children": [
+        "38eca9ac-723d-49bb-88ca-9707e9bc9afb"
+      ]
+    },
+    "38eca9ac-723d-49bb-88ca-9707e9bc9afb": {
+      "id": "38eca9ac-723d-49bb-88ca-9707e9bc9afb",
+      "message": {
+        "id": "38eca9ac-723d-49bb-88ca-9707e9bc9afb",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1701228881.584235,
+        "update_time": null,
+        "content": {
+          "content_type": "code",
+          "language": "unknown",
+          "response_format_name": null,
+          "text": "search(\"research on inner monologue existence in people\")"
+        },
+        "status": "finished_successfully",
+        "end_turn": false,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              100265
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "f3f171cd-e131-4247-b2ab-0cf4599ab931",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "browser",
+        "channel": null
+      },
+      "parent": "f3f171cd-e131-4247-b2ab-0cf4599ab931",
+      "children": [
+        "c3a1516a-1f3e-4b39-9e8f-ec57af100623"
+      ]
+    },
+    "c3a1516a-1f3e-4b39-9e8f-ec57af100623": {
+      "id": "c3a1516a-1f3e-4b39-9e8f-ec57af100623",
+      "message": {
+        "id": "c3a1516a-1f3e-4b39-9e8f-ec57af100623",
+        "author": {
+          "role": "tool",
+          "name": "browser",
+          "metadata": {}
+        },
+        "create_time": 1701228881.590867,
+        "update_time": null,
+        "content": {
+          "content_type": "tether_browsing_display",
+          "result": "L0: # 【0†https://www.psychologytoday.com/us/blog/mind-brain-and-value/202108/how-our-internal-monologue-impacts-our-mental-health†www.psychologytoday.com】\nL1: Research on inner monologue suggests that perspective-taking, meta-awareness, and mental distancing are important tools for harnessing the power of thought. Our internal chatter is so active that we internally talk to ourselves at a rate equivalent to speaking 4,000 words per minute out loud. Some research shows that people often use more inner verbalization when they're under pressure. Researchers don’t fully understand why some people don’t have an inner voice.\nL2: # 【1†How Inner Monologues Work, and Who Has Them | Psychology Today†www.psychologytoday.com】\nL3: Key points About 30 to 50 percent of people regularly think to themselves in internal monologues. Inner monologues have a function in language development and in information and memory...\nL4: # 【2†Does everyone have an inner monologue? | Live Science†www.livescience.com】\nL5: Lœvenbruck's research looks at inner monologues in three dimensions, according to a 2019 study she and colleagues published in the journal Frontiers in Psychology. The first is dialogality....\nL6: # 【3†Does Everyone Have an Inner Monologue? - Verywell Mind†www.verywellmind.com】\nL7: Research has indicated there are three dimensions to inner speech: Condensation, or how concise or verbose your inner monologue is. In some instances, one’s inner voice may be descriptive and talkative, with self-talk that includes whole sentences and paragraphs, while at others it may only use a single word or fragments of a sentence.\nL8: # 【4†How Our Internal Monologue Impacts Our Mental Health†www.psychologytoday.com】\nL9: Key points Thoughts naturally arise automatically in our minds without us choosing them. How we think has a big impact, and research suggests that the stories we tell ourselves often aren't real....\nL10: # 【5†What it's like living without an inner monologue | CBC News†www.cbc.ca】\nL11: The concept of an inner monologue — the term now commonly used to describe the voice in your head — recently sparked a flurry of discussion on social media. A tweet by @KylePlantEmoji and...\nL12: # 【6†Inner Speech: Development, Cognitive Functions, Phenomenology, and ...†www.ncbi.nlm.nih.gov】\nL13: When people reflect upon their own inner experience, they often report that it has a verbal quality (Baars, 2003).Also referred to as verbal thinking, inner speaking, covert self-talk, internal monologue, and internal dialogue, inner speech has been proposed to have an important role in the self-regulation of cognition and behavior in both childhood and adulthood, with implications for inner ...\nL14: # 【7†Internal Monologue: What It Is, What It Means, and More - Healthline†www.healthline.com】\nL15: Is it universal? People without an internal monologue Purpose Examples Shift critical voice When to talk with a pro Takeaway Some people may experience an internal dialogue more often while...\nL16: # 【8†Inner monologues, with Ethan Kross, PhD†www.apa.org】\nL17: About the expert: Ethan Kross, PhD. Ethan Kross is a professor in the psychology department and in the Ross School of Business at the University of Michigan. He is an award-winning scientist and teacher who studies self-control. He received his BA from the University of Pennsylvania and a PhD from Columbia University.\nL18: # 【9†Internal Monologue | SpringerLink†link.springer.com】\nL19: Internal monologue, also known as self-talk, inner voice, or internal speech, is an inner conscious stream of verbal monologue or thoughts in words. Introduction Internal monologue has been a known phenomenon to literary people, developmental psychologists, and educational psychologists for long.\nL20: # 【10†Why some people don't have an inner monologue | TED-Ed†ed.ted.com】\nL21: 319 Questions Answered Best of Web Let’s Begin… Do you always have an inner monologue? Can you imagine not having one? Or maybe you've never had an inner monologue and wondered what it would be like? Psychologists are beginning to study that voice inside your head— and it's much more complicated than you might think.\nL22: # 【11†Full article: How to turn interior monologues inside out ...†www.tandfonline.com】\nL23: In 1962, Ruth Hirsch Weir, a linguist working at Stanford University, published her first monograph, Language in the Crib.For her study, Hirsch Weir had recorded the “pre-sleep monologues” of her son Anthony at the age of twenty-eight to thirty months, “alone in his crib, talking to himself” (Citation 1962, 7).She analysed the magnetic tape recordings during a summer 1961 research ...\nL24: # 【12†Do You Have an Internal Dialogue? Not Everyone Does†science.howstuffworks.com】\nL25: Inner voice — also known as an internal dialogue, internal monologue or inner speech — refers to the ongoing, often subconscious, stream of thoughts, feelings and inner conversations that occur within a person's mind.\nL26: # 【13†Experts talk about what it means to have an inner monologue - TODAY†www.today.com】\nL27: An inner voice can help people understand the world and engage in it. But, sometimes, that inner monologue turns negative or becomes fixated on a thought. This obsession can be a sign of something ...\nL28: # 【14†Frontiers | Types of Inner Dialogues and Functions of Self-Talk ...†www.frontiersin.org】\nL29: Intrapersonal communication occurs in several modes including inner dialogue and self-talk. The Dialogical Self Theory (Hermans, 1996) postulates a polyphonic self that is comprised of a multiplicity of inner voices. Internal dialogical activity implies an exchange of thoughts or ideas between at least two so-called “I-positions” representing specific points of view. Among the functions ...\nL30: # 【15†Why We Talk to Ourselves: The Science of Your Internal Monologue†www.mindful.org】\nL31: November 3, 2022. Focus. Illustration by Edmon de Haro. “Know thyself,” was the advice inscribed on the Temple of Apollo at Delphi. The Tao Te Ching insisted that knowing others is intelligence, while knowing oneself is true wisdom. “To thine own self be true,” Shakespeare urged. Pithy advice.\nL32: # 【16†Internal Monologue vs. Thinking: Exploring the Complexities of the ...†futuredoctor.ai】\nL33: Definition The concept of an internal monologue refers to the ongoing conversation we have with ourselves in our minds, often stemming from our self-awareness and personal reflections. It's a silent yet powerful form of communication that occurs within us as we think about experiences, thoughts, emotions and perceptions.\nL34: # 【17†InnerMonologue: Embodied Reasoning through Planning ... - Google Research†research.google】\nL35: We propose an inner monologue as a way for an LLM to think through this process and plan. We investigate a variety of sources of feedback, such as success detectors and object detectors, as well as human interaction. The proposed method is validated in a simulation domain and on real robotic. We show that Innerlogue can successfully replan ...\nL36: # 【18†Definition and Examples of Interior Monologues - ThoughtCo†www.thoughtco.com】\nL37: Interior monologues help to fill in blanks in a piece of writing and provide the reader with a clearer picture, whether from the author or a character themselves. Often, interior monologues fit seamlessly into a piece of writing and maintain the style and tone of a piece. Other times, they deviate. For examples of this fascinating literary ...\nL38: # 【19†Inner Monologue Examples: Characters' Hidden Lives | Now Novel†www.nownovel.com】\nL39: 1. Use inner monologue to reveal unspoken thoughts. Often a protagonist-narrator will simply state how they feel in narration. For example: ‘I was apprehensive when I approached the derelict building.’. Or, if you’re using third person limited point of view: ‘Luisa was apprehensive when she approached the building.’.\nVisible: 0% - 100%",
+          "summary": null,
+          "assets": [],
+          "tether_id": null
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 0.0,
+        "metadata": {
+          "_cite_metadata": {
+            "citation_format": {
+              "name": "tether_og"
+            },
+            "metadata_list": [
+              {
+                "type": "webpage",
+                "title": "https://www.psychologytoday.com/us/blog/mind-brain-and-value/202108/how-our-internal-monologue-impacts-our-mental-health",
+                "url": "https://www.psychologytoday.com/us/blog/mind-brain-and-value/202108/how-our-internal-monologue-impacts-our-mental-health",
+                "text": "\nL1: Research on inner monologue suggests that perspective-taking, meta-awareness, and mental distancing are important tools for harnessing the power of thought. Our internal chatter is so active that we internally talk to ourselves at a rate equivalent to speaking 4,000 words per minute out loud. Some research shows that people often use more inner verbalization when they're under pressure. Researchers don’t fully understand why some people don’t have an inner voice.\nL2: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "How Inner Monologues Work, and Who Has Them | Psychology Today",
+                "url": "https://www.psychologytoday.com/us/blog/intersections/202304/inner-monologues-what-are-they-and-whos-having-them",
+                "text": "\nL3: Key points About 30 to 50 percent of people regularly think to themselves in internal monologues. Inner monologues have a function in language development and in information and memory...\nL4: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Does everyone have an inner monologue? | Live Science",
+                "url": "https://www.livescience.com/does-everyone-have-inner-monologue.html",
+                "text": "\nL5: Lœvenbruck's research looks at inner monologues in three dimensions, according to a 2019 study she and colleagues published in the journal Frontiers in Psychology. The first is dialogality....\nL6: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Does Everyone Have an Inner Monologue? - Verywell Mind",
+                "url": "https://www.verywellmind.com/does-everyone-have-an-inner-monologue-6831748",
+                "text": "\nL7: Research has indicated there are three dimensions to inner speech: Condensation, or how concise or verbose your inner monologue is. In some instances, one’s inner voice may be descriptive and talkative, with self-talk that includes whole sentences and paragraphs, while at others it may only use a single word or fragments of a sentence.\nL8: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "How Our Internal Monologue Impacts Our Mental Health",
+                "url": "https://www.psychologytoday.com/us/blog/mind-brain-and-value/202108/how-our-internal-monologue-impacts-our-mental-health",
+                "text": "\nL9: Key points Thoughts naturally arise automatically in our minds without us choosing them. How we think has a big impact, and research suggests that the stories we tell ourselves often aren't real....\nL10: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "What it's like living without an inner monologue | CBC News",
+                "url": "https://www.cbc.ca/news/canada/saskatchewan/inner-monologue-experience-science-1.5486969",
+                "text": "\nL11: The concept of an inner monologue — the term now commonly used to describe the voice in your head — recently sparked a flurry of discussion on social media. A tweet by @KylePlantEmoji and...\nL12: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Inner Speech: Development, Cognitive Functions, Phenomenology, and ...",
+                "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4538954/",
+                "text": "\nL13: When people reflect upon their own inner experience, they often report that it has a verbal quality (Baars, 2003).Also referred to as verbal thinking, inner speaking, covert self-talk, internal monologue, and internal dialogue, inner speech has been proposed to have an important role in the self-regulation of cognition and behavior in both childhood and adulthood, with implications for inner ...\nL14: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Internal Monologue: What It Is, What It Means, and More - Healthline",
+                "url": "https://www.healthline.com/health/mental-health/internal-monologue",
+                "text": "\nL15: Is it universal? People without an internal monologue Purpose Examples Shift critical voice When to talk with a pro Takeaway Some people may experience an internal dialogue more often while...\nL16: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Inner monologues, with Ethan Kross, PhD",
+                "url": "https://www.apa.org/news/podcasts/speaking-of-psychology/inner-monologues",
+                "text": "\nL17: About the expert: Ethan Kross, PhD. Ethan Kross is a professor in the psychology department and in the Ross School of Business at the University of Michigan. He is an award-winning scientist and teacher who studies self-control. He received his BA from the University of Pennsylvania and a PhD from Columbia University.\nL18: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Internal Monologue | SpringerLink",
+                "url": "https://link.springer.com/referenceworkentry/10.1007/978-3-319-24612-3_689",
+                "text": "\nL19: Internal monologue, also known as self-talk, inner voice, or internal speech, is an inner conscious stream of verbal monologue or thoughts in words. Introduction Internal monologue has been a known phenomenon to literary people, developmental psychologists, and educational psychologists for long.\nL20: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Why some people don't have an inner monologue | TED-Ed",
+                "url": "https://ed.ted.com/best_of_web/O3xvONfv",
+                "text": "\nL21: 319 Questions Answered Best of Web Let’s Begin… Do you always have an inner monologue? Can you imagine not having one? Or maybe you've never had an inner monologue and wondered what it would be like? Psychologists are beginning to study that voice inside your head— and it's much more complicated than you might think.\nL22: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Full article: How to turn interior monologues inside out ...",
+                "url": "https://www.tandfonline.com/doi/full/10.1080/20551940.2020.1794647",
+                "text": "\nL23: In 1962, Ruth Hirsch Weir, a linguist working at Stanford University, published her first monograph, Language in the Crib.For her study, Hirsch Weir had recorded the “pre-sleep monologues” of her son Anthony at the age of twenty-eight to thirty months, “alone in his crib, talking to himself” (Citation 1962, 7).She analysed the magnetic tape recordings during a summer 1961 research ...\nL24: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Do You Have an Internal Dialogue? Not Everyone Does",
+                "url": "https://science.howstuffworks.com/life/inside-the-mind/human-brain/inner-voice.htm",
+                "text": "\nL25: Inner voice — also known as an internal dialogue, internal monologue or inner speech — refers to the ongoing, often subconscious, stream of thoughts, feelings and inner conversations that occur within a person's mind.\nL26: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Experts talk about what it means to have an inner monologue - TODAY",
+                "url": "https://www.today.com/health/experts-talk-about-what-it-means-have-inner-monologue-t173490",
+                "text": "\nL27: An inner voice can help people understand the world and engage in it. But, sometimes, that inner monologue turns negative or becomes fixated on a thought. This obsession can be a sign of something ...\nL28: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Frontiers | Types of Inner Dialogues and Functions of Self-Talk ...",
+                "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2020.00227/full",
+                "text": "\nL29: Intrapersonal communication occurs in several modes including inner dialogue and self-talk. The Dialogical Self Theory (Hermans, 1996) postulates a polyphonic self that is comprised of a multiplicity of inner voices. Internal dialogical activity implies an exchange of thoughts or ideas between at least two so-called “I-positions” representing specific points of view. Among the functions ...\nL30: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Why We Talk to Ourselves: The Science of Your Internal Monologue",
+                "url": "https://www.mindful.org/why-we-talk-to-ourselves-the-science-of-your-internal-monologue/",
+                "text": "\nL31: November 3, 2022. Focus. Illustration by Edmon de Haro. “Know thyself,” was the advice inscribed on the Temple of Apollo at Delphi. The Tao Te Ching insisted that knowing others is intelligence, while knowing oneself is true wisdom. “To thine own self be true,” Shakespeare urged. Pithy advice.\nL32: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Internal Monologue vs. Thinking: Exploring the Complexities of the ...",
+                "url": "https://futuredoctor.ai/internal-monologue-vs-thinking/",
+                "text": "\nL33: Definition The concept of an internal monologue refers to the ongoing conversation we have with ourselves in our minds, often stemming from our self-awareness and personal reflections. It's a silent yet powerful form of communication that occurs within us as we think about experiences, thoughts, emotions and perceptions.\nL34: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "InnerMonologue: Embodied Reasoning through Planning ... - Google Research",
+                "url": "https://research.google/pubs/pub51648/",
+                "text": "\nL35: We propose an inner monologue as a way for an LLM to think through this process and plan. We investigate a variety of sources of feedback, such as success detectors and object detectors, as well as human interaction. The proposed method is validated in a simulation domain and on real robotic. We show that Innerlogue can successfully replan ...\nL36: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Definition and Examples of Interior Monologues - ThoughtCo",
+                "url": "https://www.thoughtco.com/what-is-an-interior-monologue-1691073",
+                "text": "\nL37: Interior monologues help to fill in blanks in a piece of writing and provide the reader with a clearer picture, whether from the author or a character themselves. Often, interior monologues fit seamlessly into a piece of writing and maintain the style and tone of a piece. Other times, they deviate. For examples of this fascinating literary ...\nL38: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Inner Monologue Examples: Characters' Hidden Lives | Now Novel",
+                "url": "https://www.nownovel.com/blog/inner-monologue-examples-in-novels/",
+                "text": "\nL39: 1. Use inner monologue to reveal unspoken thoughts. Often a protagonist-narrator will simply state how they feel in narration. For example: ‘I was apprehensive when I approached the derelict building.’. Or, if you’re using third person limited point of view: ‘Luisa was apprehensive when she approached the building.’.\nVisible: 0% - 100%",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Search results for query: 'research on inner monologue existence in people'",
+                "url": "",
+                "text": "L0: # 【0†https://www.psychologytoday.com/us/blog/mind-brain-and-value/202108/how-our-internal-monologue-impacts-our-mental-health†www.psychologytoday.com】\nL1: Research on inner monologue suggests that perspective-taking, meta-awareness, and mental distancing are important tools for harnessing the power of thought. Our internal chatter is so active that we internally talk to ourselves at a rate equivalent to speaking 4,000 words per minute out loud. Some research shows that people often use more inner verbalization when they're under pressure. Researchers don’t fully understand why some people don’t have an inner voice.\nL2: # 【1†How Inner Monologues Work, and Who Has Them | Psychology Today†www.psychologytoday.com】\nL3: Key points About 30 to 50 percent of people regularly think to themselves in internal monologues. Inner monologues have a function in language development and in information and memory...\nL4: # 【2†Does everyone have an inner monologue? | Live Science†www.livescience.com】\nL5: Lœvenbruck's research looks at inner monologues in three dimensions, according to a 2019 study she and colleagues published in the journal Frontiers in Psychology. The first is dialogality....\nL6: # 【3†Does Everyone Have an Inner Monologue? - Verywell Mind†www.verywellmind.com】\nL7: Research has indicated there are three dimensions to inner speech: Condensation, or how concise or verbose your inner monologue is. In some instances, one’s inner voice may be descriptive and talkative, with self-talk that includes whole sentences and paragraphs, while at others it may only use a single word or fragments of a sentence.\nL8: # 【4†How Our Internal Monologue Impacts Our Mental Health†www.psychologytoday.com】\nL9: Key points Thoughts naturally arise automatically in our minds without us choosing them. How we think has a big impact, and research suggests that the stories we tell ourselves often aren't real....\nL10: # 【5†What it's like living without an inner monologue | CBC News†www.cbc.ca】\nL11: The concept of an inner monologue — the term now commonly used to describe the voice in your head — recently sparked a flurry of discussion on social media. A tweet by @KylePlantEmoji and...\nL12: # 【6†Inner Speech: Development, Cognitive Functions, Phenomenology, and ...†www.ncbi.nlm.nih.gov】\nL13: When people reflect upon their own inner experience, they often report that it has a verbal quality (Baars, 2003).Also referred to as verbal thinking, inner speaking, covert self-talk, internal monologue, and internal dialogue, inner speech has been proposed to have an important role in the self-regulation of cognition and behavior in both childhood and adulthood, with implications for inner ...\nL14: # 【7†Internal Monologue: What It Is, What It Means, and More - Healthline†www.healthline.com】\nL15: Is it universal? People without an internal monologue Purpose Examples Shift critical voice When to talk with a pro Takeaway Some people may experience an internal dialogue more often while...\nL16: # 【8†Inner monologues, with Ethan Kross, PhD†www.apa.org】\nL17: About the expert: Ethan Kross, PhD. Ethan Kross is a professor in the psychology department and in the Ross School of Business at the University of Michigan. He is an award-winning scientist and teacher who studies self-control. He received his BA from the University of Pennsylvania and a PhD from Columbia University.\nL18: # 【9†Internal Monologue | SpringerLink†link.springer.com】\nL19: Internal monologue, also known as self-talk, inner voice, or internal speech, is an inner conscious stream of verbal monologue or thoughts in words. Introduction Internal monologue has been a known phenomenon to literary people, developmental psychologists, and educational psychologists for long.\nL20: # 【10†Why some people don't have an inner monologue | TED-Ed†ed.ted.com】\nL21: 319 Questions Answered Best of Web Let’s Begin… Do you always have an inner monologue? Can you imagine not having one? Or maybe you've never had an inner monologue and wondered what it would be like? Psychologists are beginning to study that voice inside your head— and it's much more complicated than you might think.\nL22: # 【11†Full article: How to turn interior monologues inside out ...†www.tandfonline.com】\nL23: In 1962, Ruth Hirsch Weir, a linguist working at Stanford University, published her first monograph, Language in the Crib.For her study, Hirsch Weir had recorded the “pre-sleep monologues” of her son Anthony at the age of twenty-eight to thirty months, “alone in his crib, talking to himself” (Citation 1962, 7).She analysed the magnetic tape recordings during a summer 1961 research ...\nL24: # 【12†Do You Have an Internal Dialogue? Not Everyone Does†science.howstuffworks.com】\nL25: Inner voice — also known as an internal dialogue, internal monologue or inner speech — refers to the ongoing, often subconscious, stream of thoughts, feelings and inner conversations that occur within a person's mind.\nL26: # 【13†Experts talk about what it means to have an inner monologue - TODAY†www.today.com】\nL27: An inner voice can help people understand the world and engage in it. But, sometimes, that inner monologue turns negative or becomes fixated on a thought. This obsession can be a sign of something ...\nL28: # 【14†Frontiers | Types of Inner Dialogues and Functions of Self-Talk ...†www.frontiersin.org】\nL29: Intrapersonal communication occurs in several modes including inner dialogue and self-talk. The Dialogical Self Theory (Hermans, 1996) postulates a polyphonic self that is comprised of a multiplicity of inner voices. Internal dialogical activity implies an exchange of thoughts or ideas between at least two so-called “I-positions” representing specific points of view. Among the functions ...\nL30: # 【15†Why We Talk to Ourselves: The Science of Your Internal Monologue†www.mindful.org】\nL31: November 3, 2022. Focus. Illustration by Edmon de Haro. “Know thyself,” was the advice inscribed on the Temple of Apollo at Delphi. The Tao Te Ching insisted that knowing others is intelligence, while knowing oneself is true wisdom. “To thine own self be true,” Shakespeare urged. Pithy advice.\nL32: # 【16†Internal Monologue vs. Thinking: Exploring the Complexities of the ...†futuredoctor.ai】\nL33: Definition The concept of an internal monologue refers to the ongoing conversation we have with ourselves in our minds, often stemming from our self-awareness and personal reflections. It's a silent yet powerful form of communication that occurs within us as we think about experiences, thoughts, emotions and perceptions.\nL34: # 【17†InnerMonologue: Embodied Reasoning through Planning ... - Google Research†research.google】\nL35: We propose an inner monologue as a way for an LLM to think through this process and plan. We investigate a variety of sources of feedback, such as success detectors and object detectors, as well as human interaction. The proposed method is validated in a simulation domain and on real robotic. We show that Innerlogue can successfully replan ...\nL36: # 【18†Definition and Examples of Interior Monologues - ThoughtCo†www.thoughtco.com】\nL37: Interior monologues help to fill in blanks in a piece of writing and provide the reader with a clearer picture, whether from the author or a character themselves. Often, interior monologues fit seamlessly into a piece of writing and maintain the style and tone of a piece. Other times, they deviate. For examples of this fascinating literary ...\nL38: # 【19†Inner Monologue Examples: Characters' Hidden Lives | Now Novel†www.nownovel.com】\nL39: 1. Use inner monologue to reveal unspoken thoughts. Often a protagonist-narrator will simply state how they feel in narration. For example: ‘I was apprehensive when I approached the derelict building.’. Or, if you’re using third person limited point of view: ‘Luisa was apprehensive when she approached the building.’.\nVisible: 0% - 100%",
+                "pub_date": null,
+                "extra": null
+              }
+            ],
+            "original_query": null
+          },
+          "command": "search",
+          "args": [
+            "research on inner monologue existence in people"
+          ],
+          "status": "finished",
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "38eca9ac-723d-49bb-88ca-9707e9bc9afb",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "38eca9ac-723d-49bb-88ca-9707e9bc9afb",
+      "children": [
+        "b5c1cbc6-703c-4673-9d60-578c583b0296"
+      ]
+    },
+    "b5c1cbc6-703c-4673-9d60-578c583b0296": {
+      "id": "b5c1cbc6-703c-4673-9d60-578c583b0296",
+      "message": {
+        "id": "b5c1cbc6-703c-4673-9d60-578c583b0296",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1701228881.599409,
+        "update_time": null,
+        "content": {
+          "content_type": "code",
+          "language": "unknown",
+          "response_format_name": null,
+          "text": "click(2)"
+        },
+        "status": "finished_successfully",
+        "end_turn": false,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              100265
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "c3a1516a-1f3e-4b39-9e8f-ec57af100623",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "browser",
+        "channel": null
+      },
+      "parent": "c3a1516a-1f3e-4b39-9e8f-ec57af100623",
+      "children": [
+        "621ba6e8-4e24-415a-8a97-bb3868410c1f"
+      ]
+    },
+    "621ba6e8-4e24-415a-8a97-bb3868410c1f": {
+      "id": "621ba6e8-4e24-415a-8a97-bb3868410c1f",
+      "message": {
+        "id": "621ba6e8-4e24-415a-8a97-bb3868410c1f",
+        "author": {
+          "role": "tool",
+          "name": "browser",
+          "metadata": {}
+        },
+        "create_time": 1701228881.607162,
+        "update_time": null,
+        "content": {
+          "content_type": "system_error",
+          "name": "tool_error",
+          "text": "Error when executing command `click(2)`\nFailed to fetch page w/ URL: https://www.livescience.com/does-everyone-have-inner-monologue.html\nFetch denied by robots.txt\nChatGPT, before attempting another click, look carefully at the currently visible information. Is there enough information on the page or in the search results to answer the user now? If so, go ahead and do that."
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "command": "click",
+          "status": "failed",
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "b5c1cbc6-703c-4673-9d60-578c583b0296",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "b5c1cbc6-703c-4673-9d60-578c583b0296",
+      "children": [
+        "33cec1cf-86c0-48c5-8eeb-e4c1782e98ad"
+      ]
+    },
+    "33cec1cf-86c0-48c5-8eeb-e4c1782e98ad": {
+      "id": "33cec1cf-86c0-48c5-8eeb-e4c1782e98ad",
+      "message": {
+        "id": "33cec1cf-86c0-48c5-8eeb-e4c1782e98ad",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1701228881.607456,
+        "update_time": null,
+        "content": {
+          "content_type": "code",
+          "language": "unknown",
+          "response_format_name": null,
+          "text": "click(6)"
+        },
+        "status": "finished_successfully",
+        "end_turn": false,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              100265
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "621ba6e8-4e24-415a-8a97-bb3868410c1f",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "browser",
+        "channel": null
+      },
+      "parent": "621ba6e8-4e24-415a-8a97-bb3868410c1f",
+      "children": [
+        "acc75d72-cfef-4e5b-804a-ddf3a54cb4ec"
+      ]
+    },
+    "acc75d72-cfef-4e5b-804a-ddf3a54cb4ec": {
+      "id": "acc75d72-cfef-4e5b-804a-ddf3a54cb4ec",
+      "message": {
+        "id": "acc75d72-cfef-4e5b-804a-ddf3a54cb4ec",
+        "author": {
+          "role": "tool",
+          "name": "browser",
+          "metadata": {}
+        },
+        "create_time": 1701228881.615356,
+        "update_time": null,
+        "content": {
+          "content_type": "system_error",
+          "name": "tool_error",
+          "text": "Error when executing command `click(6)`\nFailed to fetch page w/ URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4538954/\nFetch denied by robots.txt\nChatGPT, before attempting another click, look carefully at the currently visible information. Is there enough information on the page or in the search results to answer the user now? If so, go ahead and do that."
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "command": "click",
+          "status": "failed",
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "33cec1cf-86c0-48c5-8eeb-e4c1782e98ad",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "33cec1cf-86c0-48c5-8eeb-e4c1782e98ad",
+      "children": [
+        "b98aa326-758e-4a38-a46b-fff376abfea0"
+      ]
+    },
+    "b98aa326-758e-4a38-a46b-fff376abfea0": {
+      "id": "b98aa326-758e-4a38-a46b-fff376abfea0",
+      "message": {
+        "id": "b98aa326-758e-4a38-a46b-fff376abfea0",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1701228881.615656,
+        "update_time": null,
+        "content": {
+          "content_type": "code",
+          "language": "unknown",
+          "response_format_name": null,
+          "text": "click(7)"
+        },
+        "status": "finished_successfully",
+        "end_turn": false,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              100265
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "acc75d72-cfef-4e5b-804a-ddf3a54cb4ec",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "browser",
+        "channel": null
+      },
+      "parent": "acc75d72-cfef-4e5b-804a-ddf3a54cb4ec",
+      "children": [
+        "9d2c6f6b-2f6b-444d-a79d-21b154cb0ae5"
+      ]
+    },
+    "9d2c6f6b-2f6b-444d-a79d-21b154cb0ae5": {
+      "id": "9d2c6f6b-2f6b-444d-a79d-21b154cb0ae5",
+      "message": {
+        "id": "9d2c6f6b-2f6b-444d-a79d-21b154cb0ae5",
+        "author": {
+          "role": "tool",
+          "name": "browser",
+          "metadata": {}
+        },
+        "create_time": 1701228881.623401,
+        "update_time": null,
+        "content": {
+          "content_type": "system_error",
+          "name": "tool_error",
+          "text": "Error when executing command `click(7)`\nFailed to fetch page w/ URL: https://www.healthline.com/health/mental-health/internal-monologue\nFetch denied by robots.txt\nChatGPT, before attempting another click, look carefully at the currently visible information. Is there enough information on the page or in the search results to answer the user now? If so, go ahead and do that."
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "command": "click",
+          "status": "failed",
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "b98aa326-758e-4a38-a46b-fff376abfea0",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "b98aa326-758e-4a38-a46b-fff376abfea0",
+      "children": [
+        "056142c0-4d6f-4ac3-977b-e6718831eb20"
+      ]
+    },
+    "056142c0-4d6f-4ac3-977b-e6718831eb20": {
+      "id": "056142c0-4d6f-4ac3-977b-e6718831eb20",
+      "message": {
+        "id": "056142c0-4d6f-4ac3-977b-e6718831eb20",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1701228881.62369,
+        "update_time": null,
+        "content": {
+          "content_type": "code",
+          "language": "unknown",
+          "response_format_name": null,
+          "text": "scroll(3)"
+        },
+        "status": "finished_successfully",
+        "end_turn": false,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              100265
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "9d2c6f6b-2f6b-444d-a79d-21b154cb0ae5",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "browser",
+        "channel": null
+      },
+      "parent": "9d2c6f6b-2f6b-444d-a79d-21b154cb0ae5",
+      "children": [
+        "95c59c1c-4626-4cfc-aa32-8fbf2e7dd1c0"
+      ]
+    },
+    "95c59c1c-4626-4cfc-aa32-8fbf2e7dd1c0": {
+      "id": "95c59c1c-4626-4cfc-aa32-8fbf2e7dd1c0",
+      "message": {
+        "id": "95c59c1c-4626-4cfc-aa32-8fbf2e7dd1c0",
+        "author": {
+          "role": "tool",
+          "name": "browser",
+          "metadata": {}
+        },
+        "create_time": 1701228881.631426,
+        "update_time": null,
+        "content": {
+          "content_type": "tether_browsing_display",
+          "result": "L0: # 【0†https://www.psychologytoday.com/us/blog/mind-brain-and-value/202108/how-our-internal-monologue-impacts-our-mental-health†www.psychologytoday.com】\nL1: Research on inner monologue suggests that perspective-taking, meta-awareness, and mental distancing are important tools for harnessing the power of thought. Our internal chatter is so active that we internally talk to ourselves at a rate equivalent to speaking 4,000 words per minute out loud. Some research shows that people often use more inner verbalization when they're under pressure. Researchers don’t fully understand why some people don’t have an inner voice.\nL2: # 【1†How Inner Monologues Work, and Who Has Them | Psychology Today†www.psychologytoday.com】\nL3: Key points About 30 to 50 percent of people regularly think to themselves in internal monologues. Inner monologues have a function in language development and in information and memory...\nL4: # 【2†Does everyone have an inner monologue? | Live Science†www.livescience.com】\nL5: Lœvenbruck's research looks at inner monologues in three dimensions, according to a 2019 study she and colleagues published in the journal Frontiers in Psychology. The first is dialogality....\nL6: # 【3†Does Everyone Have an Inner Monologue? - Verywell Mind†www.verywellmind.com】\nL7: Research has indicated there are three dimensions to inner speech: Condensation, or how concise or verbose your inner monologue is. In some instances, one’s inner voice may be descriptive and talkative, with self-talk that includes whole sentences and paragraphs, while at others it may only use a single word or fragments of a sentence.\nL8: # 【4†How Our Internal Monologue Impacts Our Mental Health†www.psychologytoday.com】\nL9: Key points Thoughts naturally arise automatically in our minds without us choosing them. How we think has a big impact, and research suggests that the stories we tell ourselves often aren't real....\nL10: # 【5†What it's like living without an inner monologue | CBC News†www.cbc.ca】\nL11: The concept of an inner monologue — the term now commonly used to describe the voice in your head — recently sparked a flurry of discussion on social media. A tweet by @KylePlantEmoji and...\nL12: # 【6†Inner Speech: Development, Cognitive Functions, Phenomenology, and ...†www.ncbi.nlm.nih.gov】\nL13: When people reflect upon their own inner experience, they often report that it has a verbal quality (Baars, 2003).Also referred to as verbal thinking, inner speaking, covert self-talk, internal monologue, and internal dialogue, inner speech has been proposed to have an important role in the self-regulation of cognition and behavior in both childhood and adulthood, with implications for inner ...\nL14: # 【7†Internal Monologue: What It Is, What It Means, and More - Healthline†www.healthline.com】\nL15: Is it universal? People without an internal monologue Purpose Examples Shift critical voice When to talk with a pro Takeaway Some people may experience an internal dialogue more often while...\nL16: # 【8†Inner monologues, with Ethan Kross, PhD†www.apa.org】\nL17: About the expert: Ethan Kross, PhD. Ethan Kross is a professor in the psychology department and in the Ross School of Business at the University of Michigan. He is an award-winning scientist and teacher who studies self-control. He received his BA from the University of Pennsylvania and a PhD from Columbia University.\nL18: # 【9†Internal Monologue | SpringerLink†link.springer.com】\nL19: Internal monologue, also known as self-talk, inner voice, or internal speech, is an inner conscious stream of verbal monologue or thoughts in words. Introduction Internal monologue has been a known phenomenon to literary people, developmental psychologists, and educational psychologists for long.\nL20: # 【10†Why some people don't have an inner monologue | TED-Ed†ed.ted.com】\nL21: 319 Questions Answered Best of Web Let’s Begin… Do you always have an inner monologue? Can you imagine not having one? Or maybe you've never had an inner monologue and wondered what it would be like? Psychologists are beginning to study that voice inside your head— and it's much more complicated than you might think.\nL22: # 【11†Full article: How to turn interior monologues inside out ...†www.tandfonline.com】\nL23: In 1962, Ruth Hirsch Weir, a linguist working at Stanford University, published her first monograph, Language in the Crib.For her study, Hirsch Weir had recorded the “pre-sleep monologues” of her son Anthony at the age of twenty-eight to thirty months, “alone in his crib, talking to himself” (Citation 1962, 7).She analysed the magnetic tape recordings during a summer 1961 research ...\nL24: # 【12†Do You Have an Internal Dialogue? Not Everyone Does†science.howstuffworks.com】\nL25: Inner voice — also known as an internal dialogue, internal monologue or inner speech — refers to the ongoing, often subconscious, stream of thoughts, feelings and inner conversations that occur within a person's mind.\nL26: # 【13†Experts talk about what it means to have an inner monologue - TODAY†www.today.com】\nL27: An inner voice can help people understand the world and engage in it. But, sometimes, that inner monologue turns negative or becomes fixated on a thought. This obsession can be a sign of something ...\nL28: # 【14†Frontiers | Types of Inner Dialogues and Functions of Self-Talk ...†www.frontiersin.org】\nL29: Intrapersonal communication occurs in several modes including inner dialogue and self-talk. The Dialogical Self Theory (Hermans, 1996) postulates a polyphonic self that is comprised of a multiplicity of inner voices. Internal dialogical activity implies an exchange of thoughts or ideas between at least two so-called “I-positions” representing specific points of view. Among the functions ...\nL30: # 【15†Why We Talk to Ourselves: The Science of Your Internal Monologue†www.mindful.org】\nL31: November 3, 2022. Focus. Illustration by Edmon de Haro. “Know thyself,” was the advice inscribed on the Temple of Apollo at Delphi. The Tao Te Ching insisted that knowing others is intelligence, while knowing oneself is true wisdom. “To thine own self be true,” Shakespeare urged. Pithy advice.\nL32: # 【16†Internal Monologue vs. Thinking: Exploring the Complexities of the ...†futuredoctor.ai】\nL33: Definition The concept of an internal monologue refers to the ongoing conversation we have with ourselves in our minds, often stemming from our self-awareness and personal reflections. It's a silent yet powerful form of communication that occurs within us as we think about experiences, thoughts, emotions and perceptions.\nL34: # 【17†InnerMonologue: Embodied Reasoning through Planning ... - Google Research†research.google】\nL35: We propose an inner monologue as a way for an LLM to think through this process and plan. We investigate a variety of sources of feedback, such as success detectors and object detectors, as well as human interaction. The proposed method is validated in a simulation domain and on real robotic. We show that Innerlogue can successfully replan ...\nL36: # 【18†Definition and Examples of Interior Monologues - ThoughtCo†www.thoughtco.com】\nL37: Interior monologues help to fill in blanks in a piece of writing and provide the reader with a clearer picture, whether from the author or a character themselves. Often, interior monologues fit seamlessly into a piece of writing and maintain the style and tone of a piece. Other times, they deviate. For examples of this fascinating literary ...\nL38: # 【19†Inner Monologue Examples: Characters' Hidden Lives | Now Novel†www.nownovel.com】\nL39: 1. Use inner monologue to reveal unspoken thoughts. Often a protagonist-narrator will simply state how they feel in narration. For example: ‘I was apprehensive when I approached the derelict building.’. Or, if you’re using third person limited point of view: ‘Luisa was apprehensive when she approached the building.’.\nVisible: 0% - 100%",
+          "summary": null,
+          "assets": [],
+          "tether_id": null
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 0.0,
+        "metadata": {
+          "_cite_metadata": {
+            "citation_format": {
+              "name": "tether_og"
+            },
+            "metadata_list": [
+              {
+                "type": "webpage",
+                "title": "https://www.psychologytoday.com/us/blog/mind-brain-and-value/202108/how-our-internal-monologue-impacts-our-mental-health",
+                "url": "https://www.psychologytoday.com/us/blog/mind-brain-and-value/202108/how-our-internal-monologue-impacts-our-mental-health",
+                "text": "\nL1: Research on inner monologue suggests that perspective-taking, meta-awareness, and mental distancing are important tools for harnessing the power of thought. Our internal chatter is so active that we internally talk to ourselves at a rate equivalent to speaking 4,000 words per minute out loud. Some research shows that people often use more inner verbalization when they're under pressure. Researchers don’t fully understand why some people don’t have an inner voice.\nL2: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "How Inner Monologues Work, and Who Has Them | Psychology Today",
+                "url": "https://www.psychologytoday.com/us/blog/intersections/202304/inner-monologues-what-are-they-and-whos-having-them",
+                "text": "\nL3: Key points About 30 to 50 percent of people regularly think to themselves in internal monologues. Inner monologues have a function in language development and in information and memory...\nL4: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Does everyone have an inner monologue? | Live Science",
+                "url": "https://www.livescience.com/does-everyone-have-inner-monologue.html",
+                "text": "\nL5: Lœvenbruck's research looks at inner monologues in three dimensions, according to a 2019 study she and colleagues published in the journal Frontiers in Psychology. The first is dialogality....\nL6: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Does Everyone Have an Inner Monologue? - Verywell Mind",
+                "url": "https://www.verywellmind.com/does-everyone-have-an-inner-monologue-6831748",
+                "text": "\nL7: Research has indicated there are three dimensions to inner speech: Condensation, or how concise or verbose your inner monologue is. In some instances, one’s inner voice may be descriptive and talkative, with self-talk that includes whole sentences and paragraphs, while at others it may only use a single word or fragments of a sentence.\nL8: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "How Our Internal Monologue Impacts Our Mental Health",
+                "url": "https://www.psychologytoday.com/us/blog/mind-brain-and-value/202108/how-our-internal-monologue-impacts-our-mental-health",
+                "text": "\nL9: Key points Thoughts naturally arise automatically in our minds without us choosing them. How we think has a big impact, and research suggests that the stories we tell ourselves often aren't real....\nL10: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "What it's like living without an inner monologue | CBC News",
+                "url": "https://www.cbc.ca/news/canada/saskatchewan/inner-monologue-experience-science-1.5486969",
+                "text": "\nL11: The concept of an inner monologue — the term now commonly used to describe the voice in your head — recently sparked a flurry of discussion on social media. A tweet by @KylePlantEmoji and...\nL12: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Inner Speech: Development, Cognitive Functions, Phenomenology, and ...",
+                "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4538954/",
+                "text": "\nL13: When people reflect upon their own inner experience, they often report that it has a verbal quality (Baars, 2003).Also referred to as verbal thinking, inner speaking, covert self-talk, internal monologue, and internal dialogue, inner speech has been proposed to have an important role in the self-regulation of cognition and behavior in both childhood and adulthood, with implications for inner ...\nL14: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Internal Monologue: What It Is, What It Means, and More - Healthline",
+                "url": "https://www.healthline.com/health/mental-health/internal-monologue",
+                "text": "\nL15: Is it universal? People without an internal monologue Purpose Examples Shift critical voice When to talk with a pro Takeaway Some people may experience an internal dialogue more often while...\nL16: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Inner monologues, with Ethan Kross, PhD",
+                "url": "https://www.apa.org/news/podcasts/speaking-of-psychology/inner-monologues",
+                "text": "\nL17: About the expert: Ethan Kross, PhD. Ethan Kross is a professor in the psychology department and in the Ross School of Business at the University of Michigan. He is an award-winning scientist and teacher who studies self-control. He received his BA from the University of Pennsylvania and a PhD from Columbia University.\nL18: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Internal Monologue | SpringerLink",
+                "url": "https://link.springer.com/referenceworkentry/10.1007/978-3-319-24612-3_689",
+                "text": "\nL19: Internal monologue, also known as self-talk, inner voice, or internal speech, is an inner conscious stream of verbal monologue or thoughts in words. Introduction Internal monologue has been a known phenomenon to literary people, developmental psychologists, and educational psychologists for long.\nL20: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Why some people don't have an inner monologue | TED-Ed",
+                "url": "https://ed.ted.com/best_of_web/O3xvONfv",
+                "text": "\nL21: 319 Questions Answered Best of Web Let’s Begin… Do you always have an inner monologue? Can you imagine not having one? Or maybe you've never had an inner monologue and wondered what it would be like? Psychologists are beginning to study that voice inside your head— and it's much more complicated than you might think.\nL22: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Full article: How to turn interior monologues inside out ...",
+                "url": "https://www.tandfonline.com/doi/full/10.1080/20551940.2020.1794647",
+                "text": "\nL23: In 1962, Ruth Hirsch Weir, a linguist working at Stanford University, published her first monograph, Language in the Crib.For her study, Hirsch Weir had recorded the “pre-sleep monologues” of her son Anthony at the age of twenty-eight to thirty months, “alone in his crib, talking to himself” (Citation 1962, 7).She analysed the magnetic tape recordings during a summer 1961 research ...\nL24: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Do You Have an Internal Dialogue? Not Everyone Does",
+                "url": "https://science.howstuffworks.com/life/inside-the-mind/human-brain/inner-voice.htm",
+                "text": "\nL25: Inner voice — also known as an internal dialogue, internal monologue or inner speech — refers to the ongoing, often subconscious, stream of thoughts, feelings and inner conversations that occur within a person's mind.\nL26: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Experts talk about what it means to have an inner monologue - TODAY",
+                "url": "https://www.today.com/health/experts-talk-about-what-it-means-have-inner-monologue-t173490",
+                "text": "\nL27: An inner voice can help people understand the world and engage in it. But, sometimes, that inner monologue turns negative or becomes fixated on a thought. This obsession can be a sign of something ...\nL28: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Frontiers | Types of Inner Dialogues and Functions of Self-Talk ...",
+                "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2020.00227/full",
+                "text": "\nL29: Intrapersonal communication occurs in several modes including inner dialogue and self-talk. The Dialogical Self Theory (Hermans, 1996) postulates a polyphonic self that is comprised of a multiplicity of inner voices. Internal dialogical activity implies an exchange of thoughts or ideas between at least two so-called “I-positions” representing specific points of view. Among the functions ...\nL30: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Why We Talk to Ourselves: The Science of Your Internal Monologue",
+                "url": "https://www.mindful.org/why-we-talk-to-ourselves-the-science-of-your-internal-monologue/",
+                "text": "\nL31: November 3, 2022. Focus. Illustration by Edmon de Haro. “Know thyself,” was the advice inscribed on the Temple of Apollo at Delphi. The Tao Te Ching insisted that knowing others is intelligence, while knowing oneself is true wisdom. “To thine own self be true,” Shakespeare urged. Pithy advice.\nL32: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Internal Monologue vs. Thinking: Exploring the Complexities of the ...",
+                "url": "https://futuredoctor.ai/internal-monologue-vs-thinking/",
+                "text": "\nL33: Definition The concept of an internal monologue refers to the ongoing conversation we have with ourselves in our minds, often stemming from our self-awareness and personal reflections. It's a silent yet powerful form of communication that occurs within us as we think about experiences, thoughts, emotions and perceptions.\nL34: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "InnerMonologue: Embodied Reasoning through Planning ... - Google Research",
+                "url": "https://research.google/pubs/pub51648/",
+                "text": "\nL35: We propose an inner monologue as a way for an LLM to think through this process and plan. We investigate a variety of sources of feedback, such as success detectors and object detectors, as well as human interaction. The proposed method is validated in a simulation domain and on real robotic. We show that Innerlogue can successfully replan ...\nL36: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Definition and Examples of Interior Monologues - ThoughtCo",
+                "url": "https://www.thoughtco.com/what-is-an-interior-monologue-1691073",
+                "text": "\nL37: Interior monologues help to fill in blanks in a piece of writing and provide the reader with a clearer picture, whether from the author or a character themselves. Often, interior monologues fit seamlessly into a piece of writing and maintain the style and tone of a piece. Other times, they deviate. For examples of this fascinating literary ...\nL38: ",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Inner Monologue Examples: Characters' Hidden Lives | Now Novel",
+                "url": "https://www.nownovel.com/blog/inner-monologue-examples-in-novels/",
+                "text": "\nL39: 1. Use inner monologue to reveal unspoken thoughts. Often a protagonist-narrator will simply state how they feel in narration. For example: ‘I was apprehensive when I approached the derelict building.’. Or, if you’re using third person limited point of view: ‘Luisa was apprehensive when she approached the building.’.\nVisible: 0% - 100%",
+                "pub_date": null,
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Search results for query: 'research on inner monologue existence in people'",
+                "url": "",
+                "text": "L0: # 【0†https://www.psychologytoday.com/us/blog/mind-brain-and-value/202108/how-our-internal-monologue-impacts-our-mental-health†www.psychologytoday.com】\nL1: Research on inner monologue suggests that perspective-taking, meta-awareness, and mental distancing are important tools for harnessing the power of thought. Our internal chatter is so active that we internally talk to ourselves at a rate equivalent to speaking 4,000 words per minute out loud. Some research shows that people often use more inner verbalization when they're under pressure. Researchers don’t fully understand why some people don’t have an inner voice.\nL2: # 【1†How Inner Monologues Work, and Who Has Them | Psychology Today†www.psychologytoday.com】\nL3: Key points About 30 to 50 percent of people regularly think to themselves in internal monologues. Inner monologues have a function in language development and in information and memory...\nL4: # 【2†Does everyone have an inner monologue? | Live Science†www.livescience.com】\nL5: Lœvenbruck's research looks at inner monologues in three dimensions, according to a 2019 study she and colleagues published in the journal Frontiers in Psychology. The first is dialogality....\nL6: # 【3†Does Everyone Have an Inner Monologue? - Verywell Mind†www.verywellmind.com】\nL7: Research has indicated there are three dimensions to inner speech: Condensation, or how concise or verbose your inner monologue is. In some instances, one’s inner voice may be descriptive and talkative, with self-talk that includes whole sentences and paragraphs, while at others it may only use a single word or fragments of a sentence.\nL8: # 【4†How Our Internal Monologue Impacts Our Mental Health†www.psychologytoday.com】\nL9: Key points Thoughts naturally arise automatically in our minds without us choosing them. How we think has a big impact, and research suggests that the stories we tell ourselves often aren't real....\nL10: # 【5†What it's like living without an inner monologue | CBC News†www.cbc.ca】\nL11: The concept of an inner monologue — the term now commonly used to describe the voice in your head — recently sparked a flurry of discussion on social media. A tweet by @KylePlantEmoji and...\nL12: # 【6†Inner Speech: Development, Cognitive Functions, Phenomenology, and ...†www.ncbi.nlm.nih.gov】\nL13: When people reflect upon their own inner experience, they often report that it has a verbal quality (Baars, 2003).Also referred to as verbal thinking, inner speaking, covert self-talk, internal monologue, and internal dialogue, inner speech has been proposed to have an important role in the self-regulation of cognition and behavior in both childhood and adulthood, with implications for inner ...\nL14: # 【7†Internal Monologue: What It Is, What It Means, and More - Healthline†www.healthline.com】\nL15: Is it universal? People without an internal monologue Purpose Examples Shift critical voice When to talk with a pro Takeaway Some people may experience an internal dialogue more often while...\nL16: # 【8†Inner monologues, with Ethan Kross, PhD†www.apa.org】\nL17: About the expert: Ethan Kross, PhD. Ethan Kross is a professor in the psychology department and in the Ross School of Business at the University of Michigan. He is an award-winning scientist and teacher who studies self-control. He received his BA from the University of Pennsylvania and a PhD from Columbia University.\nL18: # 【9†Internal Monologue | SpringerLink†link.springer.com】\nL19: Internal monologue, also known as self-talk, inner voice, or internal speech, is an inner conscious stream of verbal monologue or thoughts in words. Introduction Internal monologue has been a known phenomenon to literary people, developmental psychologists, and educational psychologists for long.\nL20: # 【10†Why some people don't have an inner monologue | TED-Ed†ed.ted.com】\nL21: 319 Questions Answered Best of Web Let’s Begin… Do you always have an inner monologue? Can you imagine not having one? Or maybe you've never had an inner monologue and wondered what it would be like? Psychologists are beginning to study that voice inside your head— and it's much more complicated than you might think.\nL22: # 【11†Full article: How to turn interior monologues inside out ...†www.tandfonline.com】\nL23: In 1962, Ruth Hirsch Weir, a linguist working at Stanford University, published her first monograph, Language in the Crib.For her study, Hirsch Weir had recorded the “pre-sleep monologues” of her son Anthony at the age of twenty-eight to thirty months, “alone in his crib, talking to himself” (Citation 1962, 7).She analysed the magnetic tape recordings during a summer 1961 research ...\nL24: # 【12†Do You Have an Internal Dialogue? Not Everyone Does†science.howstuffworks.com】\nL25: Inner voice — also known as an internal dialogue, internal monologue or inner speech — refers to the ongoing, often subconscious, stream of thoughts, feelings and inner conversations that occur within a person's mind.\nL26: # 【13†Experts talk about what it means to have an inner monologue - TODAY†www.today.com】\nL27: An inner voice can help people understand the world and engage in it. But, sometimes, that inner monologue turns negative or becomes fixated on a thought. This obsession can be a sign of something ...\nL28: # 【14†Frontiers | Types of Inner Dialogues and Functions of Self-Talk ...†www.frontiersin.org】\nL29: Intrapersonal communication occurs in several modes including inner dialogue and self-talk. The Dialogical Self Theory (Hermans, 1996) postulates a polyphonic self that is comprised of a multiplicity of inner voices. Internal dialogical activity implies an exchange of thoughts or ideas between at least two so-called “I-positions” representing specific points of view. Among the functions ...\nL30: # 【15†Why We Talk to Ourselves: The Science of Your Internal Monologue†www.mindful.org】\nL31: November 3, 2022. Focus. Illustration by Edmon de Haro. “Know thyself,” was the advice inscribed on the Temple of Apollo at Delphi. The Tao Te Ching insisted that knowing others is intelligence, while knowing oneself is true wisdom. “To thine own self be true,” Shakespeare urged. Pithy advice.\nL32: # 【16†Internal Monologue vs. Thinking: Exploring the Complexities of the ...†futuredoctor.ai】\nL33: Definition The concept of an internal monologue refers to the ongoing conversation we have with ourselves in our minds, often stemming from our self-awareness and personal reflections. It's a silent yet powerful form of communication that occurs within us as we think about experiences, thoughts, emotions and perceptions.\nL34: # 【17†InnerMonologue: Embodied Reasoning through Planning ... - Google Research†research.google】\nL35: We propose an inner monologue as a way for an LLM to think through this process and plan. We investigate a variety of sources of feedback, such as success detectors and object detectors, as well as human interaction. The proposed method is validated in a simulation domain and on real robotic. We show that Innerlogue can successfully replan ...\nL36: # 【18†Definition and Examples of Interior Monologues - ThoughtCo†www.thoughtco.com】\nL37: Interior monologues help to fill in blanks in a piece of writing and provide the reader with a clearer picture, whether from the author or a character themselves. Often, interior monologues fit seamlessly into a piece of writing and maintain the style and tone of a piece. Other times, they deviate. For examples of this fascinating literary ...\nL38: # 【19†Inner Monologue Examples: Characters' Hidden Lives | Now Novel†www.nownovel.com】\nL39: 1. Use inner monologue to reveal unspoken thoughts. Often a protagonist-narrator will simply state how they feel in narration. For example: ‘I was apprehensive when I approached the derelict building.’. Or, if you’re using third person limited point of view: ‘Luisa was apprehensive when she approached the building.’.\nVisible: 0% - 100%",
+                "pub_date": null,
+                "extra": null
+              }
+            ],
+            "original_query": null
+          },
+          "command": "scroll",
+          "args": [
+            3
+          ],
+          "status": "finished",
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "056142c0-4d6f-4ac3-977b-e6718831eb20",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "056142c0-4d6f-4ac3-977b-e6718831eb20",
+      "children": [
+        "7b728138-4df5-40c9-9c44-f15d3d3efd13"
+      ]
+    },
+    "7b728138-4df5-40c9-9c44-f15d3d3efd13": {
+      "id": "7b728138-4df5-40c9-9c44-f15d3d3efd13",
+      "message": {
+        "id": "7b728138-4df5-40c9-9c44-f15d3d3efd13",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1701228881.640037,
+        "update_time": null,
+        "content": {
+          "content_type": "code",
+          "language": "unknown",
+          "response_format_name": null,
+          "text": "click(10)"
+        },
+        "status": "finished_successfully",
+        "end_turn": false,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              100265
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "95c59c1c-4626-4cfc-aa32-8fbf2e7dd1c0",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "browser",
+        "channel": null
+      },
+      "parent": "95c59c1c-4626-4cfc-aa32-8fbf2e7dd1c0",
+      "children": [
+        "8979da0a-4df0-41c7-94b1-63ee218cadb9"
+      ]
+    },
+    "8979da0a-4df0-41c7-94b1-63ee218cadb9": {
+      "id": "8979da0a-4df0-41c7-94b1-63ee218cadb9",
+      "message": {
+        "id": "8979da0a-4df0-41c7-94b1-63ee218cadb9",
+        "author": {
+          "role": "tool",
+          "name": "browser",
+          "metadata": {}
+        },
+        "create_time": 1701228881.647607,
+        "update_time": null,
+        "content": {
+          "content_type": "tether_browsing_display",
+          "result": "L0: \nL1: URL: https://ed.ted.com/best_of_web/O3xvONfv\nL2: You have JavaScript disabled   \nL3: For the best experience, please turn JavaScript on. 【0†Here's how†enable-javascript.com】 \nL4: \nL5: 【1†Skip to main content】 \nL6: \nL7: Toggle Navigation\nL8: \nL9: # 【2† TED-Ed 】 \nL10: \nL11: Search\nL12: \nL13: 【3†Register】 or 【4†Sign in】 \nL14: \nL15:   * Discover  \nL16:     * 【5† Lessons Watch video-based lessons organized by subject and age】 \nL17:     * 【6† Collections Find video-based lessons organized by theme】 \nL18:     * 【7† Insights Explore insights from TED-Ed community】 \nL19:     * 【8† Explorations Learn through interactive experiences created with other organizations】 \nL20:     * 【9† Blog Read articles and updates from TED-Ed】 \nL21: \nL22:   * Create  \nL23:     * 【10† A Lesson Build your own video-based lesson】 \nL24:     * 【11† A Collection Organize video-based lessons in your own collection】 \nL25: \nL26:   * Get Involved  \nL27:     * 【12† Student Talks Learn how students can create talks as part of a class, club or other program】 \nL28:     * 【13† Educator Talks Learn how educators in your community can give their own TED-style talks】 \nL29:     * 【14† Nominate Nominate educators to work with TED-Ed】 \nL30: \nL31:   * Support  \nL32:     * 【15† Donate Donate to support TED-Ed’s non-profit mission†www.patreon.com】 \nL33:     * 【16† Shop Buy products inspired by TED-Ed animations】 \nL34: \nL35: Search\nL36: \nL37: ##  Discover\nL38: \nL39:   * 【5†Lessons】 \nL40:   * 【6†Collections】 \nL41:   * 【7†Insights】 \nL42:   * 【8†Explorations】 \nL43:   * 【9†Blog】 \nL44: \nL45: ##  Create\nL46: \nL47:   * 【10†A Lesson】 \nL48:   * 【11†A Collection】 \nL49: \nL50: ##  Get Involved\nL51: \nL52:   * 【12†Student Talks】 \nL53:   * 【13†Educator Talks】 \nL54:   * 【14†Nominate】 \nL55: \nL56: ##  Support\nL57: \nL58:   * 【15†Donate†www.patreon.com】 \nL59:   * 【16†Shop】 \nL60: \nL61:   * 【17†Help】 \nL62:   * 【18†Contact】 \nL63:   * 【9†Blog】 \nL64:   * 【19†About】 \nL65:   * 【20†Educators】 \nL66:   * 【21†Patrons】 \nL67: \nL68: ## Want a daily email of lesson plans that span all subjects and age groups?\nL69: \nL70: 【22†Learn more】 \nL71: \nL72: # Why some people don't have an inner monologue\nL73: \nL74: 2,300,754 Views \nL75: \nL76: 322 Questions Answered \nL77: \nL78: Best of Web\nL79: \nL80: * * *\nL81: \nL82: ## Let’s Begin…\nL83: \nL84: Do you always have an inner monologue? Can you imagine not having one? Or maybe you've never had an inner monologue and wondered what it would be like? Psychologists are beginning to study that voice inside your head— and it's much more complicated than you might think. Join Hank Green for a fascinating episode of SciShow, all about your inner voice.\nL85: \nL86: 【23† Watch】【24†Think 3 Multiple Choice & 2 Open Answer Questions 】【25†Dig Deeper Learn More 】【26†Discuss 1 Guided Discussion & 0 Open Discussions 】 \nL87: \nL88: 【27†Customize this lesson】 \nL89: \nL90: 14 \nL91: \nL92: Create and share a new lesson based on this one.\nL93: \nL94: 【28†Manage Library 】 \nL95: \nL96: ###  Share:\nL97: \nL98: 【29† †www.facebook.com】 【30† †twitter.com】 【31† †www.reddit.com】 【32† †wa.me】  【33† †classroom.google.com】 \nL99: \nL100: ##  About TED-Ed Best of Web \nL101: \nL102: TED-Ed Best of Web are exceptional, user-created lessons that are carefully selected by volunteer teachers and TED-Ed staff. \nL103: \nL104: ##  Meet The Creators\nL105: \nL106:   * Video created by 【34†SciShow†www.youtube.com】 \nL107:   * Lesson Plan created by 【35†Lauren McAlpine†www.ted.com】 \nL108: \nL109: ##  More from Mind Matters\nL110: \nL111: 【36† 05:04】 \nL112: \nL113: 【37†Psychology】 \nL114: \nL115: ##  【36†Why is it so hard to break a bad habit?】 \nL116: \nL117: Lesson duration 05:04 \nL118: \nL119: 【28†Manage Library 】 \nL120: \nL121: 562,246 Views\nL122: \nL123: 【38† 05:03】 \nL124: \nL125: 【37†Psychology】 \nL126: \nL127: ##  【38†How to enter flow state】 \nL128: \nL129: Lesson duration 05:03 \nL130: \nL131: 【28†Manage Library 】 \nL132: \nL133: 897,922 Views\nL134: \nL135: 【39† 04:44】 \nL136: \nL137: 【37†Psychology】 \nL138: \nL139: ##  【39†Do you see a face? You're actually hallucinating】 \nL140: \nL141: Lesson duration 04:44 \nL142: \nL143: 【28†Manage Library 】 \nL144: \nL145: 345,402 Views\nL146: \nL147: 【40† 12:52】 \nL148: \nL149: 【41†Health】 \nL150: \nL151: ##  【40†Is someone you love suffering in silence? Here's what to do - Gus Worland】 \nL152: \nL153: Lesson duration 12:52 \nL154: \nL155: 【28†Manage Library 】 \nL156: \nL157: 43,471 Views\nL158: \nL159:   * 【2† TED-Ed 】 \nL160:   * 【17†Help】 \nL161:   * 【18†Contact】 \nL162:   * 【9†Blog】 \nL163:   * 【19†About】 \nL164:   * 【20†Educators】 \nL165:   * 【21†Patrons】 \nL166: \nL167:   * 【42†TED Conferences, LLC†ted.com】 \nL168:   * 【43†Terms of use†www.ted.com】 \nL169:   * 【44†Privacy policy†www.ted.com】 \nL170:   * 【45†Video usage policy†www.ted.com】 \nL171: \nL172:   * 【46†Instagram †www.instagram.com】 \nL173:   * 【47†Tumblr †teded.tumblr.com】 \nL174:   * 【48†Twitter †twitter.com】 \nL175:   * 【49†Facebook †www.facebook.com】 \nL176:   * 【50†YouTube †www.youtube.com】 \nL177: \nL178: By subscribing, you agree to our 【43†Terms of use†www.ted.com】   \nL179: and 【44†Privacy policy†www.ted.com】. \nL180: \nL181:\nVisible: 0% - 100%",
+          "summary": "Why some people don't have an inner monologue | TED-Ed (ed.ted.com)\n",
+          "assets": [],
+          "tether_id": null
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 0.0,
+        "metadata": {
+          "_cite_metadata": {
+            "citation_format": {
+              "name": "tether_og"
+            },
+            "metadata_list": [
+              {
+                "type": "webpage",
+                "title": "Why some people don't have an inner monologue | TED-Ed",
+                "url": "https://ed.ted.com/best_of_web/O3xvONfv",
+                "text": "L0: \nL1: URL: https://ed.ted.com/best_of_web/O3xvONfv\nL2: You have JavaScript disabled   \nL3: For the best experience, please turn JavaScript on. Here's how \nL4: \nL5: Skip to main content \nL6: \nL7: Toggle Navigation\nL8: \nL9: #  TED-Ed  \nL10: \nL11: Search\nL12: \nL13: Register or Sign in \nL14: \nL15:   * Discover  \nL16:     *  Lessons Watch video-based lessons organized by subject and age \nL17:     *  Collections Find video-based lessons organized by theme \nL18:     *  Insights Explore insights from TED-Ed community \nL19:     *  Explorations Learn through interactive experiences created with other organizations \nL20:     *  Blog Read articles and updates from TED-Ed \nL21: \nL22:   * Create  \nL23:     *  A Lesson Build your own video-based lesson \nL24:     *  A Collection Organize video-based lessons in your own collection \nL25: \nL26:   * Get Involved  \nL27:     *  Student Talks Learn how students can create talks as part of a class, club or other program \nL28:     *  Educator Talks Learn how educators in your community can give their own TED-style talks \nL29:     *  Nominate Nominate educators to work with TED-Ed \nL30: \nL31:   * Support  \nL32:     *  Donate Donate to support TED-Ed’s non-profit mission \nL33:     *  Shop Buy products inspired by TED-Ed animations \nL34: \nL35: Search\nL36: \nL37: ##  Discover\nL38: \nL39:   * Lessons \nL40:   * Collections \nL41:   * Insights \nL42:   * Explorations \nL43:   * Blog \nL44: \nL45: ##  Create\nL46: \nL47:   * A Lesson \nL48:   * A Collection \nL49: \nL50: ##  Get Involved\nL51: \nL52:   * Student Talks \nL53:   * Educator Talks \nL54:   * Nominate \nL55: \nL56: ##  Support\nL57: \nL58:   * Donate \nL59:   * Shop \nL60: \nL61:   * Help \nL62:   * Contact \nL63:   * Blog \nL64:   * About \nL65:   * Educators \nL66:   * Patrons \nL67: \nL68: ## Want a daily email of lesson plans that span all subjects and age groups?\nL69: \nL70: Learn more \nL71: \nL72: # Why some people don't have an inner monologue\nL73: \nL74: 2,300,754 Views \nL75: \nL76: 322 Questions Answered \nL77: \nL78: Best of Web\nL79: \nL80: * * *\nL81: \nL82: ## Let’s Begin…\nL83: \nL84: Do you always have an inner monologue? Can you imagine not having one? Or maybe you've never had an inner monologue and wondered what it would be like? Psychologists are beginning to study that voice inside your head— and it's much more complicated than you might think. Join Hank Green for a fascinating episode of SciShow, all about your inner voice.\nL85: \nL86:  WatchThink 3 Multiple Choice & 2 Open Answer Questions Dig Deeper Learn More Discuss 1 Guided Discussion & 0 Open Discussions  \nL87: \nL88: Customize this lesson \nL89: \nL90: 14 \nL91: \nL92: Create and share a new lesson based on this one.\nL93: \nL94: Manage Library  \nL95: \nL96: ###  Share:\nL97: \nL98:            \nL99: \nL100: ##  About TED-Ed Best of Web \nL101: \nL102: TED-Ed Best of Web are exceptional, user-created lessons that are carefully selected by volunteer teachers and TED-Ed staff. \nL103: \nL104: ##  Meet The Creators\nL105: \nL106:   * Video created by SciShow \nL107:   * Lesson Plan created by Lauren McAlpine \nL108: \nL109: ##  More from Mind Matters\nL110: \nL111:  05:04 \nL112: \nL113: Psychology \nL114: \nL115: ##  Why is it so hard to break a bad habit? \nL116: \nL117: Lesson duration 05:04 \nL118: \nL119: Manage Library  \nL120: \nL121: 562,246 Views\nL122: \nL123:  05:03 \nL124: \nL125: Psychology \nL126: \nL127: ##  How to enter flow state \nL128: \nL129: Lesson duration 05:03 \nL130: \nL131: Manage Library  \nL132: \nL133: 897,922 Views\nL134: \nL135:  04:44 \nL136: \nL137: Psychology \nL138: \nL139: ##  Do you see a face? You're actually hallucinating \nL140: \nL141: Lesson duration 04:44 \nL142: \nL143: Manage Library  \nL144: \nL145: 345,402 Views\nL146: \nL147:  12:52 \nL148: \nL149: Health \nL150: \nL151: ##  Is someone you love suffering in silence? Here's what to do - Gus Worland \nL152: \nL153: Lesson duration 12:52 \nL154: \nL155: Manage Library  \nL156: \nL157: 43,471 Views\nL158: \nL159:   *  TED-Ed  \nL160:   * Help \nL161:   * Contact \nL162:   * Blog \nL163:   * About \nL164:   * Educators \nL165:   * Patrons \nL166: \nL167:   * TED Conferences, LLC \nL168:   * Terms of use \nL169:   * Privacy policy \nL170:   * Video usage policy \nL171: \nL172:   * Instagram  \nL173:   * Tumblr  \nL174:   * Twitter  \nL175:   * Facebook  \nL176:   * YouTube  \nL177: \nL178: By subscribing, you agree to our Terms of use   \nL179: and Privacy policy. \nL180: \nL181:\nVisible: 0% - 100%",
+                "pub_date": null,
+                "extra": null
+              }
+            ],
+            "original_query": null
+          },
+          "command": "click",
+          "args": [
+            10
+          ],
+          "status": "finished",
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "7b728138-4df5-40c9-9c44-f15d3d3efd13",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "7b728138-4df5-40c9-9c44-f15d3d3efd13",
+      "children": [
+        "36c29d56-4180-4f76-aa1c-1e9b5573eda1"
+      ]
+    },
+    "36c29d56-4180-4f76-aa1c-1e9b5573eda1": {
+      "id": "36c29d56-4180-4f76-aa1c-1e9b5573eda1",
+      "message": {
+        "id": "36c29d56-4180-4f76-aa1c-1e9b5573eda1",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1701228881.654436,
+        "update_time": null,
+        "content": {
+          "content_type": "code",
+          "language": "unknown",
+          "response_format_name": null,
+          "text": "quote_lines(84, 84)"
+        },
+        "status": "finished_successfully",
+        "end_turn": false,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              100265
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "8979da0a-4df0-41c7-94b1-63ee218cadb9",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "browser",
+        "channel": null
+      },
+      "parent": "8979da0a-4df0-41c7-94b1-63ee218cadb9",
+      "children": [
+        "867b566a-78a3-42a9-b31a-e465379f108f"
+      ]
+    },
+    "867b566a-78a3-42a9-b31a-e465379f108f": {
+      "id": "867b566a-78a3-42a9-b31a-e465379f108f",
+      "message": {
+        "id": "867b566a-78a3-42a9-b31a-e465379f108f",
+        "author": {
+          "role": "tool",
+          "name": "browser",
+          "metadata": {}
+        },
+        "create_time": 1701228881.659297,
+        "update_time": null,
+        "content": {
+          "content_type": "tether_quote",
+          "url": "https://ed.ted.com/best_of_web/O3xvONfv",
+          "domain": "ed.ted.com",
+          "text": "Do you always have an inner monologue? Can you imagine not having one? Or maybe you've never had an inner monologue and wondered what it would be like? Psychologists are beginning to study that voice inside your head— and it's much more complicated than you might think. Join Hank Green for a fascinating episode of SciShow, all about your inner voice.",
+          "title": "Why some people don't have an inner monologue | TED-Ed",
+          "tether_id": null
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 0.0,
+        "metadata": {
+          "_cite_metadata": {
+            "citation_format": {
+              "name": "tether_og"
+            },
+            "metadata_list": [
+              {
+                "type": "webpage",
+                "title": "Why some people don't have an inner monologue | TED-Ed",
+                "url": "https://ed.ted.com/best_of_web/O3xvONfv",
+                "text": "Do you always have an inner monologue? Can you imagine not having one? Or maybe you've never had an inner monologue and wondered what it would be like? Psychologists are beginning to study that voice inside your head— and it's much more complicated than you might think. Join Hank Green for a fascinating episode of SciShow, all about your inner voice.",
+                "pub_date": null,
+                "extra": null
+              }
+            ],
+            "original_query": null
+          },
+          "command": "quote_lines",
+          "args": [
+            84,
+            84
+          ],
+          "status": "finished",
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "36c29d56-4180-4f76-aa1c-1e9b5573eda1",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "36c29d56-4180-4f76-aa1c-1e9b5573eda1",
+      "children": [
+        "527610bb-b7d5-4c3c-8f4b-08eb90b7efc3"
+      ]
+    },
+    "527610bb-b7d5-4c3c-8f4b-08eb90b7efc3": {
+      "id": "527610bb-b7d5-4c3c-8f4b-08eb90b7efc3",
+      "message": {
+        "id": "527610bb-b7d5-4c3c-8f4b-08eb90b7efc3",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1701228881.664252,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "The question of whether all people have an inner monologue is a fascinating and complex area of psychological study. The research in this field suggests a rich diversity in the way people think and process information internally.\n\nAccording to psychologist Russell Hurlburt, about 30 to 50 percent of people regularly engage in internal monologues, where they think to themselves in unspoken words. This inner or \"private\" speech is not only common but also plays a crucial role in the development of language skills and in the processing of information and memory. Most people likely engaged in this form of speech as young children while developing their language skills, and later as a means of rehearsing information to improve memory retention【13†source】.\n\nHowever, not everyone experiences an inner monologue in the same way. Some individuals may process information and prepare for tasks using visual imagery rather than words. For example, instead of thinking about or hearing the words for items on a to-do list, they might visualize the list or see images related to the tasks. This suggests that the inner experience of these individuals is more visually oriented, as opposed to being dominated by verbal thoughts【14†source】.\n\nOverall, the study of inner monologues is still evolving, and psychologists are continuing to explore this internal voice. It's a complex subject, as the existence and nature of the inner monologue can vary greatly from person to person【28†source】. \n\nThese studies highlight the diversity in cognitive processing among individuals, indicating that the presence and nature of an inner monologue can differ widely, reflecting the varied ways in which people think and experience the world."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              100260
+            ]
+          },
+          "citations": [
+            {
+              "start_ix": 748,
+              "end_ix": 759,
+              "citation_format_type": "tether_og",
+              "metadata": {
+                "type": "webpage",
+                "title": "How Inner Monologues Work, and Who Has Them | Psychology Today",
+                "url": "https://www.psychologytoday.com/us/blog/intersections/202304/inner-monologues-what-are-they-and-whos-having-them",
+                "text": "It turns out there is, at least in the sense of having an inner conversation in unspoken words. About 30 to 50 percent of people, according to psychologist Russell Hurlburt’s research, regularly think to themselves in internal monologues. Inner or \"private\" speech is something most of us likely did as very young people seeking to develop our language skills, and later as a way of rehearsing information to successfully encode and retain working 【71†memory】. So it’s clearly functional and not a sign of mental disorder.",
+                "pub_date": null,
+                "extra": {
+                  "cited_message_idx": 13,
+                  "evidence_text": "source"
+                }
+              }
+            },
+            {
+              "start_ix": 1224,
+              "end_ix": 1235,
+              "citation_format_type": "tether_og",
+              "metadata": {
+                "type": "webpage",
+                "title": "How Inner Monologues Work, and Who Has Them | Psychology Today",
+                "url": "https://www.psychologytoday.com/us/blog/intersections/202304/inner-monologues-what-are-they-and-whos-having-them",
+                "text": "There are different theories, but the simplest (and least condescending/least pejorative) view of folks who don’t regularly have inner monologues is that many of them are processing information and prepping for tasks using visual imagery rather than words. That is, they see images, such as a to-do list, rather than thinking about or hearing the words for the items on the list. I found this explanation helpful because I think in terms of words, visual images, and music all day long, and it’s easy to perspective take on folks who are a bit “quiet” in there by relating to their use of images or their playing back a song in their heads, things I do, too. It’s helpful to think about their inner experience in visual terms, as while it might be quiet as the occasional cricket when it comes to words, it’s not a total void or vacuum in there.",
+                "pub_date": null,
+                "extra": {
+                  "cited_message_idx": 14,
+                  "evidence_text": "source"
+                }
+              }
+            },
+            {
+              "start_ix": 1474,
+              "end_ix": 1485,
+              "citation_format_type": "tether_og",
+              "metadata": {
+                "type": "webpage",
+                "title": "Why some people don't have an inner monologue | TED-Ed",
+                "url": "https://ed.ted.com/best_of_web/O3xvONfv",
+                "text": "Do you always have an inner monologue? Can you imagine not having one? Or maybe you've never had an inner monologue and wondered what it would be like? Psychologists are beginning to study that voice inside your head— and it's much more complicated than you might think. Join Hank Green for a fascinating episode of SciShow, all about your inner voice.",
+                "pub_date": null,
+                "extra": {
+                  "cited_message_idx": 28,
+                  "evidence_text": "source"
+                }
+              }
+            }
+          ],
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "867b566a-78a3-42a9-b31a-e465379f108f",
+          "timestamp_": "absolute",
+          "content_references": [
+            {
+              "matched_text": "【13†source】",
+              "start_idx": 748,
+              "end_idx": 759,
+              "alt": null,
+              "type": "webpage_extended",
+              "title": "How Inner Monologues Work, and Who Has Them | Psychology Today",
+              "url": "https://www.psychologytoday.com/us/blog/intersections/202304/inner-monologues-what-are-they-and-whos-having-them",
+              "pub_date": null,
+              "snippet": "It turns out there is, at least in the sense of having an inner conversation in unspoken words. About 30 to 50 percent of people, according to psychologist Russell Hurlburt’s research, regularly think to themselves in internal monologues. Inner or \"private\" speech is something most of us likely did as very young people seeking to develop our language skills, and later as a way of rehearsing information to successfully encode and retain working 【71†memory】. So it’s clearly functional and not a sign of mental disorder.",
+              "attribution": "psychologytoday.com"
+            },
+            {
+              "matched_text": "【14†source】",
+              "start_idx": 1224,
+              "end_idx": 1235,
+              "alt": null,
+              "type": "webpage_extended",
+              "title": "How Inner Monologues Work, and Who Has Them | Psychology Today",
+              "url": "https://www.psychologytoday.com/us/blog/intersections/202304/inner-monologues-what-are-they-and-whos-having-them",
+              "pub_date": null,
+              "snippet": "There are different theories, but the simplest (and least condescending/least pejorative) view of folks who don’t regularly have inner monologues is that many of them are processing information and prepping for tasks using visual imagery rather than words. That is, they see images, such as a to-do list, rather than thinking about or hearing the words for the items on the list. I found this explanation helpful because I think in terms of words, visual images, and music all day long, and it’s easy to perspective take on folks who are a bit “quiet” in there by relating to their use of images or their playing back a song in their heads, things I do, too. It’s helpful to think about their inner experience in visual terms, as while it might be quiet as the occasional cricket when it comes to words, it’s not a total void or vacuum in there.",
+              "attribution": "psychologytoday.com"
+            },
+            {
+              "matched_text": "【28†source】",
+              "start_idx": 1474,
+              "end_idx": 1485,
+              "alt": null,
+              "type": "webpage_extended",
+              "title": "Why some people don't have an inner monologue | TED-Ed",
+              "url": "https://ed.ted.com/best_of_web/O3xvONfv",
+              "pub_date": null,
+              "snippet": "Do you always have an inner monologue? Can you imagine not having one? Or maybe you've never had an inner monologue and wondered what it would be like? Psychologists are beginning to study that voice inside your head— and it's much more complicated than you might think. Join Hank Green for a fascinating episode of SciShow, all about your inner voice.",
+              "attribution": "ed.ted.com"
+            }
+          ],
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "867b566a-78a3-42a9-b31a-e465379f108f",
+      "children": [
+        "aaa29853-56f0-4b1a-957c-2fb092f512e9"
+      ]
+    },
+    "aaa29853-56f0-4b1a-957c-2fb092f512e9": {
+      "id": "aaa29853-56f0-4b1a-957c-2fb092f512e9",
+      "message": {
+        "id": "aaa29853-56f0-4b1a-957c-2fb092f512e9",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1701229092.010535,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Do some people not have an inner experience at all?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "527610bb-b7d5-4c3c-8f4b-08eb90b7efc3",
+      "children": [
+        "0588883e-1dc8-47c5-b177-f39f11487044"
+      ]
+    },
+    "0588883e-1dc8-47c5-b177-f39f11487044": {
+      "id": "0588883e-1dc8-47c5-b177-f39f11487044",
+      "message": {
+        "id": "0588883e-1dc8-47c5-b177-f39f11487044",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1701229101.133172,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "The concept of not having any inner experience at all is quite intriguing. Generally, it's not that some people lack an inner experience entirely, but rather, their inner experiences may manifest differently. While many people have an inner monologue or think in words, others might have inner experiences that are more visual or abstract, involving images or sensory experiences rather than verbal thoughts.\n\nThe idea of an entirely absent inner experience is challenging to confirm, as inner experiences are inherently subjective and can vary greatly among individuals. The diversity in cognitive processing and the subjective nature of consciousness make it unlikely that a person would have no inner experience whatsoever. Instead, their inner world might be organized and experienced in a way that is fundamentally different from the more commonly discussed verbal or visual thought processes."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              100260
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4",
+          "parent_id": "aaa29853-56f0-4b1a-957c-2fb092f512e9",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa29853-56f0-4b1a-957c-2fb092f512e9",
+      "children": []
+    }
+  },
+  "moderation_results": [],
+  "current_node": "0588883e-1dc8-47c5-b177-f39f11487044",
+  "plugin_ids": null,
+  "conversation_id": "a449299e-f965-4853-b114-e551d50a9e03",
+  "conversation_template_id": "g-p-67bd1dc7619081918ebcf5b0de5cc1cb",
+  "gizmo_id": "g-p-67bd1dc7619081918ebcf5b0de5cc1cb",
+  "gizmo_type": "snorlax",
+  "is_archived": false,
+  "is_starred": null,
+  "safe_urls": [
+    "https://www.psychologytoday.com/us/blog/mind-brain-and-value/202108/how-our-internal-monologue-impacts-our-mental-health†www.psychologytoday.com】Research",
+    "https://www.livescience.com/does-everyone-have-inner-monologue.htmlFetch",
+    "https://www.verywellmind.com/does-everyone-have-an-inner-monologue-6831748Fetch",
+    "https://www.psychologytoday.com/us/blog/intersections/202304/inner-monologues-what-are-they-and-whos-having-them",
+    "www.psychologytoday.com",
+    "https://ed.ted.com/best_of_web/O3xvONfvYou",
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4538954/Fetch",
+    "https://www.verywellmind.com/does-everyone-have-an-inner-monologue-6831748†www.verywellmind.com】An",
+    "https://www.healthline.com/health/mental-health/internal-monologueFetch",
+    "https://www.psychologytoday.com/us/blog/intersections/202304/inner-monologues-what-are-they-and-whos-having-them【0",
+    "https://ed.ted.com/best_of_web/O3xvONfv",
+    "ed.ted.com"
+  ],
+  "blocked_urls": [],
+  "default_model_slug": null,
+  "atlas_mode_enabled": null,
+  "conversation_origin": null,
+  "is_read_only": null,
+  "voice": null,
+  "async_status": null,
+  "disabled_tool_ids": [],
+  "is_do_not_remember": null,
+  "memory_scope": "global_enabled",
+  "context_scopes": null,
+  "sugar_item_id": null,
+  "sugar_item_visible": false,
+  "pinned_time": null,
+  "is_study_mode": false,
+  "owner": null,
+  "id": "a449299e-f965-4853-b114-e551d50a9e03"
+}

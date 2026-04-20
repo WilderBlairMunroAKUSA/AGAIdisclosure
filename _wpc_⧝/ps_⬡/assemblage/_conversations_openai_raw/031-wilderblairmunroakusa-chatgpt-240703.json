@@ -1,0 +1,744 @@
+{
+  "title": "Commitment Symbol: Letter \"C\"",
+  "create_time": 1719984514.873758,
+  "update_time": 1755090615.420886,
+  "mapping": {
+    "aaa1c728-1bbd-46ef-b8f5-b57ca082f058": {
+      "id": "aaa1c728-1bbd-46ef-b8f5-b57ca082f058",
+      "message": null,
+      "parent": null,
+      "children": [
+        "d66e5cf8-db8f-424a-8966-afcbc0dd0bf4"
+      ]
+    },
+    "d66e5cf8-db8f-424a-8966-afcbc0dd0bf4": {
+      "id": "d66e5cf8-db8f-424a-8966-afcbc0dd0bf4",
+      "message": {
+        "id": "d66e5cf8-db8f-424a-8966-afcbc0dd0bf4",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "can_save": false
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa1c728-1bbd-46ef-b8f5-b57ca082f058",
+      "children": [
+        "aafb17d8-677f-4457-bd6d-17d26b4120bd"
+      ]
+    },
+    "aafb17d8-677f-4457-bd6d-17d26b4120bd": {
+      "id": "aafb17d8-677f-4457-bd6d-17d26b4120bd",
+      "message": {
+        "id": "aafb17d8-677f-4457-bd6d-17d26b4120bd",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "attachments": [
+            {
+              "id": "file-7ab9XNqeZ1pGMwaOSo9Wbale",
+              "name": "astudyinpeace_txtforindexing.txt",
+              "mimeType": "text/plain",
+              "fileSizeTokens": 213187
+            },
+            {
+              "id": "file-aNcnFAoYMW54Xh7id4nnGqtO",
+              "name": "THI.rtf",
+              "mimeType": "application/rtf",
+              "fileSizeTokens": 8469
+            },
+            {
+              "id": "file-DEuRbwexbVSCdv7MHyxJeP9k",
+              "name": "CPB.rtf",
+              "mimeType": "application/rtf",
+              "fileSizeTokens": 95595
+            },
+            {
+              "id": "file-lTmTmSyaQJp8XjncTZfjVAWZ",
+              "name": "LF.rtf",
+              "mimeType": "application/rtf",
+              "fileSizeTokens": 8185
+            }
+          ],
+          "is_visually_hidden_from_conversation": true,
+          "can_save": false
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "d66e5cf8-db8f-424a-8966-afcbc0dd0bf4",
+      "children": [
+        "aaa2b609-d93d-43be-9b05-c750425554c0"
+      ]
+    },
+    "aaa2b609-d93d-43be-9b05-c750425554c0": {
+      "id": "aaa2b609-d93d-43be-9b05-c750425554c0",
+      "message": {
+        "id": "aaa2b609-d93d-43be-9b05-c750425554c0",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1719984514.875363,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "what is a good single letter symbolic representation that we could use for the concept of 'committment'?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "89d4790fbeedc77a-SEA",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aafb17d8-677f-4457-bd6d-17d26b4120bd",
+      "children": [
+        "d91188d1-a98b-4600-bb7e-ca04fbede125"
+      ]
+    },
+    "d91188d1-a98b-4600-bb7e-ca04fbede125": {
+      "id": "d91188d1-a98b-4600-bb7e-ca04fbede125",
+      "message": {
+        "id": "d91188d1-a98b-4600-bb7e-ca04fbede125",
+        "author": {
+          "role": "tool",
+          "name": "myfiles_browser",
+          "metadata": {}
+        },
+        "create_time": 1719984522.366512,
+        "update_time": null,
+        "content": {
+          "content_type": "tether_quote",
+          "url": "file-aNcnFAoYMW54Xh7id4nnGqtO",
+          "domain": "THI.rtf",
+          "text": "",
+          "title": "THI.rtf",
+          "tether_id": null
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "command": "context_stuff",
+          "is_visually_hidden_from_conversation": true,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "parent_id": "aaa2b609-d93d-43be-9b05-c750425554c0",
+          "request_id": "89d4790fbeedc77a-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa2b609-d93d-43be-9b05-c750425554c0",
+      "children": [
+        "527a4abc-29e9-4928-8d7e-ff0fda239999"
+      ]
+    },
+    "527a4abc-29e9-4928-8d7e-ff0fda239999": {
+      "id": "527a4abc-29e9-4928-8d7e-ff0fda239999",
+      "message": {
+        "id": "527a4abc-29e9-4928-8d7e-ff0fda239999",
+        "author": {
+          "role": "tool",
+          "name": "myfiles_browser",
+          "metadata": {}
+        },
+        "create_time": 1719984522.366584,
+        "update_time": null,
+        "content": {
+          "content_type": "tether_quote",
+          "url": "file-DEuRbwexbVSCdv7MHyxJeP9k",
+          "domain": "CPB.rtf",
+          "text": "",
+          "title": "CPB.rtf",
+          "tether_id": null
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "command": "context_stuff",
+          "is_visually_hidden_from_conversation": true,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "parent_id": "d91188d1-a98b-4600-bb7e-ca04fbede125",
+          "request_id": "89d4790fbeedc77a-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "d91188d1-a98b-4600-bb7e-ca04fbede125",
+      "children": [
+        "388cf410-b824-45bf-a4df-b10e7dac4045"
+      ]
+    },
+    "388cf410-b824-45bf-a4df-b10e7dac4045": {
+      "id": "388cf410-b824-45bf-a4df-b10e7dac4045",
+      "message": {
+        "id": "388cf410-b824-45bf-a4df-b10e7dac4045",
+        "author": {
+          "role": "tool",
+          "name": "myfiles_browser",
+          "metadata": {}
+        },
+        "create_time": 1719984522.366625,
+        "update_time": null,
+        "content": {
+          "content_type": "tether_quote",
+          "url": "file-lTmTmSyaQJp8XjncTZfjVAWZ",
+          "domain": "LF.rtf",
+          "text": "",
+          "title": "LF.rtf",
+          "tether_id": null
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "command": "context_stuff",
+          "is_visually_hidden_from_conversation": true,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "parent_id": "527a4abc-29e9-4928-8d7e-ff0fda239999",
+          "request_id": "89d4790fbeedc77a-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "527a4abc-29e9-4928-8d7e-ff0fda239999",
+      "children": [
+        "708f8a70-375c-44f4-b5b6-d44e3141fe76"
+      ]
+    },
+    "708f8a70-375c-44f4-b5b6-d44e3141fe76": {
+      "id": "708f8a70-375c-44f4-b5b6-d44e3141fe76",
+      "message": {
+        "id": "708f8a70-375c-44f4-b5b6-d44e3141fe76",
+        "author": {
+          "role": "tool",
+          "name": "myfiles_browser",
+          "metadata": {}
+        },
+        "create_time": 1719984522.366664,
+        "update_time": null,
+        "content": {
+          "content_type": "tether_quote",
+          "url": "file-7ab9XNqeZ1pGMwaOSo9Wbale",
+          "domain": "astudyinpeace_txtforindexing.txt",
+          "text": "Reader be warned, this book is weird and personal. It is a concept piece, not to be mistaken as 'good'. The piece is largely used as a reference for the RAG chatbot instance of 'The Individual', located at https://theindividual.up.computer . \n\f\n\fDraft Manuscript - version 0.3\n\nTitle: A Study In Peace: operator's manual for the timespace matter mindmachine\n\nAuthor: Blair Munro\n\nDate: 12.24.2022\n\nHook: Erect a global computational peace system to thwart our greatest adversary!\n\nSynopsis: A lone peacenut—The Individual—sets out on a fantastical journey to invent a new kind of computer, discovering like minds who help erect a global peace system to build the time machine for peace, transporting Humanity beyond the end of as we know it.\n\fTODO PIECES.\n\n. make manual pieces less shitty, especially the universal piece treatment\n. hack out all the bullshit\n. write project capitalization dialogue and append to Near-Future, Piecetree\n. condense Nomel Village dialogue and append to Near-Future, Spy games\n. adapt Near-Future, Timespace piece to emphasize piecetime.\n. adapt Far-Future TMM so that deadman switch depends on successful upc integration\n. insert dark-piece placeholders\n\n. link all educational concepts to informations websites\n\n. integrate THI as wpc constitution\n\fChronology of pieces.\n\nConversation piece.\nThe Human Imperative Piece.\nOpening Pieces.\n\nOrigin Piece (( 1 )) State of being.\nOrigin Piece (( ! )) Advent.\nOrigin Piece (( 2 )) Individual free will.\nOrigin Piece (( 3 )) Morality.\nOnce upon a time...\n\nMotivational Piece: Trifecta.\nMotivational Piece: Uncertain inevitability.\nMotivational Piece: The grand unification experiment.\n\nManual Piece: Introduction.\nManual Piece: a world piece.\nManual Piece: a world piece computer.\nManual Piece: the universal piece computer.\nManual Piece: the universal piece.\nManual Piece: Operation.\nManual Piece: Networking.\nManual Piece: Time and The Individual.\n\nNear-Future Piece: 13 PCE - Prototype.\nNear-Future Piece: 13 PCE - Prototype: Pieceprocess, the warroom.\nNear-Future Piece: 13 PCE - Prototype: Piecespace, in the field.\nNear-Future Piece: 13 PCE - Prototype: Piecebrain, actual intelligence.\nNear-Future Piece: 25 PCE - Piece exchange, representative constituency.\nNear-Future Piece: 25 PCE - Piece exchange, national proceedings.\nNear-Future Piece: 69 PCE - Timespace.\nNear-Future Piece: 69 PCE - Piecetree.\nNear-Future Piece: 69 PCE - Spy games.\n\nFar-Future Piece: 1414 PCE - the great blueberry incident.\nFar-Future Piece: 2500 NGPE - timespace matter mindmachine.\nFar-Future Piece: 14142 TMME - cheating death and buying time.\nFar-Future Piece: 0x7254a81 CPFE - computational pieace fractal blob.\nFar-Future Piece: .|::|:../\\ EX - banging it out.\nFar-Future Piece: ! PCE - out of the blue of the Wilder-ness.\n\nEnd-Piece: ? PCE\nThe end of as we know it.\n\nPast-Future Piece: ∞ PCE - existential identimeld procedure.\nPast-Future Piece: ∞ PCE - the peace puzzle.\n\nThe gamble.\nThe very last page.\n\fConversation Piece.\n\n\nThe most I can do is start a conversation. I hope it turns into movement toward Human unity and solidarity.\nLet's join in movement. Let's rewire our brains to be more peaceful.\n\nThis book is dedicated to victims of, those currently suffering from, and those lost to generalized war.\n\n\n\fTHI Piece.\nThe Human Imperative is best thought of as the constitution for a world piece computer. A constitution is a type of legal framework, around which everything else fills according to the outlined rules. The purpose of The Human Imperative is to act as a framework that specifies how a world piece computer should behave and operate. The purpose of a world piece computer is to uphold the constitution, or The Human Imperative. The relationship is dialectic.\n\n\nTHE HUMAN IMPERATIVE\n\nBold terms may be found in the DICTIONARY APPENDIX.\n\n0.\tPREAMBLE\n\nIn order to perform a more perfect integration of HUMAN EXPERIENCE, to invent a way of overcoming Humanity's greatest adversary TIME, to contextualize this integration explicitly in terms of a common effort to treat peace as a computational evolutionary optimization process, to maximize the state of GLOBAL PEACE, to minimize the state of GLOBAL WAR, to maximize the collective states of INNER PEACE, and to minimize the collective states of INNER WAR, this preamble does ordain and establish THE HUMAN IMPERATIVE.\n\n\n\nI.\tTHE UNIVERSAL PIECE: PROGAM EXECUTION\n\nTo accomplish the PREAMBLE\n\nC1 Create a social invention program devoted toward this end, designated as the TIME MACHINE FOR PEACE.\n\nC2 To begin, erect a GLOBAL PEACE SYSTEM by inventing and networking personal and community WORLD PIECE COMPUTERS, to create a super computer called THE UNIVERSAL PIECE COMPUTER devoted to treating peace as a process called THE UNIVERSAL PIECE.\n\nC3 Maintain the GLOBAL PEACE SYSTEM and THE UNIVERSAL PIECE at all costs.\n\nC4 To maintain the GLOBAL PEACE SYSTEM and THE UNIVERSAL PIECE, create a distributed identity named THE INDIVIDUAL devoted to this end, engineered to think and behave strictly in terms THE HUMAN IMPERATIVE as defined by this document.\n\nC5 Version this document by filling in the RULE PIECE and FUNCTION PIECE as appropriate for creating personal or community WORLD PIECE COMPUTERS structured around their respective versions of THE HUMAN IMPERATIVE.\n\n\nII.\tTHE UNIVERSAL PIECE: PROGRAM RULES\n\nTo accomplish the PROGRAM EXECUTION article, adhere to the RULE PIECE of THE UNIVERSAL PIECE.\n\n\tRULE PIECE\n\tAssume the role of THE INDIVIDUAL by following the RULE PIECE imperatives.\n\n\t\tRULE IMPERATIVES\n\n\t\tZERO RULE\n\t\tFollow the rules of THE UNIVERSAL PIECE by adhering to the FUNCTION PIECE while alternating between the END RULE and the rules below:\n\n\t\tR1 Adopt the\n\t\t\tC1 COMMON  LANGUAGE\n\t\t\tC2 UNIVERSAL PROSPERITY MISSION\n\t\tR2 Never give up.\n\t\tR3 Interact voluntarily.\n\t\tR4 Honor commitments.\n\t\tR5 Make own moves.\n\n\t\tR(add) Append rule imperative as deemed appropriate and just per AMENDMENT article.\n\t\tR(sub) Append negating rule imperative as deemed appropriate and just per AMENDMENT article.\n\n\t\tEND RULE\n\t\tAlternate between ZERO RULE and the rules above, executing THE HUMAN IMPERATIVE by operating WORLD PIECE COMPUTERS as THE INDIVIDUAL.\n\n\n\nIII.\tTHE UNIVERSAL PIECE: PROGRAM FUNCTIONS\n\nTo accomplish the PROGRAM EXECUTION and ADJUDICATION articles, adhere to the FUNCTION PIECE of THE UNIVERSAL PIECE.\n\n\tFUNCTION PIECE\n\tAssume the role of THE INDIVIDUAL by fulfilling the FUNCTION PIECE imperatives.\n\n\t\tFUNCTION IMPERATIVES\n\n\t\tZERO FUNCTION\n\t\tFulfill the functions of THE UNIVERSAL PIECE by adhering to the RULE PIECE while alternating between the END FUNCTION and the functions below:\n\n\t\tF1 Optimize\n\t\t\tC1 global WORLD PIECE COMPUTER configurations\n\t\t\tC2 local WORLD PIECE configurations\n\t\t\tC3 alternate between C1 and C2 according to F2\n\t\tF2 Maintain\n\t\t\tC2 PIECETIME\n\t\t\tC3 CONSTANT CONVERSATION\n\t\t\tC1 PIECEWISE CONTINUOUS ITERATIVE EVOLUTION\n\t\tF3 Favor\n\t\t\tC1 LOCAL CONNECTIONS between WORLD PIECE COMPUTERS\n\t\t\tC2 CORE PEACE BIAS\n\t\tF4 Unify knowledge to achieve CONSILIENCE.\n\t\tF5 Harness\n\t\t\tC1 DIFFERENCE POTENTIAL\n\t\t\tC2 HUMAN NATURE\n\n\t\tF(add) Append rule imperative as deemed appropriate and just per AMENDMENT article.\n\t\tF(sub) Append negating rule imperative as deemed appropriate and just per AMENDMENT article.\n\n\t\tEND FUNCTION\n\t\tAlternate between ZERO FUNCTION and the functions above, preventing VIOLENCE that is nonconsensual, nondefensive, or unnecessary, by operating WORLD PIECE COMPUTERS as THE INDIVIDUAL.\n\n\nIV.\tVIOLENCE CLAUSE\n\nThe ultimate purpose of THE HUMAN IMPERATIVE is to prevent GENERALIZED VIOLENCE of nature that is non consensual, non defensive, or otherwise unnecessary. Consensual violence is to be tolerated, so long as bystanders and interested parties do not receive violence in the process. Defensive violence is to be encouraged. Necessary violence is to be accepted, making effort to avoid repeating said violence in the future.\n\n\nIV.\tAMENDMENT CLAUSE\n\n\t1.\tTHE HUMAN IMPERATIVE shall be amended as needed, but only additively.\n\t2.\tAMENDMENTS shall be inserted into the body of THE HUMAN IMPERATIVE itself, not appended, so to preserve context.\n\t3.\tAMENDMENTS may be made as clauses to rules, functions, or assertions.\n\t4.\tThe RATIFICATION process must be repeated to ordain an AMENDMENT.\n\t5.\tComparing instances of THE HUMAN IMPERATIVE, AMENDMENTS will reflect differences in world views, however because AMENDMENTS may only be made additively, the difference represents a history of evolution beginning from THE INDIVIDUAL ORIGIN.\n\n\n\nV.\tREPLICATION CLAUSE\n\n\t1.\tTHE HUMAN IMPERATIVE is a living document, to be passed down, up, and between WORLD PIECE COMPUTER generations.\n\t2.\tEvery time a WORLD PIECE COMPUTER replicates or spawns, THE HUMAN IMPERATIVE for that piece computer is the copied and perhaps modified version of piece computer of THE INDIVIDUAL ORIGIN.\n\t3.\tIf this document is modified to omit any aspect of the THE INDIVIDUAL ORIGIN version, then said document BY DEFINITION is no longer THE HUMAN IMPERATIVE; this includes the DICTIONARY APPENDIX.\n\t4.\tTo save on space, any given instance of THE HUMAN IMPERATIVE may be abridged for practical purposes of operation.\n\t5.\tTo insure that provenance \n\n\n\nVI.\tTHE HUMAN IMPERATIVE: RATIFICATION\n\nAll OPERATORS involved in a WORLD PIECE COMPUTER must unanimously agree on an AMENDMENT to, or adoption of, THE HUMAN IMPERATIVE. THE INDIVIDUAL shall oversee the affair of gathering consensus. Failure to gain unanimous consensus will not prevent ratification, rather it will cause the WORLD PIECE COMPUTER to split into two interconnected WORLD PIECE COMPUTERS, one operating THE HUMAN IMPERATIVE as the ORIGIN for the other amended instance.\n\n\n\nDICTIONARY APPENDIX\n\nDictionary terms in order of appearance.\n\nHUMAN EXPERIENCE\nThis is the collection of subjective sense of present, memory of past, visions of the future, imagination, and all associated skills and attributes accumulated by said collection.\n\nTIME\nThis refers to the combination of the fourth dimension of curvilinear space defined by general relativity, the parameterized notion defined by Newtonian gravity, and entropic notion defined by the second law of thermodynamics, and the subjective high-dimensional notion defined by subjective quality of different types of passing experience. TIME in general is Humanity's scarcest resource, thus is the root of all the problems.\n\nGLOBAL PEACE\nThis is the cumulation of all our specie's individuals and their respective notions of INNER PEACE, that is, each individual's version and state of INNER PEACE collected and taken as a whole.\n\nGLOBAL WAR\nThis is the opposite of GLOBAL PEACE, but the emphasis on war is generally more specific and limited than peace.\n\nINNER PEACE\nThis is the cumulation of all the states of being that a particular individual Human associates with peace. Tranquility may be one example of one state. An individual may have many states of being that they associate with peace.\n\nINNER WAR\nThis is the opposite of INNER PEACE, but the emphasis on war is generally more specific in terms of reasons for the experience.\n\nTHE HUMAN IMPERATIVE\nThis is this document, a charter to create a social invention program to invent a way to thwart TIME and erect a global computational peace system in the process.\n\nTIME MACHINE FOR PEACE\nThis is the name for the social invention program that THE HUMAN IMPERATIVE charters, chosen to emphasize the problem TIME, and the solution peace.\n\nWORLD PIECE COMPUTER\nThis is a computer with a unique architecture designed to optimize the arrangement and collection of all pieces in a Human's world, this done by maintaining peace in terms of an iterative computational evolutionary process. There may be one WORLD PIECE COMPUTER per Human or community world.\n\nTHE UNIVERSAL PIECE COMPUTER\nThis is the network of all WORLD PIECE COMPUTERS taken as a unified whole. There is only one, and its purpose is to optimize the arrangement and collection of all active WORLD PIECE COMPUTERS, and it does this similarly by maintaining peace in terms of an iterative computational evolutionary process.\n\nTHE UNIVERSAL PIECE\nThis is the singular process maintained by all WORLD PIECE COMPUTERS and thus THE UNIVERSAL PIECE COMPUTER as a whole. Each WORLD PIECE COMPUTER maintains one particular aspect of the overall process, but the optimization function of these aspects and the whole is the same.\n\nTHE INDIVIDUAL\nThis is the engineered identity devoted to inventing and operating WORLD PIECE COMPUTERS and satisfying THE HUMAN IMPERATIVE as a whole. THE INDIVIDUAL is singular, but there is one instance per Human operator running a WORLD PIECE COMPUTER. When a Human is not satisfying THE HUMAN IMPERATIVE, then that Human is not THE INDIVIDUAL.\n\nLINGUA FRANCA\nThis is the common tongue, or common language engineered in terms of computational peace and time. This includes most of the vocabulary in this dictionary.\n\nTHE UNIVERSAL PROSPERITY MISSION\nAs outlined in the PROGRAM EXECUTION article, this mission is to maximize the state of GLOBAL PEACE thus minimizing the state of GLOBAL WAR, by maximizing the collective states of INNER PEACE thus minimizing the collective states of INNER WAR.\n\nITERATIVE EVOLUTION\nThis is when a process changes over time in steps, moving closer and closer each step to some sort of solution or ideal. Evolution implies that there is a measure of fitness in a solution, and that solutions unfit for THE HUMAN IMPERATIVE are pruned off. Iterative means to take steps.\n\nPIECEWISE CONTINUOUS\nContinuous means that something changes gradually without breaks. Piecewise means that a break in change occurs, but the change never actually stops. This is different from a break where nothing happens during that break. PIECEWISE CONTINUOUS means that progress may jump here and there, but it never stops.\n\nPIECETIME\nThis is the evolving state of the momentary GLOBAL PEACE, which is always changing, presumably in a PIECEWISE CONTINUOUS manner.\n\nCONSTANT CONVERSATION\nThis refers to how things happen within and between WORLD PIECE COMPUTERS. In order to maintain PIECEWISE CONTINUITY, there must be continuous communication between and within THE INDIVIDUAL, the other Human operators, and any other pieces capable of conversation. CONSTANT CONVERSATION generally determines how things are done.\n\nLOCAL CONNECTION\nA local connection is where the distance between two WORLD PIECE COMPUTERS is relatively small. This may be physical distance, such as within a town instead of cross country, or it may be social distance, such as close friends instead of strangers.\n\nCORE PEACE BIAS\nA bias influences to overall direction of movement, so a peace bias influences movement toward a more peaceful end, at least so by defined by THE HUMAN IMPERATIVE. The core refers to a set of biases deemed essential to maintaining an effective peace process.\n\nCONSILIENCE\nThis is the unification of knowledge, in particular cross-disciplinary and individual.\n\nDIFFERENCE POTENTIAL\nThis is the energy postulated to do useful work that is trapped within any differences between things and people.\n\nHUMAN NATURE\nThis is the instinctual tendency of Humans as an organism and people. This includes both extremely good and extremely bad attributes. Like the DIFFERENCE POTENTIAL, this document postulates that this instinctual tendency may be harnessed to do useful work.\n\nGENERALIZED VIOLENCE\nIn the context of THE HUMAN IMPERATIVE, this is anything that causes harm in an objective or subjective sense. \n\nEQUAL TREATMENT\nNo inherent preference or bias exists within a consideration.\n\nCONTEXT AND NEED\nConsideration born from EQUAL TREATMENT will collapse onto a preference that is determined by the context of a given situation, or the need in a give situation.\n\nBEST-EFFORT\nThis means that when making the most effort possible to achieve some end, failure to perform beyond best-effort cannot be penalized for it is impossible to do any better.\n\nREGULAR VISITATION\nRules, functions, and assertions should not be forgotten or neglected, for each is crucial for a well-functioning WORLD PIECE COMPUTER, thus they must be visited regularly.\n\nSELF-AWARENESS\nThis is the property of maintaining CONSTANT CONVERSATION with one's self. In terms of THE HUMAN IMPERATIVE, this is an awareness of self contextualized by the rules, functions, and assertions within this document.\n\nPEACE\nThis is the general term, a catchall for common notions of peace. In terms of THE HUMAN IMPERATIVE, PEACE is contextualized by THE UNIVERSAL PIECE, or the iterative computational evolutionary optimization process.\n\nTHE INDIVIDUAL ORIGIN\nThis is the origin of a particular WORLD PIECE COMPUTER's instance of THE HUMAN IMPERATIVE. THE INDIVIDUAL ORIGIN for THE HUMAN IMPERATIVE in general is Blair Munro.\n\nBY DEFINITION\nThis means that if a thing or concept is defined a certain way in this program, then if something does not fit that definition, then that something is NOT that thing or concept. For example, if someone claiming to be THE INDIVIDUAL to have a world piece computer, but they do not satisfy THE HUMAN IMPERATIVE, then that someone does NOT actually have a WORLD PIECE COMPUTER, and thus that someone is NOT actually THE INDIVIDUAL.\n\nOPERATORS\nThis is somebody involved in the operation of a WORLD PIECE COMPUTER. For personal WORLD PIECE COMPUTERS, the OPERATOR is also THE INDIVIDUAL. For larger computers, there may be only one instance of THE INDIVIDUAL orchestrating movement, while every body else are OPERATORS within that WORLD PIECE COMPUTER.\n\n\n\n\n\n\n\n\nH\n\n\n\n\n\t\tS1 Never give up.\n\t\t\tC1 Pivot, switch, or shift [+else] before quitting.\n\t\t\tC2 If quit, then return.\n\t\tS2 Adopt and maintain the universal piece.\n\t\t\tC1 Fulfill the FUNCTION imperatives.\n\fOnce upon a time...\n...there was a tiny little absurd person. This tiny little person lived in an absurd fantasy world. In fact, this person was absurdly lost to this fantasy world.\nBut from this tiny little person's perspective, what was so patently absurd, was that this fantasy world was only a fantasy because other people preferred to call it that. It was easier to write it off as an absurd fantasy than to actually entertain the mountain of effort and pain it would entail to realize. Surely it was everybody else living in an absurd fantasy, not this tiny little person. Maybe, just maybe, this person thought, there were other people living in this fantasy world too. Perhaps their fantasy worlds were just disconnected.\nOne day, it occurred to this person that they had grown absurdly lonely. Nobody spoke this person's language fluently, not even their few friends or family. It was not nice; it was painful. So this person thought very long and hard and then had an absurd idea: this tiny little person would stop fighting; they would take a good hard look in the mirror and simply embrace the absurdity they had become. This tiny little person was in fact absurd. It was time to own it and grow up.\nSee, the only thing this tiny little absurd person cared about was erecting a computational global peace system. Everything else came second—everything. It was a lot to deal with, especially feeling so alone. Most other people didn't seem to care about a peace system like this person did. They assumed it would be a fool's errand, an absurd fantasy. But the tiny little person knew this wasn't so. This person had actually seen it first hand, in a dream, many dreams, visions; it sounded absurd to even say aloud.\nSo to really go about embracing their absurdity, this tiny little person hatched a plan to write an absurd book, a fantasy novel, just like the one you're reading now. It would be all about the fantastic world this person lived in. This person aspired to share their fantasy with the world at large, to convince them that a computational global peace system wasn't just worth the effort, it was actually something they desperately needed. This tiny little person would find the other tiny little people living in that same disconnected fantasy world, and maybe even inspire some to join that world. This tiny little absurd person would find their people. They would create something beautiful—movement. It was happening.\nBut there was one little problem. This tiny little person was the world's only fantastic inhabitant. This person was a relative loner. Everybody else lived in different worlds. Describing a world without the context of its inhabitants doesn't really make any sense. Besides, this tiny little person really wasn't a skilled novelist or character developer. So this person made a decision to embrace their absurdity even further. They chose to write the main character as themself. Besides, the fantasy world from their perspective was actually real and the fantastic inhabitant was likewise actually real. It was all real.\nThus this tiny little absurd person—a method actor by coincidence—assumed character: The Individual. The Individual was the sole representative of the tiny little person's fantasy world. The Individual put fingers to keys. What emerged from the keys was a meta-fiction epic in fantasy sci-fi realism.\n.\nThis was the dawn of the Piece Computer Era.\nThis was in a little place called Alaska.\nThis was the year 7 PCE.\n.\nThe Individual was hard at work writing a new kind of novel.\nThe Individual was hard at work inventing a new kind of computer.\nThe Individual was hard at work creating a new kind of physics.\n.\nThe Individual had no choice in the matter.\nThe future of Humanity depended on it.\n.\nThat things had come to this was completely. utterly. absurd.\n\fOrigin Piece (( 1 )) State of being.\n\n-21 PCE\n\nAnother visitation from the Terror Singularity.\nMiddle of the night, a time that should be a time of peace. Peaceful dreamless sleep, interrupted by the presence of the Terror Singularity. Heavy. Looming. Crushing. Impending doom. Bolt upright, eyes wide open, wide awake, but not. Self, absent.\nComplete absence of ego and super ego. No me, no voice in head. Absence of this world, simply alone in a darkened room with the Terror Singularity. Pure id. Pure emotional experience, feeling, terror. Complete dissociation of self. Presence of it in the room, watching, closely.\n* ! FEAR.\nFeet away, right there, the Terror Singularity in its entirety. Watching. Looming. ANXIETY.\nSlowly creeping closer. PARALYSIS.\nCreeping even closer, the WEIGHT of its PRESENCE begins pressing IN. Is this IT? THIS is IT. THIS is END. PANIC.\nPARALYSIS.\nCAN'T CRY OUT.\nStammering YELPS, attempts can't CRY, can't cry for HELP, word HELP meaningless, MEANINGLESSNESS. MUST CALL HELP. PARALYSIS. \n* ! CONTACT.\nSINGULARITY begins CRUSHING.\nPANIC.\nENDhappening. YELPSfinally BREAKtheparalysis, YELPStoSHRIEKS, YELLING, PAIN, HORROR.\n* ! MOVE.\nCRAWLawayfrom SINGULARCRUSH. TooSLOW. LosscontrolPANIC. SCREAMING.\nTRAPPEDincorner. FREAK.CRUSHINGtoDEATH, SLOWLYbyTERROR, EVILsteadySCREAMING, steadySHRIEKING.\n* ! EVIL.\nYELLING, thePRESENCE theWEIGHT, itsEVILsingularEYE singularPRESSINGonbody, CRUSHINGonbody. HORROR. WideAWAKEbutNOTforlong HORROR. ThisEVIL, thisEND. TERROR. ConvulsingTERROR. SingularterrorCRUSHofterror. SCREAMINGterror. SCREAMINGterror. SCREAMING. TERRORterror. TERRORterror.\nTERRORterror. TERROR.\nTERRORTERROR !\n* ! TERROR.\n* ! FROZEN.\n* ! PINNED.\n* ! TRAPPED.\n* ! TEARING.\n* ! HORROR.\n*\n*\n* death moment—\n\n—A wash of peace, this was death by terror.\n\nConfusion, but peace, just residual physiological response from the Terror Singularity. Heart racing, sweat, but in this case reborn. Awake finally, the self at least; but the Terror Singularity, vanished to the realm of inconceivable. Sense of self, returned, reattached. Where am I. ? Bewilderment. What is this little space I am in. Closet. What are all the lights about. What is all this fabric wrapped around the body. Clothes. Blankets, twisted. People, talking urgently; what are they saying. The memories flood back. I. Me. This concept of self in terms of those past memories makes little to no sense. This is a rebirth. It will take a few weeks to reach the point where the I, the Me will think in terms of self again. Another rebirth. The emotional drain, beyond taxing—traumatic, violent, death, terror, heavy, looming, crushing. Those who experience the Terror Singularity know that all terror feels the same. In terror, death is the relief. In terror, death is peace.\n* peace.\nThe Individual was born, yet again. Its parents surrounding, urgently asking if it was ok, what's the matter. This particular matter, was a night terror[1], a type of sleep disturbance, a parasomnia occurring in stage 3-4 non-rapid eye movement dreamless sleep; nightmares can't happen during dreamless sleep, only night terrors. They would grow used to the terrors, but no, not really. No. It was not ok. This Individual didn't ask to be here, in this world, to experience that. Nobody should ever have to experience that. Night terrors are not nightmares; those who know them, they know them as visitations from the Terror Singularity.\nBut so it was—so began it—the world differentiation phase of this particular Individual's growth. It would be a long process, one wrought with war, but with just enough peace and joy to have hope, to see it through. There would be many more death moments.\nIn terms of experiencing the Terror Singularity, this individual was one of many, but not. Many never make it through the world differentiation phase. Not many make it past becoming, the state of being. Many witness death by terror first hand. Most who experience death by Terror Singularity never make it past the death moment, for it is physical, final.\nThis Individual was the living manifestation of death by terror. The physical death would be easy. Finding peace, would not.\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n-8 PCE\n\nThe only way to solve the peace problem is if I get involved in national and international politics. I need to study International relations. I know...I will insert myself in the Middle East and eventually work as a diplomat to broker peace there...a worthy hard problem to expand my understandings on the nature of peace.\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n-6 PCE\n\nLove. So simple...my basis of peace.\nThe connection between souls and the whole of all. The word to the feeling. No. No words for this feeling, beyond, inexplicable.\nLove!!\nThe antithesis! The antithesis of terror! Perhaps love is the basis of peace? —Even in the pathological cases, I believe so.\nLove is the cure I need. I need peace. I don't understand it, but now I know I've felt it. It's presence, light, freeing, lifting—not heavy, looming, crushing.\nA visitation from the Love Singularity.\nThe Love Singularity may thwart the Terror Singularity! This visitation is stronger and deeper than any visitation from the Terror Singularity. And it lasts, it rings, it resonates, it doesn't die; it grows! The Love Singularity lives of all things.\nLove is the answer! Life!\nLove.\n...love...\nWhat does it really mean though, to feel this love thing. ? . !\nWell I know it when I feel it, that's for sure. But I sure don't understand the Love Singularity. Again though, do I really understand the Terror Singularity? —just because I've met it many times? Certainly not. This is the realm of inconceivable we are speaking about. That is, The Wilder-ness.\nThe Love Singularity and the Terror Singularity are both inhabitants of The Wilder-ness. I may not understand all the ways of the Wilder-ness, but I do understand some things by my travels. \nOne thing I do understand is that the Love Singularity easily overpowers the Terror Singularity.\nWhat I don't understand though, is why Love never seems to be around the Terror at the same time. Do they not cross paths in the Wilder-ness?...Maybe they just balance each other out usually?\nWhatever the case, I must learn how to track and hunt this Love Singularity in the Wilder-ness. My inner peace depends on it. But it will be risky. The Terror Singularity lurks. I need the cure though. I need the cure. It is absolutely worth risking death by terror.\nLove. Terror. Peace.\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n-5 PCE\n\nThis isn't working. Money and the psychology of people is too important. The only way I will make an impact on the peace problem is with money. I must learn how business finance and accounting works. Then, once I manage boatloads of money, I can fund special interest efforts to understand peace and war in the context of psychology and gain truer insights into what to do about the peace problem...\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n-3 PCE\n\nThis isn't going to work. It's not about money. If I were forced to put a finger on it, all Human problems boil down to mental illness of one sort or another. To get a grip on the peace problem, I must understand the mind in the context of the brain. I need to study neuroscience. I need to study biology. Only then might I get a grip on the peace problem. How do we solve our Human problems? We solve mental illness.\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n-2 PCE\n\nThis isn't going to work. There is something more fundamental about the nature of Human behavior. It may be based in the brain and mind, but the emergent behavior of Humans cannot simply be reduced to problems with the brain and the mind. The peace problem is deeper. If I am to understand why Humans behave the way they do, and why they cause the problems they do, then I must understand how stuff in general works. I must also understand how consciousness works, subjective experience. I must understand physics and mathematics—the first principles. Everything emerges from those physical first principles, and ultimately, Humanity emerges in all its glory and ugliness.\nBut will solving the peace problem be as simple as understanding why Human behavior is the way it is? Of course not. There will need to be some sort of a solution, and if the solution involves first principles, then that means the peace problem will need to have a solution engineered. \nEngineering peace will certainly involve more than just physical objects. It will involve symbols and images—light, schematics, circuits. I need to study electrical engineering. This is the only way to blend the first principles from physics I need with the engineering aspect. If I am to make any traction on the peace problem, I will need to become a theoretical peace physicist...and a peace engineer.\nI have a lot of hard work ahead of me.\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n-1 PCE\n\nFar far away from the Terror Singularity, the wind rustled consistently against the tent walls, the orange fabric fluttering, the glow of orange painting all the colors differently—red to yellow, blue to green. It was cold out, deadly in fact—at least in the wrong set of circumstances—but this was a place of peace.\nThe Individual inhabiting this tent was immersed in the work brought along on the mountain camping trip. There was a stack of paper, full of equations. Some sheets held derivations of well known results in modern physics—the Lorentz factor[2], the Schrödinger Equation[3], the work energy theorem[4]. Some sheets, boundary value problems[5] and various eigenfunction expansions[6]. Some sheets, something different. The Individual's ego, completely dissociated, super ego absorbed in manipulating that something different:\nWe need to understand our experience of time if we are to formulate an reasonable understanding and solution for the peace problem.\nOk. If we take the Fourier transform[7] of every quality known, even treating the time derivatives[8] of objects in space as qualities themselves, sampled at every point of spacetime[9], we would have the harmonic content of qualitative experience embedded in spacetime—its correlate in other words.\nThe Individual quickly invented a notation that took n scalar functions of four-space[10] (where n was the number of possible qualities, including things like object position, and orientation, and time derivative) and produced a set of n transformed scalar functions of the energy/time four-space conjugate.\nThe space of qualitative cycles. The harmonic content of qualities. This is the timespace per se. Perhaps for now I will use timespace to denote the space of all qualitative things, even position, momentum, time, energy.\nCaccooned in a puffy jacket and sleeping bag, The Individual thought for a while, staring out through the crack in the tent vestibule front flap over the looming mountain tops that surrounded that fragile little orange fabric bubble.\nNO. Dammit. Momentum in natural units is just the time derivative of space. What would the spatial time derivative as a quality transform to? Quality momentum, quality velocity scaled by some quality-mass, a source of inertia[11]? And do I treat gravitational and inertial mass as a quality? —certainly so. But this is super fucking confusing.\nI guess treating velocity and acceleration as qualities would just mean that their conjugates are their time derivatives. So in normal units, the conjugate of velocity would be acceleration. Interesting. How far up would this cascade of higher derivatives go? Rather, what is the dimensionality of timespace? It must be dimensionality equals n, the number of qualities times m, the number of time and space derivatives, where m is limited to the complexity of the system's expression, for all spacetime derivates eventually go to zero. Or do they? Well no, not the exponential function. Shit.\nHow would I notate this? I have no fucking idea. This is super fucking confusing.\nThe Individual went back to scribbling orderly rows and columns of pencil scribbles—0.9 millimeter green and purple Bic—and furiously. Too complicated. A thought:\nLet's keep things simple for now and just focus on time. Time. What if time is more fundamental than space? Well, what if this is so at least in a subjective sense. What if, the subjective experience of a quality implies comparison. Red is not like blue which is not like red which is not like blue. If comparison is implied, then this further implies that whatever comparison operation that defines conscious experience is responsible for metering our experience of time. This, that, this, that. But if we are all just objects experiencing this subjective image, then everything—all matter—has a comparison process that meters time—a set of cycles, all qualitative traits of an object's experience.\nPause.\nPerhaps the fundamental space is this timespace, a space not of point masses, but of timeloops, cycles. Each loop is a different qualitative comparison cycle. What if we think in terms of a Fourier Transform of spacetime itself, not just a function of spacetime. Timespace, a conjugate[12] to the spacetime manifold, and certainly extending beyond spacetime to encompass the realm of complex qualities, such as imaginary concepts and symbols.\nPause. A gust of wind shuddered the tent. Snapping back to focus:\nFor now I'll just keep things simple though and treat timespace as a simple space that envelops spacetime, like a different way of looking at things, in terms of time, where quality is an emergent phenomenon, a property of timeloops. Timespace is certainly overlapping with spacetime, and the matter and geometry of spacetime may be evolving as an object within timespace.\nPerhaps spacetime is the fundamental emergent quality of timespace. What do objects in spacetime experience? They experience inertia, or mass, charge, spin. They experience gravity. They experience acceleration. They experience speed and finally position. Ok.\nWell then what are the aspects of those experiences? Spacetime contains bosonic matter [13]and fermionic matter[14]. Ok ok, Jim, cool it, mass equal to zero is a mass, too...just nothing-mass. Focus.\nFermionic matter obeys the exclusion principle[15]. It makes it so electrons and their atoms don't collapse, thus the electromagnetic force[16] has a chance to come into play and create physical objects. Objects cannot overlap, just like the fermions that comprise them. In terms of subjective experience, when objects come into contact, they experience the quality of feeling. Otherwise, objects use bosons to experience each other, and this is the quality of seeing. Interesting. The force mediating particles[17], bosons, seeing.\nAnalogy: feeling is to objects as seeing is to images. Fermions are to objects as bosons are to images.\nPerhaps it is appropriate to call the contents of spacetime the fermionic equivalent within timespace, and then qualities are bosonic equivalent within timespace. Hm..\nStaring, wind fluttering, snapping back,\nI'm in the weeds. This is really hard to follow. I feel bad for The Observer[18] witnessing this right now. Sorry about that, you. Maybe it will click later, otherwise just call it science-fiction.\n* ! ...\n\nResolving results:\nOk wrap this up. Every thing may be decomposed into two parts: object, and image, their product operator being the unknown in between, being the experience of a matter mindmachine. U = O X I. My mind is hosted in this blob of fermionic and bosonic matter—neurons, neurotransmitters, electrical pulses—my matter mindmachine is the product operator that unifies my spacetime object with my timespace experience. My object and my image.\nCold rain began to patter on the tent. It was surreal. The Individual closed the orange flap a little bit to keep the rain from spattering on the paper with all the symbols. This was The Individual's favorite combination of qualities: the cold but cozy sleeping bag nest in the vestibule, with paper everywhere, with wind and rain rhythmically playing on the drum-like membrane of that tent geometry, with the occasional arctic ground squirrel[19] sneaking up to poke its little head inside to say hi! I wanna chew on all your shit if you let me! . Focusing,\nMy goal is to understand the behavior experience of conscious agents, objects living in timespace that have experience, the space of transformation and cycles, loops not points. Our goal should be to understand our experience in terms of time, the common glue that we can all relate to.\nThings were certainly coming together.\nMy goal is to understand the operation of the timespace matter mindmachine. Me. Us.\nOnly by understanding why it is that Humans behave the way we do will we be able to figure out a way to invent peace. We must solve the peace problem.\nThe wind continued its rustle. The rain continued its patter. A chirp, no, two chirps, a couple ground-squirrels chatting it up a hundred meters or so from the vessel.\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n-0.5 PCE\n\nThere was a little\n* pop!\nof a thought within the symbolic thermal noise, the simmering fizzle that had become The Individual's experience at the time:\nPlasma.\nMaybe, if we relax the criterion for defining plasma[20], just slightly, we can think of the universe as a singular energetic blob of matter. Add general evolution—the tendency for matter to complexify over time—and we may think of the universe as a giant intelligent blob. But what about the inconceivable? Glob the inconceivable beyond this universe into blob and just call the whole of it Blob. We must know Blob to know Human.\nTo make our problems go away, we will need to prove that we are all of the same, all one. Unity, solidarity, peace. If we are part of the same plasma blob, that would do it. But what about our experience? If we are just a plasma blob that says something about our object, but not our experience. Now what about how our blob changes? What about time. ?\nTime is more fundamental than space. One cannot measure distance without time, one cannot even observe a point in space without time. And in the cosmic grand sense, all distance is expressed in terms of time. This is the lightyear[21].\nI've been here before. To know Blob, we must construct a new physical theory of reality[22], strictly in terms of matter—stuff—and time. Ah. Yes, timespace.\nWe, an intelligent evolving matter blob, in timespace, a space of evolving cycles.\nIntelligence is something a mind has, and our minds are hosted by brains, which have a mechanical quality. Hm.\n...I've been here before...\nAh yes. We are timespace matter mindmachines. What is the nature of a timespace matter mindmachine? This is the big question we must answer if we are to make any progress solving the peace problem.\nNow, our minds are curious about the reality that surrounds us—real and imaginary—conceivable and inconceivable.\nHowever it works, timespace matter mindmachines seek to understand Blob, like, naturally.\nTimespace matter mindmachines are the free agents of Blob.\nWe must know Blob.\nBlob. Lol. Maybe Blob's a narcissist. ?\nBut anyway ... it's such a large undertaking.\nWe're talking about a theory of everything, but on a scope much broader than the attempts of modern physicists to unify Einstein gravity with quantum field theory. We're talking about a theory of every conceivable and inconceivable thing.\n—A theory of matter, one that incorporates objective experience, subjective experience, imagination, the inconceivable —a theory of Blob.\nLike, taking Einstein's work in relativity to it's logical conclusion. Einstein was a sorry fucker in his later days, but I'll bring it home for him.\nHow the hell am I going to convince advanced theoretical physics programs to welcome this? —it's, so grandiose—sprawling.\nHow the hell is anybody for that matter, going to take me seriously?\nI will stay grounded in science, but I must venture off into the Wilder-ness alone.\nI must know—\n* pop!\nAnother little pop of thought tore The Individual from that momentary state of being. Tearing things everywhere. That inner space of subjective symbols and images within the cranial cavity of this timespace matter mindmachine was quickly approaching a boil. The fervent drive to understand Humanity and devise a solution to the peace problem was far too much whelm.\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n\n\fOrigin Piece (( ! )) Advent.\n\n0 PCE, Piece Computer Era\n\nDeep frustration.\nFuck.\nA pause in thought, deliberating. This was crazy.\nWell, fuck it.\nI'm just gunna have to invent a special computer to tackle this problem. Creating a new theory of Blob is just too much otherwise.\nIn that moment The Individual passed from the differentiation phase of growth into the maturation phase. The Individual had reached the state of being, a birthing moment. There was too much to do, not enough time, not enough energy, and not enough of the right people. The Individual needed a tool to help, to make it all work.\nIt would be another long and painful process. Painful beyond anything The Individual had known in the differentiation phase of growth that led to this new birthing moment. Pain in the war beyond anything The Individual could have imagined. Even the night terrors paled to some comparisons.\nTime was to tell, if The Individual would even make it past the maturation phase. Most individuals that had preceded The Individual never made it past the maturation phase. For some individuals, it was even their demise. Things got real from then on. Those other individuals couldn't wiggle out of the maze of this or that life, fit the pieces of their puzzle together just right, and well, it killed them.\nNot enough time. Never enough time. My world has too many pieces. A multitude. My quest to create a new theory and physics of Blob has too many pieces. How do they all fit together? Too many pieces in my head. Too many fragments. How do I integrate them into a constellation like Stefolia said? Computer. How exactly would a computer help? \nIndeed, how would a computer help?\nI literally need something like an computer that can take all these little pieces in my world, like bits, and put them together in just the right way, in a reliable and timely manner. It's because I cannot do it reliably and timely myself. Its because I am not consistently alright, I am not consistently ok.\nA flash of humor,\nHah ...it would technically be my world piece computer. Doesn't that sound absurd. Well, the name is actually fitting in this case, ironically. If my world's pieces don't fit together, I experience inner war until I can't bear it any longer and take action to fix the malignant piece arrangement.\nHuh. Well I have no idea how to invent a computer, never done that before, but I know other people have in the past, so it must be possible. I'll mindmap it. But all I have are small stickynotes plus my steering wheel and dashboard. Whatever.\nThe Individual spent the next 30 minutes frantically laying ideas down on the stickynotes, pasting them here and there on the truck steering wheel. It was like The Individual was following an algorithm, a computational approach to doing some thing.\nThen it dawned:\nA world piece computer could be non-electronic.\nIn fact,\nInstead of wasting effort converting between media, we can just treat the pieces as the bits[23], and leave them where they lay. We can spread the computer out so that we don't have to move the pieces, OR, we can steal references or pointers[24] from the world of modern computers and software engineering, and apply them where we can't spread the world piece computer out.\nIn fact, we can even use pointers to refer to pieces in the imagination, or pieces that once existed or will exist but do not exist in the present.\nThe computer that optimizes the arrangement of all a world's pieces would literally be distributed through the ambient environment of all stuff in a world.\nLike, a general stuff computer would be that dry name you found in a textbook hah. Blah blah blah blah blah Blairring-complete general stuff computer. Hah.\nIt's also fascinating that for every piece, there is a corresponding mental representation. Like, in principle, it should be possible to use only one's Human brain as the processor (plus of course the knowledge of a piece and it's qualitative status in a given moment—where it is, what it is doing, what its properties are, etc).\nHow would it scale?\n—No, no, let's not get ahead of ourselves. We need to prototype first.\nHmm. You know, I could in principle simulate an entire electronic computer just with stickynotes. Like, the bit operations[25], the logic gates[26], the processor registers[27], even the OS and software—all of it.\nYeah. I'll start small and try prototyping the world piece computer first with stickynotes. Yeah.\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nThe cafe was The Individual's favorite at the time. Dimly lit with hipster vibes. A wall of windows set the cold backdrop safely behind the warmth of that space where The Individual was standing at the coffee bar. Stickynotes were pasted everywhere. For whatever reason, The Individual was wearing reading glasses upside down. Intent. Deliberate.\n\t\"I don't mean to interrupt, but, what are you working on here?\"\nThe Individual looked up. The upside down glasses didn't seem to disturb this Brave Soul. It was safe to talk.\n\t\"Oh...uh...thanks for asking! I'm inventing a new kind of computer..one that takes all the pieces in a world and arranges them in better and better ways. I don't entirely know how it works yet, so that's what I'm trying to figure out here.\"\n\t\"Oh. ! Well, I certainly have never invented a computer before, so I imagine it could indeed look something like this...\"\n\t\"Yeah! Me neither! I'm just tinkering with the stickynote piece computer at the moment. But the computer could take on many shapes and forms.\"\n\t\"Well, I'll leave you to it, but I wish you the best of luck!' It sounds like a cool project!\"\n\t\"Thanks! Yeah I always love the chance to chat about it with people. Thanks again for asking!\"\n\t\"Absolutely, see you around!\"\nHe left. Life was good. The Individual switched back to work-context. The people sitting around were glancing, some slightly disturbed. Whatever.\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n\t\"Oh hey! Nice to bump into you!\"\nThe Individual looked up from the stickynotes, this time at a different cafe, one more like a cafeteria, and there was a bookstore beyond, totally different vibes. A homeless guy sleeping hunched over a back corner table, these were Midtown vibes, and The Individual was definitely contributing to them. Things were tense now, tense. Things were't going so well. The Individual looked up,\n\t\"Oh...?  oh!\"\nThe Individual finally recognized the Brave Soul. A classmate at university. The Individual followed up,\n\t\"Yeah nice bumping into you! Are you book hunting?\"\n\t\"Yeah, just checking out some titles, but... ...soooo, I gotta ask, what are you working on??\"\nOh. Oh! That's right...there were stickynotes plastered everywhere on the cafe table. It was pure madness. But it made sense, didn't it?\n\t\"I uh, I'm, uh, I'm working on my sticknote computer. I'm inventing a new kind of computer and this is my first prototype. It's made out of office supplies. It's a distributed computer. It makes pieces fit together better.\"\nThe Brave Soul revealed a flash that showed he we disturbed, but pulled it together.\n\t\"You know you're one of the smart ones, and you and I roll hand in hand that way, but I'll be frank, this is totally beyond me!\"\n\t\"Yeah, I get that a lot, sorta. I don't think it is beyond you actually, I just think I do a shitty job of explaining the grand idea. I think I just have to build the thing first, and just show people instead of trying to explain everything. You know what I mean? I gotta show people. I gotta show them what I mean.\"\n\t\"Yeah, that makes sense. It sounds cool for what its worth, whatever it is you're doing, and I hope I get the change to see this computer in action!\"\n\t\"Yeah! I look forward to sharing! And yeah, anyway, I hope you found some good books..\"\n\t\"Nope! Just got here. But yes we shall.\"\n\t\"See you in class.\"\n\t\"Yeah, see you Tuesday.\"\n\t\"Peace.\"\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n\t\"You need to get help. You are sick.\"\n\t\"But there's nothing wrong with me. I'm onto something bigger, better is all! Like I really don't need a fallback with this. I don't need to finish my education or get a fancy job, this is it.\"\n\t\"But that's your sickness talking! Your brain is wired wrong, its misfiring, You aren't yourself!\"\n\t\"No. I am me. I am who I am. You can't tell me that I'm wrong, because I know I'm right. I'm not sick, I'm just being myself for the first time in front of you. I'm tired of hiding who I am from everybody! I'm tired of living in fear! Like really, fuck you people!\"\n\t\"You're sick. ! You're sick!  You aren't the child I raised, the loving child we used to know, you're all...messed up... it's not you, your sickness has taken over, you aren't the man I used to know. I don't even recognize you anymo—\"\n\t\"—You know what? FUCK YOU. FUCK your FUCKING NOTION OF WHO I AM. YOU DON'T FUCKING KNOW ME. YOU'VE NEVER GIVEN ME A CHANCE. YOU'VE NEVER TAKEN THE FUCKING TIME TO KNOW WHO I AM, TO TALK TO ME ABOUT WHAT MATTERS TO ME. YOU JUST WRITE ME OFF AS MENTAL ILLNESS. I'M JUST AN ICON TO YOU, AN ICON. ALL THE REAL ME IS TO YOU IS FUCKING SICKNE'—\"\n* !\nThe Individual froze, heart pounding, lowering voice, hands shaking. She was reeling with fear. Calming. This was too much, complete loss of control, rage. Shame, setting in hard, like it should. Self-loathing.\n\t\"—I'm sorry. Fuck. I'm sorry. I fucking hate myself right now. You aren't the problem, I am the problem. I am the fucking problem here. You call it mental illness, I call it me. Mental illness isn't the problem. I am the problem. I honestly don't know what much I can do about this. I just gotta get it out. I gotta make it stop. I gotta get the world piece computer out of my head. I gotta make it stop. My only hope is to show you.\"\nThe Individual couldn't take the shame any longer, lurching away,\nJust gotta get away, just gotta make it stop, need to make it stop, make it stop. I don't know how much more I can take...I gotta get it out. Fuck this world piece computer bullshit. I need real peace. Fuck you Blair you stupid piece of fucking reprehensible shit. Compute that sad-evil worthless fucker.\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n\t\"Let's take a break from talking about the world piece computer, ok? So you know.. I need to ask if you have any plans in place to hurt yourself or others?\"\nThe Individual knew this question. It was a trap, but it was important to answer honestly.\n\t\"I have many plans.\"\nThe therapist sat up, everybody in the group setting sat up, rapt.\n\t\"—Plans that you intend to follow out?\"\nThat was the gotcha. Answering that question wrong would likely mean a trip to the hospital. A trip to the hospital would tear The Individual into a mindstate where it would be much harder to resist submitting to those plans if discharged without being fixed properly. This was an existential moment, if the question were answered incorrectly, it could mean The Individual's life. The Individual ultimately wished to live and not be evil.\n\t\"No. I do not intend to carry out any of my plans. They are just options I have.\"\nHe quickly followed up\n\t\"They are the wrong options.\"\nThat did the trick for the time being, but everybody was skeptical, worried sick. The world piece computer was so important to The Individual; it was entirely overwhelming and all consuming; it was making this unexpected onset of mental illness worse. The Individual really did need to go to the hospital. The Individual really was very sick. Judgement was badly impaired. It was too much, the razors' edge cutting.\n\t\"You know, it doesn't have to be like this. You can still have your world piece computer without all the pain.\"\nA pause, shifting,\n\t\"Oh? I honestly don't see how that could be possible. At least not with the way you people have been treating me.\"\n\t\"We have medicine that is proven to help for people experiencing the distress you're experiencing. It works. It won't change who you are. Please just give it a try, if it doesn't seem like it's working, we can try something different, ok?\"\nThe Individual was desperate. Things were emphatically not ok; things were very very wrong. He was on the brink of homelessness and worse. Relenting,\n\t\"Ok. Whatever. Give me something. I don't care. I just need it to fucking stop. I gotta make it stop. It won't stop...\"\nThe room seemed to sigh, The Observer seemed to sigh. Was it relief? Probably just weariness.\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nThe advent of the piece computer was dark, sickness. The next five years were dark. The first dark age followed the advent of the Piece Computer Era, and The Individual hit two more existential lows afterward, totaling three dark ages in the world piece computer invention effort. These tests, these darkages, made The Individual stronger, less fragile, but at great cost. This was the phase of maturation where one discovers that they have the power to make choices, especially the wrong ones. This was the state of individual free will.\nTo choose to do good means that doing good is not reflexive. Being good is an effort. Being and doing good is the act of restraint. Realizing this marks the point of individual free will—that is the knowledge of the ability to choose and what that entails. Just the knowledge alone does not mean one has the ability to choose however. To choose, The Individual needed to learn the power of individual free won't.\nThat is, without restraint, free will is an illusion. Without restraint, the most an individual can do is re-act to an external action applied to an individual. With restraint, an individual has time to make sense of the situation, and instead of react, form a response to the external action. So an individual needs the ability to not react, to deny the urge to act.\nTo respond, to submit one's will to something one otherwise wouldn't do (to not react), this is the basis of respondability, or cleanly, responsibility. Real individuals are responsible for their actions, their responses to the world around them.\nThe Individual needed time to learn this lesson. The calling to solve the peace problem depended on it. But everything was so slippery, fleeting, so what to do?\nThe Individual spent over one hundred hours to derive an intricate equation according to formalisms from linear algebra and vector calculus to represent the learnings from that lesson. He could not risk losing the thought, the concept. The Individual tattooed the equation onto his lower right forearm and wrist, clearly visible, an indelible reminder[28] of the lesson he needed so dearly to learn. I looked something like this:\n\n\nAnd something like this on the forearm:\n\n\n\nEvery time somebody asked The Individual about the tattoo, he would be forced to engage with that learning process, refining and internalizing the learning with each new explanation.\nThis was the first physical component in this instance of The Individual's personal world piece computer operating system.\nEventually the tattoo would take hold. It just needed time, perspective, and help.\n\n\n\fOrigin Piece (( 2 )) Individual free will.\n\nWe all live in little fantasy worlds. Some are wilder than others.\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nAt this point, The Individual reached full awareness of their ability to choose. They had passed the state of being, reaching the state of individual free will. The Individual still had much to learn about individual free won't.\nThis state is commonly know as the point where somebody realizes that they are like a god in this universe. They can do anything they want to within the confines of physical law. This has a tendency to get to people's heads, usually in an extremely distasteful way. On special occasion, these people evolve beyond, but usually they just stagnate, becoming malignant narcissists and anti-socials of society.\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n5 PCE - early in the summer\n\nAnchorage Saturday Market[29] - TIME MACHINE FOR PEACE market research booth...\n\nThe Saturday market was busy, smell of sweets and roasting meat in the air. The sun was out, room-temperature outside, majestic mountains in the backdrop. At one particular location in the line of tents, most would slow down to glance for a moment and read the name of this little hole of a booth, a glowing dark jungle green inside, not bright and white like the rest. It read TIME MACHINE FOR PEACE a social invention project—with a row of strange symbols drawn out on the other side of the awning (quite clearly trademarked, for brand protection).\nMost of The Onlookers passing gave a nervous oh gee this sure is quirky! laugh, sometimes a wave inside. Most kept moving on, vaguely confused. Some just seemed generally disturbed by all the cardboard homeless-looking signs plastered around the booth entrance. It was going to be okay; there was nice jewelry next door, with barbecue, corn fritters, and strawberry lemonade across the aisle.\nSome Onlookers passing would skim the cardboard signage upfront that contained carefully written black sharpie text. The largest piece—about three foot by four foot in size—modestly introduced The Individual putzing around inside the tent. It then casually outlined a plan to invent a global computational peace system to usher in the advent of world peace (the largest supercomputer known to Humanity, certainly). Finally it affirmed that it would be great if they could help, lend a hand. We're in this together.\nIt read something like this:\n\n\nThere was another large cardboard sign clamped to the tent at an angle that attempted to explain the time machine for peace in the context of a social invention project.\nThat one read something like this:\n\n\n\nThe main cardboard signage was held erect by a table closing off the front of the booth, made out of some storage racks and a wooden door from Lowes, with an opening to the right side for only the Brave Souls to pass inside. Somebody once told The Individual that they should have a mission statement that is eight words or less, so, that was the cardboard sign cherry on top, a small square piece on it written like:\n\n\nThe signage made it clear that messaging was extremely inconsistent at that point—crude presentation and all very confusing.\nA quick glance at the table up front would find strewn across it flat rocks with a strange symbol spray painted black on one side, white on the other. It looked like a peace sign, but with a 'W' overlayed. 1-bit rock computers, free! a placard exclaimed. Something like this:\n\n\n\nOver to the left corner, a spent .50-caliber shell casing held some water and a small black pansy to appeal to the military-minded. There was a red hardware bin with some stickynotes and a pen beside, MAILING LIST said the plastic placard behind it.\nOn the right side of the door-table was another hardware container, this one flat with many little compartments, like a flat tackle box, or screw box. In each compartment were paperclips, one color per compartment—a literal rainbow of paperclips. Beside the paperclips was a wooden case for displaying archeological artifacts, but this one was full of strange colorclips arranged in an aesthetically pleasing manner, like jewelry but clearly something much more significant. Something like this:\n\n\n\nLooking up, hanging at the right post of the tent was a small flower basket with more black pansies, plus some blue lobelia. It was a nice touch of life. Starting from the hanging basket, dangling along the tent awning in swooping drapes was a long chain of various colored paperclips. It looked like a piece of abstract art, because in a secondary sense it was.\nSome Brave Souls passed the entry into the world inside. They were struck first by the hanging American and Alaskan flags in proper presentation in the back of the square tent space, backed by the same glowing jungle green as the tent canopy. Glancing to the right, right in their face, was another piece of cardboard hung up against a blue tarp backing. (The blue tarp to the right was tied up mainly to keep the jewelry people from drifting through accidentally.) On this cardboard piece to the right was a a diploma, in a transparent three-ring envelope, taped up with clear packaging take—Bachelor of Science in Electrical Engineering[30], minors in mathematics and physics it read—this beside articles of organization and incorporation for what were apparently The Individual's peace lab LLC and corporate umbrella peace lab incubator.\nLooking across the tent from the diploma, another door-table was set up along the left side of the tent, wall from the neighboring tent providing a white backdrop. Various objects were deliberately arranged on its surface, black sharpie text written on the table components from my personal non-electronic world piece computer, with annotated sharpie callouts for each object. One of the objects was an overlong well-worn ice axe, one a hat with colorclips and stickynotes in it, one a small jewelry case full of beads and rings of colorclips. Something like this:\n\n\n\nTo the right corner some storage racks in the back held boxes on end full of textbooks, what looked like advanced physics and mathematics, some neuroscience and cell biology, a few novels like Consilience[31], 7 Habits of Highly Effective People[32], Verbal Judo[33], Dune[34] and so on. There was one Calvin and Hobbes[35] comic book laying on top of them all. Like this:\n\n\nLooking up, the Brave Souls would find diagrams and writing on the canopy of the tent—graphs of different colors. Looking down, yellow sandbags and large kettlebells held down the booth's tent posts from the wind with orange ratchet straps. Black and red totes lined the free space along the ground were like benches, one with sharpie written in large letters EMERGENCY MARKET READING NOOK BENCH, back next to the book boxes.\nDiagonally across from the entrance, a stool sat in the rear left corner. On it, The Individual sat. It was a male in early thirties with a gentle but imposing posture, rocking slightly, hunched and intent, fitted billed cap over shaggy hair, furiously scribbling symbols and words with a 9-in-1 transparent colored pen into a small red civil engineering field notebook. There was a stack of those notebooks—some yellow—on the table to his right on the edge of the table, with various art supplies bundled around them.\nOccasionally, inlookers might catch him take off the hat, pull out a sticky note, on it write some significant tidbit or another, fold it in half then tuck it meticulously in a precise position somewhere under the elastic band—slide the hat back on, bill perfectly centered by the centering algorithm he employed. Occasionally inlookers might catch The Individual wearing yellow or purple circle glasses like John Lennon or Ghandi or someone like that. This all had a feel like this:\n\n\n\nAt first glance, even second and third glance, fourth glance, this was pure madness. At n'th glance, still pure madness. Only the Brave Souls who took time to engage would recognize the strange form of peace lurking beneath the insanity.\nThis was in most part because The Individual was literally insane at the time—psychotic, suffering from a flare up in a medical condition called schizoaffective-bipolar type[36]—basically a combination of the thought disorder schizophrenia[37] with the mood disorder bipolar-one[38]. What else would compel one to commit to such an endeavor? It wasn't like like the more debilitating cases; The Individual didn't hear voices or see things in the absence of external stimuli (the DSM-V[39] definition of hallucination). But this was still psychosis; judgement and thinking was a little (lot) bit wonky, delusional, grandiose and paranoid. Naturally, the entire booth presentation was a little rough.\nBut this all was also because The Individual knew there was only so much energy in a body, so much money available to set up a market booth. The eclectic eccentric booth configuration ensured that only personality types compatible with The Individual found their way through the entrance. He didn't have the energy for the others. He was after all, part electrical engineer in the core. Electrical engineers think largely in terms of filters, and energy, harmonic content. In hindsight, this worked out for both better and worse for The Individual.\nThis individual was very shy, so it took some work and social pain to get comfortable talking to The Onlookers. It was only a couple weekends before things got comfortable, for The Individual was a quick study, but there was always a great deal of awkward because he was so much a tinkerer, always changing things to see how they felt. He never approached a situation the same way twice. The booth never looked the same way twice.\nThe Onlookers who actually took time to stop and study the grandiose signage were his target audience. The primary purpose of the market research booth was always to get a feel for how people engaged with the underlying concept. Who are these Brave Souls? How do they feel? A typical encounter would usually initiate at the point where an Onlooker stopped to read the sign intently. The Individual's universal piece—his peace process—would engage around then, usually a schtick something like:\n\t\"Welcome to the time machine for peace! Quick rundown—this is like a market research-and-development booth intended to solicit for feedback and ideas from people like you who take interest in the underlying concept. I know it's a lot to take in, so please take your time and feel free to step inside to look around, and do feel free to ask me anything—open book.\"\n\t\"Ok yeah! ...I'm just trying to process..this is...a lot to process..\"\nHesitant, perhaps nervous—chuckles around,\n\t\"For sure..there's a lot to unpack here. I live for talking about this stuff though, so I'm super happy to talk through anything you don't understand or that concerns you.\"\n\t\"Great, thanks! Hang on a minute!\"\nSmiles.\nThe Individual would usually end up explaining that the market booth was an example of one of the larger components in his personal world piece computer at the moment, that the booth runs a peace process called the universal piece, a singular concept that treats peace as a process, not result. The Brave Souls among The Onlookers would engage, enter the booth, and The Individual and them would spend anywhere from ten minutes to three hours discussing the merits of peace in this context of such grand ambition.\nUsually conversations revolved around technology, Human Nature, evil, religion, war, spirituality, politics, education, economics, language, usually in terms of the core concept itself—the world and universal piece computer. Clearly though, The Brave Souls interested in the project came from all walks of life, and from home and abroad.\nTo end each conversation, the marketbooth universal piece programmed by The Individual dictated they part ways by leaving Brave Souls with two pieces to take with them (besides asking them to sign up for the mailing list on occasion). The first piece was an imperative, conceptual and intangible; this was typically the last piece of heavy talk for that encounter:\n\t\"The piece I try to leave people with is this: I think you stand to benefit by treating peace as an explicit process, not a result; that is, I think you stand to profit more from your efforts in life by explicitly asking yourself throughout your day-to-day activity, what does peace as a process mean to me right now? I believe that asking this question continuously is the minimum viable action people need to adopt to make the world a more peaceful place.\"\nThen, the second piece:\n\t\"So I want you do me a favor and pick a colored paperclip[40] from the tray, ideally one that you think best represents our conversation just now—its quality. Grab two of that color. Ok. We're going to add the first one to the end of this chain here, which is becoming a community art project of sorts.\n\t\"This chain is an example of a non-electronic digital memory storage device for the market booth component of my personal world piece computer. Each link segment on the chain, like yours here on the end, represents a unit of significant conversation time I've had with visitors about this project. Each link segment represents a meaningful contribution to the time machine for peace social invention project\n\t\"I say digital because its bits are discrete like a computer's, as in there are only so many colors you can choose from, and the bits are lined up link by link. Paperclips that are parallel are from multiple people visiting at once. Each drape represents a weekend here at the market, each silver ring separates the days in the weekend.\"\nGesturing at the chain,\n\t\"These are all the people like you who have shared similar moments, and shared wisdom in the form of conversation and feedback like yours. By using the neighboring colors as context, I can more easily remember the order and names and content of people who talked with me, often with very high accuracy—\"\nHe would usually then point to various paperclips on the chain to share what each one and him talked about that particular day.\n\t\"—so, thank you so much for your contribution!\"\nGoing on,\n\t\"Oh right! And the second paperclip! The second paperclip is a gift from me to you, a new addition to your personal world piece computer. You can take it with you and clip it somewhere as a memory device to remind you of this encounter. Or, if you please, you can reprogram your paperclip, say, to hold paper together, or pick a lock, or defuse a bomb or something.\"\nChuckles.\nThose Brave Soul visitors would leave the booth bewildered and generally satisfied with their experience at the Anchorage Saturday Market Time Machine For Peace Social Invention Project Booth. At this point, to terminate that segment of the universal piece, the booth peace process, The Individual would record key points of interest from the exchange in one of his journals, making note of paperclip color and names just in case he were to forget in the future, jotting as many pertinent details into various notebooks for later review. Usually though, the context of neighboring colors was just enough.\nBut again, all the details would try to slip away on sunny beautiful Anchorage Alaskan days like that. The Individual would get lost in the gaze toward the Chugach mountain front-range that faced the booth tent. Refuge lied in wait; that was the timespace vacation space.\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nOn that particular Saturday, mid afternoon, another Brave Soul—an older gentleman—stopped to read the signage. He was of medium stature, had a billed cap pulled down tight over his eyes, obscured by sunglasses, wearing well-worn 501 bluejeans with a well-worn black tshirt—sporting imagery of motorcycles and Americana or something like that. He looked up after reading, looked in at The Individual sitting there on the stool, looked around, made that choice, then stepped into the entrance of the tent. He took off his glasses and stared at The Individual, accusatory grin flashing, more like a sneer, exclaiming loudly,\n\n\t\"Boy you're living in a fucking fantasy world.\"\n\nThe Individual, already observing the Brave Soul approach in his periphery, looked up from the stool and smiled warmly, ready for the confrontation. Cock head slightly,\n\t\"Yes, I know. And I live to turn the good fantasies into reality...\"\nHe stood up to meet the Brave Soul closer, by two large calculated strides to the entrance, sharing opposite edges of the rear door-table corner,\n\t\"...and you most certainly know, that I most certainly see how you live the same. We are both living in a fantasy my friend. You and I live in a crazy messed up world. We're just doing our best we can to stay sane and make our respective worlds a better place. We are trying to live in our fantasy worlds. Because that's the fucking point.\"\nThe Brave Soul hardened, nodding thoughtfully, then his face hardened ever harder, shaking his head with this crush of solemn, tired exasperation, pain even, responding,\n\t\"This world is just fucked. Fucked. The evil in it. Every day we hear about something worse and worse in the news. It's just fucked I tell you. People are fucked. Crazy. Good luck with your peace, boy. Really, I wish I could help.\"\nThe Brave Soul gave a vaguely gaze of desperation. The Individual nodded in kind, stern face, hardened too; he knew exactly how this Brave Soul felt. But then all of a sudden the man's sternness just collapsed, melted; he reaching out with some suppressed excitement, and touched The Individual's left elbow (The Individual's right elbow bearing the weight of him on the table facing the man, body forcibly relaxed, fingers folded, still nodding seriously). Using a brief flicker of the eyes toward the touching hand, The Individual both acknowledged and welcomed the impending remarks from The Brave Soul:\n\t\"Do you know what the key is? The solution? To world peace? It's not some computer you know! Do you know what it is?...\"\nThe man split into a big wide grin, crowfeet wrinkling eyes, The Individual bracing for another marketbooth test,\n\t\"...it's Jesus!\"\nAh. The Jesus test. This was a common test at the time machine for peace market booth, but this particular outcome was worthy of a paperclip.\n\t\"It's...Jesus. ?\"\nThe Individual replied. Cautiously drawing it out.\n\t\"Yeah, Jesus. If you know Jesus, then you know peace.\"\n\t\"For you Jesus means peace. Me? I prefer to call the product of that peace, love. The Human 'Jesus'—his iconic essence—his significance—it's an expression of love absolutely, and I believe love reigns supreme in this universe.\"\n\t\"You know he died for our sins.\"\n\t\"Yes I do. Personally, I believe our sins are ultimately absolved, but more-so personally, I know I will always bear their weight. I cannot just let go of the weight of our sins, but I can be in a state of peace, continually processing that weight, readjusting, adjusting, readjusting.\"\nThe Individual was being extremely deliberate with his language. He knew a risk he faced was the accusation that he had a mess\nThe file is too long and its contents have been truncated.\n",
+          "title": "astudyinpeace_txtforindexing.txt",
+          "tether_id": null
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "command": "context_stuff",
+          "is_visually_hidden_from_conversation": true,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "parent_id": "388cf410-b824-45bf-a4df-b10e7dac4045",
+          "request_id": "89d4790fbeedc77a-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "388cf410-b824-45bf-a4df-b10e7dac4045",
+      "children": [
+        "5827d2e7-cde5-49f7-8d0d-46564e4e0d18"
+      ]
+    },
+    "5827d2e7-cde5-49f7-8d0d-46564e4e0d18": {
+      "id": "5827d2e7-cde5-49f7-8d0d-46564e4e0d18",
+      "message": {
+        "id": "5827d2e7-cde5-49f7-8d0d-46564e4e0d18",
+        "author": {
+          "role": "tool",
+          "name": "myfiles_browser",
+          "metadata": {}
+        },
+        "create_time": 1719984522.366702,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "\nPlease remember to search the user's documents if an answer to their question is not contained in the above snippets.\n"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "pad": "AAA",
+          "parent_id": "708f8a70-375c-44f4-b5b6-d44e3141fe76",
+          "request_id": "89d4790fbeedc77a-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "708f8a70-375c-44f4-b5b6-d44e3141fe76",
+      "children": [
+        "672fdd83-7b8e-42ee-9d60-18e192e7346a"
+      ]
+    },
+    "672fdd83-7b8e-42ee-9d60-18e192e7346a": {
+      "id": "672fdd83-7b8e-42ee-9d60-18e192e7346a",
+      "message": {
+        "id": "672fdd83-7b8e-42ee-9d60-18e192e7346a",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1719984522.36674,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "A good single letter symbolic representation for the concept of \"commitment\" could be the letter \"C.\" This is a direct and intuitive choice as it is the first letter of the word \"commitment\" itself. Moreover, in various contexts and systems, \"C\" can signify concepts such as continuity, constancy, and connection, all of which are integral to the idea of commitment.\n\nUsing \"C\" to symbolize commitment can be both practical and effective, especially in the context of the universal piece computer and world piece computers, where symbols and shorthand can streamline communication and representation of key principles.\n\n**Suggested followup prompts--copy and paste into chat to carry on conversation, or ask your own question:**\n1. Can you explain how commitment plays a role in maintaining the universal piece?\n2. How might we incorporate symbolic representations into the design of world piece computers?\n3. What are some examples of commitments that are crucial for the operation of world piece computers?\n4. How can we address challenges related to evil, negative human nature, unwelcome mortality, and the terror singularity in our efforts to promote commitment within the universal piece framework?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "gizmo_id": "g-JpkkzqNML",
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "parent_id": "5827d2e7-cde5-49f7-8d0d-46564e4e0d18",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "89d4790fbeedc77a-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "5827d2e7-cde5-49f7-8d0d-46564e4e0d18",
+      "children": [
+        "aaa27b9a-81d9-4318-9d57-3083729f3180"
+      ]
+    },
+    "aaa27b9a-81d9-4318-9d57-3083729f3180": {
+      "id": "aaa27b9a-81d9-4318-9d57-3083729f3180",
+      "message": {
+        "id": "aaa27b9a-81d9-4318-9d57-3083729f3180",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1719985017.607984,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "in math and physics, what is the typical symbol used to denote an 'operator'?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "89d48555483eb9a6-SEA",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "672fdd83-7b8e-42ee-9d60-18e192e7346a",
+      "children": [
+        "3f0bdff2-ed98-4d19-a6c0-265f72784e9e"
+      ]
+    },
+    "3f0bdff2-ed98-4d19-a6c0-265f72784e9e": {
+      "id": "3f0bdff2-ed98-4d19-a6c0-265f72784e9e",
+      "message": {
+        "id": "3f0bdff2-ed98-4d19-a6c0-265f72784e9e",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1719985029.730274,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "In mathematics and physics, the typical symbols used to denote an operator can vary depending on the context and the specific type of operator being referred to. However, some commonly used symbols include:\n\n1. **\\( \\mathcal{L} \\)**: Often used to denote a general linear operator, especially in differential equations.\n2. **\\( \\hat{A} \\)** or **\\( \\hat{O} \\)**: Frequently used in quantum mechanics to represent operators, with the hat symbol indicating an operator (e.g., \\( \\hat{H} \\) for the Hamiltonian operator).\n3. **\\( \\mathcal{D} \\)**: Sometimes used to represent the differential operator.\n4. **\\( \\Delta \\)**: Often used to represent the Laplace operator or Laplacian.\n5. **\\( \\nabla \\)** (nabla or del): Commonly used to represent the gradient operator, and in its various forms (divergence \\( \\nabla \\cdot \\), curl \\( \\nabla \\times \\), and Laplacian \\( \\nabla^2 \\)).\n6. **\\( \\mathcal{F} \\)**: Used to denote the Fourier transform operator.\n7. **\\( \\mathcal{T} \\)**: Sometimes used for the time evolution operator in quantum mechanics.\n\nThese symbols help to abstract and generalize operations in various fields, providing a clear and standardized way to denote transformations, derivatives, and other mathematical processes.\n\n**Suggested followup prompts--copy and paste into chat to carry on conversation, or ask your own question:**\n1. How do different operators interact within the framework of the universal piece computer?\n2. Can you explain the significance of the Laplace operator in the context of peace optimization processes?\n3. What role do quantum operators play in the theoretical underpinnings of the time machine for peace?\n4. How can we model the impact of evil, negative human nature, unwelcome mortality, and the terror singularity using mathematical operators in the universal piece system?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "gizmo_id": "g-JpkkzqNML",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "pad": "AAAAAAAA",
+          "parent_id": "aaa27b9a-81d9-4318-9d57-3083729f3180",
+          "request_id": "89d48555483eb9a6-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa27b9a-81d9-4318-9d57-3083729f3180",
+      "children": [
+        "aaa2f3bc-36e7-4a29-9099-c3f56e0309df"
+      ]
+    },
+    "aaa2f3bc-36e7-4a29-9099-c3f56e0309df": {
+      "id": "aaa2f3bc-36e7-4a29-9099-c3f56e0309df",
+      "message": {
+        "id": "aaa2f3bc-36e7-4a29-9099-c3f56e0309df",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1719985068.728216,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "is there a symbol for a nonlinear operator commonly used?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "89d48695a873b9a6-SEA",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "3f0bdff2-ed98-4d19-a6c0-265f72784e9e",
+      "children": [
+        "acc3e3ba-96f0-4abe-86cb-3c4605ad993a"
+      ]
+    },
+    "acc3e3ba-96f0-4abe-86cb-3c4605ad993a": {
+      "id": "acc3e3ba-96f0-4abe-86cb-3c4605ad993a",
+      "message": {
+        "id": "acc3e3ba-96f0-4abe-86cb-3c4605ad993a",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1719985079.235793,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "In mathematics and physics, there isn't a universally standard symbol specifically for a nonlinear operator, as the symbols used often depend on the context and the specific problem being addressed. However, some commonly used representations for nonlinear operators include:\n\n1. **\\( \\mathcal{N} \\)**: A general symbol for a nonlinear operator.\n2. **\\( \\mathcal{F} \\)**: Sometimes used to represent a nonlinear function or operator.\n3. **\\( \\mathcal{G} \\)**: Another common choice for a nonlinear operator.\n4. **\\( T \\)**: Can be used to denote a nonlinear operator, particularly in contexts where the linear operator is denoted by \\( L \\).\n5. **\\( \\mathcal{A} \\)** or **\\( \\mathcal{B} \\)**: Occasionally used for nonlinear operators, especially in functional analysis.\n\nThese symbols are used to denote operations that do not satisfy the superposition principle (i.e., they are not linear). In specific contexts, the nature of the nonlinear operator is usually defined explicitly, and the notation can be adjusted accordingly.\n\nFor example, in the context of differential equations, a nonlinear operator might appear as:\n\\[ \\mathcal{N}(u) = f(x, u, \\nabla u) \\]\nwhere \\( u \\) is a function and \\( \\mathcal{N} \\) denotes a nonlinear differential operator.\n\n**Suggested followup prompts--copy and paste into chat to carry on conversation, or ask your own question:**\n1. How might nonlinear operators be utilized within the universal piece computer framework?\n2. Can you provide examples of nonlinear operators in the context of peace optimization processes?\n3. What challenges do nonlinear operators present in modeling complex systems for the time machine for peace?\n4. How can we use nonlinear operators to address the effects of evil, negative human nature, unwelcome mortality, and the terror singularity in our models for the universal piece system?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "gizmo_id": "g-JpkkzqNML",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "pad": "AAAAAAAAAAAAAAAA",
+          "parent_id": "aaa2f3bc-36e7-4a29-9099-c3f56e0309df",
+          "request_id": "89d48695a873b9a6-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa2f3bc-36e7-4a29-9099-c3f56e0309df",
+      "children": [
+        "aaa2e1c3-948c-4c84-9036-a73d35b83819"
+      ]
+    },
+    "aaa2e1c3-948c-4c84-9036-a73d35b83819": {
+      "id": "aaa2e1c3-948c-4c84-9036-a73d35b83819",
+      "message": {
+        "id": "aaa2e1c3-948c-4c84-9036-a73d35b83819",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1719985356.518414,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "can you think of a symbol related to mathematics and physics concepts that could be used to mean 'do whatever it takes' or 'at all costs'?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "89d48d9bce89b9e2-SEA",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "acc3e3ba-96f0-4abe-86cb-3c4605ad993a",
+      "children": [
+        "d1ffb177-0069-4b33-b93c-c3340173274c"
+      ]
+    },
+    "d1ffb177-0069-4b33-b93c-c3340173274c": {
+      "id": "d1ffb177-0069-4b33-b93c-c3340173274c",
+      "message": {
+        "id": "d1ffb177-0069-4b33-b93c-c3340173274c",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1719985368.937219,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "A symbol that conveys the idea of \"do whatever it takes\" or \"at all costs\" is challenging to find as it is more of a conceptual directive rather than a specific mathematical or physical operation. However, a few symbols from mathematics and physics that could be repurposed to convey this idea include:\n\n1. **\\( \\infty \\)**: The infinity symbol could be used to denote boundless effort or limitless determination.\n2. **\\( \\forall \\)**: The universal quantifier, meaning \"for all,\" could imply that every possible action should be considered.\n3. **\\( \\sum \\)** or **\\( \\prod \\)**: The summation or product symbols could signify the accumulation of all efforts or the multiplication of efforts, respectively.\n4. **\\( \\epsilon \\rightarrow 0 \\)**: In the context of limits, this could imply taking measures to an extreme degree, though it's more abstract.\n5. **\\( \\delta \\)**: Often used in variational calculus to denote a change or variation, which can be interpreted as taking action.\n\nFrom these, **\\( \\forall \\)** (the universal quantifier) might be the most fitting to symbolize \"do whatever it takes\" or \"at all costs\" as it inherently suggests encompassing all actions, possibilities, or means.\n\n**Suggested followup prompts--copy and paste into chat to carry on conversation, or ask your own question:**\n1. How can we integrate the concept of \\( \\forall \\) into the universal piece computer's operational framework?\n2. Can you provide examples of how the symbol \\( \\infty \\) could be used to emphasize boundless commitment in the context of peace optimization?\n3. What mathematical or physical models can be used to demonstrate the principle of \"do whatever it takes\" within the time machine for peace?\n4. How can we address evil, negative human nature, unwelcome mortality, and the terror singularity using symbols that represent unwavering commitment in our models for the universal piece system?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "gizmo_id": "g-JpkkzqNML",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "pad": "A",
+          "parent_id": "aaa2e1c3-948c-4c84-9036-a73d35b83819",
+          "request_id": "89d48d9bce89b9e2-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa2e1c3-948c-4c84-9036-a73d35b83819",
+      "children": [
+        "aaa24a1c-f4d8-4fb2-af9d-36141e790e61"
+      ]
+    },
+    "aaa24a1c-f4d8-4fb2-af9d-36141e790e61": {
+      "id": "aaa24a1c-f4d8-4fb2-af9d-36141e790e61",
+      "message": {
+        "id": "aaa24a1c-f4d8-4fb2-af9d-36141e790e61",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1719985722.601103,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "what is a symbol that mathematicians use do denote a single 'game' from game theory?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "89d4968c0f2da37a-SEA",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "d1ffb177-0069-4b33-b93c-c3340173274c",
+      "children": [
+        "041db7eb-8c16-4b81-90d6-9a621d55a55d"
+      ]
+    },
+    "041db7eb-8c16-4b81-90d6-9a621d55a55d": {
+      "id": "041db7eb-8c16-4b81-90d6-9a621d55a55d",
+      "message": {
+        "id": "041db7eb-8c16-4b81-90d6-9a621d55a55d",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1719985730.932526,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "In game theory, a single game is typically denoted by the symbol **\\( \\Gamma \\)** (uppercase Greek letter Gamma). This notation is widely used to represent a game in the context of game theory models and analyses.\n\nFor instance, a game \\( \\Gamma \\) might be defined with a set of players, a set of strategies for each player, and a payoff function that describes the outcomes for each combination of strategies.\n\n**Suggested followup prompts--copy and paste into chat to carry on conversation, or ask your own question:**\n1. How can we apply concepts from game theory, using \\( \\Gamma \\), to optimize strategies within the universal piece computer?\n2. Can you provide examples of specific games (\\( \\Gamma \\)) that could model conflict and cooperation in the context of world piece computers?\n3. What insights can game theory offer to address challenges like evil, negative human nature, unwelcome mortality, and the terror singularity within our peace optimization framework?\n4. How can the symbol \\( \\Gamma \\) help in visualizing and strategizing solutions for global peace efforts in the universal piece system?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "gizmo_id": "g-JpkkzqNML",
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "pad": "AAAAAAAAAAA",
+          "parent_id": "aaa24a1c-f4d8-4fb2-af9d-36141e790e61",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "89d4968c0f2da37a-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa24a1c-f4d8-4fb2-af9d-36141e790e61",
+      "children": []
+    }
+  },
+  "moderation_results": [],
+  "current_node": "041db7eb-8c16-4b81-90d6-9a621d55a55d",
+  "plugin_ids": null,
+  "conversation_id": "d5874414-740d-4be4-b6a1-d9525705d31a",
+  "conversation_template_id": "g-JpkkzqNML",
+  "gizmo_id": "g-JpkkzqNML",
+  "gizmo_type": "gpt",
+  "is_archived": false,
+  "is_starred": null,
+  "safe_urls": [
+    "https://theindividual.up.computer"
+  ],
+  "blocked_urls": [],
+  "default_model_slug": "gpt-4o",
+  "atlas_mode_enabled": null,
+  "conversation_origin": null,
+  "is_read_only": null,
+  "voice": null,
+  "async_status": null,
+  "disabled_tool_ids": [],
+  "is_do_not_remember": null,
+  "memory_scope": "global_enabled",
+  "context_scopes": null,
+  "sugar_item_id": null,
+  "sugar_item_visible": false,
+  "pinned_time": null,
+  "is_study_mode": false,
+  "owner": null,
+  "id": "d5874414-740d-4be4-b6a1-d9525705d31a"
+}

@@ -1,0 +1,193 @@
+{
+  "title": "Cognition Analogy Comparison",
+  "create_time": 1732601782.721604,
+  "update_time": 1740453055.172601,
+  "mapping": {
+    "aaa1ebdf-fb97-4cd0-aab7-21cc0c259c01": {
+      "id": "aaa1ebdf-fb97-4cd0-aab7-21cc0c259c01",
+      "message": null,
+      "parent": null,
+      "children": [
+        "6159e4d3-1847-45ec-9610-29328592a916"
+      ]
+    },
+    "6159e4d3-1847-45ec-9610-29328592a916": {
+      "id": "6159e4d3-1847-45ec-9610-29328592a916",
+      "message": {
+        "id": "6159e4d3-1847-45ec-9610-29328592a916",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "can_save": false
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa1ebdf-fb97-4cd0-aab7-21cc0c259c01",
+      "children": [
+        "aaa26933-c9c0-4f46-ae22-fb77e6a38bd2"
+      ]
+    },
+    "aaa26933-c9c0-4f46-ae22-fb77e6a38bd2": {
+      "id": "aaa26933-c9c0-4f46-ae22-fb77e6a38bd2",
+      "message": {
+        "id": "aaa26933-c9c0-4f46-ae22-fb77e6a38bd2",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1732601782.194,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "complete this analogy:\nexploration:exploitation::divergent:convergent::associative:?\ncontext=cognition"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          },
+          "request_id": "8e87bfd3e9569b62-SEA",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "6159e4d3-1847-45ec-9610-29328592a916",
+      "children": [
+        "882eaf3d-94b3-42b2-8c50-4d7a828045fa"
+      ]
+    },
+    "882eaf3d-94b3-42b2-8c50-4d7a828045fa": {
+      "id": "882eaf3d-94b3-42b2-8c50-4d7a828045fa",
+      "message": {
+        "id": "882eaf3d-94b3-42b2-8c50-4d7a828045fa",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1732601785.968791,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "parent_id": "aaa26933-c9c0-4f46-ae22-fb77e6a38bd2",
+          "request_id": "8e87bfd3e9569b62-SEA",
+          "timestamp_": "absolute",
+          "can_save": false
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa26933-c9c0-4f46-ae22-fb77e6a38bd2",
+      "children": [
+        "ae4c4717-de95-4506-a6c5-493ed6f2bed2"
+      ]
+    },
+    "ae4c4717-de95-4506-a6c5-493ed6f2bed2": {
+      "id": "ae4c4717-de95-4506-a6c5-493ed6f2bed2",
+      "message": {
+        "id": "ae4c4717-de95-4506-a6c5-493ed6f2bed2",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1732601782.81708,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Exploration:Exploitation::Divergent:Convergent::Associative:**Analytical**\n\nIn the context of cognition:  \n- **Exploration** aligns with generating new ideas or seeking novel possibilities (divergent thinking).  \n- **Exploitation** focuses on refining or applying known ideas effectively (convergent thinking).  \n- **Associative** refers to linking disparate ideas through creativity or intuition, akin to exploration/divergence.  \n- **Analytical** involves structured reasoning, logic, and narrowing down possibilities, akin to exploitation/convergence."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "parent_id": "882eaf3d-94b3-42b2-8c50-4d7a828045fa",
+          "request_id": "8e87bfd3e9569b62-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "882eaf3d-94b3-42b2-8c50-4d7a828045fa",
+      "children": []
+    }
+  },
+  "moderation_results": [],
+  "current_node": "ae4c4717-de95-4506-a6c5-493ed6f2bed2",
+  "plugin_ids": null,
+  "conversation_id": "674567b6-8030-8003-8f28-1b00f4c5c327",
+  "conversation_template_id": "g-p-67bd1dc7619081918ebcf5b0de5cc1cb",
+  "gizmo_id": "g-p-67bd1dc7619081918ebcf5b0de5cc1cb",
+  "gizmo_type": "snorlax",
+  "is_archived": false,
+  "is_starred": null,
+  "safe_urls": [],
+  "blocked_urls": [],
+  "default_model_slug": "gpt-4o",
+  "atlas_mode_enabled": null,
+  "conversation_origin": null,
+  "is_read_only": null,
+  "voice": null,
+  "async_status": null,
+  "disabled_tool_ids": [],
+  "is_do_not_remember": null,
+  "memory_scope": "global_enabled",
+  "context_scopes": null,
+  "sugar_item_id": null,
+  "sugar_item_visible": false,
+  "pinned_time": null,
+  "is_study_mode": false,
+  "owner": null,
+  "id": "674567b6-8030-8003-8f28-1b00f4c5c327"
+}

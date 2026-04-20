@@ -1,0 +1,52 @@
+{
+  "uuid": "cfaa2e18-d1d9-4357-a59f-c66075743e51",
+  "name": "AI Image Creation Capabilities",
+  "summary": "",
+  "created_at": "2025-01-14T21:01:59.798791Z",
+  "updated_at": "2025-01-14T21:02:06.158298Z",
+  "account": {
+    "uuid": "63cc2959-393d-43f9-ad09-e75d133370d6"
+  },
+  "chat_messages": [
+    {
+      "uuid": "3a7bfbd3-5a58-4975-8ea6-9e7ab1bda0b7",
+      "text": "can you generate images?",
+      "content": [
+        {
+          "start_timestamp": null,
+          "stop_timestamp": null,
+          "flags": null,
+          "type": "text",
+          "text": "can you generate images?",
+          "citations": []
+        }
+      ],
+      "sender": "human",
+      "created_at": "2025-01-14T21:02:00.888378Z",
+      "updated_at": "2025-01-14T21:02:00.888378Z",
+      "attachments": [],
+      "files": [],
+      "parent_message_uuid": "00000000-0000-4000-8000-000000000000"
+    },
+    {
+      "uuid": "6ef4ef82-ac41-427b-b2c8-56cdb183e070",
+      "text": " I can create SVG (Scalable Vector Graphics) images and diagrams, but I cannot generate photorealistic images or manipulate photos. I can help you with:\n\n1. Simple vector illustrations and graphics using SVG\n2. Diagrams and flowcharts using Mermaid\n3. Data visualizations using React and charting libraries\n\nWould you like me to create any of these types of visuals? Let me know what you have in mind and I'll help you create something that fits your needs within these capabilities.",
+      "content": [
+        {
+          "start_timestamp": null,
+          "stop_timestamp": null,
+          "flags": null,
+          "type": "text",
+          "text": " I can create SVG (Scalable Vector Graphics) images and diagrams, but I cannot generate photorealistic images or manipulate photos. I can help you with:\n\n1. Simple vector illustrations and graphics using SVG\n2. Diagrams and flowcharts using Mermaid\n3. Data visualizations using React and charting libraries\n\nWould you like me to create any of these types of visuals? Let me know what you have in mind and I'll help you create something that fits your needs within these capabilities.",
+          "citations": []
+        }
+      ],
+      "sender": "assistant",
+      "created_at": "2025-01-14T21:02:04.549971Z",
+      "updated_at": "2025-01-14T21:02:04.549971Z",
+      "attachments": [],
+      "files": [],
+      "parent_message_uuid": "3a7bfbd3-5a58-4975-8ea6-9e7ab1bda0b7"
+    }
+  ]
+}

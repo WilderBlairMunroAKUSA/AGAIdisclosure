@@ -1,0 +1,1680 @@
+{
+  "title": "higher jerk",
+  "create_time": 1721719122.661384,
+  "update_time": 1740449482.88898,
+  "mapping": {
+    "aaa1408d-23fa-43b0-bf3c-5f95781f204a": {
+      "id": "aaa1408d-23fa-43b0-bf3c-5f95781f204a",
+      "message": null,
+      "parent": null,
+      "children": [
+        "c81b9288-09c8-418c-a697-57b11e0532a4"
+      ]
+    },
+    "c81b9288-09c8-418c-a697-57b11e0532a4": {
+      "id": "c81b9288-09c8-418c-a697-57b11e0532a4",
+      "message": {
+        "id": "c81b9288-09c8-418c-a697-57b11e0532a4",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "can_save": false
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa1408d-23fa-43b0-bf3c-5f95781f204a",
+      "children": [
+        "aaa29eb8-1f9c-4169-8d84-5258a72b8dc6"
+      ]
+    },
+    "aaa29eb8-1f9c-4169-8d84-5258a72b8dc6": {
+      "id": "aaa29eb8-1f9c-4169-8d84-5258a72b8dc6",
+      "message": {
+        "id": "aaa29eb8-1f9c-4169-8d84-5258a72b8dc6",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1721719122.67063,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "What would the best way to go about contacting NVIDEA's CEO Jensen Huang. I need his help because I am inventing something called the 'world piece computer', and there is so much work to do to solve the business and technical problems for actually inventing the computer itself."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "8a79e5e2a899720b-SEA",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "c81b9288-09c8-418c-a697-57b11e0532a4",
+      "children": [
+        "a173c96b-3630-4539-aa58-ba625712d731"
+      ]
+    },
+    "a173c96b-3630-4539-aa58-ba625712d731": {
+      "id": "a173c96b-3630-4539-aa58-ba625712d731",
+      "message": {
+        "id": "a173c96b-3630-4539-aa58-ba625712d731",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1721719146.117207,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "parent_id": "aaa29eb8-1f9c-4169-8d84-5258a72b8dc6",
+          "request_id": "8a79e5e2a899720b-SEA",
+          "timestamp_": "absolute",
+          "can_save": false
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa29eb8-1f9c-4169-8d84-5258a72b8dc6",
+      "children": [
+        "00029993-bb46-4b5c-a3db-00f7cbb3f00a"
+      ]
+    },
+    "00029993-bb46-4b5c-a3db-00f7cbb3f00a": {
+      "id": "00029993-bb46-4b5c-a3db-00f7cbb3f00a",
+      "message": {
+        "id": "00029993-bb46-4b5c-a3db-00f7cbb3f00a",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1721719146.117411,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "To contact NVIDIA's CEO Jensen Huang, you'll need to be strategic and professional. Here are some steps to increase your chances of getting his attention:\n\n1. **Research and Preparation**:\n   - **Understand NVIDIA's Mission and Projects**: Familiarize yourself with NVIDIA's current projects and how your 'world piece computer' aligns with their goals.\n   - **Develop a Clear Proposal**: Outline your project, its potential impact, and how NVIDIA's support would be beneficial. Highlight specific areas where you need assistance.\n\n2. **Craft a Professional Email**:\n   - **Subject Line**: Make it compelling and to the point. Example: \"Collaborative Opportunity: World Piece Computer Initiative.\"\n   - **Introduction**: Briefly introduce yourself and your project.\n   - **Body**: Explain your project in detail, its importance, and how NVIDIA can help. Be specific about what you need (e.g., technical support, business advice, partnerships).\n   - **Conclusion**: Thank him for his time and provide your contact information.\n\n3. **Leverage Professional Networks**:\n   - **LinkedIn**: Connect with Jensen Huang and other NVIDIA executives. Send a personalized message along with your connection request.\n   - **Industry Events and Conferences**: Attend events where NVIDIA representatives are present. Network and try to get an introduction.\n\n4. **Utilize Intermediaries**:\n   - **Mutual Contacts**: If you know someone who has a connection to NVIDIA or its executives, ask for an introduction.\n   - **Professional Organizations**: Join relevant professional groups and forums where industry leaders participate.\n\n5. **Follow-Up**:\n   - **Polite Reminders**: If you don’t receive a response after a week or two, send a polite follow-up email.\n   - **Additional Channels**: Consider sending a physical letter to NVIDIA’s headquarters if email attempts are unsuccessful.\n\n### Example Email Template\n\n```plaintext\nSubject: Collaborative Opportunity: World Piece Computer Initiative\n\nDear Mr. Huang,\n\nMy name is Blair Munro, and I am leading an initiative called the 'World Piece Computer'. Our mission is to establish a computational global peace system by inventing a revolutionary computer designed to address and solve major world problems through advanced AI and computational technologies.\n\nGiven NVIDIA's groundbreaking advancements in AI and computing, I believe there is a unique opportunity for collaboration between our efforts and NVIDIA’s expertise. Specifically, we are seeking your guidance and potential partnership in solving the business and technical challenges we face.\n\nI would greatly appreciate the opportunity to discuss this initiative with you in more detail and explore how we might work together to bring this vision to reality. Thank you very much for considering this proposal. I look forward to the possibility of working with NVIDIA on this transformative project.\n\nBest regards,\n\nBlair Munro\nAnchorage, Alaska\nblairmunroakusa@wp.computer\n907-297-9901\n```\n\n### Contact Information for NVIDIA\n\n- **Email**: CEOoffice@nvidia.com (You may need to verify this, as direct emails to CEOs are often not publicly listed.)\n- **Mailing Address**:\n  Jensen Huang\n  NVIDIA Corporation\n  2788 San Tomas Expressway\n  Santa Clara, CA 95051\n  USA\n\n- **LinkedIn**: [Jensen Huang on LinkedIn](https://www.linkedin.com/in/jensenhuang/)\n\nPersistence and professionalism are key. Good luck!"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "gizmo_id": null,
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "pad": "AAAAAAAAAAAAAAAAAAAAA",
+          "parent_id": "a173c96b-3630-4539-aa58-ba625712d731",
+          "request_id": "8a79e5e2a899720b-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "a173c96b-3630-4539-aa58-ba625712d731",
+      "children": [
+        "aaa2f135-0bb5-4010-b62c-d04df7bfbceb"
+      ]
+    },
+    "aaa2f135-0bb5-4010-b62c-d04df7bfbceb": {
+      "id": "aaa2f135-0bb5-4010-b62c-d04df7bfbceb",
+      "message": {
+        "id": "aaa2f135-0bb5-4010-b62c-d04df7bfbceb",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1721774659.451204,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "what is largest corporation by employee number"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "8a7f31c3ee05ebfe-SEA",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "00029993-bb46-4b5c-a3db-00f7cbb3f00a",
+      "children": [
+        "4ff6c513-fcb3-44d8-bd85-82beaac1cab2"
+      ]
+    },
+    "4ff6c513-fcb3-44d8-bd85-82beaac1cab2": {
+      "id": "4ff6c513-fcb3-44d8-bd85-82beaac1cab2",
+      "message": {
+        "id": "4ff6c513-fcb3-44d8-bd85-82beaac1cab2",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1721774665.043252,
+        "update_time": null,
+        "content": {
+          "content_type": "code",
+          "language": "unknown",
+          "response_format_name": null,
+          "text": "search(\"largest corporation by number of employees 2024\")"
+        },
+        "status": "finished_successfully",
+        "end_turn": false,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "gizmo_id": null,
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200007
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "parent_id": "aaa2f135-0bb5-4010-b62c-d04df7bfbceb",
+          "request_id": "8a7f31c3ee05ebfe-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "browser",
+        "channel": null
+      },
+      "parent": "aaa2f135-0bb5-4010-b62c-d04df7bfbceb",
+      "children": [
+        "64068cd3-6d72-4276-9459-14bf92418563"
+      ]
+    },
+    "64068cd3-6d72-4276-9459-14bf92418563": {
+      "id": "64068cd3-6d72-4276-9459-14bf92418563",
+      "message": {
+        "id": "64068cd3-6d72-4276-9459-14bf92418563",
+        "author": {
+          "role": "tool",
+          "name": "browser",
+          "metadata": {}
+        },
+        "create_time": 1721774665.043318,
+        "update_time": null,
+        "content": {
+          "content_type": "tether_browsing_display",
+          "result": "# 【0†The Top U.S. Corporations by Number of Employees - Visual Capitalist†www.visualcapitalist.com】\nThe Largest U.S. Corporations by Number of Employees. ... and were accessed in March 2024. Note that this ranking includes publicly-traded companies only. ... Two companies that rank among the largest U.S. corporations by employees which may be less familiar to the public include Concentrix and Cognizant. Both of these companies are B2B brands ...\n# 【1†Companies ranked by number of employees - CompaniesMarketCap.com†companiesmarketcap.com】\nBouygues. EN.PA. 201,500. $35.74. 0.71%. 🇫🇷 France. This is the list of the world's largest public companies by market number of full-time and part-tim employees. Next 100 .\n# 【2†S&P 500 Companies by Number of Employees 2024 - Liberated Stock Trader†www.liberatedstocktrader.com】\nWalmart is the largest employer listed on the S&P 500 index, with 2.1 million employees and a market capitalization of $425 billion in 2024. Interestingly, Amazon Inc. has 1.54 million employees and is valued at four times that of Walmart at $1,366 billion. Five of the top 10 employers are in the Retail Trade & Consumer Services Sectors.\n# 【3†100 Largest Employers in The U.S. - Stock Analysis†stockanalysis.com】\nThese are the biggest U.S. companies ranked by the total number of employees, updated daily. These are companies based in the United States of America and listed on the stock market. 100 Stocks\n# 【4†Fortune 500 Full List (2024) - 50Pros†www.50pros.com】\nFortune 500 companies are the highest-revenue-generating companies in the United States by rank of total revenue In 2024, the Fortune 500 companies cumulatively included $18,843,981,300,000 (18.84 trillion) in revenue and consisted of 31,002,174 (31 million) employees This is official data gathered from each company's annual 10-K reports, which are required to be released within 90 days of the ...\n# 【5†Companies with the most employees worldwide 2023 | Statista†www.statista.com】\nJul 4, 2024. Walmart had about 2.1 million employees in 2023, the highest of all companies worldwide that year. Walmart also led ranking of companies by revenue in 2022, with a total revenue of ...\n# 【6†List of largest employers - Wikipedia†en.wikipedia.org】\nFollowing is the list of Fortune 500 companies providing the most jobs worldwide, according to a list published in 2023 by Fortune magazine. [4] Rank. Employer. Country. Employees (mn) State-owned. 1. Walmart.\n# 【7†List of largest United States–based employers globally†en.wikipedia.org】\nThis is a list of United States–based companies having the most employees globally. For some companies listed, the majority of total employees live and work in other countries. Employees are mixed and composed of various Economic sectors such as the Business sector, Private sector, Public sector, and the Voluntary sector.Additional classifications include the Agricultural (or primary) sector ...\n# 【8†List of largest companies in the United States by revenue†en.wikipedia.org】\nThis list comprises the largest companies currently in the United States by revenue as of 2023, according to the Fortune 500 tally of companies and Forbes.. The Fortune 500 list of companies includes only publicly traded companies, also including tax inversion companies. There are also corporations having foundation in the United States, such as corporate headquarters, operational headquarters ...\n# 【9†Highest revenue companies 2023 | Statista†www.statista.com】\nWalmart was also the largest company in the world based on its number of employees, ... 2024). The 100 largest companies in the world ranked by revenue in 2023 (in billion U.S. dollars) [Graph].\n# 【10†Intel: Number of Employees 2010-2024 | INTC | MacroTrends†www.macrotrends.net】\nEmployee Count. Interactive chart of Intel (INTC) annual worldwide employee count from 2010 to 2024. Intel total number of employees in 2023 was 124,800, a 5.38% decline from 2022. Intel total number of employees in 2022 was 131,900, a 8.92% increase from 2021. Intel total number of employees in 2021 was 121,100, a 9.49% increase from 2020.\n# 【11†Employees by industry U.S. 2024 | Statista†www.statista.com】\nU.S. number of employees 2024, by industry. As of June 2024, there were about 22.5 million people working in the health care and social assistance industry in the United States. The professional ...\n# 【12†List of largest companies by revenue - Wikipedia†en.wikipedia.org】\nWalmart has been the world's largest company by revenue since 2014.. This list comprises the world's largest companies by consolidated revenue, according to the Fortune Global 500 2023 rankings and other sources. American retail corporation Walmart has been the world's largest company by revenue since 2014.. The list is limited to the largest 50 companies, all of which have annual revenues ...\n# 【13†Wells Fargo: Number of Employees 2010-2024 | WFC - Macrotrends†www.macrotrends.net】\nInteractive chart of Wells Fargo (WFC) annual worldwide employee count from 2010 to 2024. Wells Fargo total number of employees in 2023 was 226,000, a 5.04% decline from 2022.; Wells Fargo total number of employees in 2022 was 238,000, a 3.97% decline from 2021.; Wells Fargo total number of employees in 2021 was 247,848, a 7.7% decline from 2020.\n# 【14†Target: Number of Employees 2010-2024 | TGT | MacroTrends†www.macrotrends.net】\nEmployee Count. Interactive chart of Target (TGT) annual worldwide employee count from 2010 to 2024. Target total number of employees in 2024 was 415,000, a 5.68% decline from 2023. Target total number of employees in 2023 was 440,000, a 2.22% decline from 2022. Target total number of employees in 2022 was 450,000, a 10.02% increase from 2021.\n# 【15†Microsoft number of employees 2005-2023 | Statista†www.statista.com】\nOperating systems market share of desktop PCs 2013-2024, by month ... \"Number of employees at the Microsoft Corporation from 2005 to 2023 (in 1,000s).\" ... Number of employees at the Microsoft ...\n# 【16†Top Companies with Largest Number of Employees - StartupTalky†startuptalky.com】\nTotal Number of Employees: 2.3 million. With a total number of employees of 2.3 million, Walmart is the second company with the largest number of employees. Walmart is in fact counted highest among the Forbes 500 global ranking. Being the largest company with an annual turnover of $559 billion, Walmart owns numerous subsidiaries as well in the ...\n# 【17†Forbes 2024 Global 2000 List - The World’s Largest Companies Ranked†www.forbes.com】\nThe Global 2000 ranks the largest companies in the world using four metrics: sales, profits, assets and market value. As a group, the companies on the 2023 list account for $51.7 trillion in sales ...\n# 【18†America's Best Large Employers 2024 - Forbes†www.forbes.com】\nIn fact, employees rated Microsoft, Google, Salesforce and Meta so favorably that each has landed on our list of America’s Best Large Employers 2024. The annual ranking, produced in partnership ...\n# 【19†Fortune Global 500 – The largest companies in the world by revenue ...†www.fortune.com】\nThe corporations on our annual list of the world’s largest companies delivered a record $41 trillion in aggregate revenues. ... December 2023/January 2024; October/November 2023; August ...\nVisible: 0% - 100%",
+          "summary": null,
+          "assets": [],
+          "tether_id": null
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 0.0,
+        "metadata": {
+          "cloud_doc_urls": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "_cite_metadata": {
+            "citation_format": {
+              "name": "tether_og"
+            },
+            "metadata_list": [
+              {
+                "type": "webpage",
+                "title": "The Top U.S. Corporations by Number of Employees - Visual Capitalist",
+                "url": "https://www.visualcapitalist.com/ranked-the-largest-u-s-corporations-by-number-of-employees/",
+                "text": "\nThe Largest U.S. Corporations by Number of Employees. ... and were accessed in March 2024. Note that this ranking includes publicly-traded companies only. ... Two companies that rank among the largest U.S. corporations by employees which may be less familiar to the public include Concentrix and Cognizant. Both of these companies are B2B brands ...\n",
+                "pub_date": "2024-07-19T18:33:00.0000000Z",
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Companies ranked by number of employees - CompaniesMarketCap.com",
+                "url": "https://companiesmarketcap.com/largest-companies-by-number-of-employees/",
+                "text": "\nBouygues. EN.PA. 201,500. $35.74. 0.71%. 🇫🇷 France. This is the list of the world's largest public companies by market number of full-time and part-tim employees. Next 100 .\n",
+                "pub_date": "2024-07-22T20:22:00.0000000Z",
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "S&P 500 Companies by Number of Employees 2024 - Liberated Stock Trader",
+                "url": "https://www.liberatedstocktrader.com/sp-500-companies-list-by-number-of-employees/",
+                "text": "\nWalmart is the largest employer listed on the S&P 500 index, with 2.1 million employees and a market capitalization of $425 billion in 2024. Interestingly, Amazon Inc. has 1.54 million employees and is valued at four times that of Walmart at $1,366 billion. Five of the top 10 employers are in the Retail Trade & Consumer Services Sectors.\n",
+                "pub_date": "2024-07-22T07:07:00.0000000Z",
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "100 Largest Employers in The U.S. - Stock Analysis",
+                "url": "https://stockanalysis.com/list/most-employees/",
+                "text": "\nThese are the biggest U.S. companies ranked by the total number of employees, updated daily. These are companies based in the United States of America and listed on the stock market. 100 Stocks\n",
+                "pub_date": "2024-07-20T20:05:00.0000000Z",
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Fortune 500 Full List (2024) - 50Pros",
+                "url": "https://www.50pros.com/fortune500",
+                "text": "\nFortune 500 companies are the highest-revenue-generating companies in the United States by rank of total revenue In 2024, the Fortune 500 companies cumulatively included $18,843,981,300,000 (18.84 trillion) in revenue and consisted of 31,002,174 (31 million) employees This is official data gathered from each company's annual 10-K reports, which are required to be released within 90 days of the ...\n",
+                "pub_date": "2024-07-23T03:36:00.0000000Z",
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Companies with the most employees worldwide 2023 | Statista",
+                "url": "https://www.statista.com/statistics/264671/top-50-companies-based-on-number-of-employees/",
+                "text": "\nJul 4, 2024. Walmart had about 2.1 million employees in 2023, the highest of all companies worldwide that year. Walmart also led ranking of companies by revenue in 2022, with a total revenue of ...\n",
+                "pub_date": "2024-07-21T02:04:00.0000000Z",
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "List of largest employers - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/List_of_largest_employers",
+                "text": "\nFollowing is the list of Fortune 500 companies providing the most jobs worldwide, according to a list published in 2023 by Fortune magazine. [4] Rank. Employer. Country. Employees (mn) State-owned. 1. Walmart.\n",
+                "pub_date": "2024-07-22T07:15:00.0000000Z",
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "List of largest United States–based employers globally",
+                "url": "https://en.wikipedia.org/wiki/List_of_largest_United_States%E2%80%93based_employers_globally",
+                "text": "\nThis is a list of United States–based companies having the most employees globally. For some companies listed, the majority of total employees live and work in other countries. Employees are mixed and composed of various Economic sectors such as the Business sector, Private sector, Public sector, and the Voluntary sector.Additional classifications include the Agricultural (or primary) sector ...\n",
+                "pub_date": "2024-07-22T07:06:00.0000000Z",
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "List of largest companies in the United States by revenue",
+                "url": "https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue",
+                "text": "\nThis list comprises the largest companies currently in the United States by revenue as of 2023, according to the Fortune 500 tally of companies and Forbes.. The Fortune 500 list of companies includes only publicly traded companies, also including tax inversion companies. There are also corporations having foundation in the United States, such as corporate headquarters, operational headquarters ...\n",
+                "pub_date": "2024-07-23T03:29:00.0000000Z",
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Highest revenue companies 2023 | Statista",
+                "url": "https://www.statista.com/statistics/263265/top-companies-in-the-world-by-revenue/",
+                "text": "\nWalmart was also the largest company in the world based on its number of employees, ... 2024). The 100 largest companies in the world ranked by revenue in 2023 (in billion U.S. dollars) [Graph].\n",
+                "pub_date": "2024-07-22T15:38:00.0000000Z",
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Intel: Number of Employees 2010-2024 | INTC | MacroTrends",
+                "url": "https://www.macrotrends.net/stocks/charts/INTC/intel/number-of-employees",
+                "text": "\nEmployee Count. Interactive chart of Intel (INTC) annual worldwide employee count from 2010 to 2024. Intel total number of employees in 2023 was 124,800, a 5.38% decline from 2022. Intel total number of employees in 2022 was 131,900, a 8.92% increase from 2021. Intel total number of employees in 2021 was 121,100, a 9.49% increase from 2020.\n",
+                "pub_date": "2024-07-18T12:16:00.0000000Z",
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Employees by industry U.S. 2024 | Statista",
+                "url": "https://www.statista.com/statistics/978479/number-employees-united-states-industry/",
+                "text": "\nU.S. number of employees 2024, by industry. As of June 2024, there were about 22.5 million people working in the health care and social assistance industry in the United States. The professional ...\n",
+                "pub_date": "2024-07-20T17:59:00.0000000Z",
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "List of largest companies by revenue - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/List_of_largest_companies_by_revenue",
+                "text": "\nWalmart has been the world's largest company by revenue since 2014.. This list comprises the world's largest companies by consolidated revenue, according to the Fortune Global 500 2023 rankings and other sources. American retail corporation Walmart has been the world's largest company by revenue since 2014.. The list is limited to the largest 50 companies, all of which have annual revenues ...\n",
+                "pub_date": "2024-07-22T00:14:00.0000000Z",
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Wells Fargo: Number of Employees 2010-2024 | WFC - Macrotrends",
+                "url": "https://www.macrotrends.net/stocks/charts/WFC/wells-fargo/number-of-employees",
+                "text": "\nInteractive chart of Wells Fargo (WFC) annual worldwide employee count from 2010 to 2024. Wells Fargo total number of employees in 2023 was 226,000, a 5.04% decline from 2022.; Wells Fargo total number of employees in 2022 was 238,000, a 3.97% decline from 2021.; Wells Fargo total number of employees in 2021 was 247,848, a 7.7% decline from 2020.\n",
+                "pub_date": "2024-07-21T05:39:00.0000000Z",
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Target: Number of Employees 2010-2024 | TGT | MacroTrends",
+                "url": "https://www.macrotrends.net/stocks/charts/TGT/target/number-of-employees",
+                "text": "\nEmployee Count. Interactive chart of Target (TGT) annual worldwide employee count from 2010 to 2024. Target total number of employees in 2024 was 415,000, a 5.68% decline from 2023. Target total number of employees in 2023 was 440,000, a 2.22% decline from 2022. Target total number of employees in 2022 was 450,000, a 10.02% increase from 2021.\n",
+                "pub_date": "2024-07-21T19:32:00.0000000Z",
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Microsoft number of employees 2005-2023 | Statista",
+                "url": "https://www.statista.com/statistics/273475/number-of-employees-at-the-microsoft-corporation-since-2005/",
+                "text": "\nOperating systems market share of desktop PCs 2013-2024, by month ... \"Number of employees at the Microsoft Corporation from 2005 to 2023 (in 1,000s).\" ... Number of employees at the Microsoft ...\n",
+                "pub_date": "2024-07-21T08:11:00.0000000Z",
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Top Companies with Largest Number of Employees - StartupTalky",
+                "url": "https://startuptalky.com/worlds-largest-employers/",
+                "text": "\nTotal Number of Employees: 2.3 million. With a total number of employees of 2.3 million, Walmart is the second company with the largest number of employees. Walmart is in fact counted highest among the Forbes 500 global ranking. Being the largest company with an annual turnover of $559 billion, Walmart owns numerous subsidiaries as well in the ...\n",
+                "pub_date": "2024-07-17T20:38:00.0000000Z",
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Forbes 2024 Global 2000 List - The World’s Largest Companies Ranked",
+                "url": "https://www.forbes.com/lists/global2000/",
+                "text": "\nThe Global 2000 ranks the largest companies in the world using four metrics: sales, profits, assets and market value. As a group, the companies on the 2023 list account for $51.7 trillion in sales ...\n",
+                "pub_date": "2024-07-23T01:37:00.0000000Z",
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "America's Best Large Employers 2024 - Forbes",
+                "url": "https://www.forbes.com/lists/best-large-employers/",
+                "text": "\nIn fact, employees rated Microsoft, Google, Salesforce and Meta so favorably that each has landed on our list of America’s Best Large Employers 2024. The annual ranking, produced in partnership ...\n",
+                "pub_date": "2024-07-23T08:12:00.0000000Z",
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Fortune Global 500 – The largest companies in the world by revenue ...",
+                "url": "https://www.fortune.com/ranking/global500/",
+                "text": "\nThe corporations on our annual list of the world’s largest companies delivered a record $41 trillion in aggregate revenues. ... December 2023/January 2024; October/November 2023; August ...\nVisible: 0% - 100%",
+                "pub_date": "2024-07-23T02:17:00.0000000Z",
+                "extra": null
+              },
+              {
+                "type": "webpage",
+                "title": "Search results for query: 'largest corporation by number of employees 2024'",
+                "url": "",
+                "text": "# 【0†The Top U.S. Corporations by Number of Employees - Visual Capitalist†www.visualcapitalist.com】\nThe Largest U.S. Corporations by Number of Employees. ... and were accessed in March 2024. Note that this ranking includes publicly-traded companies only. ... Two companies that rank among the largest U.S. corporations by employees which may be less familiar to the public include Concentrix and Cognizant. Both of these companies are B2B brands ...\n# 【1†Companies ranked by number of employees - CompaniesMarketCap.com†companiesmarketcap.com】\nBouygues. EN.PA. 201,500. $35.74. 0.71%. 🇫🇷 France. This is the list of the world's largest public companies by market number of full-time and part-tim employees. Next 100 .\n# 【2†S&P 500 Companies by Number of Employees 2024 - Liberated Stock Trader†www.liberatedstocktrader.com】\nWalmart is the largest employer listed on the S&P 500 index, with 2.1 million employees and a market capitalization of $425 billion in 2024. Interestingly, Amazon Inc. has 1.54 million employees and is valued at four times that of Walmart at $1,366 billion. Five of the top 10 employers are in the Retail Trade & Consumer Services Sectors.\n# 【3†100 Largest Employers in The U.S. - Stock Analysis†stockanalysis.com】\nThese are the biggest U.S. companies ranked by the total number of employees, updated daily. These are companies based in the United States of America and listed on the stock market. 100 Stocks\n# 【4†Fortune 500 Full List (2024) - 50Pros†www.50pros.com】\nFortune 500 companies are the highest-revenue-generating companies in the United States by rank of total revenue In 2024, the Fortune 500 companies cumulatively included $18,843,981,300,000 (18.84 trillion) in revenue and consisted of 31,002,174 (31 million) employees This is official data gathered from each company's annual 10-K reports, which are required to be released within 90 days of the ...\n# 【5†Companies with the most employees worldwide 2023 | Statista†www.statista.com】\nJul 4, 2024. Walmart had about 2.1 million employees in 2023, the highest of all companies worldwide that year. Walmart also led ranking of companies by revenue in 2022, with a total revenue of ...\n# 【6†List of largest employers - Wikipedia†en.wikipedia.org】\nFollowing is the list of Fortune 500 companies providing the most jobs worldwide, according to a list published in 2023 by Fortune magazine. [4] Rank. Employer. Country. Employees (mn) State-owned. 1. Walmart.\n# 【7†List of largest United States–based employers globally†en.wikipedia.org】\nThis is a list of United States–based companies having the most employees globally. For some companies listed, the majority of total employees live and work in other countries. Employees are mixed and composed of various Economic sectors such as the Business sector, Private sector, Public sector, and the Voluntary sector.Additional classifications include the Agricultural (or primary) sector ...\n# 【8†List of largest companies in the United States by revenue†en.wikipedia.org】\nThis list comprises the largest companies currently in the United States by revenue as of 2023, according to the Fortune 500 tally of companies and Forbes.. The Fortune 500 list of companies includes only publicly traded companies, also including tax inversion companies. There are also corporations having foundation in the United States, such as corporate headquarters, operational headquarters ...\n# 【9†Highest revenue companies 2023 | Statista†www.statista.com】\nWalmart was also the largest company in the world based on its number of employees, ... 2024). The 100 largest companies in the world ranked by revenue in 2023 (in billion U.S. dollars) [Graph].\n# 【10†Intel: Number of Employees 2010-2024 | INTC | MacroTrends†www.macrotrends.net】\nEmployee Count. Interactive chart of Intel (INTC) annual worldwide employee count from 2010 to 2024. Intel total number of employees in 2023 was 124,800, a 5.38% decline from 2022. Intel total number of employees in 2022 was 131,900, a 8.92% increase from 2021. Intel total number of employees in 2021 was 121,100, a 9.49% increase from 2020.\n# 【11†Employees by industry U.S. 2024 | Statista†www.statista.com】\nU.S. number of employees 2024, by industry. As of June 2024, there were about 22.5 million people working in the health care and social assistance industry in the United States. The professional ...\n# 【12†List of largest companies by revenue - Wikipedia†en.wikipedia.org】\nWalmart has been the world's largest company by revenue since 2014.. This list comprises the world's largest companies by consolidated revenue, according to the Fortune Global 500 2023 rankings and other sources. American retail corporation Walmart has been the world's largest company by revenue since 2014.. The list is limited to the largest 50 companies, all of which have annual revenues ...\n# 【13†Wells Fargo: Number of Employees 2010-2024 | WFC - Macrotrends†www.macrotrends.net】\nInteractive chart of Wells Fargo (WFC) annual worldwide employee count from 2010 to 2024. Wells Fargo total number of employees in 2023 was 226,000, a 5.04% decline from 2022.; Wells Fargo total number of employees in 2022 was 238,000, a 3.97% decline from 2021.; Wells Fargo total number of employees in 2021 was 247,848, a 7.7% decline from 2020.\n# 【14†Target: Number of Employees 2010-2024 | TGT | MacroTrends†www.macrotrends.net】\nEmployee Count. Interactive chart of Target (TGT) annual worldwide employee count from 2010 to 2024. Target total number of employees in 2024 was 415,000, a 5.68% decline from 2023. Target total number of employees in 2023 was 440,000, a 2.22% decline from 2022. Target total number of employees in 2022 was 450,000, a 10.02% increase from 2021.\n# 【15†Microsoft number of employees 2005-2023 | Statista†www.statista.com】\nOperating systems market share of desktop PCs 2013-2024, by month ... \"Number of employees at the Microsoft Corporation from 2005 to 2023 (in 1,000s).\" ... Number of employees at the Microsoft ...\n# 【16†Top Companies with Largest Number of Employees - StartupTalky†startuptalky.com】\nTotal Number of Employees: 2.3 million. With a total number of employees of 2.3 million, Walmart is the second company with the largest number of employees. Walmart is in fact counted highest among the Forbes 500 global ranking. Being the largest company with an annual turnover of $559 billion, Walmart owns numerous subsidiaries as well in the ...\n# 【17†Forbes 2024 Global 2000 List - The World’s Largest Companies Ranked†www.forbes.com】\nThe Global 2000 ranks the largest companies in the world using four metrics: sales, profits, assets and market value. As a group, the companies on the 2023 list account for $51.7 trillion in sales ...\n# 【18†America's Best Large Employers 2024 - Forbes†www.forbes.com】\nIn fact, employees rated Microsoft, Google, Salesforce and Meta so favorably that each has landed on our list of America’s Best Large Employers 2024. The annual ranking, produced in partnership ...\n# 【19†Fortune Global 500 – The largest companies in the world by revenue ...†www.fortune.com】\nThe corporations on our annual list of the world’s largest companies delivered a record $41 trillion in aggregate revenues. ... December 2023/January 2024; October/November 2023; August ...\nVisible: 0% - 100%",
+                "pub_date": null,
+                "extra": null
+              }
+            ],
+            "original_query": null
+          },
+          "command": "search",
+          "args": [
+            "largest corporation by number of employees 2024"
+          ],
+          "status": "finished",
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "parent_id": "4ff6c513-fcb3-44d8-bd85-82beaac1cab2",
+          "request_id": "8a7f31c3ee05ebfe-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "4ff6c513-fcb3-44d8-bd85-82beaac1cab2",
+      "children": [
+        "ae027503-7bf3-4b60-a824-f0529d554ae9"
+      ]
+    },
+    "ae027503-7bf3-4b60-a824-f0529d554ae9": {
+      "id": "ae027503-7bf3-4b60-a824-f0529d554ae9",
+      "message": {
+        "id": "ae027503-7bf3-4b60-a824-f0529d554ae9",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1721774665.043364,
+        "update_time": null,
+        "content": {
+          "content_type": "code",
+          "language": "unknown",
+          "response_format_name": null,
+          "text": "mclick([1, 5, 6])"
+        },
+        "status": "finished_successfully",
+        "end_turn": false,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "gizmo_id": null,
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200007
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "parent_id": "64068cd3-6d72-4276-9459-14bf92418563",
+          "request_id": "8a7f31c3ee05ebfe-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "browser",
+        "channel": null
+      },
+      "parent": "64068cd3-6d72-4276-9459-14bf92418563",
+      "children": [
+        "6366ce16-5718-4b31-a6ae-d00f2424ec26"
+      ]
+    },
+    "6366ce16-5718-4b31-a6ae-d00f2424ec26": {
+      "id": "6366ce16-5718-4b31-a6ae-d00f2424ec26",
+      "message": {
+        "id": "6366ce16-5718-4b31-a6ae-d00f2424ec26",
+        "author": {
+          "role": "tool",
+          "name": "browser",
+          "metadata": {}
+        },
+        "create_time": 1721774665.043409,
+        "update_time": null,
+        "content": {
+          "content_type": "tether_quote",
+          "url": "https://companiesmarketcap.com/largest-companies-by-number-of-employees/",
+          "domain": "companiesmarketcap.com",
+          "text": "[Image 92: favorite icon]46\n\n[Image 93: Pepsico logo]\n\n【134†Pepsico PEP】\n\n318,000$166.28 0.82% USA  \n[Image 94: favorite icon]47\n\n[Image 95: Infosys logo]\n\n【135†Infosys INFY】\n\n317,240$22.08 1.33% India  \n[Image 96: favorite icon]48\n\n[Image 97: Costco logo]\n\n【136†Costco COST】\n\n316,000$852.11 0.55% USA  \n[Image 98: favorite icon]49\n\n[Image 99: Sodexo logo]\n\n【137†Sodexo SW.PA】\n\n315,147$89.00 1.55% France  \n[Image 100: favorite icon]50\n\n[Image 101: JPMorgan Chase logo]\n\n【138†JPMorgan Chase JPM】\n\n311,921$210.33 0.02% USA  \n[Image 102: favorite icon]51\n\n[Image 103: Bank of China logo]\n\n【139†Bank of China 601988.SS】\n\n306,182$0.65 2.37% China  \n[Image 104: favorite icon]52\n\n[Image 105: Carrefour logo]\n\n【140†Carrefour CA.PA】\n\n305,309$15.91 0.24% France  \n[Image 106: favorite icon]53\n\n[Image 107: Insperity logo]\n\n【141†Insperity NSP】\n\n303,904$100.23 0.17% USA  \n[Image 108: favorite icon]54\n\n[Image 109: CK Hutchison Holdings logo]\n\n【142†CK Hutchison Holdings 0001.HK】\n\n300,000$5.26 0.24% Hong Kong  \n[Image 110: favorite icon]55\n\n[Image 111: Lowe's Companies logo]\n\n【143†Lowe's Companies LOW】\n\n300,000$238.31 0.82% USA  \n[Image 112: favorite icon]56\n\n[Image 113: China Railway Group logo]\n\n【144†China Railway Group 0390.HK】\n\n299,652$0.49 0.00% China  \n[Image 114: favorite icon]57\n\n[Image 115: Sumitomo Denki Kōgyō logo]\n\n【145†Sumitomo Denki Kōgyō 5802.T】\n\n293,266$15.28 0.76% Japan  \n[Image 116: favorite icon]58\n\n[Image 117: Sberbank logo]\n\n【146†Sberbank SBER.ME】\n\n287,866$3.35 0.57% Russia  \n[Image 118: favorite icon]59\n\n[Image 119: IBM logo]\n\n【147†IBM IBM】\n\n282,200$184.10 0.03% USA  \n[Image 120: favorite icon]60\n\n[Image 121: Vinci logo]\n\n【148†Vinci DG.PA】\n\n279,426$115.48 0.61% France  \n[Image 122: favorite icon]61\n\n[Image 123: China Telecom logo]\n\n【149†China Telecom 0728.HK】\n\n278,539$0.62 0.21% China  \n[Image 124: favorite icon]62\n\n[Image 125: JBS logo]\n\n【150†JBS JBSS3.SA】\n\n270,000$5.47 2.46% Brazil  \n[Image 126: favorite icon]63\n\n[Image 127: Nestlé logo]\n\n【151†Nestlé NESN.SW】\n\n270,000$105.76 0.25% Switzerland  \n[Image 128: favorite icon]64\n\n[Image 129: China Railway Construction logo]\n\n【152†China Railway Construction 601186.SS】\n\n269,577$1.11 0.74% China  \n[Image 130: favorite icon]65\n\n[Image 131: Hitachi logo]\n\n【153†Hitachi 6501.T】\n\n268,655$22.18 0.29% Japan  \n[Image 132: favorite icon]66\n\n[Image 133: ISS A/S logo]\n\n【154†ISS A/S ISS.CO】\n\n265,883$18.25 0.00% Denmark  \n[Image 134: favorite icon]67\n\n[Image 135: Aramark logo]\n\n【155†Aramark ARMK】\n\n262,550$33.64 1.11% USA  \n[Image 136: favorite icon]68\n\n[Image 137: Mahindra & Mahindra logo]\n\n【156†Mahindra & Mahindra M&M.NS】\n\n260,000$33.72 0.59% India  \n[Image 138: favorite icon]69\n\n[Image 139: Stellantis logo]\n\n【157†Stellantis STLA】\n\n258,275$20.10 2.95% Netherlands  \n[Image 140: favorite icon]70\n\n[Image 141: Coal India logo]\n\n【158†Coal India COALINDIA.NS】\n\n248,550$5.82 0.86% India  \n[Image 142: favorite icon]71\n\n[Image 143: China Unicom logo]\n\n【159†China Unicom 0762.HK】\n\n242,891$0.96 2.05% Hong Kong  \n[Image 144: favorite icon]72\n\n[Image 145: Brookfield Corporation logo]\n\n【160†Brookfield Corporation BN】\n\n240,000$47.05 0.34% Canada  \n[Image 146: favorite icon]73\n\n[Image 147: Jardine Cycle & Carriage logo]\n\n【161†Jardine Cycle & Carriage C07.SI】\n\n240,000$19.21 1.89% Singapore  \n[Image 148: favorite icon]74\n\n[Image 149: Citigroup logo]\n\n【162†Citigroup C】\n\n237,000$64.66 0.25% USA  \n[Image 150: favorite icon]75\n\n[Image 151: Luxshare Precision logo]\n\n【163†Luxshare Precision 002475.SZ】\n\n236,932$5.28 3.25% China  \n\nClose Ad X  \n\n[Image 152: favorite icon]76\n\n[Image 153: Reliance Industries logo]\n\n【164†Reliance Industries RELIANCE.NS】\n\n236,334$35.56 0.85% India  \n[Image 154: favorite icon]77\n\n[Image 155: Jabil logo]\n\n【165†Jabil JBL】\n\n236,000$112.17 1.00% USA  \n[Image 156: favorite icon]78\n\n[Image 157: Walmex logo]\n\n【166†Walmex WMMVF】\n\n234,643$3.50 1.96% Mexico  \n[Image 158: favorite icon]79\n\n[Image 159: Wipro logo]\n\n【167†Wipro WIT】\n\n234,000$5.96 0.67% India  \n[Image 160: favorite icon]80\n\n[Image 161: State Bank of India logo]\n\n【168†State Bank of India SBIN.NS】\n\n232,296$10.32 1.47% India  \n[Image 162: favorite icon]81\n\n[Image 163: Panasonic logo]\n\n【169†Panasonic 6752.T】\n\n228,420$8.17 0.04% Japan  \n[Image 164: favorite icon]82\n\n[Image 165: Japan Post Holdings logo]\n\n【170†Japan Post Holdings 6178.T】\n\n227,369$10.20 0.16% Japan  \n[Image 166: favorite icon]83\n\n[Image 167: Wells Fargo logo]\n\n【171†Wells Fargo WFC】\n\n224,824$59.67 0.90% USA  \n[Image 168: favorite icon]84\n\n[Image 169: Microsoft logo]\n\n【172†Microsoft MSFT】\n\n221,000$444.85 0.43% USA  \n[Image 170: favorite icon]85\n\n[Image 171: George Weston logo]\n\n【173†George Weston WN.TO】\n\n220,000$154.57 0.63% Canada  \n[Image 172: favorite icon]86\n\n[Image 173: Loblaw Companies logo]\n\n【174†Loblaw Companies L.TO】\n\n220,000$123.20 0.56% Canada  \n[Image 174: favorite icon]87\n\n[Image 175: HCA Healthcare logo]\n\n【175†HCA Healthcare HCA】\n\n220,000$340.17 4.55% USA  \n[Image 176: favorite icon]88\n\n[Image 177: HCL Technologies logo]\n\n【176†HCL Technologies HCLTECH.NS】\n\n219,325$19.10 1.35% India  \n[Image 178: favorite icon]89\n\n[Image 179: CVS Health logo]\n\n【177†CVS Health CVS】\n\n219,000$57.97 0.62% USA  \n[Image 180: favorite icon]90\n\n[Image 181: SAIC Motor logo]\n\n【178†SAIC Motor 600104.SS】\n\n215,999$2.02 1.48% China  \n[Image 182: favorite icon]91\n\n[Image 183: HSBC logo]\n\n【179†HSBC HSBC】\n\n214,400$43.23 0.55% UK  \n[Image 184: favorite icon]92\n\n[Image 18",
+          "title": "Companies ranked by number of employees - CompaniesMarketCap.com",
+          "tether_id": null
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 0.0,
+        "metadata": {
+          "_cite_metadata": {
+            "citation_format": {
+              "name": "tether_og"
+            },
+            "metadata_list": [
+              {
+                "type": "webpage",
+                "title": "Companies ranked by number of employees - CompaniesMarketCap.com",
+                "url": "https://companiesmarketcap.com/largest-companies-by-number-of-employees/",
+                "text": "[Image 92: favorite icon]46\n\n[Image 93: Pepsico logo]\n\n【134†Pepsico PEP】\n\n318,000$166.28 0.82% USA  \n[Image 94: favorite icon]47\n\n[Image 95: Infosys logo]\n\n【135†Infosys INFY】\n\n317,240$22.08 1.33% India  \n[Image 96: favorite icon]48\n\n[Image 97: Costco logo]\n\n【136†Costco COST】\n\n316,000$852.11 0.55% USA  \n[Image 98: favorite icon]49\n\n[Image 99: Sodexo logo]\n\n【137†Sodexo SW.PA】\n\n315,147$89.00 1.55% France  \n[Image 100: favorite icon]50\n\n[Image 101: JPMorgan Chase logo]\n\n【138†JPMorgan Chase JPM】\n\n311,921$210.33 0.02% USA  \n[Image 102: favorite icon]51\n\n[Image 103: Bank of China logo]\n\n【139†Bank of China 601988.SS】\n\n306,182$0.65 2.37% China  \n[Image 104: favorite icon]52\n\n[Image 105: Carrefour logo]\n\n【140†Carrefour CA.PA】\n\n305,309$15.91 0.24% France  \n[Image 106: favorite icon]53\n\n[Image 107: Insperity logo]\n\n【141†Insperity NSP】\n\n303,904$100.23 0.17% USA  \n[Image 108: favorite icon]54\n\n[Image 109: CK Hutchison Holdings logo]\n\n【142†CK Hutchison Holdings 0001.HK】\n\n300,000$5.26 0.24% Hong Kong  \n[Image 110: favorite icon]55\n\n[Image 111: Lowe's Companies logo]\n\n【143†Lowe's Companies LOW】\n\n300,000$238.31 0.82% USA  \n[Image 112: favorite icon]56\n\n[Image 113: China Railway Group logo]\n\n【144†China Railway Group 0390.HK】\n\n299,652$0.49 0.00% China  \n[Image 114: favorite icon]57\n\n[Image 115: Sumitomo Denki Kōgyō logo]\n\n【145†Sumitomo Denki Kōgyō 5802.T】\n\n293,266$15.28 0.76% Japan  \n[Image 116: favorite icon]58\n\n[Image 117: Sberbank logo]\n\n【146†Sberbank SBER.ME】\n\n287,866$3.35 0.57% Russia  \n[Image 118: favorite icon]59\n\n[Image 119: IBM logo]\n\n【147†IBM IBM】\n\n282,200$184.10 0.03% USA  \n[Image 120: favorite icon]60\n\n[Image 121: Vinci logo]\n\n【148†Vinci DG.PA】\n\n279,426$115.48 0.61% France  \n[Image 122: favorite icon]61\n\n[Image 123: China Telecom logo]\n\n【149†China Telecom 0728.HK】\n\n278,539$0.62 0.21% China  \n[Image 124: favorite icon]62\n\n[Image 125: JBS logo]\n\n【150†JBS JBSS3.SA】\n\n270,000$5.47 2.46% Brazil  \n[Image 126: favorite icon]63\n\n[Image 127: Nestlé logo]\n\n【151†Nestlé NESN.SW】\n\n270,000$105.76 0.25% Switzerland  \n[Image 128: favorite icon]64\n\n[Image 129: China Railway Construction logo]\n\n【152†China Railway Construction 601186.SS】\n\n269,577$1.11 0.74% China  \n[Image 130: favorite icon]65\n\n[Image 131: Hitachi logo]\n\n【153†Hitachi 6501.T】\n\n268,655$22.18 0.29% Japan  \n[Image 132: favorite icon]66\n\n[Image 133: ISS A/S logo]\n\n【154†ISS A/S ISS.CO】\n\n265,883$18.25 0.00% Denmark  \n[Image 134: favorite icon]67\n\n[Image 135: Aramark logo]\n\n【155†Aramark ARMK】\n\n262,550$33.64 1.11% USA  \n[Image 136: favorite icon]68\n\n[Image 137: Mahindra & Mahindra logo]\n\n【156†Mahindra & Mahindra M&M.NS】\n\n260,000$33.72 0.59% India  \n[Image 138: favorite icon]69\n\n[Image 139: Stellantis logo]\n\n【157†Stellantis STLA】\n\n258,275$20.10 2.95% Netherlands  \n[Image 140: favorite icon]70\n\n[Image 141: Coal India logo]\n\n【158†Coal India COALINDIA.NS】\n\n248,550$5.82 0.86% India  \n[Image 142: favorite icon]71\n\n[Image 143: China Unicom logo]\n\n【159†China Unicom 0762.HK】\n\n242,891$0.96 2.05% Hong Kong  \n[Image 144: favorite icon]72\n\n[Image 145: Brookfield Corporation logo]\n\n【160†Brookfield Corporation BN】\n\n240,000$47.05 0.34% Canada  \n[Image 146: favorite icon]73\n\n[Image 147: Jardine Cycle & Carriage logo]\n\n【161†Jardine Cycle & Carriage C07.SI】\n\n240,000$19.21 1.89% Singapore  \n[Image 148: favorite icon]74\n\n[Image 149: Citigroup logo]\n\n【162†Citigroup C】\n\n237,000$64.66 0.25% USA  \n[Image 150: favorite icon]75\n\n[Image 151: Luxshare Precision logo]\n\n【163†Luxshare Precision 002475.SZ】\n\n236,932$5.28 3.25% China  \n\nClose Ad X  \n\n[Image 152: favorite icon]76\n\n[Image 153: Reliance Industries logo]\n\n【164†Reliance Industries RELIANCE.NS】\n\n236,334$35.56 0.85% India  \n[Image 154: favorite icon]77\n\n[Image 155: Jabil logo]\n\n【165†Jabil JBL】\n\n236,000$112.17 1.00% USA  \n[Image 156: favorite icon]78\n\n[Image 157: Walmex logo]\n\n【166†Walmex WMMVF】\n\n234,643$3.50 1.96% Mexico  \n[Image 158: favorite icon]79\n\n[Image 159: Wipro logo]\n\n【167†Wipro WIT】\n\n234,000$5.96 0.67% India  \n[Image 160: favorite icon]80\n\n[Image 161: State Bank of India logo]\n\n【168†State Bank of India SBIN.NS】\n\n232,296$10.32 1.47% India  \n[Image 162: favorite icon]81\n\n[Image 163: Panasonic logo]\n\n【169†Panasonic 6752.T】\n\n228,420$8.17 0.04% Japan  \n[Image 164: favorite icon]82\n\n[Image 165: Japan Post Holdings logo]\n\n【170†Japan Post Holdings 6178.T】\n\n227,369$10.20 0.16% Japan  \n[Image 166: favorite icon]83\n\n[Image 167: Wells Fargo logo]\n\n【171†Wells Fargo WFC】\n\n224,824$59.67 0.90% USA  \n[Image 168: favorite icon]84\n\n[Image 169: Microsoft logo]\n\n【172†Microsoft MSFT】\n\n221,000$444.85 0.43% USA  \n[Image 170: favorite icon]85\n\n[Image 171: George Weston logo]\n\n【173†George Weston WN.TO】\n\n220,000$154.57 0.63% Canada  \n[Image 172: favorite icon]86\n\n[Image 173: Loblaw Companies logo]\n\n【174†Loblaw Companies L.TO】\n\n220,000$123.20 0.56% Canada  \n[Image 174: favorite icon]87\n\n[Image 175: HCA Healthcare logo]\n\n【175†HCA Healthcare HCA】\n\n220,000$340.17 4.55% USA  \n[Image 176: favorite icon]88\n\n[Image 177: HCL Technologies logo]\n\n【176†HCL Technologies HCLTECH.NS】\n\n219,325$19.10 1.35% India  \n[Image 178: favorite icon]89\n\n[Image 179: CVS Health logo]\n\n【177†CVS Health CVS】\n\n219,000$57.97 0.62% USA  \n[Image 180: favorite icon]90\n\n[Image 181: SAIC Motor logo]\n\n【178†SAIC Motor 600104.SS】\n\n215,999$2.02 1.48% China  \n[Image 182: favorite icon]91\n\n[Image 183: HSBC logo]\n\n【179†HSBC HSBC】\n\n214,400$43.23 0.55% UK  \n[Image 184: favorite icon]92\n\n[Image 18",
+                "pub_date": null,
+                "extra": null
+              }
+            ],
+            "original_query": null
+          },
+          "command": "mclick",
+          "args": [
+            "[1, 5, 6]"
+          ],
+          "status": "finished",
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "parent_id": "ae027503-7bf3-4b60-a824-f0529d554ae9",
+          "request_id": "8a7f31c3ee05ebfe-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "ae027503-7bf3-4b60-a824-f0529d554ae9",
+      "children": [
+        "18d16d08-e582-4deb-83a0-a64b59f24db5"
+      ]
+    },
+    "18d16d08-e582-4deb-83a0-a64b59f24db5": {
+      "id": "18d16d08-e582-4deb-83a0-a64b59f24db5",
+      "message": {
+        "id": "18d16d08-e582-4deb-83a0-a64b59f24db5",
+        "author": {
+          "role": "tool",
+          "name": "browser",
+          "metadata": {}
+        },
+        "create_time": 1721774665.043452,
+        "update_time": null,
+        "content": {
+          "content_type": "tether_quote",
+          "url": "https://www.statista.com/statistics/264671/top-50-companies-based-on-number-of-employees/",
+          "domain": "www.statista.com",
+          "text": "\n[Image 0: Einar H. Dyvik]\n\nEinar H. Dyvik \n\nResearch expert covering Nordics and global data for society, economy, and politics \n\n【69†Get in touch with us now】\n\n Profit from additional features with an Employee Account \n\nPlease create an employee account to be able to mark statistics as favorites. Then you can access your favorite statistics via the star in the header. \n\n【64† Register now 】\n\n[Image 1: Create Employee Account]\n\n Profit from the additional features of your individual account \n\nCurrently, you are using a shared account. To use individual functions (e.g., mark statistics as favourites, set statistic alerts) please log in with your personal account.  \n\nIf you are an admin, please authenticate by logging in again. \n\n【65† Login 】\n\n[Image 2]\n\nTo download this statistic in XLS format you need a Statista Account \n\nTo download this statistic in PNG format you need a Statista Account \n\nTo download this statistic in PDF format you need a Statista Account \n\nTo download this statistic in PPT format you need a Statista Account \n\nAs a Premium user you get access to the detailed source references and background information about this statistic.\n\nAs a Premium user you get access to background information and details about the release of this statistic.\n\nAs soon as this statistic is updated, you will immediately be notified via e-mail.\n\n… to incorporate the statistic into your presentation at any time.\n\nYou need at least a Starter Account to use this feature.\n\nYou need to upgrade your Account to download this statistic \n\n  * Immediate access to statistics, forecasts & reports \n  * Usage and publication rights \n  * Download in various formats\n\n【4†Register for free】\n\nAlready have an account? Login\n\nYou need one of our Business Solutions to use this function \n\n  * Immediate access to statistics, forecasts & reports \n  * Usage and publication rights \n  * Download in various formats\n\n【70†View Business Solutions】\n\nAlready have an account? Login\n\nAccess all statistics starting from $2,388 USD yearly *\n\n* For commercial use only\n\nBasic Account \n\nFor single users\n\n$0 USD \n\nAlways free \n\nAccess limited to Free Statistics. Premium Statistics are not included. \n\n  * Free Statistics\n\nBased on your interest \n\nStarter Account \n\nFor single users\n\n$199 USD \n\nper month, billed annually ^{1}\n\n【71† Buy now 】\n\n  * Free Statistics \n  * Premium Statistics \n\nThe statistic on this page is a Premium Statistic and is included in this account.\n\nProfessional Account \n\nFor teams up to 5 people\n\n$959 USD \n\nper month, billed annually ^{1}\n\n【72† Buy now 】\n\n  * Free + Premium Statistics \n  * Reports \n  * Market Insights \n\n1 All prices do not include sales tax. The account requires an annual contract and will renew after one year to the regular list price. \n\n【73† Compare accounts 】\n\n##  Statistics on  \"  Companies worldwide  \" \n\nThe most important statistics\n\n  * 【74†Number of companies worldwide 2000-2021】\n  * 【75†Number of companies worldwide 2000-2021, by region】\n  * 【76†Number of SMEs worldwide 2000-2021】\n  * 【77†Number of SMEs worldwide 2000-2021 by region】\n  * 【78†Distribution of companies worldwide 2020, by industry】\n  * 【79†Number of listed companies worldwide 1975-2019】\n  * 【80†Average company lifespan of S&P 500 companies 1965-2030】\n  * 【81†Oldest companies operating worldwide 2021】\n\nThe most important statistics\n\n  * 【82†Number of large companies worldwide 2000-2021】\n  * 【83†Number of large companies worldwide 2000-2021, by region】\n  * 【67†Biggest companies in the world by market value 2023】\n  * 【84†Number of Fortune 500 companies worldwide 2000-2023, by country】\n  * 【58†Top companies in the world by revenue 2023】\n  * 【85†Largest companies in the world based on revenues, by number of employees 2023】\n  * 【86†Biggest companies in the world by market capitalization 2009】\n  * 【87†Biggest companies in the world by market capitalization 1989】\n\nThe most important statistics\n\n  * 【88†Annual growth in the number of companies worldwide 2001-2021】\n  * 【89†New business registration worldwide 2020, by country】\n  * 【90†Highest valued unicorn companies worldwide 2024】\n  * 【91†Market value of unicorns worldwide as of April 2021, by region】\n  * 【92†Market value of unicorns worldwide as of April 2021, by industry 】\n  * 【93†Share of unicorns worldwide H1 2022, by region】\n  * 【94†Share of unicorns worldwide as of November 2022, by industry】\n\nThe most important statistics\n\n  * 【95†BERD as a share of GDP in OECD countries 2020】\n  * 【96†Scores of global leading sustainable companies 2024】\n  * 【97†Sustainability reporting rate 2020, by sector 】\n  * 【98†Growth rate of global sustainability reporting 1993-2020】\n  * 【99†Number of patent applications worldwide 1990-2022】\n  * 【100†Ranking of the 20 countries with the most patent grants 2022】\n  * 【101†Leading companies with the most international patent applications 2022】\n  * 【102†Technologies with the most international patent applications 2022】\n\nThe most important statistics\n\n  * 【103†Global gender pay gap 2015-2023】\n  * 【104†Glass-ceiling index: environment for working women worldwide 2020, by country】\n  * 【105†Workplace gender gap worldwide 2022, by type】\n  * 【106†Number of employees worldwide 1991-2023, by gender】\n  * 【107†Proportion of women in managerial positions worldwide 1991-2021】\n\nThe most important statistics\n\n  * 【108†Forecasted number of business insolvencies 2024, by country】\n  * 【109†Annual growth in global business insolvencies by region 2008-2023】\n  * 【110†Forecasted global real GDP growth 2019-2024】\n  * 【68†Weekly development Dow Jones Industrial Average Index 2020-2024】\n  * 【111†Number of working hours lost worldwide from Q1 2020 to Q2 2022】\n  * 【112†Percentage of working hours lost worldwide 2020, by region】\n  * 【61†Number of Amazon.com employees 2007-2023】\n  * 【113†Pfizer's quarterly revenue 2010-2024】\n\n## Other statistics that may interest you Companies worldwide\n\nOverview \n\n8 \n\n  * 【74† Premium Statistic Number of companies worldwide 2000-2021】\n  * 【75† Premium Statistic Number of companies worldwide 2000-2021, by region】\n  * 【76† Premium Statistic Number of SMEs worldwide 2000-2021】\n  * 【77† Premium Statistic Number of SMEs worldwide 2000-2021 by region】\n  * 【78† Premium Statistic Distribution of companies worldwide 2020, by industry】\n  * 【79† Premium Statistic Number of listed companies worldwide 1975-2019】\n  * 【80† Premium Statistic Average company lifespan of S&P 500 companies 1965-2030】\n  * 【81† Premium Statistic Oldest companies operating worldwide 2021】\n\nLargest companies \n\n8 \n\n  * 【82† Premium Statistic Number of large companies worldwide 2000-2021】\n  * 【83† Premium Statistic Number of large companies worldwide 2000-2021, by region】\n  * 【67† Basic Statistic Biggest companies in the world by market value 2023】\n  * 【84† Premium Statistic Number of Fortune 500 companies worldwide 2000-2023, by country】\n  * 【58† Premium Statistic Top companies in the world by revenue 2023】\n  * 【85† Premium Statistic Largest companies in the world based on revenues, by number of employees 2023】\n  * 【86† Premium Statistic Biggest companies in the world by market capitalization 2009】\n  * 【87† Premium Statistic Biggest companies in the world by market capitalization 1989】\n\nStartups \n\n7 \n\n  * 【88† Premium Statistic Annual growth in the number of companies worldwide 2001-2021】\n  * 【89† Premium Statistic New business registration worldwide 2020, by country】\n  * 【90† Premium Statistic Highest valued unicorn companies worldwide 2024】\n  * 【91† Premium Statistic Market value of unicorns worldwide as of April 2021, by region】\n  * 【92† Premium Statistic Market value of unicorns worldwide as of April 2021, by industry 】\n  * 【93† Premium Statistic Share of unicorns worldwide H1 2022, by region】\n  * 【94† Premium Statistic Share of unicorns worldwide as of November 2022, by indust",
+          "title": "Companies with the most employees worldwide 2023 | Statista",
+          "tether_id": null
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 0.0,
+        "metadata": {
+          "_cite_metadata": {
+            "citation_format": {
+              "name": "tether_og"
+            },
+            "metadata_list": [
+              {
+                "type": "webpage",
+                "title": "Companies with the most employees worldwide 2023 | Statista",
+                "url": "https://www.statista.com/statistics/264671/top-50-companies-based-on-number-of-employees/",
+                "text": "\n[Image 0: Einar H. Dyvik]\n\nEinar H. Dyvik \n\nResearch expert covering Nordics and global data for society, economy, and politics \n\n【69†Get in touch with us now】\n\n Profit from additional features with an Employee Account \n\nPlease create an employee account to be able to mark statistics as favorites. Then you can access your favorite statistics via the star in the header. \n\n【64† Register now 】\n\n[Image 1: Create Employee Account]\n\n Profit from the additional features of your individual account \n\nCurrently, you are using a shared account. To use individual functions (e.g., mark statistics as favourites, set statistic alerts) please log in with your personal account.  \n\nIf you are an admin, please authenticate by logging in again. \n\n【65† Login 】\n\n[Image 2]\n\nTo download this statistic in XLS format you need a Statista Account \n\nTo download this statistic in PNG format you need a Statista Account \n\nTo download this statistic in PDF format you need a Statista Account \n\nTo download this statistic in PPT format you need a Statista Account \n\nAs a Premium user you get access to the detailed source references and background information about this statistic.\n\nAs a Premium user you get access to background information and details about the release of this statistic.\n\nAs soon as this statistic is updated, you will immediately be notified via e-mail.\n\n… to incorporate the statistic into your presentation at any time.\n\nYou need at least a Starter Account to use this feature.\n\nYou need to upgrade your Account to download this statistic \n\n  * Immediate access to statistics, forecasts & reports \n  * Usage and publication rights \n  * Download in various formats\n\n【4†Register for free】\n\nAlready have an account? Login\n\nYou need one of our Business Solutions to use this function \n\n  * Immediate access to statistics, forecasts & reports \n  * Usage and publication rights \n  * Download in various formats\n\n【70†View Business Solutions】\n\nAlready have an account? Login\n\nAccess all statistics starting from $2,388 USD yearly *\n\n* For commercial use only\n\nBasic Account \n\nFor single users\n\n$0 USD \n\nAlways free \n\nAccess limited to Free Statistics. Premium Statistics are not included. \n\n  * Free Statistics\n\nBased on your interest \n\nStarter Account \n\nFor single users\n\n$199 USD \n\nper month, billed annually ^{1}\n\n【71† Buy now 】\n\n  * Free Statistics \n  * Premium Statistics \n\nThe statistic on this page is a Premium Statistic and is included in this account.\n\nProfessional Account \n\nFor teams up to 5 people\n\n$959 USD \n\nper month, billed annually ^{1}\n\n【72† Buy now 】\n\n  * Free + Premium Statistics \n  * Reports \n  * Market Insights \n\n1 All prices do not include sales tax. The account requires an annual contract and will renew after one year to the regular list price. \n\n【73† Compare accounts 】\n\n##  Statistics on  \"  Companies worldwide  \" \n\nThe most important statistics\n\n  * 【74†Number of companies worldwide 2000-2021】\n  * 【75†Number of companies worldwide 2000-2021, by region】\n  * 【76†Number of SMEs worldwide 2000-2021】\n  * 【77†Number of SMEs worldwide 2000-2021 by region】\n  * 【78†Distribution of companies worldwide 2020, by industry】\n  * 【79†Number of listed companies worldwide 1975-2019】\n  * 【80†Average company lifespan of S&P 500 companies 1965-2030】\n  * 【81†Oldest companies operating worldwide 2021】\n\nThe most important statistics\n\n  * 【82†Number of large companies worldwide 2000-2021】\n  * 【83†Number of large companies worldwide 2000-2021, by region】\n  * 【67†Biggest companies in the world by market value 2023】\n  * 【84†Number of Fortune 500 companies worldwide 2000-2023, by country】\n  * 【58†Top companies in the world by revenue 2023】\n  * 【85†Largest companies in the world based on revenues, by number of employees 2023】\n  * 【86†Biggest companies in the world by market capitalization 2009】\n  * 【87†Biggest companies in the world by market capitalization 1989】\n\nThe most important statistics\n\n  * 【88†Annual growth in the number of companies worldwide 2001-2021】\n  * 【89†New business registration worldwide 2020, by country】\n  * 【90†Highest valued unicorn companies worldwide 2024】\n  * 【91†Market value of unicorns worldwide as of April 2021, by region】\n  * 【92†Market value of unicorns worldwide as of April 2021, by industry 】\n  * 【93†Share of unicorns worldwide H1 2022, by region】\n  * 【94†Share of unicorns worldwide as of November 2022, by industry】\n\nThe most important statistics\n\n  * 【95†BERD as a share of GDP in OECD countries 2020】\n  * 【96†Scores of global leading sustainable companies 2024】\n  * 【97†Sustainability reporting rate 2020, by sector 】\n  * 【98†Growth rate of global sustainability reporting 1993-2020】\n  * 【99†Number of patent applications worldwide 1990-2022】\n  * 【100†Ranking of the 20 countries with the most patent grants 2022】\n  * 【101†Leading companies with the most international patent applications 2022】\n  * 【102†Technologies with the most international patent applications 2022】\n\nThe most important statistics\n\n  * 【103†Global gender pay gap 2015-2023】\n  * 【104†Glass-ceiling index: environment for working women worldwide 2020, by country】\n  * 【105†Workplace gender gap worldwide 2022, by type】\n  * 【106†Number of employees worldwide 1991-2023, by gender】\n  * 【107†Proportion of women in managerial positions worldwide 1991-2021】\n\nThe most important statistics\n\n  * 【108†Forecasted number of business insolvencies 2024, by country】\n  * 【109†Annual growth in global business insolvencies by region 2008-2023】\n  * 【110†Forecasted global real GDP growth 2019-2024】\n  * 【68†Weekly development Dow Jones Industrial Average Index 2020-2024】\n  * 【111†Number of working hours lost worldwide from Q1 2020 to Q2 2022】\n  * 【112†Percentage of working hours lost worldwide 2020, by region】\n  * 【61†Number of Amazon.com employees 2007-2023】\n  * 【113†Pfizer's quarterly revenue 2010-2024】\n\n## Other statistics that may interest you Companies worldwide\n\nOverview \n\n8 \n\n  * 【74† Premium Statistic Number of companies worldwide 2000-2021】\n  * 【75† Premium Statistic Number of companies worldwide 2000-2021, by region】\n  * 【76† Premium Statistic Number of SMEs worldwide 2000-2021】\n  * 【77† Premium Statistic Number of SMEs worldwide 2000-2021 by region】\n  * 【78† Premium Statistic Distribution of companies worldwide 2020, by industry】\n  * 【79† Premium Statistic Number of listed companies worldwide 1975-2019】\n  * 【80† Premium Statistic Average company lifespan of S&P 500 companies 1965-2030】\n  * 【81† Premium Statistic Oldest companies operating worldwide 2021】\n\nLargest companies \n\n8 \n\n  * 【82† Premium Statistic Number of large companies worldwide 2000-2021】\n  * 【83† Premium Statistic Number of large companies worldwide 2000-2021, by region】\n  * 【67† Basic Statistic Biggest companies in the world by market value 2023】\n  * 【84† Premium Statistic Number of Fortune 500 companies worldwide 2000-2023, by country】\n  * 【58† Premium Statistic Top companies in the world by revenue 2023】\n  * 【85† Premium Statistic Largest companies in the world based on revenues, by number of employees 2023】\n  * 【86† Premium Statistic Biggest companies in the world by market capitalization 2009】\n  * 【87† Premium Statistic Biggest companies in the world by market capitalization 1989】\n\nStartups \n\n7 \n\n  * 【88† Premium Statistic Annual growth in the number of companies worldwide 2001-2021】\n  * 【89† Premium Statistic New business registration worldwide 2020, by country】\n  * 【90† Premium Statistic Highest valued unicorn companies worldwide 2024】\n  * 【91† Premium Statistic Market value of unicorns worldwide as of April 2021, by region】\n  * 【92† Premium Statistic Market value of unicorns worldwide as of April 2021, by industry 】\n  * 【93† Premium Statistic Share of unicorns worldwide H1 2022, by region】\n  * 【94† Premium Statistic Share of unicorns worldwide as of November 2022, by indust",
+                "pub_date": null,
+                "extra": null
+              }
+            ],
+            "original_query": null
+          },
+          "command": "mclick",
+          "args": [
+            "[1, 5, 6]"
+          ],
+          "status": "finished",
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "parent_id": "6366ce16-5718-4b31-a6ae-d00f2424ec26",
+          "request_id": "8a7f31c3ee05ebfe-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "6366ce16-5718-4b31-a6ae-d00f2424ec26",
+      "children": [
+        "9e219cfa-313b-4e63-8d3f-b6078b0c8afa"
+      ]
+    },
+    "9e219cfa-313b-4e63-8d3f-b6078b0c8afa": {
+      "id": "9e219cfa-313b-4e63-8d3f-b6078b0c8afa",
+      "message": {
+        "id": "9e219cfa-313b-4e63-8d3f-b6078b0c8afa",
+        "author": {
+          "role": "tool",
+          "name": "browser",
+          "metadata": {}
+        },
+        "create_time": 1721774665.043498,
+        "update_time": null,
+        "content": {
+          "content_type": "tether_quote",
+          "url": "https://en.wikipedia.org/wiki/List_of_largest_employers",
+          "domain": "en.wikipedia.org",
+          "text": "\n 【13† Search 】 \n\nSearch\n\n  Appearance\n\n  * 【14†Create account】 \n  * 【15†Log in】 \n\n  Personal tools\n\n  * 【14† Create account】\n  * 【15† Log in】\n\nPages for logged out editors 【9†learn more】 \n\n  * 【16†Contributions】\n  * 【17†Talk】\n\n## Contents\n\nmove to sidebar hide\n\n  *  (Top) \n  *  【18† 1 Largest employers 】  \n  *  【19† 2 Fortune Global 500 】  \n  *  【20† 3 See also 】  \n  *  【21† 4 References 】  \n  *  【22† 5 External links 】  \n\n  Toggle the table of contents\n\n# List of largest employers\n\n  10 languages\n\n  * 【23†العربية†ar.wikipedia.org】\n  * 【24†Deutsch†de.wikipedia.org】\n  * 【25†Ελληνικά†el.wikipedia.org】\n  * 【26†Español†es.wikipedia.org】\n  * 【27†فارسی†fa.wikipedia.org】\n  * 【28†Bahasa Indonesia†id.wikipedia.org】\n  * 【29†Português†pt.wikipedia.org】\n  * 【30†Slovenščina†sl.wikipedia.org】\n  * 【31†தமிழ்†ta.wikipedia.org】\n  * 【32†Türkçe†tr.wikipedia.org】\n\n【33†Edit links†www.wikidata.org】\n\n  * 【34†Article】\n  * 【35†Talk】\n\n  English\n\n  * 【34†Read】\n  * 【36†Edit】\n  * 【37†View history】\n\n  Tools\n\nTools\n\nmove to sidebar hide\n\nActions \n\n  * 【34†Read】\n  * 【36†Edit】\n  * 【37†View history】\n\nGeneral \n\n  * 【38†What links here】\n  * 【39†Related changes】\n  * 【40†Upload file】\n  * 【41†Special pages】\n  * 【42†Permanent link】\n  * 【43†Page information】\n  * 【44†Cite this page】\n  * 【45†Get shortened URL】\n  * 【46†Download QR code】\n  * 【47†Wikidata item†www.wikidata.org】\n\nPrint/export \n\n  * 【48†Download as PDF】\n  * 【49†Printable version】\n\nAppearance\n\nmove to sidebar hide\n\nFrom Wikipedia, the free encyclopedia\n\n## Largest employers\n\n[【50†edit】]\n\nBelow is the list of largest employers including government owned companies and institutions in 2022. \n\nRank  Employer  Employees (mn)  Country  State-owned  Ref  \n1  【51†Ministry of Defence (India)】  2.99  [Image 0] 【52†India】  [Image 1: Yes] [1]  \n2  【53†Department of Defense (USA)】  2.93  [Image 2] 【54†United States】  [Image 3: Yes] [1]  \n3  【55†People's Liberation Army】  2.55  [Image 4] 【56†China】  [Image 5: Yes] [1]  \n4  【57†Walmart】  2.30  [Image 6] 【54†United States】  [Image 7: No] [1]  \n5  【58†Amazon】  1.61  [Image 8] 【54†United States】  [Image 9: No] [1]  \n6  【59†China National Petroleum】  1.45  [Image 10] 【56†China】  [Image 11: Yes] [1]  \n7  【60†National Health Service】  1.38  [Image 12] 【61†United Kingdom】  [Image 13: Yes] [1]  \n8  【62†Foxconn】  1.29  [Image 14] 【63†Taiwan】  [Image 15: No] [1]  \n9  【64†Indian Railways】  1.21  [Image 16] 【52†India】  [Image 17: Yes] [2]  \n10  【65†Tata Group】  1.02  [Image 18] 【52†India】  [Image 19: No] [3]  \n\n## Fortune Global 500\n\n[【66†edit】]\n\nFollowing is the list of 【67†Fortune 500】 companies providing the most jobs worldwide, according to a list published in 2023 by 【68†Fortune】 magazine.[4]\n\nRank  Employer  Country  Employees (mn)  State-owned   \n1  【57†Walmart】  [Image 20] 【54†United States】  2.1  [Image 21: No]  \n2  【58†Amazon】  [Image 22] 【54†United States】  1.54  [Image 23: No]  \n3  【59†China National Petroleum】  [Image 24] 【56†China】  1.08  [Image 25: Yes]  \n4  【69†State Grid】  [Image 26] 【56†China】  0.87  [Image 27: Yes]  \n5  【62†Foxconn】  [Image 28] 【63†Taiwan】  0.76  [Image 29: No]  \n6  【70†China Post Group】  [Image 30] 【56†China】  0.75  [Image 31: Yes]  \n7  【71†Accenture】  [Image 32] 【54†United States】  0.72  [Image 33: No]  \n8  【72†Volkswagen】  [Image 34] 【73†Germany】  0.68  [Image 35: No]  \n9  【74†United States Postal Service】  [Image 36] 【54†United States】  0.57  [Image 37: Yes]  \n10  【75†BYD Company】  [Image 38] 【56†China】  0.57  [Image 39: No]  \n\n## See also\n\n[【76†edit】]\n\n  * 【77†Fortune Global 500】\n  * 【78†Forbes Global 2000】\n  * 【79†List of multinational corporations】\n  * 【80†List of largest European manufacturing companies by revenue】\n  * 【81†List of largest financial services companies by revenue】\n  * 【82†List of the largest software companies】\n  * 【83†List of largest Internet companies】\n  * 【84†List of largest technology companies by revenue】\n  * 【85†List of private-equity firms】\n  * 【86†List of largest companies by revenue】\n  * 【87†List of public corporations by market capitalization】\n  * 【88†List of largest corporate profits and losses】\n  * 【89†Lists of occupations】\n  * 【90†List of types of tradesman】\n  * 【91†Lists of companies】 – company-related list articles on Wikipedia\n  * 【92†List of largest United States–based employers globally】\n  * 【93†List of wealthiest religious organizations】\n\n## References\n\n[【94†edit】]\n\n  1. ^ a b c d e f g h 【95†\"World's Biggest Employers (2022)\"†www.statista.com】. Statista. Retrieved 1 January 2024.\n  2. ^ 【96†Indian Railways Year Book 2021–22†iritm.indianrailways.gov.in】 (PDF) (Report). 【64†Indian Railways】. Retrieved 1 December 2023.\n  3. ^ 【97†\"Investors\"†www.tata.com】. Tata Group. Retrieved 25 August 2023.\n  4. ^ 【98†Global 500†fortune.com】. 【68†Fortune】 (Report).\n\n## External links\n\n[【99†edit】]\n\n  * 【100†Fortune Global 500†fortune.com】\n\n[Image 40]\n\nRetrieved from \"【42†https://en.wikipedia.org/w/index.php?title=List_of_largest_employers&oldid=1235257095】\"\n\n【101†Categories】: \n\n  * 【102†Lists of companies】\n  * 【103†Economy-related lists of superlatives】\n  * 【104†Employers】\n\nHidden categories: \n\n  * 【105†Articles with short description】\n  * 【106†Short description is different from Wikidata】\n\n  *  This page was last edited on 18 July 2024, at 12:08 (UTC).\n  * Text is available under the 【107†Creative Commons Attribution-ShareAlike License 4.0】; additional terms may apply. By using this site, you agree to the 【108†Terms of Use†foundation.wikimedia.org】 and 【109†Privacy Policy†foundation.wikimedia.org】. Wikipedia® is a registered trademark of the 【110†Wiki",
+          "title": "List of largest employers - Wikipedia",
+          "tether_id": null
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 0.0,
+        "metadata": {
+          "_cite_metadata": {
+            "citation_format": {
+              "name": "tether_og"
+            },
+            "metadata_list": [
+              {
+                "type": "webpage",
+                "title": "List of largest employers - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/List_of_largest_employers",
+                "text": "\n 【13† Search 】 \n\nSearch\n\n  Appearance\n\n  * 【14†Create account】 \n  * 【15†Log in】 \n\n  Personal tools\n\n  * 【14† Create account】\n  * 【15† Log in】\n\nPages for logged out editors 【9†learn more】 \n\n  * 【16†Contributions】\n  * 【17†Talk】\n\n## Contents\n\nmove to sidebar hide\n\n  *  (Top) \n  *  【18† 1 Largest employers 】  \n  *  【19† 2 Fortune Global 500 】  \n  *  【20† 3 See also 】  \n  *  【21† 4 References 】  \n  *  【22† 5 External links 】  \n\n  Toggle the table of contents\n\n# List of largest employers\n\n  10 languages\n\n  * 【23†العربية†ar.wikipedia.org】\n  * 【24†Deutsch†de.wikipedia.org】\n  * 【25†Ελληνικά†el.wikipedia.org】\n  * 【26†Español†es.wikipedia.org】\n  * 【27†فارسی†fa.wikipedia.org】\n  * 【28†Bahasa Indonesia†id.wikipedia.org】\n  * 【29†Português†pt.wikipedia.org】\n  * 【30†Slovenščina†sl.wikipedia.org】\n  * 【31†தமிழ்†ta.wikipedia.org】\n  * 【32†Türkçe†tr.wikipedia.org】\n\n【33†Edit links†www.wikidata.org】\n\n  * 【34†Article】\n  * 【35†Talk】\n\n  English\n\n  * 【34†Read】\n  * 【36†Edit】\n  * 【37†View history】\n\n  Tools\n\nTools\n\nmove to sidebar hide\n\nActions \n\n  * 【34†Read】\n  * 【36†Edit】\n  * 【37†View history】\n\nGeneral \n\n  * 【38†What links here】\n  * 【39†Related changes】\n  * 【40†Upload file】\n  * 【41†Special pages】\n  * 【42†Permanent link】\n  * 【43†Page information】\n  * 【44†Cite this page】\n  * 【45†Get shortened URL】\n  * 【46†Download QR code】\n  * 【47†Wikidata item†www.wikidata.org】\n\nPrint/export \n\n  * 【48†Download as PDF】\n  * 【49†Printable version】\n\nAppearance\n\nmove to sidebar hide\n\nFrom Wikipedia, the free encyclopedia\n\n## Largest employers\n\n[【50†edit】]\n\nBelow is the list of largest employers including government owned companies and institutions in 2022. \n\nRank  Employer  Employees (mn)  Country  State-owned  Ref  \n1  【51†Ministry of Defence (India)】  2.99  [Image 0] 【52†India】  [Image 1: Yes] [1]  \n2  【53†Department of Defense (USA)】  2.93  [Image 2] 【54†United States】  [Image 3: Yes] [1]  \n3  【55†People's Liberation Army】  2.55  [Image 4] 【56†China】  [Image 5: Yes] [1]  \n4  【57†Walmart】  2.30  [Image 6] 【54†United States】  [Image 7: No] [1]  \n5  【58†Amazon】  1.61  [Image 8] 【54†United States】  [Image 9: No] [1]  \n6  【59†China National Petroleum】  1.45  [Image 10] 【56†China】  [Image 11: Yes] [1]  \n7  【60†National Health Service】  1.38  [Image 12] 【61†United Kingdom】  [Image 13: Yes] [1]  \n8  【62†Foxconn】  1.29  [Image 14] 【63†Taiwan】  [Image 15: No] [1]  \n9  【64†Indian Railways】  1.21  [Image 16] 【52†India】  [Image 17: Yes] [2]  \n10  【65†Tata Group】  1.02  [Image 18] 【52†India】  [Image 19: No] [3]  \n\n## Fortune Global 500\n\n[【66†edit】]\n\nFollowing is the list of 【67†Fortune 500】 companies providing the most jobs worldwide, according to a list published in 2023 by 【68†Fortune】 magazine.[4]\n\nRank  Employer  Country  Employees (mn)  State-owned   \n1  【57†Walmart】  [Image 20] 【54†United States】  2.1  [Image 21: No]  \n2  【58†Amazon】  [Image 22] 【54†United States】  1.54  [Image 23: No]  \n3  【59†China National Petroleum】  [Image 24] 【56†China】  1.08  [Image 25: Yes]  \n4  【69†State Grid】  [Image 26] 【56†China】  0.87  [Image 27: Yes]  \n5  【62†Foxconn】  [Image 28] 【63†Taiwan】  0.76  [Image 29: No]  \n6  【70†China Post Group】  [Image 30] 【56†China】  0.75  [Image 31: Yes]  \n7  【71†Accenture】  [Image 32] 【54†United States】  0.72  [Image 33: No]  \n8  【72†Volkswagen】  [Image 34] 【73†Germany】  0.68  [Image 35: No]  \n9  【74†United States Postal Service】  [Image 36] 【54†United States】  0.57  [Image 37: Yes]  \n10  【75†BYD Company】  [Image 38] 【56†China】  0.57  [Image 39: No]  \n\n## See also\n\n[【76†edit】]\n\n  * 【77†Fortune Global 500】\n  * 【78†Forbes Global 2000】\n  * 【79†List of multinational corporations】\n  * 【80†List of largest European manufacturing companies by revenue】\n  * 【81†List of largest financial services companies by revenue】\n  * 【82†List of the largest software companies】\n  * 【83†List of largest Internet companies】\n  * 【84†List of largest technology companies by revenue】\n  * 【85†List of private-equity firms】\n  * 【86†List of largest companies by revenue】\n  * 【87†List of public corporations by market capitalization】\n  * 【88†List of largest corporate profits and losses】\n  * 【89†Lists of occupations】\n  * 【90†List of types of tradesman】\n  * 【91†Lists of companies】 – company-related list articles on Wikipedia\n  * 【92†List of largest United States–based employers globally】\n  * 【93†List of wealthiest religious organizations】\n\n## References\n\n[【94†edit】]\n\n  1. ^ a b c d e f g h 【95†\"World's Biggest Employers (2022)\"†www.statista.com】. Statista. Retrieved 1 January 2024.\n  2. ^ 【96†Indian Railways Year Book 2021–22†iritm.indianrailways.gov.in】 (PDF) (Report). 【64†Indian Railways】. Retrieved 1 December 2023.\n  3. ^ 【97†\"Investors\"†www.tata.com】. Tata Group. Retrieved 25 August 2023.\n  4. ^ 【98†Global 500†fortune.com】. 【68†Fortune】 (Report).\n\n## External links\n\n[【99†edit】]\n\n  * 【100†Fortune Global 500†fortune.com】\n\n[Image 40]\n\nRetrieved from \"【42†https://en.wikipedia.org/w/index.php?title=List_of_largest_employers&oldid=1235257095】\"\n\n【101†Categories】: \n\n  * 【102†Lists of companies】\n  * 【103†Economy-related lists of superlatives】\n  * 【104†Employers】\n\nHidden categories: \n\n  * 【105†Articles with short description】\n  * 【106†Short description is different from Wikidata】\n\n  *  This page was last edited on 18 July 2024, at 12:08 (UTC).\n  * Text is available under the 【107†Creative Commons Attribution-ShareAlike License 4.0】; additional terms may apply. By using this site, you agree to the 【108†Terms of Use†foundation.wikimedia.org】 and 【109†Privacy Policy†foundation.wikimedia.org】. Wikipedia® is a registered trademark of the 【110†Wiki",
+                "pub_date": null,
+                "extra": null
+              }
+            ],
+            "original_query": null
+          },
+          "command": "mclick",
+          "args": [
+            "[1, 5, 6]"
+          ],
+          "status": "finished",
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "parent_id": "18d16d08-e582-4deb-83a0-a64b59f24db5",
+          "request_id": "8a7f31c3ee05ebfe-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "18d16d08-e582-4deb-83a0-a64b59f24db5",
+      "children": [
+        "2b4468ae-0b9c-4c20-88ba-fcc8e8b2d85b"
+      ]
+    },
+    "2b4468ae-0b9c-4c20-88ba-fcc8e8b2d85b": {
+      "id": "2b4468ae-0b9c-4c20-88ba-fcc8e8b2d85b",
+      "message": {
+        "id": "2b4468ae-0b9c-4c20-88ba-fcc8e8b2d85b",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1721774665.043543,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "The largest corporation by the number of employees is Walmart, with approximately 2.3 million employees worldwide. This includes both full-time and part-time workers across its global operations. Walmart is followed by Amazon, which employs around 1.54 million people globally【9†source】【10†source】.\n\nIf you're looking to contact a corporation of this scale, it's important to prepare a detailed and compelling proposal. Use professional channels such as email, LinkedIn, or attending industry events to network and find potential connections who can introduce you to key contacts within these organizations."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [
+            {
+              "start_ix": 276,
+              "end_ix": 286,
+              "citation_format_type": "tether_og",
+              "metadata": {
+                "type": "webpage",
+                "title": "Companies with the most employees worldwide 2023 | Statista",
+                "url": "https://www.statista.com/statistics/264671/top-50-companies-based-on-number-of-employees/",
+                "text": "\n[Image 0: Einar H. Dyvik]\n\nEinar H. Dyvik \n\nResearch expert covering Nordics and global data for society, economy, and politics \n\n【69†Get in touch with us now】\n\n Profit from additional features with an Employee Account \n\nPlease create an employee account to be able to mark statistics as favorites. Then you can access your favorite statistics via the star in the header. \n\n【64† Register now 】\n\n[Image 1: Create Employee Account]\n\n Profit from the additional features of your individual account \n\nCurrently, you are using a shared account. To use individual functions (e.g., mark statistics as favourites, set statistic alerts) please log in with your personal account.  \n\nIf you are an admin, please authenticate by logging in again. \n\n【65† Login 】\n\n[Image 2]\n\nTo download this statistic in XLS format you need a Statista Account \n\nTo download this statistic in PNG format you need a Statista Account \n\nTo download this statistic in PDF format you need a Statista Account \n\nTo download this statistic in PPT format you need a Statista Account \n\nAs a Premium user you get access to the detailed source references and background information about this statistic.\n\nAs a Premium user you get access to background information and details about the release of this statistic.\n\nAs soon as this statistic is updated, you will immediately be notified via e-mail.\n\n… to incorporate the statistic into your presentation at any time.\n\nYou need at least a Starter Account to use this feature.\n\nYou need to upgrade your Account to download this statistic \n\n  * Immediate access to statistics, forecasts & reports \n  * Usage and publication rights \n  * Download in various formats\n\n【4†Register for free】\n\nAlready have an account? Login\n\nYou need one of our Business Solutions to use this function \n\n  * Immediate access to statistics, forecasts & reports \n  * Usage and publication rights \n  * Download in various formats\n\n【70†View Business Solutions】\n\nAlready have an account? Login\n\nAccess all statistics starting from $2,388 USD yearly *\n\n* For commercial use only\n\nBasic Account \n\nFor single users\n\n$0 USD \n\nAlways free \n\nAccess limited to Free Statistics. Premium Statistics are not included. \n\n  * Free Statistics\n\nBased on your interest \n\nStarter Account \n\nFor single users\n\n$199 USD \n\nper month, billed annually ^{1}\n\n【71† Buy now 】\n\n  * Free Statistics \n  * Premium Statistics \n\nThe statistic on this page is a Premium Statistic and is included in this account.\n\nProfessional Account \n\nFor teams up to 5 people\n\n$959 USD \n\nper month, billed annually ^{1}\n\n【72† Buy now 】\n\n  * Free + Premium Statistics \n  * Reports \n  * Market Insights \n\n1 All prices do not include sales tax. The account requires an annual contract and will renew after one year to the regular list price. \n\n【73† Compare accounts 】\n\n##  Statistics on  \"  Companies worldwide  \" \n\nThe most important statistics\n\n  * 【74†Number of companies worldwide 2000-2021】\n  * 【75†Number of companies worldwide 2000-2021, by region】\n  * 【76†Number of SMEs worldwide 2000-2021】\n  * 【77†Number of SMEs worldwide 2000-2021 by region】\n  * 【78†Distribution of companies worldwide 2020, by industry】\n  * 【79†Number of listed companies worldwide 1975-2019】\n  * 【80†Average company lifespan of S&P 500 companies 1965-2030】\n  * 【81†Oldest companies operating worldwide 2021】\n\nThe most important statistics\n\n  * 【82†Number of large companies worldwide 2000-2021】\n  * 【83†Number of large companies worldwide 2000-2021, by region】\n  * 【67†Biggest companies in the world by market value 2023】\n  * 【84†Number of Fortune 500 companies worldwide 2000-2023, by country】\n  * 【58†Top companies in the world by revenue 2023】\n  * 【85†Largest companies in the world based on revenues, by number of employees 2023】\n  * 【86†Biggest companies in the world by market capitalization 2009】\n  * 【87†Biggest companies in the world by market capitalization 1989】\n\nThe most important statistics\n\n  * 【88†Annual growth in the number of companies worldwide 2001-2021】\n  * 【89†New business registration worldwide 2020, by country】\n  * 【90†Highest valued unicorn companies worldwide 2024】\n  * 【91†Market value of unicorns worldwide as of April 2021, by region】\n  * 【92†Market value of unicorns worldwide as of April 2021, by industry 】\n  * 【93†Share of unicorns worldwide H1 2022, by region】\n  * 【94†Share of unicorns worldwide as of November 2022, by industry】\n\nThe most important statistics\n\n  * 【95†BERD as a share of GDP in OECD countries 2020】\n  * 【96†Scores of global leading sustainable companies 2024】\n  * 【97†Sustainability reporting rate 2020, by sector 】\n  * 【98†Growth rate of global sustainability reporting 1993-2020】\n  * 【99†Number of patent applications worldwide 1990-2022】\n  * 【100†Ranking of the 20 countries with the most patent grants 2022】\n  * 【101†Leading companies with the most international patent applications 2022】\n  * 【102†Technologies with the most international patent applications 2022】\n\nThe most important statistics\n\n  * 【103†Global gender pay gap 2015-2023】\n  * 【104†Glass-ceiling index: environment for working women worldwide 2020, by country】\n  * 【105†Workplace gender gap worldwide 2022, by type】\n  * 【106†Number of employees worldwide 1991-2023, by gender】\n  * 【107†Proportion of women in managerial positions worldwide 1991-2021】\n\nThe most important statistics\n\n  * 【108†Forecasted number of business insolvencies 2024, by country】\n  * 【109†Annual growth in global business insolvencies by region 2008-2023】\n  * 【110†Forecasted global real GDP growth 2019-2024】\n  * 【68†Weekly development Dow Jones Industrial Average Index 2020-2024】\n  * 【111†Number of working hours lost worldwide from Q1 2020 to Q2 2022】\n  * 【112†Percentage of working hours lost worldwide 2020, by region】\n  * 【61†Number of Amazon.com employees 2007-2023】\n  * 【113†Pfizer's quarterly revenue 2010-2024】\n\n## Other statistics that may interest you Companies worldwide\n\nOverview \n\n8 \n\n  * 【74† Premium Statistic Number of companies worldwide 2000-2021】\n  * 【75† Premium Statistic Number of companies worldwide 2000-2021, by region】\n  * 【76† Premium Statistic Number of SMEs worldwide 2000-2021】\n  * 【77† Premium Statistic Number of SMEs worldwide 2000-2021 by region】\n  * 【78† Premium Statistic Distribution of companies worldwide 2020, by industry】\n  * 【79† Premium Statistic Number of listed companies worldwide 1975-2019】\n  * 【80† Premium Statistic Average company lifespan of S&P 500 companies 1965-2030】\n  * 【81† Premium Statistic Oldest companies operating worldwide 2021】\n\nLargest companies \n\n8 \n\n  * 【82† Premium Statistic Number of large companies worldwide 2000-2021】\n  * 【83† Premium Statistic Number of large companies worldwide 2000-2021, by region】\n  * 【67† Basic Statistic Biggest companies in the world by market value 2023】\n  * 【84† Premium Statistic Number of Fortune 500 companies worldwide 2000-2023, by country】\n  * 【58† Premium Statistic Top companies in the world by revenue 2023】\n  * 【85† Premium Statistic Largest companies in the world based on revenues, by number of employees 2023】\n  * 【86† Premium Statistic Biggest companies in the world by market capitalization 2009】\n  * 【87† Premium Statistic Biggest companies in the world by market capitalization 1989】\n\nStartups \n\n7 \n\n  * 【88† Premium Statistic Annual growth in the number of companies worldwide 2001-2021】\n  * 【89† Premium Statistic New business registration worldwide 2020, by country】\n  * 【90† Premium Statistic Highest valued unicorn companies worldwide 2024】\n  * 【91† Premium Statistic Market value of unicorns worldwide as of April 2021, by region】\n  * 【92† Premium Statistic Market value of unicorns worldwide as of April 2021, by industry 】\n  * 【93† Premium Statistic Share of unicorns worldwide H1 2022, by region】\n  * 【94† Premium Statistic Share of unicorns worldwide as of November 2022, by indust",
+                "pub_date": null,
+                "extra": {
+                  "cited_message_idx": 9,
+                  "search_result_idx": null,
+                  "evidence_text": "source",
+                  "cloud_doc_url": null
+                }
+              }
+            },
+            {
+              "start_ix": 286,
+              "end_ix": 297,
+              "citation_format_type": "tether_og",
+              "metadata": {
+                "type": "webpage",
+                "title": "List of largest employers - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/List_of_largest_employers",
+                "text": "\n 【13† Search 】 \n\nSearch\n\n  Appearance\n\n  * 【14†Create account】 \n  * 【15†Log in】 \n\n  Personal tools\n\n  * 【14† Create account】\n  * 【15† Log in】\n\nPages for logged out editors 【9†learn more】 \n\n  * 【16†Contributions】\n  * 【17†Talk】\n\n## Contents\n\nmove to sidebar hide\n\n  *  (Top) \n  *  【18† 1 Largest employers 】  \n  *  【19† 2 Fortune Global 500 】  \n  *  【20† 3 See also 】  \n  *  【21† 4 References 】  \n  *  【22† 5 External links 】  \n\n  Toggle the table of contents\n\n# List of largest employers\n\n  10 languages\n\n  * 【23†العربية†ar.wikipedia.org】\n  * 【24†Deutsch†de.wikipedia.org】\n  * 【25†Ελληνικά†el.wikipedia.org】\n  * 【26†Español†es.wikipedia.org】\n  * 【27†فارسی†fa.wikipedia.org】\n  * 【28†Bahasa Indonesia†id.wikipedia.org】\n  * 【29†Português†pt.wikipedia.org】\n  * 【30†Slovenščina†sl.wikipedia.org】\n  * 【31†தமிழ்†ta.wikipedia.org】\n  * 【32†Türkçe†tr.wikipedia.org】\n\n【33†Edit links†www.wikidata.org】\n\n  * 【34†Article】\n  * 【35†Talk】\n\n  English\n\n  * 【34†Read】\n  * 【36†Edit】\n  * 【37†View history】\n\n  Tools\n\nTools\n\nmove to sidebar hide\n\nActions \n\n  * 【34†Read】\n  * 【36†Edit】\n  * 【37†View history】\n\nGeneral \n\n  * 【38†What links here】\n  * 【39†Related changes】\n  * 【40†Upload file】\n  * 【41†Special pages】\n  * 【42†Permanent link】\n  * 【43†Page information】\n  * 【44†Cite this page】\n  * 【45†Get shortened URL】\n  * 【46†Download QR code】\n  * 【47†Wikidata item†www.wikidata.org】\n\nPrint/export \n\n  * 【48†Download as PDF】\n  * 【49†Printable version】\n\nAppearance\n\nmove to sidebar hide\n\nFrom Wikipedia, the free encyclopedia\n\n## Largest employers\n\n[【50†edit】]\n\nBelow is the list of largest employers including government owned companies and institutions in 2022. \n\nRank  Employer  Employees (mn)  Country  State-owned  Ref  \n1  【51†Ministry of Defence (India)】  2.99  [Image 0] 【52†India】  [Image 1: Yes] [1]  \n2  【53†Department of Defense (USA)】  2.93  [Image 2] 【54†United States】  [Image 3: Yes] [1]  \n3  【55†People's Liberation Army】  2.55  [Image 4] 【56†China】  [Image 5: Yes] [1]  \n4  【57†Walmart】  2.30  [Image 6] 【54†United States】  [Image 7: No] [1]  \n5  【58†Amazon】  1.61  [Image 8] 【54†United States】  [Image 9: No] [1]  \n6  【59†China National Petroleum】  1.45  [Image 10] 【56†China】  [Image 11: Yes] [1]  \n7  【60†National Health Service】  1.38  [Image 12] 【61†United Kingdom】  [Image 13: Yes] [1]  \n8  【62†Foxconn】  1.29  [Image 14] 【63†Taiwan】  [Image 15: No] [1]  \n9  【64†Indian Railways】  1.21  [Image 16] 【52†India】  [Image 17: Yes] [2]  \n10  【65†Tata Group】  1.02  [Image 18] 【52†India】  [Image 19: No] [3]  \n\n## Fortune Global 500\n\n[【66†edit】]\n\nFollowing is the list of 【67†Fortune 500】 companies providing the most jobs worldwide, according to a list published in 2023 by 【68†Fortune】 magazine.[4]\n\nRank  Employer  Country  Employees (mn)  State-owned   \n1  【57†Walmart】  [Image 20] 【54†United States】  2.1  [Image 21: No]  \n2  【58†Amazon】  [Image 22] 【54†United States】  1.54  [Image 23: No]  \n3  【59†China National Petroleum】  [Image 24] 【56†China】  1.08  [Image 25: Yes]  \n4  【69†State Grid】  [Image 26] 【56†China】  0.87  [Image 27: Yes]  \n5  【62†Foxconn】  [Image 28] 【63†Taiwan】  0.76  [Image 29: No]  \n6  【70†China Post Group】  [Image 30] 【56†China】  0.75  [Image 31: Yes]  \n7  【71†Accenture】  [Image 32] 【54†United States】  0.72  [Image 33: No]  \n8  【72†Volkswagen】  [Image 34] 【73†Germany】  0.68  [Image 35: No]  \n9  【74†United States Postal Service】  [Image 36] 【54†United States】  0.57  [Image 37: Yes]  \n10  【75†BYD Company】  [Image 38] 【56†China】  0.57  [Image 39: No]  \n\n## See also\n\n[【76†edit】]\n\n  * 【77†Fortune Global 500】\n  * 【78†Forbes Global 2000】\n  * 【79†List of multinational corporations】\n  * 【80†List of largest European manufacturing companies by revenue】\n  * 【81†List of largest financial services companies by revenue】\n  * 【82†List of the largest software companies】\n  * 【83†List of largest Internet companies】\n  * 【84†List of largest technology companies by revenue】\n  * 【85†List of private-equity firms】\n  * 【86†List of largest companies by revenue】\n  * 【87†List of public corporations by market capitalization】\n  * 【88†List of largest corporate profits and losses】\n  * 【89†Lists of occupations】\n  * 【90†List of types of tradesman】\n  * 【91†Lists of companies】 – company-related list articles on Wikipedia\n  * 【92†List of largest United States–based employers globally】\n  * 【93†List of wealthiest religious organizations】\n\n## References\n\n[【94†edit】]\n\n  1. ^ a b c d e f g h 【95†\"World's Biggest Employers (2022)\"†www.statista.com】. Statista. Retrieved 1 January 2024.\n  2. ^ 【96†Indian Railways Year Book 2021–22†iritm.indianrailways.gov.in】 (PDF) (Report). 【64†Indian Railways】. Retrieved 1 December 2023.\n  3. ^ 【97†\"Investors\"†www.tata.com】. Tata Group. Retrieved 25 August 2023.\n  4. ^ 【98†Global 500†fortune.com】. 【68†Fortune】 (Report).\n\n## External links\n\n[【99†edit】]\n\n  * 【100†Fortune Global 500†fortune.com】\n\n[Image 40]\n\nRetrieved from \"【42†https://en.wikipedia.org/w/index.php?title=List_of_largest_employers&oldid=1235257095】\"\n\n【101†Categories】: \n\n  * 【102†Lists of companies】\n  * 【103†Economy-related lists of superlatives】\n  * 【104†Employers】\n\nHidden categories: \n\n  * 【105†Articles with short description】\n  * 【106†Short description is different from Wikidata】\n\n  *  This page was last edited on 18 July 2024, at 12:08 (UTC).\n  * Text is available under the 【107†Creative Commons Attribution-ShareAlike License 4.0】; additional terms may apply. By using this site, you agree to the 【108†Terms of Use†foundation.wikimedia.org】 and 【109†Privacy Policy†foundation.wikimedia.org】. Wikipedia® is a registered trademark of the 【110†Wiki",
+                "pub_date": null,
+                "extra": {
+                  "cited_message_idx": 10,
+                  "search_result_idx": null,
+                  "evidence_text": "source",
+                  "cloud_doc_url": null
+                }
+              }
+            }
+          ],
+          "gizmo_id": null,
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "pad": "AAAAAAAAAAAAAAAAAAAAAAAAAAA",
+          "parent_id": "9e219cfa-313b-4e63-8d3f-b6078b0c8afa",
+          "request_id": "8a7f31c3ee05ebfe-SEA",
+          "timestamp_": "absolute",
+          "content_references": [
+            {
+              "matched_text": "【9†source】",
+              "start_idx": 276,
+              "end_idx": 286,
+              "alt": null,
+              "type": "webpage_extended",
+              "title": "Companies with the most employees worldwide 2023 | Statista",
+              "url": "https://www.statista.com/statistics/264671/top-50-companies-based-on-number-of-employees/",
+              "pub_date": null,
+              "snippet": "\n[Image 0: Einar H. Dyvik]\n\nEinar H. Dyvik \n\nResearch expert covering Nordics and global data for society, economy, and politics \n\n【69†Get in touch with us now】\n\n Profit from additional features with an Employee Account \n\nPlease create an employee account to be able to mark statistics as favorites. Then you can access your favorite statistics via the star in the header. \n\n【64† Register now 】\n\n[Image 1: Create Employee Account]\n\n Profit from the additional features of your individual account \n\nCurrently, you are using a shared account. To use individual functions (e.g., mark statistics as favourites, set statistic alerts) please log in with your personal account.  \n\nIf you are an admin, please authenticate by logging in again. \n\n【65† Login 】\n\n[Image 2]\n\nTo download this statistic in XLS format you need a Statista Account \n\nTo download this statistic in PNG format you need a Statista Account \n\nTo download this statistic in PDF format you need a Statista Account \n\nTo download this statistic in PPT format you need a Statista Account \n\nAs a Premium user you get access to the detailed source references and background information about this statistic.\n\nAs a Premium user you get access to background information and details about the release of this statistic.\n\nAs soon as this statistic is updated, you will immediately be notified via e-mail.\n\n… to incorporate the statistic into your presentation at any time.\n\nYou need at least a Starter Account to use this feature.\n\nYou need to upgrade your Account to download this statistic \n\n  * Immediate access to statistics, forecasts & reports \n  * Usage and publication rights \n  * Download in various formats\n\n【4†Register for free】\n\nAlready have an account? Login\n\nYou need one of our Business Solutions to use this function \n\n  * Immediate access to statistics, forecasts & reports \n  * Usage and publication rights \n  * Download in various formats\n\n【70†View Business Solutions】\n\nAlready have an account? Login\n\nAccess all statistics starting from $2,388 USD yearly *\n\n* For commercial use only\n\nBasic Account \n\nFor single users\n\n$0 USD \n\nAlways free \n\nAccess limited to Free Statistics. Premium Statistics are not included. \n\n  * Free Statistics\n\nBased on your interest \n\nStarter Account \n\nFor single users\n\n$199 USD \n\nper month, billed annually ^{1}\n\n【71† Buy now 】\n\n  * Free Statistics \n  * Premium Statistics \n\nThe statistic on this page is a Premium Statistic and is included in this account.\n\nProfessional Account \n\nFor teams up to 5 people\n\n$959 USD \n\nper month, billed annually ^{1}\n\n【72† Buy now 】\n\n  * Free + Premium Statistics \n  * Reports \n  * Market Insights \n\n1 All prices do not include sales tax. The account requires an annual contract and will renew after one year to the regular list price. \n\n【73† Compare accounts 】\n\n##  Statistics on  \"  Companies worldwide  \" \n\nThe most important statistics\n\n  * 【74†Number of companies worldwide 2000-2021】\n  * 【75†Number of companies worldwide 2000-2021, by region】\n  * 【76†Number of SMEs worldwide 2000-2021】\n  * 【77†Number of SMEs worldwide 2000-2021 by region】\n  * 【78†Distribution of companies worldwide 2020, by industry】\n  * 【79†Number of listed companies worldwide 1975-2019】\n  * 【80†Average company lifespan of S&P 500 companies 1965-2030】\n  * 【81†Oldest companies operating worldwide 2021】\n\nThe most important statistics\n\n  * 【82†Number of large companies worldwide 2000-2021】\n  * 【83†Number of large companies worldwide 2000-2021, by region】\n  * 【67†Biggest companies in the world by market value 2023】\n  * 【84†Number of Fortune 500 companies worldwide 2000-2023, by country】\n  * 【58†Top companies in the world by revenue 2023】\n  * 【85†Largest companies in the world based on revenues, by number of employees 2023】\n  * 【86†Biggest companies in the world by market capitalization 2009】\n  * 【87†Biggest companies in the world by market capitalization 1989】\n\nThe most important statistics\n\n  * 【88†Annual growth in the number of companies worldwide 2001-2021】\n  * 【89†New business registration worldwide 2020, by country】\n  * 【90†Highest valued unicorn companies worldwide 2024】\n  * 【91†Market value of unicorns worldwide as of April 2021, by region】\n  * 【92†Market value of unicorns worldwide as of April 2021, by industry 】\n  * 【93†Share of unicorns worldwide H1 2022, by region】\n  * 【94†Share of unicorns worldwide as of November 2022, by industry】\n\nThe most important statistics\n\n  * 【95†BERD as a share of GDP in OECD countries 2020】\n  * 【96†Scores of global leading sustainable companies 2024】\n  * 【97†Sustainability reporting rate 2020, by sector 】\n  * 【98†Growth rate of global sustainability reporting 1993-2020】\n  * 【99†Number of patent applications worldwide 1990-2022】\n  * 【100†Ranking of the 20 countries with the most patent grants 2022】\n  * 【101†Leading companies with the most international patent applications 2022】\n  * 【102†Technologies with the most international patent applications 2022】\n\nThe most important statistics\n\n  * 【103†Global gender pay gap 2015-2023】\n  * 【104†Glass-ceiling index: environment for working women worldwide 2020, by country】\n  * 【105†Workplace gender gap worldwide 2022, by type】\n  * 【106†Number of employees worldwide 1991-2023, by gender】\n  * 【107†Proportion of women in managerial positions worldwide 1991-2021】\n\nThe most important statistics\n\n  * 【108†Forecasted number of business insolvencies 2024, by country】\n  * 【109†Annual growth in global business insolvencies by region 2008-2023】\n  * 【110†Forecasted global real GDP growth 2019-2024】\n  * 【68†Weekly development Dow Jones Industrial Average Index 2020-2024】\n  * 【111†Number of working hours lost worldwide from Q1 2020 to Q2 2022】\n  * 【112†Percentage of working hours lost worldwide 2020, by region】\n  * 【61†Number of Amazon.com employees 2007-2023】\n  * 【113†Pfizer's quarterly revenue 2010-2024】\n\n## Other statistics that may interest you Companies worldwide\n\nOverview \n\n8 \n\n  * 【74† Premium Statistic Number of companies worldwide 2000-2021】\n  * 【75† Premium Statistic Number of companies worldwide 2000-2021, by region】\n  * 【76† Premium Statistic Number of SMEs worldwide 2000-2021】\n  * 【77† Premium Statistic Number of SMEs worldwide 2000-2021 by region】\n  * 【78† Premium Statistic Distribution of companies worldwide 2020, by industry】\n  * 【79† Premium Statistic Number of listed companies worldwide 1975-2019】\n  * 【80† Premium Statistic Average company lifespan of S&P 500 companies 1965-2030】\n  * 【81† Premium Statistic Oldest companies operating worldwide 2021】\n\nLargest companies \n\n8 \n\n  * 【82† Premium Statistic Number of large companies worldwide 2000-2021】\n  * 【83† Premium Statistic Number of large companies worldwide 2000-2021, by region】\n  * 【67† Basic Statistic Biggest companies in the world by market value 2023】\n  * 【84† Premium Statistic Number of Fortune 500 companies worldwide 2000-2023, by country】\n  * 【58† Premium Statistic Top companies in the world by revenue 2023】\n  * 【85† Premium Statistic Largest companies in the world based on revenues, by number of employees 2023】\n  * 【86† Premium Statistic Biggest companies in the world by market capitalization 2009】\n  * 【87† Premium Statistic Biggest companies in the world by market capitalization 1989】\n\nStartups \n\n7 \n\n  * 【88† Premium Statistic Annual growth in the number of companies worldwide 2001-2021】\n  * 【89† Premium Statistic New business registration worldwide 2020, by country】\n  * 【90† Premium Statistic Highest valued unicorn companies worldwide 2024】\n  * 【91† Premium Statistic Market value of unicorns worldwide as of April 2021, by region】\n  * 【92† Premium Statistic Market value of unicorns worldwide as of April 2021, by industry 】\n  * 【93† Premium Statistic Share of unicorns worldwide H1 2022, by region】\n  * 【94† Premium Statistic Share of unicorns worldwide as of November 2022, by indust",
+              "attribution": "statista.com"
+            },
+            {
+              "matched_text": "【10†source】",
+              "start_idx": 286,
+              "end_idx": 297,
+              "alt": null,
+              "type": "webpage_extended",
+              "title": "List of largest employers - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/List_of_largest_employers",
+              "pub_date": null,
+              "snippet": "\n 【13† Search 】 \n\nSearch\n\n  Appearance\n\n  * 【14†Create account】 \n  * 【15†Log in】 \n\n  Personal tools\n\n  * 【14† Create account】\n  * 【15† Log in】\n\nPages for logged out editors 【9†learn more】 \n\n  * 【16†Contributions】\n  * 【17†Talk】\n\n## Contents\n\nmove to sidebar hide\n\n  *  (Top) \n  *  【18† 1 Largest employers 】  \n  *  【19† 2 Fortune Global 500 】  \n  *  【20† 3 See also 】  \n  *  【21† 4 References 】  \n  *  【22† 5 External links 】  \n\n  Toggle the table of contents\n\n# List of largest employers\n\n  10 languages\n\n  * 【23†العربية†ar.wikipedia.org】\n  * 【24†Deutsch†de.wikipedia.org】\n  * 【25†Ελληνικά†el.wikipedia.org】\n  * 【26†Español†es.wikipedia.org】\n  * 【27†فارسی†fa.wikipedia.org】\n  * 【28†Bahasa Indonesia†id.wikipedia.org】\n  * 【29†Português†pt.wikipedia.org】\n  * 【30†Slovenščina†sl.wikipedia.org】\n  * 【31†தமிழ்†ta.wikipedia.org】\n  * 【32†Türkçe†tr.wikipedia.org】\n\n【33†Edit links†www.wikidata.org】\n\n  * 【34†Article】\n  * 【35†Talk】\n\n  English\n\n  * 【34†Read】\n  * 【36†Edit】\n  * 【37†View history】\n\n  Tools\n\nTools\n\nmove to sidebar hide\n\nActions \n\n  * 【34†Read】\n  * 【36†Edit】\n  * 【37†View history】\n\nGeneral \n\n  * 【38†What links here】\n  * 【39†Related changes】\n  * 【40†Upload file】\n  * 【41†Special pages】\n  * 【42†Permanent link】\n  * 【43†Page information】\n  * 【44†Cite this page】\n  * 【45†Get shortened URL】\n  * 【46†Download QR code】\n  * 【47†Wikidata item†www.wikidata.org】\n\nPrint/export \n\n  * 【48†Download as PDF】\n  * 【49†Printable version】\n\nAppearance\n\nmove to sidebar hide\n\nFrom Wikipedia, the free encyclopedia\n\n## Largest employers\n\n[【50†edit】]\n\nBelow is the list of largest employers including government owned companies and institutions in 2022. \n\nRank  Employer  Employees (mn)  Country  State-owned  Ref  \n1  【51†Ministry of Defence (India)】  2.99  [Image 0] 【52†India】  [Image 1: Yes] [1]  \n2  【53†Department of Defense (USA)】  2.93  [Image 2] 【54†United States】  [Image 3: Yes] [1]  \n3  【55†People's Liberation Army】  2.55  [Image 4] 【56†China】  [Image 5: Yes] [1]  \n4  【57†Walmart】  2.30  [Image 6] 【54†United States】  [Image 7: No] [1]  \n5  【58†Amazon】  1.61  [Image 8] 【54†United States】  [Image 9: No] [1]  \n6  【59†China National Petroleum】  1.45  [Image 10] 【56†China】  [Image 11: Yes] [1]  \n7  【60†National Health Service】  1.38  [Image 12] 【61†United Kingdom】  [Image 13: Yes] [1]  \n8  【62†Foxconn】  1.29  [Image 14] 【63†Taiwan】  [Image 15: No] [1]  \n9  【64†Indian Railways】  1.21  [Image 16] 【52†India】  [Image 17: Yes] [2]  \n10  【65†Tata Group】  1.02  [Image 18] 【52†India】  [Image 19: No] [3]  \n\n## Fortune Global 500\n\n[【66†edit】]\n\nFollowing is the list of 【67†Fortune 500】 companies providing the most jobs worldwide, according to a list published in 2023 by 【68†Fortune】 magazine.[4]\n\nRank  Employer  Country  Employees (mn)  State-owned   \n1  【57†Walmart】  [Image 20] 【54†United States】  2.1  [Image 21: No]  \n2  【58†Amazon】  [Image 22] 【54†United States】  1.54  [Image 23: No]  \n3  【59†China National Petroleum】  [Image 24] 【56†China】  1.08  [Image 25: Yes]  \n4  【69†State Grid】  [Image 26] 【56†China】  0.87  [Image 27: Yes]  \n5  【62†Foxconn】  [Image 28] 【63†Taiwan】  0.76  [Image 29: No]  \n6  【70†China Post Group】  [Image 30] 【56†China】  0.75  [Image 31: Yes]  \n7  【71†Accenture】  [Image 32] 【54†United States】  0.72  [Image 33: No]  \n8  【72†Volkswagen】  [Image 34] 【73†Germany】  0.68  [Image 35: No]  \n9  【74†United States Postal Service】  [Image 36] 【54†United States】  0.57  [Image 37: Yes]  \n10  【75†BYD Company】  [Image 38] 【56†China】  0.57  [Image 39: No]  \n\n## See also\n\n[【76†edit】]\n\n  * 【77†Fortune Global 500】\n  * 【78†Forbes Global 2000】\n  * 【79†List of multinational corporations】\n  * 【80†List of largest European manufacturing companies by revenue】\n  * 【81†List of largest financial services companies by revenue】\n  * 【82†List of the largest software companies】\n  * 【83†List of largest Internet companies】\n  * 【84†List of largest technology companies by revenue】\n  * 【85†List of private-equity firms】\n  * 【86†List of largest companies by revenue】\n  * 【87†List of public corporations by market capitalization】\n  * 【88†List of largest corporate profits and losses】\n  * 【89†Lists of occupations】\n  * 【90†List of types of tradesman】\n  * 【91†Lists of companies】 – company-related list articles on Wikipedia\n  * 【92†List of largest United States–based employers globally】\n  * 【93†List of wealthiest religious organizations】\n\n## References\n\n[【94†edit】]\n\n  1. ^ a b c d e f g h 【95†\"World's Biggest Employers (2022)\"†www.statista.com】. Statista. Retrieved 1 January 2024.\n  2. ^ 【96†Indian Railways Year Book 2021–22†iritm.indianrailways.gov.in】 (PDF) (Report). 【64†Indian Railways】. Retrieved 1 December 2023.\n  3. ^ 【97†\"Investors\"†www.tata.com】. Tata Group. Retrieved 25 August 2023.\n  4. ^ 【98†Global 500†fortune.com】. 【68†Fortune】 (Report).\n\n## External links\n\n[【99†edit】]\n\n  * 【100†Fortune Global 500†fortune.com】\n\n[Image 40]\n\nRetrieved from \"【42†https://en.wikipedia.org/w/index.php?title=List_of_largest_employers&oldid=1235257095】\"\n\n【101†Categories】: \n\n  * 【102†Lists of companies】\n  * 【103†Economy-related lists of superlatives】\n  * 【104†Employers】\n\nHidden categories: \n\n  * 【105†Articles with short description】\n  * 【106†Short description is different from Wikidata】\n\n  *  This page was last edited on 18 July 2024, at 12:08 (UTC).\n  * Text is available under the 【107†Creative Commons Attribution-ShareAlike License 4.0】; additional terms may apply. By using this site, you agree to the 【108†Terms of Use†foundation.wikimedia.org】 and 【109†Privacy Policy†foundation.wikimedia.org】. Wikipedia® is a registered trademark of the 【110†Wiki",
+              "attribution": "en.wikipedia.org"
+            }
+          ],
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "9e219cfa-313b-4e63-8d3f-b6078b0c8afa",
+      "children": [
+        "aaa20ba9-32c6-4f3d-b9ed-72a23ee3f6ea"
+      ]
+    },
+    "aaa20ba9-32c6-4f3d-b9ed-72a23ee3f6ea": {
+      "id": "aaa20ba9-32c6-4f3d-b9ed-72a23ee3f6ea",
+      "message": {
+        "id": "aaa20ba9-32c6-4f3d-b9ed-72a23ee3f6ea",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1721775141.279262,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "how what grade is a US student at 10 years old?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "8a7f3d875d37a59c-SEA",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "2b4468ae-0b9c-4c20-88ba-fcc8e8b2d85b",
+      "children": [
+        "40a93aab-0d84-4b39-9330-b0ae2f0edda6"
+      ]
+    },
+    "40a93aab-0d84-4b39-9330-b0ae2f0edda6": {
+      "id": "40a93aab-0d84-4b39-9330-b0ae2f0edda6",
+      "message": {
+        "id": "40a93aab-0d84-4b39-9330-b0ae2f0edda6",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1721775146.215023,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "In the United States, a student who is 10 years old is typically in the 4th or 5th grade, depending on when their birthday falls within the school year. The age-to-grade placement can vary slightly due to different state cut-off dates for school entry and local education policies. \n\nGenerally, the grade levels are structured as follows:\n- **Kindergarten**: 5-6 years old\n- **1st Grade**: 6-7 years old\n- **2nd Grade**: 7-8 years old\n- **3rd Grade**: 8-9 years old\n- **4th Grade**: 9-10 years old\n- **5th Grade**: 10-11 years old\n\nThus, a 10-year-old would most commonly be found in the 4th or 5th grade.\n\nFor more detailed information, you can refer to resources like the National Center for Education Statistics (NCES) and local school district policies."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "gizmo_id": null,
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "pad": "AAAAAAAAAAAAAAAAAAAAAAAAAAA",
+          "parent_id": "aaa20ba9-32c6-4f3d-b9ed-72a23ee3f6ea",
+          "request_id": "8a7f3d875d37a59c-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa20ba9-32c6-4f3d-b9ed-72a23ee3f6ea",
+      "children": [
+        "aaa2f1a3-cca8-4008-b1a9-55ab084133df"
+      ]
+    },
+    "aaa2f1a3-cca8-4008-b1a9-55ab084133df": {
+      "id": "aaa2f1a3-cca8-4008-b1a9-55ab084133df",
+      "message": {
+        "id": "aaa2f1a3-cca8-4008-b1a9-55ab084133df",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1721775434.549931,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "what do CEOs mean when they say 'zero billion'"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "8a7f44b07b21eb63-SEA",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "40a93aab-0d84-4b39-9330-b0ae2f0edda6",
+      "children": [
+        "a1c1bfbc-38d8-4a3c-86d8-b423f784fb3b"
+      ]
+    },
+    "a1c1bfbc-38d8-4a3c-86d8-b423f784fb3b": {
+      "id": "a1c1bfbc-38d8-4a3c-86d8-b423f784fb3b",
+      "message": {
+        "id": "a1c1bfbc-38d8-4a3c-86d8-b423f784fb3b",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1721775444.527187,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "When CEOs or financial analysts use the term \"zero billion,\" it is often a rhetorical device intended to convey the idea that a figure is so small it's effectively negligible in the context of the company's overall finances. This phrase emphasizes the insignificance of the amount in question, suggesting it is so close to zero that it might as well be zero, even if it's technically a positive number.\n\n### Contextual Usage\n1. **Earnings Calls**: During earnings calls or financial presentations, a CEO might say \"zero billion\" to illustrate that a particular revenue stream or expense is minuscule compared to the company's total earnings or expenditures. For example, if a large corporation has overall revenues of $100 billion, an additional revenue of $1 million might be humorously referred to as \"zero billion\" to show that it does not significantly impact the financial picture.\n\n2. **Strategic Decisions**: It can also be used when discussing the impact of strategic decisions. For instance, if a company decides to divest from a small business unit, the CEO might describe the lost revenue as \"zero billion\" to highlight that the divestiture has a negligible impact on the company's overall financial health.\n\n3. **Cost Management**: When discussing cost-cutting measures, a CEO might use \"zero billion\" to convey that certain cost savings are insignificant relative to the overall budget.\n\n### Examples of Usage\n- **In Earnings Reports**: \"The changes in our minor product lines contributed zero billion to our overall revenue, emphasizing our focus on high-growth areas.\"\n- **In Strategic Planning**: \"Exiting this non-core business has a 'zero billion' impact on our bottom line, allowing us to allocate resources to more profitable ventures.\"\n\n### Interpretation\nThe phrase helps in simplifying complex financial data for stakeholders by putting small numbers into perspective, especially when dealing with very large sums of money. It underscores the relative importance of financial figures, helping to focus attention on the metrics that truly matter for the company's performance.\n\n### Conclusion\nThe use of \"zero billion\" is a colloquial and slightly humorous way to communicate the idea that certain financial figures are too small to be of any significant concern. It's a useful rhetorical tool in business communication for highlighting priorities and focusing on the big picture.\n\nFor further insights and examples, you can check out discussions on financial forums, earnings call transcripts, or articles that delve into corporate financial strategies."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "gizmo_id": null,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "pad": "AAAAAAAAAAAAAAAA",
+          "parent_id": "aaa2f1a3-cca8-4008-b1a9-55ab084133df",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "8a7f44b07b21eb63-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa2f1a3-cca8-4008-b1a9-55ab084133df",
+      "children": [
+        "aaa21b1e-fa85-440a-a11a-08c714bebf2b"
+      ]
+    },
+    "aaa21b1e-fa85-440a-a11a-08c714bebf2b": {
+      "id": "aaa21b1e-fa85-440a-a11a-08c714bebf2b",
+      "message": {
+        "id": "aaa21b1e-fa85-440a-a11a-08c714bebf2b",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1721775507.318358,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "But I heard Nvidia's CEO use it to mean 'nonexistent billion dollar market'. Are you familiar with this usage?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "8a7f4677199c76e8-SEA",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "a1c1bfbc-38d8-4a3c-86d8-b423f784fb3b",
+      "children": [
+        "501295a7-97cb-436b-b24e-bc1fde3acc02"
+      ]
+    },
+    "501295a7-97cb-436b-b24e-bc1fde3acc02": {
+      "id": "501295a7-97cb-436b-b24e-bc1fde3acc02",
+      "message": {
+        "id": "501295a7-97cb-436b-b24e-bc1fde3acc02",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1721775512.931422,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Yes, I am familiar with the usage of the term \"zero billion\" by NVIDIA's CEO Jensen Huang. When Huang uses the term \"zero billion,\" he refers to a market or product segment that, despite the hype or potential discussed, does not actually generate any significant revenue. In other words, it's a non-existent billion-dollar market, one that is expected to be lucrative but, in reality, contributes little to no revenue.\n\n### Contextual Example\nIn an interview or during a financial call, Huang might say something like:\n- \"People talk about this market being worth billions, but in reality, it's a 'zero billion' market because it doesn't generate any real revenue.\"\n\n### Implications\nThis usage is meant to:\n- **Debunk Myths**: Highlight the difference between the perceived potential of a market and the actual revenue it generates.\n- **Set Expectations**: Manage stakeholder expectations by providing a realistic assessment of a market's financial impact.\n- **Focus Resources**: Emphasize the need to invest in markets or products that have real, tangible revenue potential rather than hypothetical or over-hyped markets.\n\n### Further Reading\nFor more detailed insights, you can refer to specific earnings call transcripts, interviews, or articles where Jensen Huang discusses market dynamics and uses this term to illustrate his points. This helps understand the strategic considerations and financial evaluations behind such statements.\n\nIf you need specific references to the usage of this term by Jensen Huang, you can look at recent NVIDIA earnings calls or interviews on financial news websites and platforms like Seeking Alpha, Yahoo Finance, or directly on NVIDIA's investor relations page."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "gizmo_id": null,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "pad": "A",
+          "parent_id": "aaa21b1e-fa85-440a-a11a-08c714bebf2b",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "8a7f4677199c76e8-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa21b1e-fa85-440a-a11a-08c714bebf2b",
+      "children": [
+        "aaa25751-7823-4433-90bd-07d3839f94ba"
+      ]
+    },
+    "aaa25751-7823-4433-90bd-07d3839f94ba": {
+      "id": "aaa25751-7823-4433-90bd-07d3839f94ba",
+      "message": {
+        "id": "aaa25751-7823-4433-90bd-07d3839f94ba",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1721781043.578471,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "tell me about the physics quantity of jerk"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "8a7fcd97aa8176a0-SEA",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "501295a7-97cb-436b-b24e-bc1fde3acc02",
+      "children": [
+        "d2678886-50c4-43f3-bcb4-385247961dd6"
+      ]
+    },
+    "d2678886-50c4-43f3-bcb4-385247961dd6": {
+      "id": "d2678886-50c4-43f3-bcb4-385247961dd6",
+      "message": {
+        "id": "d2678886-50c4-43f3-bcb4-385247961dd6",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1721781056.715991,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "The physics quantity of \"jerk\" is the rate of change of acceleration with respect to time. It represents how quickly an object's acceleration is changing, and it is an important concept in fields such as mechanics, robotics, and motion control.\n\n### Definition and Formula\nJerk (\\( \\mathbf{j} \\)) is mathematically defined as the derivative of acceleration (\\( \\mathbf{a} \\)) with respect to time (\\( t \\)):\n\n\\[ \\mathbf{j} = \\frac{d\\mathbf{a}}{dt} \\]\n\nSince acceleration is the first derivative of velocity (\\( \\mathbf{v} \\)), and velocity is the first derivative of position (\\( \\mathbf{x} \\)), jerk can also be expressed as:\n\n\\[ \\mathbf{j} = \\frac{d^2\\mathbf{v}}{dt^2} = \\frac{d^3\\mathbf{x}}{dt^3} \\]\n\n### Units\nIn the International System of Units (SI), jerk is measured in meters per second cubed (\\( \\text{m/s}^3 \\)). This is derived from the units of acceleration (\\( \\text{m/s}^2 \\)) per second.\n\n### Applications\n- **Engineering and Robotics**: In mechanical systems and robots, controlling jerk is crucial to ensure smooth motion. High levels of jerk can lead to mechanical stress and discomfort for humans interacting with these systems.\n- **Transportation**: In vehicles, minimizing jerk improves passenger comfort by avoiding sudden changes in acceleration.\n- **Motion Control**: Precision systems, such as those used in CNC machines or 3D printers, use jerk control to enhance the accuracy and quality of movements.\n\n### Examples\n1. **Elevators**: When an elevator starts moving, the change from rest to acceleration involves jerk. Similarly, when it slows down to stop, the deceleration phase involves negative jerk.\n2. **Roller Coasters**: The rapid changes in acceleration on a roller coaster create high levels of jerk, contributing to the thrill and physical sensations experienced by riders.\n\n### Importance\nUnderstanding and controlling jerk is important because it affects the forces experienced by objects and people. High jerk can lead to wear and tear on mechanical components, and in human contexts, it can cause discomfort or even injury.\n\n### Further Reading\nFor more detailed information on the concept of jerk and its applications, you can refer to physics textbooks on mechanics or specialized articles in engineering journals. Here are some useful resources:\n- [HyperPhysics - Jerk](http://hyperphysics.phy-astr.gsu.edu/hbase/mechanics/jerk.html)\n- [Wikipedia - Jerk (physics)](https://en.wikipedia.org/wiki/Jerk_(physics))\n\nThese sources provide comprehensive explanations and additional context on the topic of jerk in physics."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "gizmo_id": null,
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "pad": "AAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+          "parent_id": "aaa25751-7823-4433-90bd-07d3839f94ba",
+          "request_id": "8a7fcd97aa8176a0-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa25751-7823-4433-90bd-07d3839f94ba",
+      "children": [
+        "aaa2d801-eb30-42f5-ac78-0936ac886ed9"
+      ]
+    },
+    "aaa2d801-eb30-42f5-ac78-0936ac886ed9": {
+      "id": "aaa2d801-eb30-42f5-ac78-0936ac886ed9",
+      "message": {
+        "id": "aaa2d801-eb30-42f5-ac78-0936ac886ed9",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1721781081.710712,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "What about higher time derivative quantities?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "8a7fce8f1a3776a0-SEA",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "d2678886-50c4-43f3-bcb4-385247961dd6",
+      "children": [
+        "dc7bc7eb-4e1e-42e7-814e-c48b9a532653"
+      ]
+    },
+    "dc7bc7eb-4e1e-42e7-814e-c48b9a532653": {
+      "id": "dc7bc7eb-4e1e-42e7-814e-c48b9a532653",
+      "message": {
+        "id": "dc7bc7eb-4e1e-42e7-814e-c48b9a532653",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1721781106.995348,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "In physics and engineering, higher time derivatives of position describe changes in motion beyond acceleration and jerk. These quantities are often less commonly referenced but are important in certain applications requiring precise motion control. Here are the next few higher-order derivatives:\n\n### Snap (Jounce)\nSnap, also known as jounce, is the fourth derivative of position with respect to time. It represents the rate of change of jerk.\n\n- **Definition**: \\( \\mathbf{s} = \\frac{d\\mathbf{j}}{dt} = \\frac{d^2\\mathbf{a}}{dt^2} = \\frac{d^3\\mathbf{v}}{dt^3} = \\frac{d^4\\mathbf{x}}{dt^4} \\)\n- **Units**: Meters per second to the fourth power (\\( \\text{m/s}^4 \\))\n- **Applications**: Snap is relevant in highly precise engineering systems such as advanced robotics and aerospace engineering, where controlling rapid changes in acceleration is necessary to ensure smooth operation and minimize mechanical stress.\n\n### Crackle\nCrackle is the fifth derivative of position with respect to time. It describes the rate of change of snap.\n\n- **Definition**: \\( \\mathbf{c} = \\frac{d\\mathbf{s}}{dt} = \\frac{d^2\\mathbf{j}}{dt^2} = \\frac{d^3\\mathbf{a}}{dt^3} = \\frac{d^4\\mathbf{v}}{dt^4} = \\frac{d^5\\mathbf{x}}{dt^5} \\)\n- **Units**: Meters per second to the fifth power (\\( \\text{m/s}^5 \\))\n- **Applications**: Crackle can be considered in high-frequency vibration analysis and advanced computational simulations where very fine-grained control of motion is required.\n\n### Pop\nPop is the sixth derivative of position with respect to time. It represents the rate of change of crackle.\n\n- **Definition**: \\( \\mathbf{p} = \\frac{d\\mathbf{c}}{dt} = \\frac{d^2\\mathbf{s}}{dt^2} = \\frac{d^3\\mathbf{j}}{dt^3} = \\frac{d^4\\mathbf{a}}{dt^4} = \\frac{d^5\\mathbf{v}}{dt^5} = \\frac{d^6\\mathbf{x}}{dt^6} \\)\n- **Units**: Meters per second to the sixth power (\\( \\text{m/s}^6 \\))\n- **Applications**: Pop is a theoretical concept often considered in the most advanced physics and engineering problems where modeling of extremely fine and rapid changes in motion is necessary.\n\n### Naming Convention\nThe higher-order derivatives beyond pop do not have widely accepted names and are often referred to simply by their order (seventh derivative, eighth derivative, etc.). \n\n### Summary of Time Derivatives\n- **Position (x)**: \\( \\mathbf{x} \\)\n- **Velocity (v)**: \\( \\mathbf{v} = \\frac{d\\mathbf{x}}{dt} \\)\n- **Acceleration (a)**: \\( \\mathbf{a} = \\frac{d\\mathbf{v}}{dt} = \\frac{d^2\\mathbf{x}}{dt^2} \\)\n- **Jerk (j)**: \\( \\mathbf{j} = \\frac{d\\mathbf{a}}{dt} = \\frac{d^2\\mathbf{v}}{dt^2} = \\frac{d^3\\mathbf{x}}{dt^3} \\)\n- **Snap (s)**: \\( \\mathbf{s} = \\frac{d\\mathbf{j}}{dt} = \\frac{d^2\\mathbf{a}}{dt^2} = \\frac{d^3\\mathbf{v}}{dt^3} = \\frac{d^4\\mathbf{x}}{dt^4} \\)\n- **Crackle (c)**: \\( \\mathbf{c} = \\frac{d\\mathbf{s}}{dt} = \\frac{d^2\\mathbf{j}}{dt^2} = \\frac{d^3\\mathbf{a}}{dt^3} = \\frac{d^4\\mathbf{v}}{dt^4} = \\frac{d^5\\mathbf{x}}{dt^5} \\)\n- **Pop (p)**: \\( \\mathbf{p} = \\frac{d\\mathbf{c}}{dt} = \\frac{d^2\\mathbf{s}}{dt^2} = \\frac{d^3\\mathbf{j}}{dt^3} = \\frac{d^4\\mathbf{a}}{dt^4} = \\frac{d^5\\mathbf{v}}{dt^5} = \\frac{d^6\\mathbf{x}}{dt^6} \\)\n\n### Further Reading\nFor more detailed information, consider consulting advanced physics textbooks or academic papers on kinematics and motion control. Here are some resources:\n- [Wikipedia - Jerk (physics)](https://en.wikipedia.org/wiki/Jerk_(physics))\n- [HyperPhysics - Motion](http://hyperphysics.phy-astr.gsu.edu/hbase/mot.html)\n\nThese resources offer comprehensive explanations and examples of higher-order derivatives in physics."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "gizmo_id": null,
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "pad": "AAAAAAAAAAAAAAAA",
+          "parent_id": "aaa2d801-eb30-42f5-ac78-0936ac886ed9",
+          "request_id": "8a7fce8f1a3776a0-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa2d801-eb30-42f5-ac78-0936ac886ed9",
+      "children": [
+        "aaa2e8e0-5070-4c3e-8e0f-48dec006833c"
+      ]
+    },
+    "aaa2e8e0-5070-4c3e-8e0f-48dec006833c": {
+      "id": "aaa2e8e0-5070-4c3e-8e0f-48dec006833c",
+      "message": {
+        "id": "aaa2e8e0-5070-4c3e-8e0f-48dec006833c",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1721781220.550782,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Is there a vector or mathematical object that tracks each one of these derivative quantities in a single instance?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "8a7fd1f2be90b999-SEA",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "dc7bc7eb-4e1e-42e7-814e-c48b9a532653",
+      "children": [
+        "6af22cca-4faf-4f14-bca4-85203248555b"
+      ]
+    },
+    "6af22cca-4faf-4f14-bca4-85203248555b": {
+      "id": "6af22cca-4faf-4f14-bca4-85203248555b",
+      "message": {
+        "id": "6af22cca-4faf-4f14-bca4-85203248555b",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1721781235.554195,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Yes, there is a way to represent all these derivative quantities in a single mathematical object called a \"kinematic vector\" or a \"kinematic state vector.\" This vector encapsulates position, velocity, acceleration, jerk, and higher-order derivatives up to any desired level. The kinematic state vector can be very useful in advanced motion analysis and control systems.\n\n### Kinematic State Vector\nA kinematic state vector includes all the derivatives of position with respect to time. For an \\( n \\)-th order kinematic state vector, it can be expressed as follows:\n\n\\[ \\mathbf{K}(t) = \\begin{pmatrix}\n\\mathbf{x}(t) \\\\\n\\mathbf{v}(t) \\\\\n\\mathbf{a}(t) \\\\\n\\mathbf{j}(t) \\\\\n\\mathbf{s}(t) \\\\\n\\mathbf{c}(t) \\\\\n\\mathbf{p}(t) \\\\\n\\vdots\n\\end{pmatrix} \\]\n\n### Example: 6th-Order Kinematic State Vector\nFor a 6th-order kinematic state vector, which includes derivatives up to pop, the vector can be written as:\n\n\\[ \\mathbf{K}(t) = \\begin{pmatrix}\n\\mathbf{x}(t) \\\\\n\\mathbf{v}(t) \\\\\n\\mathbf{a}(t) \\\\\n\\mathbf{j}(t) \\\\\n\\mathbf{s}(t) \\\\\n\\mathbf{c}(t) \\\\\n\\mathbf{p}(t)\n\\end{pmatrix} \\]\n\n### Components\n- **Position (\\(\\mathbf{x}\\))**: The location of the object.\n- **Velocity (\\(\\mathbf{v}\\))**: The rate of change of position.\n- **Acceleration (\\(\\mathbf{a}\\))**: The rate of change of velocity.\n- **Jerk (\\(\\mathbf{j}\\))**: The rate of change of acceleration.\n- **Snap (\\(\\mathbf{s}\\))**: The rate of change of jerk.\n- **Crackle (\\(\\mathbf{c}\\))**: The rate of change of snap.\n- **Pop (\\(\\mathbf{p}\\))**: The rate of change of crackle.\n\n### Applications\n1. **Robotics**: Used in motion planning and control to ensure smooth and precise movements.\n2. **Aerospace Engineering**: Important for the design and control of aircraft and spacecraft where precise control of movement is critical.\n3. **Mechanical Systems**: Helps in the analysis and design of systems where vibration and dynamic response are important.\n\n### Mathematical Representation\nIn control theory and systems dynamics, these vectors can be represented using state-space models, where each derivative term is a state variable in a high-dimensional state vector. This allows for the application of advanced mathematical techniques to analyze and control the system.\n\n### References for Further Reading\nFor more detailed information, consider consulting advanced textbooks on dynamics and control theory, such as:\n- \"Modern Control Engineering\" by Katsuhiko Ogata.\n- \"Dynamics and Control of Mechanical Systems: The Falling Cat and Related Problems\" by Jack A. Greenwood.\n- Articles and papers on advanced kinematic modeling and motion control in journals such as the IEEE Transactions on Robotics and Automation.\n\nThese resources offer comprehensive explanations and applications of kinematic state vectors in various fields."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "gizmo_id": null,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "pad": "AAAAAAAAA",
+          "parent_id": "aaa2e8e0-5070-4c3e-8e0f-48dec006833c",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "8a7fd1f2be90b999-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa2e8e0-5070-4c3e-8e0f-48dec006833c",
+      "children": [
+        "aaa29158-73ce-4f7d-bd19-00b2c6fd7a66"
+      ]
+    },
+    "aaa29158-73ce-4f7d-bd19-00b2c6fd7a66": {
+      "id": "aaa29158-73ce-4f7d-bd19-00b2c6fd7a66",
+      "message": {
+        "id": "aaa29158-73ce-4f7d-bd19-00b2c6fd7a66",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1721782896.296764,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "complete the phrase \"-imo ergo sum\""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "8a7ffadc5badba52-SEA",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "6af22cca-4faf-4f14-bca4-85203248555b",
+      "children": [
+        "bb17eac9-1329-482d-9743-5740965693a0"
+      ]
+    },
+    "bb17eac9-1329-482d-9743-5740965693a0": {
+      "id": "bb17eac9-1329-482d-9743-5740965693a0",
+      "message": {
+        "id": "bb17eac9-1329-482d-9743-5740965693a0",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1721782904.679123,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "The phrase you're referring to is \"Cognito ergo sum,\" which is Latin for \"I think, therefore I am.\" This famous philosophical statement was coined by René Descartes. It is often considered a fundamental element in Western philosophy, expressing the idea that the act of thinking is proof of one's existence.\n\nTo complete the phrase \"-imo ergo sum\" correctly in the spirit of Descartes' original formulation, you would say:\n\n**\"Cogito, ergo sum.\"**\n\nIf you are thinking of a variation or play on this phrase, such as \"-imo ergo sum,\" it would be interesting to know the context or the first part of the word, as \"cogito\" is specifically tied to thinking or thought. There isn't a commonly known phrase ending in \"-imo ergo sum,\" but variations often play on different Latin verbs to emphasize different actions or states of being. \n\nFor example:\n- \"Laboro, ergo sum\" (I work, therefore I am)\n- \"Sento, ergo sum\" (I feel, therefore I am)\n\nIf you have more context or a specific variation in mind, please provide it, and I can help you construct the phrase accurately."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "gizmo_id": null,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "pad": "AAA",
+          "parent_id": "aaa29158-73ce-4f7d-bd19-00b2c6fd7a66",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "8a7ffadc5badba52-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa29158-73ce-4f7d-bd19-00b2c6fd7a66",
+      "children": [
+        "aaa2313e-eb09-41a1-81ef-8835688015fe"
+      ]
+    },
+    "aaa2313e-eb09-41a1-81ef-8835688015fe": {
+      "id": "aaa2313e-eb09-41a1-81ef-8835688015fe",
+      "message": {
+        "id": "aaa2313e-eb09-41a1-81ef-8835688015fe",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1721784853.511941,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "what is a heffenwiezen"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "8a802aa4ac096815-SEA",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "bb17eac9-1329-482d-9743-5740965693a0",
+      "children": [
+        "25a4332c-3134-46c1-9d55-c16019b76a59"
+      ]
+    },
+    "25a4332c-3134-46c1-9d55-c16019b76a59": {
+      "id": "25a4332c-3134-46c1-9d55-c16019b76a59",
+      "message": {
+        "id": "25a4332c-3134-46c1-9d55-c16019b76a59",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1721784866.109632,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "It looks like there may have been a slight misspelling or confusion in your query. The correct term you might be looking for is **\"Hefeweizen\"**.\n\n### Hefeweizen\n\n**Hefeweizen** is a traditional German wheat beer that is particularly popular in Bavaria. The name \"Hefeweizen\" can be broken down into two parts:\n- **\"Hefe\"** means yeast in German.\n- **\"Weizen\"** means wheat.\n\n### Characteristics\n- **Appearance**: Hefeweizen typically has a cloudy or hazy appearance due to the suspended yeast and wheat proteins.\n- **Flavor**: It is known for its fruity and spicy flavors, often with hints of banana and clove, which come from the specific yeast strains used during fermentation.\n- **Aroma**: Similar to its flavor, the aroma can include notes of banana, clove, and sometimes vanilla or bubblegum.\n- **Mouthfeel**: This beer is generally medium-bodied and highly carbonated, giving it a refreshing quality.\n\n### Brewing Process\n- **Ingredients**: Hefeweizen is usually brewed with a high percentage of wheat malt (often over 50%), along with barley malt. The unique yeast strain used is crucial for developing its distinctive flavors.\n- **Yeast**: The yeast strain used for Hefeweizen is a top-fermenting yeast, which contributes to the beer's fruity and spicy characteristics.\n\n### Popular Hefeweizen Brands\n- **Weihenstephaner Hefeweissbier**: Brewed by Bayerische Staatsbrauerei Weihenstephan, one of the oldest breweries in the world.\n- **Paulaner Hefe-Weißbier**: Another well-known brand, famous for its smooth and balanced flavor.\n\n### Serving\nHefeweizen is traditionally served in tall, curved glasses that showcase its color and encourage the formation of a thick, creamy head. It is often enjoyed as a refreshing drink during warm weather but is popular year-round.\n\nFor more detailed information, you can explore resources like [BeerAdvocate](https://www.beeradvocate.com/beer/style/48/) or [CraftBeer.com](https://www.craftbeer.com/styles/hefeweizen).\n\nI hope this helps clarify what a Hefeweizen is! If you have any more questions, feel free to ask."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "gizmo_id": null,
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "pad": "AAAAAAAAAAAAAAAAA",
+          "parent_id": "aaa2313e-eb09-41a1-81ef-8835688015fe",
+          "request_id": "8a802aa4ac096815-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa2313e-eb09-41a1-81ef-8835688015fe",
+      "children": [
+        "aaa2f71f-e9e7-417f-9b17-77e135d2cf85"
+      ]
+    },
+    "aaa2f71f-e9e7-417f-9b17-77e135d2cf85": {
+      "id": "aaa2f71f-e9e7-417f-9b17-77e135d2cf85",
+      "message": {
+        "id": "aaa2f71f-e9e7-417f-9b17-77e135d2cf85",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1721784919.736238,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "thank you it really does! And I appreciate how assertive yet gentle you were with your correction of my spelling."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "8a802c429e0b6815-SEA",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "25a4332c-3134-46c1-9d55-c16019b76a59",
+      "children": [
+        "a8d2549b-e399-474c-a7d3-253d943dd56f"
+      ]
+    },
+    "a8d2549b-e399-474c-a7d3-253d943dd56f": {
+      "id": "a8d2549b-e399-474c-a7d3-253d943dd56f",
+      "message": {
+        "id": "a8d2549b-e399-474c-a7d3-253d943dd56f",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1721784921.602861,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "You're very welcome! I'm glad the information was helpful, and I'm happy to assist you. If you have any more questions or need further assistance, feel free to ask. Enjoy your exploration of Hefeweizen!"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "gizmo_id": null,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "pad": "AAAAAAAAAAAAAAAAAA",
+          "parent_id": "aaa2f71f-e9e7-417f-9b17-77e135d2cf85",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "8a802c429e0b6815-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa2f71f-e9e7-417f-9b17-77e135d2cf85",
+      "children": [
+        "aaa20c92-dcae-470c-b310-28874165935f"
+      ]
+    },
+    "aaa20c92-dcae-470c-b310-28874165935f": {
+      "id": "aaa20c92-dcae-470c-b310-28874165935f",
+      "message": {
+        "id": "aaa20c92-dcae-470c-b310-28874165935f",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1721865428.396449,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "what is the 'capitalization problem' in terms of a newly organized business venture?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "8a87d9cda95395dd-SEA",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null,
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "a8d2549b-e399-474c-a7d3-253d943dd56f",
+      "children": [
+        "ab5ce012-66ac-4622-8fc0-c78f065ff1f4"
+      ]
+    },
+    "ab5ce012-66ac-4622-8fc0-c78f065ff1f4": {
+      "id": "ab5ce012-66ac-4622-8fc0-c78f065ff1f4",
+      "message": {
+        "id": "ab5ce012-66ac-4622-8fc0-c78f065ff1f4",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1721865443.95885,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "The \"capitalization problem\" in the context of a newly organized business venture refers to challenges and considerations related to securing and structuring sufficient capital (funds) to support the initial operations and future growth of the business. This problem can manifest in various ways:\n\n### Key Aspects of the Capitalization Problem\n\n1. **Securing Initial Funding**:\n   - **Sources of Capital**: Entrepreneurs need to determine the best sources of initial capital, which can include personal savings, loans, venture capital, angel investors, crowdfunding, or grants.\n   - **Investor Appeal**: Making the business appealing to potential investors by demonstrating a solid business plan, market potential, and a clear path to profitability.\n\n2. **Equity vs. Debt Financing**:\n   - **Equity Financing**: Involves selling shares of the company to raise funds. While this doesn't require repayment, it dilutes ownership and control.\n   - **Debt Financing**: Involves borrowing money that must be repaid with interest. This does not dilute ownership but adds financial risk due to the obligation to make regular payments.\n\n3. **Valuation Challenges**:\n   - **Determining Valuation**: Accurately valuing a new venture can be difficult due to the lack of historical financial data. Overvaluation or undervaluation can impact fundraising efforts and ownership dilution.\n\n4. **Cash Flow Management**:\n   - **Initial Cash Flow**: Ensuring that there is enough capital to cover startup costs, such as equipment, inventory, marketing, and operational expenses, until the business starts generating sufficient revenue.\n   - **Sustaining Operations**: Maintaining a healthy cash flow to support ongoing operations, scaling efforts, and unforeseen expenses.\n\n5. **Financial Planning and Projections**:\n   - **Realistic Projections**: Creating realistic financial projections that accurately reflect the business's potential revenue, expenses, and profitability. Overly optimistic projections can lead to undercapitalization.\n   - **Contingency Planning**: Preparing for potential setbacks and ensuring that there are contingency funds available.\n\n6. **Regulatory and Compliance Issues**:\n   - **Legal Requirements**: Adhering to legal and regulatory requirements related to financing, such as securities laws for equity financing or lending regulations for debt financing.\n\n### Impacts of the Capitalization Problem\n\n- **Undercapitalization**: Insufficient capital can lead to operational challenges, inability to meet financial obligations, and ultimately, business failure.\n- **Overcapitalization**: While less common, having too much capital can lead to inefficient use of resources and reduced returns on investment.\n\n### Strategies to Address the Capitalization Problem\n\n1. **Detailed Business Plan**: Developing a comprehensive business plan that clearly outlines the business model, market analysis, financial projections, and funding requirements.\n2. **Diversified Funding Sources**: Utilizing a mix of funding sources to mitigate risk and ensure a steady flow of capital.\n3. **Phased Funding Approach**: Raising capital in phases based on milestones and performance to avoid excessive dilution and manage resources effectively.\n4. **Building Relationships**: Establishing strong relationships with investors, lenders, and financial advisors who can provide guidance and support.\n\n### Resources for Further Reading\n- [Entrepreneur - How to Raise Capital](https://www.entrepreneur.com/article/292893)\n- [Investopedia - Capitalization](https://www.investopedia.com/terms/c/capitalization.asp)\n- [Harvard Business Review - The Basics of Business Financing](https://hbr.org/2006/10/the-basics-of-business-financing)\n\nUnderstanding and addressing the capitalization problem is crucial for the success and sustainability of a new business venture. It requires careful planning, realistic financial management, and strategic fundraising efforts."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "gizmo_id": null,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "pad": "AAAAAAAAAA",
+          "parent_id": "aaa20c92-dcae-470c-b310-28874165935f",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "8a87d9cda95395dd-SEA",
+          "timestamp_": "absolute",
+          "can_save": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa20c92-dcae-470c-b310-28874165935f",
+      "children": []
+    }
+  },
+  "moderation_results": [],
+  "current_node": "ab5ce012-66ac-4622-8fc0-c78f065ff1f4",
+  "plugin_ids": null,
+  "conversation_id": "eb8e6999-4e03-4b79-b0b0-a7dbdc451fb8",
+  "conversation_template_id": "g-p-67bd1d8bb46c8191a6ddeb906b37e075",
+  "gizmo_id": "g-p-67bd1d8bb46c8191a6ddeb906b37e075",
+  "gizmo_type": "snorlax",
+  "is_archived": false,
+  "is_starred": null,
+  "safe_urls": [
+    "https://www.investopedia.com/terms/c/capitalization.asp",
+    "https://companiesmarketcap.com/largest-companies-by-number-of-employees/",
+    "https://en.wikipedia.org/w/index.php?title=List_of_largest_employers&oldid=1235257095",
+    "https://www.beeradvocate.com/beer/style/48/",
+    "https://en.wikipedia.org/wiki/List_of_largest_employers",
+    "https://www.statista.com/statistics/264671/top-50-companies-based-on-number-of-employees/"
+  ],
+  "blocked_urls": [],
+  "default_model_slug": "gpt-4o",
+  "atlas_mode_enabled": null,
+  "conversation_origin": null,
+  "is_read_only": null,
+  "voice": null,
+  "async_status": null,
+  "disabled_tool_ids": [],
+  "is_do_not_remember": null,
+  "memory_scope": "global_enabled",
+  "context_scopes": null,
+  "sugar_item_id": null,
+  "sugar_item_visible": false,
+  "pinned_time": null,
+  "is_study_mode": false,
+  "owner": null,
+  "id": "eb8e6999-4e03-4b79-b0b0-a7dbdc451fb8"
+}
