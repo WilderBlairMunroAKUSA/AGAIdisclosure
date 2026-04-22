@@ -14,14 +14,12 @@ Minimal PII sanitized (direct name mentions only).
 # ==== IMPORT FUNCTIONS ========================
 def import_conversations_openai():
     os.makedirs(f"_conversations_openai_raw", exist_ok=True)
-    with open("_import_conversations/_conversations_openai.json", "r", encoding="utf-8") as f:
+    with open("_import_conversations🔒/_conversations_openai.json", "r", encoding="utf-8") as f:
         unredacted_conversations = json.load(f) 
 
     def redact(obj):
-        with open("_import_conversations/_redactlist🔒.json", "r", encoding="utf-8") as f:
+        with open("_import_conversations🔒/_redactlist.json", "r", encoding="utf-8") as f:
             redactlist = json.load(f)
-        # for name in redactlist["names"]:
-        #     print(name)
         replacement = "..."
         names = [n for n in redactlist['names']]
         pattern = re.compile(
@@ -40,13 +38,19 @@ def import_conversations_openai():
         return walk_and_redact(obj)
 
     conversations = redact(unredacted_conversations)
+    index_lines = ["# Raw JSON Conversation Index: chatgpt", "", "|#|(yymmdd)|Title|", "|--|--|--|"]
     conversations.sort(key=lambda c: c["create_time"])
     for index, convo in enumerate(conversations):
         created = datetime.fromtimestamp(convo["create_time"], timezone.utc).strftime("%y%m%d")
+        title = convo.get("title").replace("\n", " . ")
         filename = f"{index+1:03d}-wilderblairmunroakusa-chatgpt-{created}.json"
+        index_lines.append(f"|{index+1:03d}| ({created}) |[{title}]({filename})|")
         filepath = os.path.join(f"_conversations_openai_raw", filename)
         with open(filepath, "w", encoding="utf-8") as output_file:
             json.dump(convo, output_file, ensure_ascii=False, indent=2)
+
+    with open(os.path.join("_conversations_openai_raw", "000-index-wilderblairmunroakusa-chatgpt.md"), "w", encoding="utf-8") as f:
+        f.write("\n".join(index_lines))
 
     print(f"✅ Imported {len(conversations)} OpenAI conversations.")
     return
@@ -54,19 +58,25 @@ def import_conversations_openai():
 
 def import_conversations_anthropic():
     os.makedirs(f"_conversations_anthropic_raw", exist_ok=True)
-    with open("_import_conversations/_conversations_anthropic.json", "r", encoding="utf-8") as f:
+    with open("_import_conversations🔒/_conversations_anthropic.json", "r", encoding="utf-8") as f:
         conversations = json.load(f) 
-    with open("_import_conversations/_conversations_anthropic_titles.json", "r", encoding="utf-8") as f:
+    with open("_import_conversations🔒/_conversations_anthropic_titles.json", "r", encoding="utf-8") as f:
         titles = json.load(f) 
 
+    index_lines = ["# Raw JSON Conversation Index: claude", "", "|#|(yymmdd)|Title|", "|--|--|--|"]
     conversations.sort(key=lambda c: c["created_at"])
     conversations = [c for c in conversations if c["name"] in titles] # remove temp convos
     for index, convo in enumerate(conversations):
         created = datetime.fromisoformat(convo["created_at"].replace("Z", "+00:00")).strftime("%y%m%d")
+        title = convo.get("name")
         filename = f"{index+1:03d}-wilderblairmunroakusa-claude-{created}.json"
+        index_lines.append(f"|{index+1:03d}| ({created}) |[{title}]({filename})|")
         filepath = os.path.join(f"_conversations_anthropic_raw", filename)
         with open(filepath, "w", encoding="utf-8") as output_file:
             json.dump(convo, output_file, ensure_ascii=False, indent=2)
+
+    with open(os.path.join("_conversations_anthropic_raw", "000-index-wilderblairmunroakusa-claude.md"), "w", encoding="utf-8") as f:
+        f.write("\n".join(index_lines))
 
     print(f"✅ Imported {len(conversations)} Anthropic conversations.")
     return
@@ -74,17 +84,23 @@ def import_conversations_anthropic():
 
 def import_conversations_xai():
     os.makedirs(f"_conversations_xai_raw", exist_ok=True)
-    with open("_import_conversations/_conversations_xai.json", "r", encoding="utf-8") as f:
+    with open("_import_conversations🔒/_conversations_xai.json", "r", encoding="utf-8") as f:
         conversations = json.load(f) 
 
+    index_lines = ["# Raw JSON Conversation Index: grok", "", "|#|(yymmdd)|Title|", "|--|--|--|"]
     conversations = conversations["conversations"]
     conversations.sort(key=lambda c: c["conversation"]["create_time"])
     for index, convo in enumerate(conversations):
         created = datetime.fromisoformat(convo["conversation"]["create_time"].replace("Z", "+00:00")).strftime("%y%m%d")
+        title = convo["conversation"]["title"]
         filename = f"{index+1:03d}-wilderblairmunroakusa-grok-{created}.json"
+        index_lines.append(f"|{index+1:03d}| ({created}) |[{title}]({filename})|")        
         filepath = os.path.join(f"_conversations_xai_raw", filename)
         with open(filepath, "w", encoding="utf-8") as output_file:
             json.dump(convo, output_file, ensure_ascii=False, indent=2)
+
+    with open(os.path.join("_conversations_xai_raw", "000-index-wilderblairmunroakusa-grok.md"), "w", encoding="utf-8") as f:
+        f.write("\n".join(index_lines))
 
     print(f"✅ Imported {len(conversations)} xAI conversations.")
     return
@@ -92,13 +108,13 @@ def import_conversations_xai():
 
 def import_conversations_google():
     os.makedirs(f"_conversations_google_raw", exist_ok=True)
-    with open("_import_conversations/_conversations_google.md", "r", encoding="utf-8") as f:
+    with open("_import_conversations🔒/_conversations_google.md", "r", encoding="utf-8") as f:
         conversation_blob = f.read()
 
     datestring_pairs = []
     for path in [
-        "_import_conversations/_conversations_google_wilder.html",
-        "_import_conversations/_conversations_google_bmakusa.html"
+        "_import_conversations🔒/_conversations_google_wilder.html",
+        "_import_conversations🔒/_conversations_google_bmakusa.html"
         ]:
         with open(path, 'r', encoding='utf-8') as f:
             html = f.read()
@@ -166,13 +182,19 @@ def import_conversations_google():
                 if firstline[0:55] == match[1][0:55]:
                     turnpair["datetime"] = match[0]
 
+    index_lines = ["# Raw JSON Conversation Index: gemini", "", "|#|(yymmdd)|Title|", "|--|--|--|"]
     conversations.sort(key=lambda c: c["datetime"])
     for index, convo in enumerate(conversations):
         created = datetime.strptime(convo["datetime"], "%Y-%m-%d %H:%M:%S %b %a").strftime("%y%m%d")
+        title = convo.get("title")
         filename = f"{index+1:03d}-wilderblairmunroakusa-gemini-{created}.json"
+        index_lines.append(f"|{index+1:03d}| ({created}) |[{title}]({filename})|")   
         filepath = os.path.join(f"_conversations_google_raw", filename)
         with open(filepath, "w", encoding="utf-8") as output_file:
             json.dump(convo, output_file, ensure_ascii=False, indent=2)
+
+    with open(os.path.join("_conversations_google_raw", "000-index-wilderblairmunroakusa-gemini.md"), "w", encoding="utf-8") as f:
+        f.write("\n".join(index_lines))
 
     print(f"✅ Imported {len(conversations)} Google conversations.")
     return
