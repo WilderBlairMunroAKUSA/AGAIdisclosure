@@ -3,6 +3,7 @@
 *🔐* filter=ageencrypt
 
 *.rtf linguist-vendored
+_conversations_*_raw/ linguist-vendored
 
 *.html linguist-language=HTML
 *.html linguist-detectable=true
