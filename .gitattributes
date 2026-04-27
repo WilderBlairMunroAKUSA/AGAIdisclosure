@@ -2,5 +2,9 @@
 # global lock and keyed
 *🔐* filter=ageencrypt
 
-*.html linguist-vendored
+*.html linguist-vendored=html
 *.rtf linguist-vendored
+*.json linguist-language=JSON
+*.md linguist-language=Markdown
+*.txt linguist-language=Text
+*.pdf linguist-language=PDF
