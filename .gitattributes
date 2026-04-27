@@ -3,8 +3,9 @@
 *🔐* filter=ageencrypt
 
 *.rtf linguist-vendored
+*.html linguist-vendored
+*.tex linguist-vendored
 
-*.html linguist-language=Html
 *.json linguist-language=Json
 *.md linguist-language=Markdown
 *.txt linguist-language=Text
