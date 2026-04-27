@@ -1,6 +1,7 @@
 # system file, default noignore
 .DS_Store
 ~*
+*.swp
 
 # local, locked, untracked
 *🔒*
