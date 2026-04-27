@@ -6,7 +6,7 @@
 *.html linguist-vendored
 *.tex linguist-vendored
 
-*.json linguist-language=Json
-*.md linguist-language=Markdown
-*.txt linguist-language=Text
+*.json linguist-detectable=true
+*.md linguist-detectable=true
+*.txt linguist-detectable=true
 *.pdf linguist-language=PDF
