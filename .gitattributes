@@ -3,7 +3,10 @@
 *🔐* filter=ageencrypt
 
 *.rtf linguist-vendored
-_conversations_*_raw/ linguist-vendored
+___assemblages/_conversations_openai_raw/ linguist-vendored
+___assemblages/_conversations_anthropic_raw/ linguist-vendored
+___assemblages/_conversations_xai_raw/ linguist-vendored
+___assemblages/_conversations_google_raw/ linguist-vendored
 
 *.html linguist-language=HTML
 *.html linguist-detectable=true
