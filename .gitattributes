@@ -1,3 +1,6 @@
 
 # global lock and keyed
 *🔐* filter=ageencrypt
+
+*.html linguist-vendored
+*.rtf linguist-vendored
