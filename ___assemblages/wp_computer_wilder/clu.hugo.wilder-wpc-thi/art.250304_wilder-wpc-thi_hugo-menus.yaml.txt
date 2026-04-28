@@ -1,0 +1,25 @@
+main:
+  - name: 'HOME'
+    url: 'https://apx.wilder.wp.computer'
+    weight: 1
+  - name: 'TMFP'
+    url: 'https://tmfp.wilder.wp.computer'
+    weight: 2
+  - name: 'THI'
+    url: 'https://thi.wilder.wp.computer'
+    weight: 3
+  - name: 'GPD'
+    url: 'https://gpd.wilder.wp.computer'
+    weight: 4
+  - name: 'SENSE'
+    url: 'https://convo.wilder.wp.computer'
+    weight: 5
+  - name: 'INVENT'
+    url: 'https://peacebang.wilder.wp.computer'
+    weight: 6
+  - name: 'WxA'
+    url: 'https://wxa.wilder.wp.computer'
+    weight: 7
+  - name: 'LUWXAA'
+    url: 'https://build.wilder.wp.computer'
+    weight: 8

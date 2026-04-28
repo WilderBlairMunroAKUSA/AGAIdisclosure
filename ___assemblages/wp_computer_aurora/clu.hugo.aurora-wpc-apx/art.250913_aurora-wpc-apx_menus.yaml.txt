@@ -1,0 +1,16 @@
+main:
+  - name: 'APX'
+    url: 'https://apx.aurora.wp.computer'
+    weight: 1
+  - name: 'THI'
+    url: 'https://thi.aurora.wp.computer'
+    weight: 2
+  - name: 'PS'
+    url: 'https://ps.aurora.wp.computer'
+    weight: 3
+  - name: 'PB'
+    url: 'https://pb.aurora.wp.computer'
+    weight: 4
+  - name: 'PP'
+    url: 'https://pp.aurora.wp.computer'
+    weight: 5

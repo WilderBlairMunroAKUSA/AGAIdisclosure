@@ -1,0 +1,26 @@
+main:
+  - name: '⦧𝘖‑𝘖$'
+    url: 'https://apx.wilder.wp.computer'
+    weight: 1
+  - name: '!WAR'
+    url: 'https://warbang.wilder.wp.computer'
+    weight: 2
+  - name: '!TMFP'
+    url: 'https://tmfpbang.wilder.wp.computer'
+    weight: 3
+  - name: '!THI'
+    url: 'https://thibang.wilder.wp.computer'
+    weight: 4
+  - name: '!GPD'
+    url: 'https://gpdbang.wilder.wp.computer'
+    weight: 5
+  - name: '!SENSE'
+    url: 'https://sensebang.wilder.wp.computer'
+    weight: 6
+  - name: '!⌖☮ ▮'
+    url: 'https://peacebang.wilder.wp.computer'
+    weight: 7
+
+
+
+

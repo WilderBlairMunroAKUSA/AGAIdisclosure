@@ -1,0 +1,13 @@
+main:
+  - name: THE UNIVERSAL PIECE COMPUTER
+    url: 'https://the.up.computer'
+    weight: 1
+  - name: THE HUMAN IMPERATIVE
+    url: 'https://thehumanimperative.up.computer'
+    weight: 2
+  - name: CORE PEACE BIAS
+    url: 'https://corepeacebias.up.computer'
+    weight: 3
+  - name: TIME MACHINE FOR PEACE
+    url: 'https://timemachineforpeace.up.computer'
+    weight: 4

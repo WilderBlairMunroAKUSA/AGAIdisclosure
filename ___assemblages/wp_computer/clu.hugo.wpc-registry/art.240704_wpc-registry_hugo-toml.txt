@@ -1,0 +1,4 @@
+baseURL = 'https://registry.wp.computer/'
+languageCode = 'en-us'
+title = 'pc registry'
+theme = 'hugo-book'

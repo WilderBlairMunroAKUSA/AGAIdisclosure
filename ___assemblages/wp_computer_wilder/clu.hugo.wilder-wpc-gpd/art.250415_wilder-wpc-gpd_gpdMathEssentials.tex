@@ -1,0 +1,404 @@
+\documentclass{article}
+\usepackage[dvipsnames,svgnames,x11names]{xcolor}
+\usepackage{tikz}
+\usepackage{amsmath,physics}
+\usepackage{amssymb}
+\usepackage{geometry}
+\usepackage{subcaption}
+\usepackage{changepage}
+\pagecolor{white}
+
+\usetikzlibrary{backgrounds}
+\usetikzlibrary{arrows.meta}
+\usetikzlibrary{fit}
+
+
+
+
+
+\begin{document}
+
+
+\section*{Standard math in $\mathbb{R}^7$.}
+
+\subsubsection*{Define, basis and basic vector representation:}
+\begin{flalign*}
+\{e\} &\equiv \{e_1, e_2, e_3, e_4, e_5, e_6, e_7\} \equiv \{\hat e_I\}, I \in (1,2,3,4,5,6,7) &&\\
+& \equiv \{\hat\tau, \hat x, \hat t_x, \hat y, \hat t_y, \hat z, \hat t_z\} \equiv \{\hat \tau, (\hat i, \hat t_i)\}, i \in x, y, z&&\\[3mm]
+\hat e &=\frac{1}{\sqrt{7}}(\hat\tau + \hat x + \hat t_x + \hat y + \hat t_y + \hat z + \hat t_z)&& \\
+&= \frac{1}{\sqrt{7}}(\hat\tau, \hat x, \hat t_x, \hat y, \hat t_y, \hat z, \hat t_z)&& \\[3mm]
+U &= u_\tau \hat\tau + u_x \hat x + u_{t_x} \hat t_x + u_y \hat y + u_{t_y} \hat t_y + u_z \hat z + u_{t_z}\hat t_z\\
+&= (u_\tau, u_x, u_{t_x}, u_y, u_{t_y}, u_z, u_{t_z})\\[3mm]
+&= u_\tau \hat \tau + \sum_i (u_i \hat i + u_{t_i}\hat t_i) = \sum_\mathrm{I}u_\mathrm{I}\hat e_\mathrm{I}\\
+&= u_\tau \hat \tau + u_i \hat i + u_{t_i}\hat t^i = u_\mathrm{I}\hat e^\mathrm{I}\\
+&= u_I= \delta_{IO} u^O = u^O, O \in {e}\\
+&= u_I=u^I\\[3mm]
+\delta^{OI} &= \delta^O_I = \delta_{IO} = 1, \quad for \quad O=I, \quad 0 \quad otherwise\\
+\end{flalign*}
+Due to real space and positive definite metric (defined later), Einstein summation convention over vector terms is emphasized by repeated indices in top and bottom (covariance and contravariariance being of little significance, for what should be obvious reasons). As in, it is expected of the reader to understand when a vector should be transposed between column or row form. Any other tensor quantities will be clear by transpose notation when appropriate.
+\\
+\clearpage
+\subsubsection*{Metric:}
+The bodyhole manifold in 7-d is flat. This is the only way to satisfy invariance requirements in lower projected 4-d Minkowski space. Define metric:
+
+\begin{flalign*}
+g_{IO}&=\delta_{IO}&&\\
+ds^2&=g_{IO}dx^Idx^O&&\\
+&= d\tau^2+ dx^2 + dt_x^2 + dy^2 + dt_y^2 + dz^2 + dt_z^2\\
+&= d\tau^2+ \sum_i(di^2 + dt_i^2)
+\end{flalign*}
+
+
+\subsubsection*{Dot Product:}
+\begin{flalign*}
+W = U \cdot V &= u_\tau v_\tau (\hat \tau \cdot \hat \tau) +u_x v_x (\hat x \cdot \hat x) + u_{t_x} v_{t_x} (\hat t_x \cdot \hat t_x) + u_y v_y (\hat y \cdot \hat y) + u_{t_y} v_{t_y} (\hat t_y \cdot \hat t_y) + u_z v_z (\hat z \cdot \hat z) + u_{t_z} v_{t_z} (\hat t_z \cdot \hat t_z)\\
+&= u_\tau v_\tau + u_x v_x + u_{t_x} v_{t_x} + u_y v_y + u_{t_y} v_{t_y} + u_z v_z + u_{t_z} v_{t_z}\\
+&= u_\tau v_\tau + \sum_i (u_i v_i + u_{t_i} v_{t_i}) = u_I v^I
+\end{flalign*}
+
+\subsubsection*{Norm:}
+\begin{flalign*}
+|U|^2 = U \cdot U &= u_\tau^2 + u_x^2, + u_{t_x}^2 + u_y^2 + u_{t_y}^2 + u_z^2 + u_{t_z}^2&&\\
+&= u_\tau u^\tau + u_i u^i + u_{t_i}u^{t_i}&&\\
+&= u_I u^I = u^2&&
+\end{flalign*}
+
+\subsubsection*{Cosine:}
+\begin{flalign*}
+\cos(\theta) = \frac{U \cdot V}{|U|\,|V|} &= \frac{u_I v^I}{\sqrt{u_I u^I}\sqrt{v_I v^I}}&&\\
+&= \frac{u_I v^I}{uv}
+\end{flalign*}
+
+\subsubsection*{Cross Product (matrix form and expansion):}
+\begin{flalign*}
+U[\times_{7}] =
+\begin{pmatrix}
+0 & -u_{t_x} & u_x & -u_{t_y} & u_y & u_{t_z} & -u_z \\[1mm]
+u_{t_x} & 0 & -u_\tau & -u_z & -u_{t_z} & u_y & u_{t_y} \\[1mm]
+-u_x & u_\tau & 0 & -u_{t_z} & u_z & -u_{t_y} & u_y \\[1mm]
+u_{t_y} & u_z & u_{t_z} & 0 & -u_\tau & -u_x & -u_{t_x} \\[1mm]
+-u_y & u_{t_z} & -u_z & u_\tau & 0 & u_{t_x} & -u_x \\[1mm]
+-u_{t_z} & -u_y & u_{t_y} & u_x & -u_{t_x} & 0 & u_\tau \\[1mm]
+u_z & -u_{t_y} & -u_y & u_{t_x} & u_x & -u_\tau & 0 \\[1mm]
+\end{pmatrix}&&
+\end{flalign*}
+
+\setlength{\jot}{7pt}
+\begin{flalign*}
+W = U[\times_{7}]V &=
+\begin{pmatrix}
+0 & -u_{t_x} & u_x & -u_{t_y} & u_y & u_{t_z} & -u_z \\[1mm]
+u_{t_x} & 0 & -u_\tau & -u_z & -u_{t_z} & u_y & u_{t_y} \\[1mm]
+-u_x & u_\tau & 0 & -u_{t_z} & u_z & -u_{t_y} & u_y \\[1mm]
+u_{t_y} & u_z & u_{t_z} & 0 & -u_\tau & -u_x & -u_{t_x} \\[1mm]
+-u_y & u_{t_z} & -u_z & u_\tau & 0 & u_{t_x} & -u_x \\[1mm]
+-u_{t_z} & -u_y & u_{t_y} & u_x & -u_{t_x} & 0 & u_\tau \\[1mm]
+u_z & -u_{t_y} & -u_y & u_{t_x} & u_x & -u_\tau & 0 \\[1mm]
+\end{pmatrix}
+\begin{pmatrix}
+v_\tau  \\[1mm]
+v_x \\[1mm]
+v_{t_x} \\[1mm]
+v_y \\[1mm]
+v_{t_y} \\[1mm]
+v_z \\[1mm]
+v_{t_z} \\[1mm]
+\end{pmatrix}&&\\[3mm]
+&= \quad (u_x v_{t_x} - u_{t_x} v_x  + u_y v_{t_y} - u_{t_y} v_y + u_{t_z} v_z  - u_z v_{t_z}) \hat \tau &&\tag{FORM 1}\\
+&+ \quad (u_{t_x} v_\tau - u_\tau v_{t_x} + u_y v_z - u_z v_y  + u_{t_y} v_{t_z} - u_{t_z} v_{t_y}) \hat x &&\\
+&+ \quad (u_\tau v_x - u_x v_\tau + u_y v_{t_z} - u_{t_z} v_y + u_z v_{t_y} - u_{t_y} v_z) \hat t_x &&\\
+&+ \quad (u_{t_y} v_\tau - u_\tau v_{t_y} + u_z v_x - u_x v_z + u_{t_z} v_{t_x} - u_{t_x} v_{t_z}) \hat y &&\\
+&+ \quad (u_\tau v_y - u_y v_\tau + u_{t_x} v_z - u_z v_{t_x} + u_{t_z} v_x - u_x v_{t_z}) \hat t_y &&\\
+&+ \quad (u_\tau v_{t_z} - u_{t_z} v_\tau + u_x v_y - u_y v_x + u_{t_y} v_{t_x} - u_{t_x} v_{t_y}) \hat z &&\\
+&+ \quad (u_z v_\tau - u_\tau v_z + u_x v_{t_y} - u_{t_y} v_x + u_{t_x} v_y - u_y v_{t_x}) \hat t_z &&\\[3mm]
+&= \quad (u_{[x}v_{t_x]}  + u_{[y} v_{t_y]} + u_{[t_z} v_{z]}) \hat \tau \tag{FORM 2}\\
+&+ \quad (u_{[t_x} v_{\tau]} + u_{[y} v_{z]} + u_{[t_y} v_{t_z]}) \hat x \\
+&+ \quad (u_{[\tau} v_{x]} + u_{[y} v_{t_z]} + u_{[z} v_{t_y]}) \hat t_x \\
+&+ \quad (u_{[t_y} v_{\tau]} + u_{[z} v_{x]} + u_{[t_z} v_{t_x]}) \hat y \\
+&+ \quad (u_{[\tau} v_{y]} + u_{[t_x} v_{z]} + u_{[t_z} v_{x]}) \hat t_y \\
+&+ \quad (u_{[\tau} v_{t_z]} + u_{[x} v_{y]} + u_{[t_y} v_{t_x]}) \hat z \\
+&+ \quad (u_{[z} v_{\tau]} + u_{[x} v_{t_y]} + u_{[t_x} v_{y]}) \hat t_z \\[3mm]
+&= \quad (u_x v_{t_x} - u_{t_x} v_x  + u_y v_{t_y} - u_{t_y} v_y + u_{t_z} v_z  - u_z v_{t_z}) \hat \tau \tag{FORM 3}\\
+&+ \quad v_\tau[(u_{t_x}\hat x - u_x \hat t_x) + (u_{t_y}\hat y - u_y \hat t_y) - (u_{t_z}\hat z - u_z \hat t_z)]\\
+&- \quad u_\tau[(v_{t_x}\hat x - v_x \hat t_x) + (v_{t_y}\hat y - v_y \hat t_y) - (v_{t_z}\hat z - v_z \hat t_z)]\\
+&+ \quad v_{t_z}[(u_{t_y}\hat x + u_y \hat t_x) - (u_{t_x}\hat y + u_x \hat t_y)]\\
+&- \quad u_{t_z}[(v_{t_y}\hat x + v_y \hat t_x) - (v_{t_x}\hat y + v_x \hat t_y)]\\
+&+ \quad v_z[(u_y\hat x - u_{t_y} \hat t_x) - (u_x\hat y - u_{t_x} \hat t_y)]\\
+&- \quad u_z[(v_y\hat x - v_{t_y} \hat t_x) - (v_x\hat y - v_{t_x} \hat t_y)]\\
+&+ \quad v_{t_x}(u_{t_y}\hat z - u_y \hat t_z) - v_x(u_y\hat z + u_{t_y} \hat t_z)\\
+&- \quad u_{t_x}(v_{t_y}\hat z - v_y \hat t_z) + u_x(v_y\hat z + v_{t_y} \hat t_z)\\
+\end{flalign*}
+
+\subsubsection*{Sine and dot-cross relation:}
+\begin{flalign*}
+\sin(\theta) = \frac{|U \times V|}{|U|\,|V|} &&&\\
+\left[\frac{|U \times V|}{|U|\,|V|}\right]^2 &= \sin^2(\theta)&&\\
+\left[\frac{|U \times V|}{|U|\,|V|}\right]^2 &= \sin^2(\theta)+\cos^2(\theta) - \left[\frac{U \cdot V}{|U|\,|V|}\right]^2&&\\
+\left[\frac{|U \times V|}{|U|\,|V|}\right]^2 &+ \left[\frac{U \cdot V}{|U|\,|V|}\right]^2 =1&&\\
+\end{flalign*}
+
+\subsubsection*{Nabla, del operator:}
+
+
+\noindent Del operator:
+\begin{flalign*}
+\nabla_7 = \frac{\partial}{\partial \tau}\hat{\tau} + \frac{\partial}{\partial x}\hat{x} + \frac{\partial}{\partial t_x}\hat{t}_x + \frac{\partial}{\partial y}\hat{y} + \frac{\partial}{\partial t_y}\hat{t}_y + \frac{\partial}{\partial z}\hat{z} + \frac{\partial}{\partial t_z}\hat{t}_z&&
+\end{flalign*}
+
+\subsubsection*{Gradient:}
+\noindent On scalar field, $\phi: \mathbb{R}^7 \to \mathbb{R}^1$:
+\begin{flalign*}
+\nabla_7 \phi = \frac{\partial \phi}{\partial \tau}\hat{\tau} + \frac{\partial \phi}{\partial x}\hat{x} + \frac{\partial \phi}{\partial t_x}\hat{t}_x + \frac{\partial \phi}{\partial y}\hat{y} + \frac{\partial \phi}{\partial t_y}\hat{t}_y + \frac{\partial \phi}{\partial z}\hat{z} + \frac{\partial \phi}{\partial t_z}\hat{t}_z&&
+\end{flalign*}
+
+\subsubsection*{Divergence:}
+\noindent On vector field, $F: \mathbb{R}^7 \to \mathbb{R}^7$:
+\begin{flalign*}
+\nabla_7 \cdot F = \frac{\partial}{\partial \tau} F_\tau + \frac{\partial}{\partial x} F_x + \frac{\partial}{\partial t_x} F_{t_x} + \frac{\partial}{\partial y} F_y + \frac{\partial}{\partial t_y} F_{t_y} + \frac{\partial}{\partial z} F_z + \frac{\partial}{\partial t_z} F_{t_z}&&
+\end{flalign*}
+
+\clearpage
+\subsubsection*{Curl:}
+
+\noindent Define vector field, $F: \mathbb{R}^7 \to \mathbb{R}^7$:\\
+
+The curl of $F$ in $\mathbb{R}^7$, denoted $\nabla \times_{7} F$, is defined as the 7-dimensional cross product of the del operator $\nabla$ with the vector field $F$:
+
+\setlength{\jot}{7pt}
+\begin{flalign*}
+\nabla \times_{7} F = \nabla[\times_{7}]F =& \left(\frac{\partial F_{t_x}}{\partial x} - \frac{\partial F_x}{\partial t_x} + \frac{\partial F_{t_y}}{\partial y} - \frac{\partial F_y}{\partial t_y} + \frac{\partial F_z}{\partial t_z} - \frac{\partial F_{t_z}}{\partial z}\right) \hat{\tau} &&\\
++& \left(\frac{\partial F_\tau}{\partial t_x} - \frac{\partial F_{t_x}}{\partial \tau} + \frac{\partial F_z}{\partial y} - \frac{\partial F_y}{\partial z} + \frac{\partial F_{t_z}}{\partial t_y} - \frac{\partial F_{t_y}}{\partial t_z}\right) \hat{x} \\
++& \left(\frac{\partial F_x}{\partial \tau} - \frac{\partial F_\tau}{\partial x} + \frac{\partial F_{t_z}}{\partial y} - \frac{\partial F_y}{\partial t_z} + \frac{\partial F_{t_y}}{\partial z} - \frac{\partial F_z}{\partial t_y}\right) \hat{t}_x \\
++& \left(\frac{\partial F_\tau}{\partial t_y} - \frac{\partial F_{t_y}}{\partial \tau} + \frac{\partial F_x}{\partial z} - \frac{\partial F_z}{\partial x} + \frac{\partial F_{t_x}}{\partial t_z} - \frac{\partial F_{t_z}}{\partial t_x}\right) \hat{y} \\
++& \left(\frac{\partial F_y}{\partial \tau} - \frac{\partial F_\tau}{\partial y} + \frac{\partial F_z}{\partial t_x} - \frac{\partial F_{t_x}}{\partial z} + \frac{\partial F_x}{\partial t_z} - \frac{\partial F_{t_z}}{\partial x}\right) \hat{t}_y \\
++& \left(\frac{\partial F_{t_z}}{\partial \tau} - \frac{\partial F_\tau}{\partial t_z} + \frac{\partial F_y}{\partial x} - \frac{\partial F_x}{\partial y} + \frac{\partial F_{t_x}}{\partial t_y} - \frac{\partial F_{t_y}}{\partial t_x}\right) \hat{z} \\
++& \left(\frac{\partial F_z}{\partial \tau} - \frac{\partial F_\tau}{\partial z} + \frac{\partial F_{t_y}}{\partial x} - \frac{\partial F_x}{\partial t_y} + \frac{\partial F_y}{\partial t_x} - \frac{\partial F_{t_x}}{\partial y}\right) \hat{t}_z\\[3mm]
+=& \left(\partial_{[x}F_{t_x]} + \partial_{[y}F_{t_y]} + \partial_{[t_z}F_{z]}\right) \hat{\tau} \\
++& \left(\partial_{[t_x}F_{\tau]} + \partial_{[y}F_{z]} + \partial_{[t_y}F_{t_z]}\right) \hat{x} \\
++& \left(\partial_{[\tau}F_{x]} + \partial_{[y}F_{t_z]} + \partial_{[z}F_{t_y]}\right) \hat{t}_x \\
++& \left(\partial_{[t_y}F_{\tau]} + \partial_{[z}F_{x]} + \partial_{[t_z}F_{t_x]}\right) \hat{y} \\
++& \left(\partial_{[\tau}F_{y]} + \partial_{[t_x}F_{z]} + \partial_{[t_z}F_{x]}\right) \hat{t}_y \\
++& \left(\partial_{[\tau}F_{t_z]} + \partial_{[x}F_{y]} + \partial_{[t_y}F_{t_x]}\right) \hat{z} \\
++& \left(\partial_{[z}F_{\tau]} + \partial_{[x}F_{t_y]} + \partial_{[t_x}F_{y]}\right) \hat{t}_z\\
+\\
+=& \left(\partial_{[x}F_{t_x]} + \partial_{[y}F_{t_y]} + \partial_{[t_z}F_{z]}\right) \hat{\tau} \\
++& \left(-\partial_{[\tau}F_{t_x]} + \partial_{[y}F_{z]} + \partial_{[t_y}F_{t_z]}\right) \hat{x} \\
++& \left(\partial_{[\tau}F_{x]} + \partial_{[y}F_{t_z]} + \partial_{[z}F_{t_y]}\right) \hat{t}_x \\
++& \left(\partial_{[t_y}F_{\tau]} + \partial_{[z}F_{x]} + \partial_{[t_z}F_{t_x]}\right) \hat{y} \\
++& \left(\partial_{[\tau}F_{y]} + \partial_{[t_x}F_{z]} + \partial_{[t_z}F_{x]}\right) \hat{t}_y \\
++& \left(\partial_{[\tau}F_{t_z]} + \partial_{[x}F_{y]} + \partial_{[t_y}F_{t_x]}\right) \hat{z} \\
++& \left(\partial_{[z}F_{\tau]} + \partial_{[x}F_{t_y]} + \partial_{[t_x}F_{y]}\right) \hat{t}_z
+\end{flalign*}
+
+\subsubsection*{$\nabla [\times_7] \nabla_7 \phi = 0$ for any scalar field $\phi$:}
+\begin{align*}
+\nabla \phi = \frac{\partial \phi}{\partial \tau}\hat{\tau} + \frac{\partial \phi}{\partial x}\hat{x} + \frac{\partial \phi}{\partial t_x}\hat{t}_x + \frac{\partial \phi}{\partial y}\hat{y} + \frac{\partial \phi}{\partial t_y}\hat{t}_y + \frac{\partial \phi}{\partial z}\hat{z} + \frac{\partial \phi}{\partial t_z}\hat{t}_z
+\end{align*}
+To compute $\nabla \times_7 (\nabla \phi)$, we use the component form of the curl. For the $\hat{\tau}$ component:
+\begin{align*}
+[\nabla \times_7 (\nabla \phi)]_\tau &= \frac{\partial}{\partial x}\left(\frac{\partial \phi}{\partial t_x}\right) - \frac{\partial}{\partial t_x}\left(\frac{\partial \phi}{\partial x}\right) \
+&+ \frac{\partial}{\partial y}\left(\frac{\partial \phi}{\partial t_y}\right) - \frac{\partial}{\partial t_y}\left(\frac{\partial \phi}{\partial y}\right) \
+&+ \frac{\partial}{\partial t_z}\left(\frac{\partial \phi}{\partial z}\right) - \frac{\partial}{\partial z}\left(\frac{\partial \phi}{\partial t_z}\right)
+\end{align*}
+By Schwarz's theorem on the equality of mixed partial derivatives (assuming $\phi$ is $C^2$), each pair cancels out:
+\begin{align*}
+\frac{\partial}{\partial x}\left(\frac{\partial \phi}{\partial t_x}\right) = \frac{\partial^2 \phi}{\partial x \partial t_x} = \frac{\partial^2 \phi}{\partial t_x \partial x} = \frac{\partial}{\partial t_x}\left(\frac{\partial \phi}{\partial x}\right)
+\end{align*}
+Similarly, all other pairs in each component will cancel, giving us:
+\begin{align*}
+\nabla \times_7 (\nabla \phi) = \vec{0}
+\end{align*}
+
+\subsection{R3 Subspace Interpretation}
+Each component of the curl can be interpreted as the sum of three terms, where each term corresponds to the curl operation in a specific R3 subspace of R7:
+
+\begin{align*}
+(\nabla \times_{7} F)_\tau &= \text{curl in } (x,t_x) \text{ plane} + \text{curl in } (y,t_y) \text{ plane} + \text{curl in } (z,t_z) \text{ plane}\\
+(\nabla \times_{7} F)_x &= \text{curl in } (\tau,t_x) \text{ plane} + \text{curl in } (y,z) \text{ plane} + \text{curl in } (t_y,t_z) \text{ plane}\\
+\end{align*}
+and so on for the other components.
+
+\subsubsection{Properties of the curl:}
+The curl in R7 maintains several important properties analogous to the R3 curl:
+
+1. $\nabla \times_{7} (\nabla \phi) = 0$ for any scalar field $\phi$
+
+2. $\nabla \cdot (\nabla \times_{7} F) = 0$ for any vector field $F$
+
+3. The curl measures the infinitesimal rotation of the vector field around each axis.
+
+However, due to the non-associativity of the 7D cross product, some identities from R3 vector calculus need to be modified appropriately when working in R7.
+
+
+\section{Demonstration of Key Curl Properties in $\mathbb{R}^7$}
+\subsection{Property 1: $\nabla \times_7 (\nabla \phi) = 0$ for any scalar field $\phi$}
+Again, $\phi$ a scalar field in $\mathbb{R}^7$. Gradient of $\phi$:
+\begin{align*}
+\nabla \phi = \frac{\partial \phi}{\partial \tau}\hat{\tau} + \frac{\partial \phi}{\partial x}\hat{x} + \frac{\partial \phi}{\partial t_x}\hat{t}_x + \frac{\partial \phi}{\partial y}\hat{y} + \frac{\partial \phi}{\partial t_y}\hat{t}_y + \frac{\partial \phi}{\partial z}\hat{z} + \frac{\partial \phi}{\partial t_z}\hat{t}_z
+\end{align*}
+To compute $\nabla \times_7 (\nabla \phi)$, we use the component form of the curl. For the $\hat{\tau}$ component:
+\begin{align*}
+[\nabla \times_7 (\nabla \phi)]_\tau &= \frac{\partial}{\partial x}\left(\frac{\partial \phi}{\partial t_x}\right) - \frac{\partial}{\partial t_x}\left(\frac{\partial \phi}{\partial x}\right) \
+&+ \frac{\partial}{\partial y}\left(\frac{\partial \phi}{\partial t_y}\right) - \frac{\partial}{\partial t_y}\left(\frac{\partial \phi}{\partial y}\right) \
+&+ \frac{\partial}{\partial t_z}\left(\frac{\partial \phi}{\partial z}\right) - \frac{\partial}{\partial z}\left(\frac{\partial \phi}{\partial t_z}\right)
+\end{align*}
+By Schwarz's theorem on the equality of mixed partial derivatives (assuming $\phi$ is $C^2$), each pair cancels out:
+\begin{align*}
+\frac{\partial}{\partial x}\left(\frac{\partial \phi}{\partial t_x}\right) = \frac{\partial^2 \phi}{\partial x \partial t_x} = \frac{\partial^2 \phi}{\partial t_x \partial x} = \frac{\partial}{\partial t_x}\left(\frac{\partial \phi}{\partial x}\right)
+\end{align*}
+Similarly, all other pairs in each component will cancel, giving us:
+\begin{align*}
+\nabla \times_7 (\nabla \phi) = \vec{0}
+\end{align*}
+\subsection{Property 2: $\nabla \cdot (\nabla \times_7 F) = 0$ for any vector field $F$}
+For a vector field $F$ in $\mathbb{R}^7$, let's compute $\nabla \cdot (\nabla \times_7 F)$:
+\begin{align*}
+\nabla \cdot (\nabla \times_7 F) = \frac{\partial}{\partial \tau}[\nabla \times_7 F]_\tau + \frac{\partial}{\partial x}[\nabla \times_7 F]x + \frac{\partial}{\partial t_x}[\nabla \times_7 F]{t_x} + \ldots
+\end{align*}
+Substituting the components of $\nabla \times_7 F$:
+\begin{align*}
+\nabla \cdot (\nabla \times_7 F) &= \frac{\partial}{\partial \tau}\left(\frac{\partial F_{t_x}}{\partial x} - \frac{\partial F_x}{\partial t_x} + \frac{\partial F_{t_y}}{\partial y} - \frac{\partial F_y}{\partial t_y} + \frac{\partial F_z}{\partial t_z} - \frac{\partial F_{t_z}}{\partial z}\right) \
+&+ \frac{\partial}{\partial x}\left(\frac{\partial F_\tau}{\partial t_x} - \frac{\partial F_{t_x}}{\partial \tau} + \frac{\partial F_z}{\partial y} - \frac{\partial F_y}{\partial z} + \frac{\partial F_{t_z}}{\partial t_y} - \frac{\partial F_{t_y}}{\partial t_z}\right) \
+&+ \frac{\partial}{\partial t_x}\left(\frac{\partial F_x}{\partial \tau} - \frac{\partial F_\tau}{\partial x} + \frac{\partial F_{t_z}}{\partial y} - \frac{\partial F_y}{\partial t_z} + \frac{\partial F_{t_y}}{\partial z} - \frac{\partial F_z}{\partial t_y}\right) \
+&+ \ldots
+\end{align*}
+When we expand this expression fully, we get terms like:
+\begin{align*}
+\frac{\partial^2 F_{t_x}}{\partial \tau \partial x} - \frac{\partial^2 F_x}{\partial \tau \partial t_x} + \ldots
+\end{align*}
+For each term $\frac{\partial^2 F_a}{\partial b \partial c}$ that appears, there will be exactly one corresponding term $-\frac{\partial^2 F_a}{\partial b \partial c}$ elsewhere in the expansion.
+For example, the term $\frac{\partial^2 F_{t_x}}{\partial \tau \partial x}$ from the $\tau$-component is canceled by $-\frac{\partial^2 F_{t_x}}{\partial \tau \partial x}$ from the $x$-component.
+This systematic cancellation occurs because of the antisymmetric structure of the curl operator and the equality of mixed partial derivatives. When fully expanded, all terms cancel in pairs, giving:
+\begin{align*}
+\nabla \cdot (\nabla \times_7 F) = 0
+\end{align*}
+
+
+\subsubsection*{Rotation matrix:}
+
+
+\renewcommand{\arraystretch}{2}
+\setlength{\arraycolsep}{8pt} 
+
+\begin{flalign*}
+\underset{\times_7}{\mathbf{R}} = \mathbf{R}[\times_7] = &
+\left(
+\begin{array}{c||c}
+R_{\tau} & \mathbf{R}_{I} \\[1mm]
+\hline\hline
+\mathbf{R}_{O} & \mathbf{R}_{OI}
+\end{array}
+\right)&&\\
+\\
+\mathbf{R}_I =&
+\left(
+\begin{array}{c|c|c}
+\mathrm{R}_{0x} & \mathrm{R}_{0y} & \mathrm{R}_{0z}\\
+\end{array}
+\right)&&\\
+=& 
+\left(
+\begin{array}{c}
+\mathrm{R}_{0x}\\[1mm]
+\hline
+\mathrm{R}_{0y}\\[1mm]
+\hline
+\mathrm{R}_{0z}
+\end{array}
+\right)^\intercal=
+-\left(
+\begin{array}{c}
+\mathrm{R}_{x0}^\intercal\\[1mm]
+\hline
+\mathrm{R}_{y0}^\intercal\\[1mm]
+\hline
+\mathrm{R}_{z0}^\intercal
+\end{array}
+\right) = \mathbf{R}_O&&\\
+\\
+\mathbf{R}_{OI} =&
+\left(
+\begin{array}{c|c|c}
+\mathrm{R}_{xx} & \mathrm{R}_{xy} & \mathrm{R}_{xz} \\[1mm]
+\hline
+\mathrm{R}_{yx} & \mathrm{R}_{yy} & \mathrm{R}_{yz} \\[1mm]
+\hline
+\mathrm{R}_{zx} & \mathrm{R}_{zy} & \mathrm{R}_{zz}
+\end{array}
+\right)
+=\left(
+\begin{array}{c|c|c}
+\mathrm{R}_{x^2} & \mathrm{R}_{z^+} & \mathrm{R}_{y^-} \\[1mm]
+\hline
+\mathrm{R}_{z^-} & \mathrm{R}_{y^2} & \mathrm{R}_{x^+} \\[1mm]
+\hline
+\mathrm{R}_{y^+} & \mathrm{R}_{x^-} & \mathrm{R}_{z^2}
+\end{array}
+\right)&&\\
+\\
+\mathbf{R}_7 =&
+\left(
+\begin{array}{c||c|c|c}
+R_\tau & \mathrm{R}_{\tau^x} & \mathrm{R}_{\tau^y} & \mathrm{R}_{\tau^z} \\[1mm]
+\hline\hline
+\mathrm{R}_{\tau_x} & \mathrm{R}_{x^2} & \mathrm{R}_{z^+} & \mathrm{R}_{y^-} \\[1mm]
+\hline
+\mathrm{R}_{\tau_y} & \mathrm{R}_{z^-} & \mathrm{R}_{y^2} & \mathrm{R}_{x^+} \\[1mm]
+\hline
+\mathrm{R}_{\tau_z} & \mathrm{R}_{y+} & \mathrm{R}_{x^-} & \mathrm{R}_{z^2}
+\end{array}
+\right)&&
+\end{flalign*}
+
+
+\clearpage
+
+\begin{flalign*}
+R_{\tau}=& \sum_i(\cos(\alpha_i) + \cos(\delta_i))&&
+\end{flalign*}
+
+
+\begin{flalign*}
+\mathrm{R}_{\tau_i} =&
+\begin{pmatrix}
+\sin(\delta_i) u_i & \sin(\alpha_i) u_{t_i} 
+\end{pmatrix} = -\mathrm{R}_{\tau^i}^\intercal&&
+\end{flalign*}
+
+\begin{flalign*}
+\mathrm{R}_{\tau^i} =&
+\begin{pmatrix}
+- \sin(\delta_i)u_i \\
+- \sin(\alpha_i)u_{t_i}
+\end{pmatrix} = -\mathrm{R}_{\tau_i}^\intercal&&
+\end{flalign*}
+
+\begin{flalign*}
+\mathrm{R}_{i^2} =&
+\begin{pmatrix}
+1+ (\cos(\delta_i) -1 )u_i^2 & \sin(\varphi_i)u_i u_{t_i}\\
+-\sin(\varphi_i)u_{t_i} u_i & 1+ (\cos(\alpha_i) - 1)u_{t_i}^2
+\end{pmatrix} i \in x, y, z&&
+\end{flalign*}
+
+\begin{flalign*}
+\mathrm{R}_{k^+} =&
+\begin{pmatrix}
+(\cos(\delta_i) - 1) u_i u_j + \sin(\psi_{i j}) u_i u_j & (\cos(\delta_i) - 1) u_i u_{t_j} + \sin(\psi_{i t_j}) u_i u_{t_j}\\
+(\cos(\alpha_i) - 1) u_{t_i} u_j + \sin(\psi_{t_i j}) u_{t_i} u_j & (\cos(\alpha_i) - 1) u_{t_i} u_{t_j} + \sin(\psi_{t_i t_j}) u_{t_i} u_{t_j}
+\end{pmatrix}\\
+=&
+\begin{pmatrix}
+(\cos(\delta_i) + \sin(\psi_{i j}) -1) u_i u_j & (\cos(\delta_i) + \sin(\psi_{i t_j} )-1) u_i u_{t_j}\\
+(\cos(\alpha_i) + \sin(\psi_{t_i j}) -1) u_{t_i} u_j & (\cos(\alpha_i) + \sin(\psi_{t_i t_j}) -1) u_{t_i} u_{t_j}
+\end{pmatrix}
+\begin{array}{c}
+i \in x, y, z\\[-4mm]
+j \in y, z, x\\[-4mm]
+k \in z, x, y
+\end{array}&&\\
+=& \left(\mathrm{R}_{k^+}\right)^\intercal \Big|_{i \leftrightarrow j}&&\\
+&i \rightarrow \{jk, kj\}, \quad j \rightarrow \{ki, ik\}, \quad k \rightarrow \{ij, ji\}&&
+\end{flalign*}
+
+\end{document}

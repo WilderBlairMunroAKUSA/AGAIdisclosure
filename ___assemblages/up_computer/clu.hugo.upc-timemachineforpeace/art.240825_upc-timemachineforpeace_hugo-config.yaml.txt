@@ -1,0 +1,44 @@
+baseURL: https://timemachineforpeace.up.computer/
+title: TIME MACHINE FOR PEACE
+
+# Uncomment when not installing with Hugo Modules
+# theme: eureka
+# Comment when not installing with Hugo Modules
+theme: wangchucheng.com/hugo-eureka
+# If you cannot access the Github mirror, you can also use the Gitee mirror: gitee.com/wangchucheng/hugo-eureka
+
+paginate: 20
+copyright: >
+  &copy; 2022 <a href="https://up.computer/">The Universal Piece Computer</a>, <a
+  href="https://wp.computer/">World Piece Computer</a> = <a href="https://drive.google.com/file/d/1v7_b6f8gz5Un88guolEYnPjscFyJT1JL/view?usp=sharing">Wilder WPC</a> ... <a href="https://drive.google.com/file/d/13of5dva-mwCZr3u4rC9mIvp87TjA7qLz/view?usp=sharing" class="hover:text-eureka">(a study in peace)</a>enableEmoji: true
+enableGitInfo: false
+summaryLength: 75
+
+defaultContentLanguage: en
+hasCJKLanguage: false # Set `true` for Chinese/Japanese/Korean.
+defaultContentLanguageInSubdir: false
+
+# Uncomment for google analytics
+# googleAnalytics: UA-123-45
+
+markup:
+  # Do not modify markup.highlight
+  highlight:
+    codeFences: false
+    noClasses: false
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
+  goldmark:
+    renderer:
+      unsafe: true
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+  author: authors
+
+build:
+  useResourceCacheWhen: always

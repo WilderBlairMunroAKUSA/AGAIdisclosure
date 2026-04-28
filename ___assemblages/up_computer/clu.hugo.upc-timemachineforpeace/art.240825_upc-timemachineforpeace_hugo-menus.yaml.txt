@@ -1,0 +1,17 @@
+main:
+  - name: WORLD PIECE COMPUTER
+    url: 'https://a.wp.computer'
+    weight: 4
+  - name: WORLD PIECE
+    url: 'https://apx.wp.computer'
+    weight: 3
+  - name: THE UNIVERSAL PIECE COMPUTER
+    url: 'https://the.up.computer'
+    weight: 2
+  - name: THE UNIVERSAL PIECE
+    url: 'https://apx.up.computer'
+    weight: 1
+  - name: THI
+    url: 'https://thehumanimperative.up.computer'
+    weight: 5
+

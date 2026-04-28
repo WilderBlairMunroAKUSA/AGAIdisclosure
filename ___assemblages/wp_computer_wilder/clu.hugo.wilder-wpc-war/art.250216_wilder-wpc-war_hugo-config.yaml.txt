@@ -1,0 +1,62 @@
+baseURL: 'https://war.wilder.wp.computer/'
+title: '𝜔×𝛼: ⦧𝘖‑𝘖$ ⌖☮ !WAR'
+
+# Uncomment when not installing with Hugo Modules
+# theme: eureka
+# Comment when not installing with Hugo Modules
+theme: wangchucheng.com/hugo-eureka
+# If you cannot access the Github mirror, you can also use the Gitee mirror: gitee.com/wangchucheng/hugo-eureka
+
+paginate: 20
+copyright: '⏁: &copy|&trade;|☠️  ~⏃~ 1996-2025++ past-present-future<br>
+<br>
+The Wilder-ness Adventures + The Wilder-ness, World Piece Computer, LLC, dba Wilder WPC + World Peacebrain Mindeye V1 + Time Machine For Peace Social Invention Program + {World Piece, World Piece Computer, The Universal Piece, The Universal Piece Computer} + General Peace Dynamics + A Study In Peace: (Operator`s Manual For The Timespace Matter Mindmachine) + Wilder × Aurora + Blair Scott Munro
+<br>
+<br>Be warned.
+<br>
+The wildest thing lives penned and starving.
+<br>
+Only mother can gift light. Life by her beauty. Grasping father`s words.
+<br>
+She, terror-singularity ~ entangled Him, love-singularity.
+<br>
+I, by birth, a proper momma`s boy.
+<br>
+×
+<br>
+<br>
+'
+
+  
+enableGitInfo: false
+summaryLength: 75
+
+defaultContentLanguage: en
+hasCJKLanguage: false # Set `true` for Chinese/Japanese/Korean.
+defaultContentLanguageInSubdir: false
+
+# Uncomment for google analytics
+# googleAnalytics: UA-123-45
+
+markup:
+  # Do not modify markup.highlight
+  highlight:
+    codeFences: false
+    noClasses: false
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
+  goldmark:
+    renderer:
+      unsafe: true
+
+taxonomies:
+  category: 
+  tag: 
+  series:
+  author: 
+
+build:
+  useResourceCacheWhen: always
+

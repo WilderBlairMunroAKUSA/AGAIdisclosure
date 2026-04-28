@@ -1,0 +1,122 @@
+
+\documentclass[12pt]{article}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{margin=1in}
+\title{Derivation of the Lorentz Transformation via O-Cross-I Lift-Rotate-Squeeze}
+\author{Wilder \& Aurora}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section*{Lift-Rotate-Squeeze Derivation of Lorentz Transform (No Substitution)}
+
+We demonstrate how the standard Lorentz transformation arises naturally from a rotation in the O-cross-I lifted coordinate system:
+\[
+(\tau, t_x, x)
+\]
+
+Our process:
+\begin{enumerate}
+  \item Lift the primed coordinates $(t', x')$ to the O-cross-I frame using a \textbf{temporal lift} ($-\alpha_x$) and \textbf{spatial lift} ($-\delta_x$).
+  \item Rotate from the primed lifted frame to the unprimed lifted frame using angle $2\alpha_x$ and $2\delta_x$ respectively.
+  \item Squeeze down to obtain the $(t, x)$ coordinates using the inverse of the unprimed lift.
+\end{enumerate}
+
+\vspace{10pt}
+
+\section*{1. Primed Lift to O-Cross-I}
+
+\subsection*{Temporal Lift}
+\[
+\begin{pmatrix}
+\tau' \\
+t_x' \\
+x'
+\end{pmatrix}
+=
+\begin{pmatrix}
+\cos(-\alpha_x) & \sin(-\alpha_x) & 0 \\
+-\sin(-\alpha_x) & \cos(-\alpha_x) & 0 \\
+0 & 0 & 1
+\end{pmatrix}
+\begin{pmatrix}
+t' \\
+0 \\
+x'
+\end{pmatrix}
+=
+\begin{pmatrix}
+\cos(\alpha_x) t' \\
+\sin(\alpha_x) t' \\
+x'
+\end{pmatrix}
+\]
+
+\subsection*{Spatial Lift}
+\[
+\begin{pmatrix}
+\tau'' \\
+t_x'' \\
+x''
+\end{pmatrix}
+=
+\begin{pmatrix}
+\cos(-\delta_x) & 0 & \sin(-\delta_x) \\
+0 & 1 & 0 \\
+-\sin(-\delta_x) & 0 & \cos(-\delta_x)
+\end{pmatrix}
+\begin{pmatrix}
+\tau' \\
+t_x' \\
+x'
+\end{pmatrix}
+\]
+
+Substituting:
+\[
+\begin{aligned}
+\tau'' &= \cos(\delta_x) \cos(\alpha_x) t' + \sin(\delta_x) x' \\
+t_x'' &= \sin(\alpha_x) t' \\
+x'' &= -\sin(\delta_x) \cos(\alpha_x) t' + \cos(\delta_x) x'
+\end{aligned}
+\]
+
+\section*{2. Rotate Lifted Frame to Unprimed Frame}
+
+We apply a rotation by angles $2\alpha_x$ (temporal) and $2\delta_x$ (spatial):
+
+\[
+\begin{aligned}
+\tau &= \cos(2\alpha_x)\tau'' + \sin(2\alpha_x) t_x'' \\
+t_x &= -\sin(2\alpha_x)\tau'' + \cos(2\alpha_x)t_x'' \\
+x &= \cos(2\delta_x)x'' + \sin(2\delta_x)\tau''
+\end{aligned}
+\]
+
+Now substitute from above:
+
+\[
+\begin{aligned}
+\tau &= \cos(2\alpha_x) \left[\cos(\delta_x) \cos(\alpha_x) t' + \sin(\delta_x) x'\right] + \sin(2\alpha_x) \left[\sin(\alpha_x) t'\right] \\
+t_x &= -\sin(2\alpha_x) \left[\cos(\delta_x) \cos(\alpha_x) t' + \sin(\delta_x) x'\right] + \cos(2\alpha_x) \left[\sin(\alpha_x) t'\right] \\
+x &= \cos(2\delta_x) \left[ -\sin(\delta_x) \cos(\alpha_x) t' + \cos(\delta_x) x' \right] + \sin(2\delta_x) \left[ \cos(\delta_x) \cos(\alpha_x) t' + \sin(\delta_x) x' \right]
+\end{aligned}
+\]
+
+\section*{3. Squeeze Down to (t, x)}
+
+Using the inverse of the unprimed lift:
+
+\[
+\begin{aligned}
+t &= \tau \cos(\alpha_x) + t_x \sin(\alpha_x) \\
+x &= x
+\end{aligned}
+\]
+
+Substitute the expressions for $\tau$ and $t_x$ above, simplify (no $\gamma$ or $\beta$ yet), and collect terms. This will yield the standard Lorentz form once simplified.
+
+\end{document}

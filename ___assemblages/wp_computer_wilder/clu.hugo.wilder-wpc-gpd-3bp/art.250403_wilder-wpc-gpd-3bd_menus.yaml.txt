@@ -1,0 +1,24 @@
+main:
+  - name: 'HOME'
+    url: 'https://apx.wilder.wp.computer'
+    weight: 1
+  - name: 'GPD'
+    url: 'https://gpd.wilder.wp.computer'
+    weight: 4
+  - name: '3BP'
+    url: 'https://3bp.gpd.wilder.wp.computer'
+    weight: 5
+  - name: 'SR'
+    url: 'https://sr.gpd.wilder.wp.computer'
+    weight: 5
+  - name: 'MSM'
+    url: 'https://msm.gpd.wilder.wp.computer'
+    weight: 5
+  - name: 'GBHP'
+    url: 'https://gbhp.gpd.wilder.wp.computer'
+    weight: 5
+  - name: 'PVNP'
+    url: 'https://pvnp.gpd.wilder.wp.computer'
+    weight: 5
+  - name: 'TSG'
+    url: 'https://tsg.gpd.wilder.wp.computer'
