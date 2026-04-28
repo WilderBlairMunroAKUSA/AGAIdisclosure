@@ -1,0 +1,68 @@
+baseurl = "https://summer2021.timemachineforpeace.blairmunroakusa.wp.computer/"
+title = "Time Machine For Peace."
+author = "Blair Munro"
+canonifyurls = true
+languagecode = "en"
+
+theme = "hugo-tanka"
+themesDir = "themes"
+
+enableEmoji = true
+hasCJKLanguage = false
+
+pygmentsstyle = "vs"
+pygmentscodefences = true
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+
+[params]
+  sitename = "Time Machine For Peace."
+  faviconfile = "images/UPC.png"
+  highlightjs = true
+  highlightjslanguages = ["r", "python", "stan"]
+  uselatex = true
+  progressively = false
+# commentsrepo = "user/repo"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[[menu.primary]]
+    name = "IN"
+    url = "/IN/"
+    weight = 1
+[[menu.primary]]
+    name = "Dedication"
+    url = "/dedication/"
+    weight = 2
+[[menu.primary]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+[[menu.primary]]
+    name = "FAQ"
+    url = "/faq/"
+    weight = 4
+[[menu.primary]]
+    name = "Booth"
+    url = "/booth/"
+    weight = 5
+[[menu.primary]]
+    name = "Kickstarter"
+    url = "/kickstarter/"
+    weight = 6
+[[menu.primary]]
+    name = "Logs"
+    url = "/logs/"
+    weight = 7
+[[menu.primary]]
+    name = "Context"
+    url = "/context/"
+    weight = 8
+[[menu.primary]]
+    name = "OUT"
+    url = "/OUT/"
+    weight = 9
+

@@ -1,0 +1,31 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contact !
+  subtitle : Contact Protocols
+  content : "I am a very busy bee, and my time is precious to me. To maximize the chance that I will reply to your correspondence, please use your empathic powers to crawl inside my head first. You can also hit me up on github, linkedin, twitter, mastadon, discord, where ever you can find me." 
+
+  # Contact details
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "Anchorage, Alaska, USA, Planet Earth, Solar System, Orion–Cygnus Arm, Milky Way Galaxy, The Local Group, The Visible Universe (...just in case you aren't from here...)"
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Phone: 907-312-9847"
+      
+    #- icon : ti-printer # themify icon pack : https://themify.me/themify-icons
+    #  info : "Fax: +880-31-000-000"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: blairmunroakusa@wp.computer"
+
+
+  # Contact form
+  contact_form:
+    enable : false
+    form_action : "#" #contact form works with https://formspree.io
+    name : "Your Name"
+    email : "Your Email"
+    subject : "Subject"
+    message : "Message"
+    submit : "Submit"

@@ -1,0 +1,18 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/powerlineclouds.webp"
+  bg_image : "images/backgrounds/powerlineclouds.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "WELCOME TO MY WORLD PIECE COMPUTER (CONCEPTUAL PEACE ART)"
+  content0 : "I'm a conceptual peace artist / engineer formally trained in electrical engineering. My art fuses concepts from mathematics, physics, science, engineering, and applies them by analogy in an educational manner to make better sense of our Human experience. I try to make this aesthetic and functional in order to liberate useful technical constructs to empower non-technical people to improve their lives in fun ways. I'm a fierce advocate for erecting a computational global peace system."
+  content1 : "Let's invent a time machine for peace."
+  content2 : "blairmunroakusa, LLC is licensed in the State of Alaska to conduct ANY LAWFUL business under primary NAICS code 711510: Independent Artists, Writers, and Performers."
+  content3 : "THIS ENTERPRISE WAS FOUNDED TO INVENT A TIME MACHINE FOR PEACE."
+  content4 : "( or the world's largest supercomputer ~ the universal piece computer )"
+  button:
+    enable : false
+    label1 : "Explore!"
+    label2 : "Help!"
+    link1 : "#feature"
+    link2 : "https://help.blairmunroakusa.wp.computer"

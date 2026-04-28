@@ -1,0 +1,47 @@
+############################ About ###################################
+about:
+  enable : true
+  title : I'm ...
+  about_item :
+  - icon : 
+    title : "Inventing a time machine"
+
+    content : "I’m very serious about inventing this time machine; it’s all I care about. You and I might not think of the same thing when we think ‘time machine’, and that’s okay. My version is probably a little more ..abstract. That’s why I use conceptual art as my primary vehicle to network, fundraise, and communicate design plans to people who want to help make the time machine something we can scale and distribute to make things better for our many overlapping worlds."
+    address :
+    link :
+
+  - icon :
+    title : "A world piece computer"
+    content : "The time machine is actually a new kind of computer. This computer is called a 'world piece computer'. A world piece computer helps the operator manage all the pieces in their world. It does this by running a 'peace process' that we might call 'the universal piece'. By definition, the universal piece is a continuous and evolving way of making things better in a world by methodically empowering the operator to face up against their most difficult problems and conflicts."
+    address :
+    link :
+
+  - icon : 
+    title : "Quality + Timespace"
+    content : "A thesis: In terms of what matters most to us in our inner worlds, the reality we experience makes sense only in the context of time. This is because the subjective quality of our inner experience relies on comparisons. It feels like 'this', because it does or does not feel like 'that'. The green of the summer trees are comparably different from the blue of the sky above. To make this comparison is to requires shifting focus between the two qualities on their own, and the two qualities taken together. This defines the internal subjective notion of time. Even space itself requires time to make sense of distance. We can only determine the distance between objects by taking the time to measure it with a ruler, or a beam of light. This is an irrefutable fact of Human experience. So our experience of time...well one might argue it is actually just the experience of quality in general."
+    address :
+    link :
+
+  - icon : 
+    title : "How does the timetravel work?"
+    content : "Well, timetravel in the go-back scifi sense is probably absurd. What a world piece computer does however--what the universal piece, peace process does--is to empower it's operator to methodically travel between the past, present, and future in the _qualitative sense_. This travel may be real, such as travelling into the future, or it may be imaginary, such as travelling into past memories, etc. The imaginary is usually a 'what if'. The real is usually a 'what'."
+    address :
+    link :
+
+  - icon : 
+    title : "What's the point?"
+    content : "We all naturally invent our own time machines--our own world piece computers. These are the systems we put in place to manage our stuff. Most of us however, well we don't realize that it's actually a time machine that allows us to succeed or fail at living our best lives. Some people's world piece computers work better than others'. Those people are who we call 'successful' at whatever it is they set themself toward. People who are successful are rarely just lucky. They usually have some consistent way of managing all the pieces in their world, and this consistency is usually a methodical and systematic process...like what makes a computer so useful. Even the most non-chalant and free-flowing of successful people are non-chalant and free-flowing in a consistent manner. It is so I believe we all stand to benefit from learning more about how computers work, where by applying this knowledge by analogy to our personal lives to get better at processing all the pieces in our worlds, we stand to increase the odds that we reach the future destinations we prefer (or at least think we prefer)."
+    address :
+    link :
+
+  - icon : 
+    title : "What's the objective?"
+    content : "The big idea is to empower people to become more methodical and deliberate about their life-systems, and to do it in a way that results in the erection of a computational global peace system. I think the best way to do this is to draw from concepts that exist in modern science, mathematics, and technology...draw from the concepts that have proven to work so well in the outer world...and use this knowledge to inspire more effective components within an operator's world piece computer. Ultimatelty, a world piece computer time machine is a new type of communication technology. The purpose is to facilitate language exchange, both between the operator and themself, and between the operator and other operators whos worlds overlap with theirs."
+    address :
+    link :
+
+  - icon : 
+    title : "Endgame: the universal piece computer"
+    content : "For a world piece computer to be truly effective, it needs to network with other worlds. A network of computers that shares the same processes and purpose is usually what we mean when we say 'supercomputer'. The idea is to erect a computational global peace system, as in, working toward the ideal we call 'world peace', but in a more practical and systematic manner than we are accustomed to of yet as a species." 
+    address :
+    link :

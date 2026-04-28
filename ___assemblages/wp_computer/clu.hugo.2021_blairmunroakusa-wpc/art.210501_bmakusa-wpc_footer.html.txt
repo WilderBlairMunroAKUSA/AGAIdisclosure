@@ -1,0 +1,66 @@
+{{"<!-- end Contact Area -->" | safeHTML}}
+<footer id="footer" class="section-bg">
+	<div class="container">
+		<div class="row wow fadeInUp" data-wow-duration="500ms">
+			<div class="col-xl-12">
+
+				{{"<!-- Footer Social Links -->" | safeHTML}}
+				<div class="social-icon">
+					<ul class="list-inline">
+						{{ range site.Params.social }}
+						<li class="list-inline-item"><a href="{{ .link | safeURL }}" target="_default"><i class="{{ .icon }}"></i></a></li>
+						{{ end }}
+					</ul>
+				</div>
+
+				{{"<!-- copyright -->" | safeHTML}}
+				<div class="copyright text-center">
+					<a href="{{ site.Home.Permalink }}">
+						<img src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}" height="42" />
+					</a>
+					<br>
+					<p>{{ site.Params.copyright | markdownify }}</p>
+				</div>
+			</div>
+		</div>
+		<p style="font-size:13px; color:black;"> This project is 20+ years in the scheming, 10+ years in the making, with well over $100,000 in direct personal investment, and tens of thousands of hours invested to date. I plan to spend many more tens of thousands of hours working on this project, and I will continue to invest all the money I have into it. None of this would be possible without the immense direct and indirect support from the people in my world, and the privilege of opportunity born from living in the USA, Alaska. If you and I have ever had a conversation longer than 2 minutes, chances are you have contributed to this project without knowing it. Thank you for being.</p>
+	</div>
+</footer>
+{{"<!-- /footer -->" | safeHTML}}
+
+{{ "<!-- Google Map API -->" | safeHTML }}
+{{ if site.Params.map.enable }}
+<script src="{{ site.Params.map.gmap_api | safeURL }}"></script>
+{{ end }}
+
+{{ "<!-- JS Plugins -->" | safeHTML }}
+{{ range site.Params.plugins.js}}
+<script src="{{ .link | absURL }}"></script>
+{{ end }}
+
+{{ "<!-- Main Script -->" | safeHTML }}
+{{ $script := resources.Get "js/script.js" | minify | fingerprint "sha384"}}
+<script src="{{ $script.Permalink }}" integrity="{{ $script.Data.Integrity }}"></script>
+
+<!-- cookie -->
+{{ if site.Params.cookies.enable }}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
+<div id="js-cookie-box" class="cookie-box cookie-box-hide">
+	This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-transparent">I Accept</span>
+</div>
+<script>
+	(function ($) {
+		const cookieBox = document.getElementById('js-cookie-box');
+		const cookieButton = document.getElementById('js-cookie-button');
+		if (!Cookies.get('cookie-box')) {
+			cookieBox.classList.remove('cookie-box-hide');
+			cookieButton.onclick = function () {
+				Cookies.set('cookie-box', true, {
+					expires: {{ site.Params.cookies.expire_days }}
+				});
+				cookieBox.classList.add('cookie-box-hide');
+			};
+		}
+	})(jQuery);
+</script>
+{{ end }}

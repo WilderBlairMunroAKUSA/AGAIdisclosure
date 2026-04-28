@@ -1,0 +1,63 @@
+{{ $data := index site.Data site.Language.Lang }}
+
+{{ if $data.feature.feature.enable }}
+{{ with $data.feature.feature }}
+{{"<!-- feature -->" | safeHTML}}
+<section class="section section-bg about-2 padding-0" id="feature">
+	<div class="container-fluid">
+		<div class="row">
+			<h2 style="color:cyan;"><a href="https://timemachineforpeace.blairmunroakusa.wp.computer/" target="_default">Click here to visit 'Time Machine For Peace' website.</a></h2>
+			<div class="col-lg-6 padding-0" style="background-image: url('{{ .image_webp | absURL }}'); background-size: cover; background-position: left center; background-repeat: no-repeat; min-height: 600px">
+				<!-- this image is for trigger this section fallback background image -->
+				<img src="{{ .image_webp | absURL }}" style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .image | absURL }})'">
+			</div>
+			<div class="col-lg-6">
+				<p style="font-size:17px; color:White;">
+				11/04/2021 - Unfortunately, the contents of this website were created under duress, for at the time I was undergoing an acute psychotic episode, product of a condition called 'schizoaffective disorder, bipolar type'. I have since stabilized, but I have chosen to leave this website up as a personal reminder to self. I still believe in the general ideas I was attempting to convey, and all ideas associated with this communication attempt (eg, the kickstarter, and time machine for peace homepage website), but overall, my ability to do so in an accessible and relatable manner was impaired. I can do better. I am currently in the process of creating a more accessible version of this website and the ideas contained within. For now however, it stands as-is.</p>
+				<p style="font-size:17px; color:White;">
+				The primary failure in this website's communication attempt was that it does not make it clear that this website is to serve as a template and example, to outline my personal world piece computer for others to 'get the idea' more easily. My intention is to host all my personal efforts and projects (the 'components' of my personal world piece computer') that I dedicate to generating peace in my individual world. I missed the point entirely. --Blair
+				</p>
+				<p style="font-size:13px; color:Yellow;">>> DISCLAIMER!</p>
+				<p style="font-size:13px; color:LawnGreen;">>> Content and presentation within separate websites (subdomains) in this webspace (wp.computer and up.computer domains) will always be highly experimental and continually under construction, with a corresponding persistant degree of cringe.</p>
+				<p style="font-size:13px; color:Orange;">>> I want to build this domain into a collective online studio/gallery/exhibit/etc for experimental (and social) conceptual peace art/engineering/etc. If you want a space on this domain for your own experimental purposes, hit me up!</p>
+				<p style="font-size:13px; color:Pink;">>> Enjoy!</p>
+				<p style="font-size:13px; color:Red;">>> All content and ideas in this subdomain are draft quality. Please suggest revisions my making a change request or opening a new issue on <a href="https://github.com/wp-computer/">github</a>.</p>
+				
+				<div class="content-block">
+					<h2>{{ .title | markdownify }}</h2>
+					<p>{{ .content000 | markdownify }}</p>
+					<p>{{ .content00 | markdownify }}</p>
+					<p>{{ .content01 | markdownify }}</p>
+					<p>{{ .content02 | markdownify }}</p>
+					<p>{{ .content03 | markdownify }}</p>
+					<p>{{ .content04 | markdownify }}</p>
+					<p>{{ .content100 | markdownify }}</p>
+					<p>{{ .content10 | markdownify }}</p>
+					<p>{{ .content11 | markdownify }}</p>
+					<p>{{ .content12 | markdownify }}</p>
+					<p>{{ .content5ws | markdownify }}</p>
+					<div class="row">
+						{{ range .feature_item }}
+						<div class="col-lg-6">
+							<div class="media">
+								{{ with .icon }}
+								<div class="align-self-start mr-3">
+									<i class="{{ . }}"></i>
+								</div>
+								{{ end }}
+								<div class="media-body">
+									<h4 class="media-heading">{{ .title | markdownify }}</h4>
+									<p>{{ .content | markdownify }}</p>
+								</div>
+							</div>
+						</div>
+						{{ end }}
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+{{"<!-- /feature -->" | safeHTML}}
+{{ end }}
+{{ end }}

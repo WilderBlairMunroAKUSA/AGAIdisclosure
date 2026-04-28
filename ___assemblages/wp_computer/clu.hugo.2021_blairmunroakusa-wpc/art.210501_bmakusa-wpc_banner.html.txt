@@ -1,0 +1,36 @@
+{{ $data := index site.Data site.Language.Lang }}
+<p style="font-size:10px">COMMUNICATION STYLE DISCLAIMER: This webspace is a deliberate strategy meant to provide a transparent way of sharing my process/world. The purpose of this communication strategy is to determine the best way of going about doing things, by making my process/world accessible to people who may be able to help. Everything here is highly experimental. <a href="https://up.computer/">The Universal Piece Computer</a>, <a
+  href="https://wp.computer/">World Piece Computer</a> = <a href="https://blairmunroakusa.wp.computer/">Blair Munro</a> ... <a href="https://blairmunroakusa.wp.computer/astudyinpeace_htmlforindexing.html">(a study in peace)</a></p>
+{{ if $data.banner.banner.enable }}
+{{ with $data.banner.banner }}
+{{"<!-- Welcome Slider-->" | safeHTML}}
+<section class="hero-area" style='background-image: url("{{ .bg_image_webp | absURL }}")'>
+	<!-- this image is for trigger this section fallback background image -->
+	<img class="d-none" src="{{ .bg_image_webp | absURL }}" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .bg_image | absURL }})'"/>
+
+	<div class="block">
+		<!--{{ if .icon }}
+		<div class="video-button">
+			<i class="{{ .icon }}"></i>
+		</div>
+		{{ end }}-->
+		<h1>{{ .title | markdownify }}</h1>
+		<p>{{ .content0 | markdownify }} </p>
+		<h2>{{ .content1 | markdownify }}</h2>
+		<p1>{{ .content2 | markdownify }}</p1>
+		<p>{{ .content3 }}</p>
+		<p>{{ .content4 }}</p>
+		{{ if .button.enable }}
+		{{ with .button }}
+		<a href="{{ .link1 }}" target="_blank" class="btn btn-transparent page-scroll">{{ .label1 }}</a>
+		{{ end }}
+		{{ with .button }}
+		<a href="{{ .link2 }}" target="_blank" class="btn btn-transparent page-scroll">{{ .label2 }}</a>
+		{{ end }}
+		
+		{{ end }}
+	</div>
+</section>
+{{"<!-- /Welcome Slider-->" | safeHTML}}
+{{end}}
+{{end}}

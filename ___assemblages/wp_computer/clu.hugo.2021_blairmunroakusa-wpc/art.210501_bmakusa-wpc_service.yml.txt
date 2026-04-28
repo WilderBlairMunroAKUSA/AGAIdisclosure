@@ -1,0 +1,9 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Follow !
+  service_item :
+    # service item loop
+    - name : Leadership is overglorified. I am just a lone nut.
+      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      content : "I'm tired of dancing alone and in private, so I'm trying to figure out the best way to dance in public so we can do fun and awesome/fulfilling stuff together while inventing a time machine for peace, erecting the computational global peace system. Basically, I think it would be a blast to spark off a massive epic dance party (figurative (...someday actual?!?)) with likeminded people across the globe. No need to ask really, just start dancing it out with me. Right now my dance is not so easy to follow, but that's okay because I'm always working on improving and I'm a quick study. But whatever, following and big-picture stuff aside, I really just wanna do my dance, so that's what I'm gunna do. Let's dance and move in our own ways, but together!"

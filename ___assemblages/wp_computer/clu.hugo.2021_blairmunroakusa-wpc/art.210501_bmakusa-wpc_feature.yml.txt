@@ -1,0 +1,48 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/portraitcollage2.jpg
+  image_webp : images/about/portraitcollage2.webp
+  title : "Hi! I'm Blair."
+  content000 : "**PERSONAL OVERVIEW**"
+  content00 : "All I want to do is make new and better life with people."
+  content01 : "I think that the best way to do this is by coming up with ways to include everybody. I think that to make new life, we should collaborate and do art. I think that to make life better, we should do art in a way that helps us solve our hardest problems together."
+  content02 : "In terms of solving our hardest problems, my studies in physics led me to conclude that our hard problems all revolve around the way we think about time---both the language we use and the ideas we hold on to. Time is (okay fine, _effectively_) irreversible according to thermodynamics, and the second law of thermodynamics tells us (it tells me at least) that no matter how much energy we put into solving a hard problem, new and more problems always crop up in its place. So it really isn't about solving all the problems; it is more about finding the best way to go about solving new problems, as they crop up in real-time. It is more about asking 'Is peace a result, or is it more like a process?' Process first."
+  content03 : "From my perspective, all the hardest problems---especially social problems---crop up because we don't have a clear way of making sense of our Human experience, which I believe only makes sense thinking about in the context of **time**. A common example of this expression is, 'why do our beliefs conflict?'"
+  content04 : "So I spend all my _free_ time creating a theory of reality to explain and predict Human experience and behavior exclusively in terms of **time**. I want to create a new kind of math/physics-based art that can help us wrap our brains around what is known as the [**Hard Problem of Consciousness**](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness), which I believe is the crux of it all. I want to make it easier for anybody to make more productive sense of this infinitely complex thing we're a part of that we call 'life'."
+  content100 : "**ABOUT MY ART**"
+  content10 : "My art is **CRUDE** and **UNREFINED**. Conceptual art is a form that places the underlying ideas and concepts above medium and aesthetic refinement. I am first and foremost trying to communicate complex ideas for the purpose of collaboration en masse."
+  content11 : "The theme I want to emphasize is **world peace**. I think that to solve our hardest problems, we definitely need to figure out how to work together to solve them. No matter what the problem is, if we can't figure out how to cooperate as a species, then I believe we are doomed to fail. _World peace_ is a super loaded term though, and the Kumbaya version that people often think of is beyond unrealistic, for now at least. This is why I use the term '**global peace**'. Because worlds vary so much within the universe of Human beings, it makes more sense to think about peace in terms of how we can link worlds (and their respective versions of 'world peace') together in more peaceful ways."
+  content12 : "So my conceptual peace art is to invent a big way to tackle the problem of understanding our experience in terms of time, and to do so in a strictly inclusive way that allows us to connect our worlds together to communicate and come up with ways to make new and better life with everyone involved. The piece in whole is the effort to erect a computational global peace system."
+
+  content5ws : "**MY 6 Ws**"
+  feature_item : 
+      # feature item loop
+    - title : "WHO"
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : "My only absolute label is my name. I own myself. I'm always working, and I'm always playing. I live in my own world, and I take frequent vacations to visit other people's worlds; it keeps life fresh. I love sharing and helping. I am a child at soul, and no I do not plan on growing up. But I am old and tired inside, so sometimes I need a steadying hand."
+      
+      # feature item loop
+    - title : "WHY"
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : "Once I discovered that to meet my needs and wants, I must come up with a way to manage my inner personalities, and the people in my past, present, and future. To accomplish this, I realized I need to invent a time machine, my world piece computer. What my time machine does is it allows me to maintain constant communication with the people I need, when I need them most. I need the people in my life---both living, passed, and future---as much as I need my various selves."
+
+      # feature item loop
+    - title : "HOW"
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : "The time machine I invented is called a 'world piece computer'. I use mine to navigate my 'timespace', and my journey is filled with vital experience from the people I observe and interact with. From them, in conjunction with my aspect of the universal piece, I learn lessons that help direct my present world toward the best future I can find. This establishes what I call my world's 'peace process'--or my aspect of the universal piece at the global scale--thus the principle I value most is that 'peace is a process, not a result'. I enjoy my life by building and operating my world piece computer, and over time this became my deliberate addiction. For the pragmatists, a world piece computer produces a world-specific universal language as a byproduct. This is because worlds overlap, and to ensure peace in a world, individual world piece computers must form networks to maintain the universal piece within intersecting regions."
+      
+      # feature item loop
+    - title : "WHAT"
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : "My ambition is to create a physical theory of reality that explains our conscious experience exclusively in terms of time---as an evolving blob of stuff. My mission is to accelerate the technological advent of world peace. Inventing a time machine is the only life-strategy I could come up with that I believe is capable of achieving and accomplishing my ambition and mission. The outcome will be a single network of world piece computers, all sharing a single peace process. This network will be an effective supercomputer formed by interconnected Human brains. By definition, there will be only one supercomputer, only one computational global peace system: the universal piece computer."
+
+      # feature item loop
+    - title : "WHERE"
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : "---Any place."
+
+      # feature item loop
+    - title : "WHEN"
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : "---Any time."
