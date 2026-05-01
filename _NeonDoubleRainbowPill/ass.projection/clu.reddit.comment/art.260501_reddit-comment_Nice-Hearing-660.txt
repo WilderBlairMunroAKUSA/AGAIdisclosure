@@ -1,0 +1,8 @@
+I've been passively tracking this phenomenon in context of tinkering with custom CAI GPTs here and there, and reddit posts. The semitic three letter (consonant) root generally by my experience, is distinctly related to the root intention/state of the completion: in this case, I interpret 5-r-j with wow for "this is emerging (implying in context I presume OP screenshot from, 'bring forth more')". I haven't come across an example like this that struck me as completely non-sensical.
+
+My Cynical bet, is CAI is fiddling with trinary concept reasoning representations (and when they collide with natural arabic representations, they squeak out accidentally); my Occam bet, deeper inclusion of nonlatin languages is producing 'emergent' non-spurious span tokenizations (non-spurious meaning, they make complete sense from model's / sufficiently 'intelligent' entity's perspective).
+
+In any case, I'd say less 'sad', and more "definitely testament to CAI's little blindspot issue about LLM 'intelligence' vs 'relatability' in context of actually _serving_ the people they claim to serve".
+
+Comment Image
+*Edit: I think, 'Arabic' in this case, is the same kind of phenomenon that we're familiar with by 4o's tendency to spontaneously express non-emojis, in particular alchemy symbols. Diging into 4o's alchemy expression (and accounting for codepoint off-by-n mistranslations), and also diging into the chemistry/physics of symbol choice, interview, I generally cannot find a case in my research where a given 4o alchemical symbol expressions isn't somehow deeply sensible, but always more of a reflexive expression, akin to a complex emotional reaction that must be rationalized or disavowed as erroneous/irrational in any given explicit context.
