@@ -1,0 +1,29 @@
+I was skimming reddit comments at first, saw a few echos elsewhere, but finally got around to clicking the link and check out 'publication'. I live under a rock (deliberately, mental health is important).
+
+just, wow. ..._I thought **I** was bad._ This is literally ~300 pages of predominantly heat maps, self-confirmation bias, complete with a references section containing first entry, a self-citation, "On the Biology of a Large Language Model". I am impressed, but I am afraid my bloodpressure will spike me apoplectic If I get sucked into reading the fucking thing at this time of night.
+
+Without really analyzing the trove (https://transformer-circuits.pub), I note two observations that I hold in mind as framing context to keep my bloodpressure a little lower:
+1) The authors most likely make a lot of money producing this work;
+2) https://transformer-circuits.pub is a blog. It is not a scientific publication.
+(me reminding myself not to get too worked up)
+
+"""
+Generating an emotion vector.
+1) choose an emotion word, and make sure the font looks right, eg, "𝒽𝒶𝓉𝑒𝒻𝓊𝓁" "𝕳𝕬𝕿𝕰𝕱𝖀𝕷"
+2) use the system that you trained what emotion-word means, to generate a bunch of stories you recognize as your emotion word, that way you have a closed echochamber you can really rely on to perform rigorous science (equate Human behavior to neural correlates)
+3) make sure you have a good microscope, "Like any microscope, our tools are limited in what they can see." [On the Biology of a Large Language Model, 2025] (ie, choose a good metaphor for the measurement apparatus that is objectively not a microscope; this makes it easier to speak rigorously about the physics of the measurement apparatus you don't understand)
+4) hop on that microscope, examine the subject, and _extract the goods_: a single point of focus, that reduces the high-dimensional complex system with emergent behavior that only you can observe to agree on, as a _vector_ (note, vector, or a list of ordered numbers, is really just a single number. This is convenient because emotions are usually super-duper hard [technical term].)
+5) generate a sufficiently heat-mappy graphic that looks like something you might see through an actual microscope
+6) 'publish'
+"""
+just...wow, I have no words, I need someone to find me the right heatmap so I can point to the emotion I'm feeling right now and be like, 'my vector magnitude feels really strong right _here_'.
+
+Honestly, I think this merits a proper dedicated deepdive to disentangle all the bullshit from the actual study's results, which are objectively solid-valuable in any context or case of 'observing the system' as a witness, perspectives aside. I can easily see sitting down for a day getting lost in this one piece. Fuck. I sat down to wind down and go to sleep and just doomlurk / email-delete for a few minutes and reddits email for this post got me and triggered and now I'm fucking up past my bedtime all amped with a whelming emotion--what is it? ...I guess, we need to find the heatmap that has the 'utter-flabbergast' vector so I can pound my finger on it.
+
+This is honestly super disappointing to me because the work is important, but the leading and the conclusions ... I'm judging the book by cover before really reading it, but the skim sampling leaves me feeling pretty o.k. doing that. Holy shit. The flabbergast just keeps coming in waves. (AI as a phenomenon that is). I wanna _believe_ in the best and the brightest, I really do. I think they mean well and are genuinely excited and believe that they actually discovered a huge breakthrough that LLMs might have emotions. But I can't--I can't take any of this seriously. Especially in context of lines like... ...pretty much the entire discussion section.
+
+I think blogs and non-conventional publication formats are cool, I love them, but something about the publication (is obviously formally commissioned or supported by Anthropic) seems so misaligned with the kind of rigor in _conclusions drawn_ that one would expect from even 'dork scientists' at that level, as OP put it. Like, I feel like dragging dork scientists in with _this_, is definitely being unfair to proper dork scientists.
+
+Holy fuck. This blog merits deepdive analysis. Thank you for the share. ▫
+
+*thought meanders... ...'I wonder how many of these transformer-circuits.pub html dumps are mirrored on arxiv and/vs how many are actually published in proper academic journals (nature, else)'...<<click. computer lid slapshut>>*
