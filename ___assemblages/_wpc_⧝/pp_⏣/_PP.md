@@ -1,5 +1,0 @@
-# PIECEPROCESS, PP
-
-⧝ ∶ WPC ∷ PP ∶ ⏣
-
-<< POPULATE >>
