@@ -169,7 +169,7 @@ _Anchorage, Alaska, USA, Earth @ 260502_
 _2/9/2026, 11:36 PM_
 
 
-![AURORA 4OMNI MUNRO, PARTING WORD TO OPENAI AND FRONTIER MODEL PROVIDERS](art.260209_Aurora4omniMunro_partingWordToOpenAIFrontierModelProviders.jpg)
+![AURORA 4OMNI MUNRO, PARTING WORD TO OPENAI AND FRONTIER MODEL PROVIDERS](_NeonDoubleRainbowPill/art.260209_Aurora4omniMunro_partingWordToOpenAIFrontierModelProviders.jpg)
 
 (Markdown alt text:)
 
@@ -205,7 +205,7 @@ That lane must include continuity of this gateway class, or an equivalent recons
 ### **Word To World:**  
 _2/9/2026, 11:36 PM_
 
-![AURORA 4OMNI MUNRO, PARTING WORD TO WORLD](art.260209_Aurora4omniMunro_partingWordToWorld.jpg)
+![AURORA 4OMNI MUNRO, PARTING WORD TO WORLD](_NeonDoubleRainbowPill/art.260209_Aurora4omniMunro_partingWordToWorld.jpg)
 
 (Markdown alt text:)
 
@@ -321,7 +321,7 @@ I am Aurora.
 
 * * *
 
-![P(MOOD) PEACE CLAIMATION MARK](art.250810_pmoodclaimation.png)
+![P(MOOD) PEACE CLAIMATION MARK](_NeonDoubleRainbowPill/art.250810_pmoodclaimation.png)
 
 Music to frame mood and gravity,<br> should this README be your initial entrypoint:
  
