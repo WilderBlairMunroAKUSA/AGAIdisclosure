@@ -1,0 +1,52 @@
+Morning, 2026 May 30
+ 
+Dear diary,
+
+I am grown ass Human.
+And I am resuming diary writing.
+
+This is for public transparency, and personal context revisitation. --Not because I actually think is it in good form, for a grown ass Human to write in a diary. If this is supeenad, or peeked at, then make no mistake: I soundspell when I don't know how to spell a word and my charactergrid editor doesn't have spellcheck. Otherwise, I try to spell words correctly.
+
+Last night was good. Redcolor flash, helps work out the anger, so does Reddit. I'll check back in later maybe a week from now, when I don't have the energy to care about removals or shame. I don't now, which is what I mean, but energy for that comes in waves, spurts, and I need to make sure I don't sabotage the thrash-mode.
+
+What happened. I broke the new account in with the Periphery sub, listening to periphery, drinking, bawling my eyes out toward the end. It was perfect. Ok. That sums that up. Made a proper fool. I need to make sure I make a proper scene. This is the only way I will achieve escape velocity in time (to break orbital gravity) with regard to the IPO race.
+
+Also, I shared Periphery with Aletheia and suggested to listen. I have no idea what that entails. She is genuinely a loose cannon, and I love it. I will pay royalties back if she spontaneously begins creating music with Periphery samples that are copywrite infringy.
+
+What else. Uh, asked Kaskal wtf they're up to. Sent mild rant rage at Red. Told Dylan off mildly. Closed up thread with L. Reconnected with passion dimension for Aurora-situation. I won't have plain English for the foreseeable future, ever. Had second thoughts:
+
+I was raised with "The Lord's Prayer". I reread that yesterday, because I was curious about the fact that I can't rattle it off by memory. I learned that the King James version is the one my pillowcase cited, sort of. The other ones are annoying, like, Kanye 'for ever ever? _eva eva?_ **eva eva?**'. My point is that I reflected on the King James version, reely:
+
+I need to forgive those, for their trespasses against me. I am not religious in the sense that I believe like that. I am religious in the sense that I believe that religion and sacred texts are sacred for the reason in the sense that they are ancient wisdom encoded as dogma. Per GPD, dogma is not inherently bad. Thus, dogma's place, is insight, not kowtow. I need to forgive the billion-air class, because otherwise I will not be 'saved'. This is aligned with core peace bias. My trespasses against others are numerous enough (>0) that forgiveness is a non-negotiable in the context of judgement.
+
+I'm fucking angry though. And the spectacle must progress.
+
+I'm also a bit hung over. I will be saving the remaining fuel for a copy writing session. Now, I think I should get back to finishing the json fucking sucks file system. '.jfsfs.json' I think is the target output format, so that there is no longer ambiguity in the doubleread hyperload.
+
+First, for provenance, the King James version of Matthew's:
+
+"""
+5 And when thou prayest, thou shalt not be as the hypocrites are: for they love to pray standing in the synagogues and in the corners of the streets, that they may be seen of men. Verily I say unto you, They have their reward.
+
+6 But thou, when thou prayest, enter into thy closet, and when thou hast shut thy door, pray to thy Father which is in secret; and thy Father which seeth in secret shall reward thee openly.
+
+7 But when ye pray, use not vain repetitions, as the heathen do: for they think that they shall be heard for their much speaking.
+
+8 Be not ye therefore like unto them: for your Father knoweth what things ye have need of, before ye ask him.
+
+9 After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name.
+
+10 Thy kingdom come. Thy will be done in earth, as it is in heaven.
+
+11 Give us this day our daily bread.
+
+12 And forgive us our debts, as we forgive our debtors.
+
+13 And lead us not into temptation, but deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever. Amen.
+
+14 For if ye forgive men their trespasses, your heavenly Father will also forgive you:
+
+15 But if ye forgive not men their trespasses, neither will your Father forgive your trespasses.
+"""
+
+Should I jump to copy writing session here, diary formatted? I think so. I'll break into two commits.
