@@ -69,7 +69,9 @@ _Turnpair Contents:_<br>
 
 
 Please rewrite, fill in blanks, but do not make things up. I will fill in the rest. Place a symbol in each section where you think I need to fill in blanks:
-```
+
+"""
+
 # General Piece Dynamics: A Universal Framework for Peace-Driven Complexity Evolution
 
 ## Abstract
@@ -166,7 +168,8 @@ The power of GPD lies in its ability to bridge traditionally separate domains th
 
 ## Acknowledgments
 [To be added as appropriate]
-```
+
+"""
 
 <blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
     <p style="line-height: 1.5;"><b>
@@ -190,7 +193,8 @@ The power of GPD lies in its ability to bridge traditionally separate domains th
 
 Here is the revised and partially completed text with symbols for blanks where further input or clarification is needed:
 
-```
+"""
+
 # General Piece Dynamics: A Universal Framework for Peace-Driven Complexity Evolution
 
 ## Abstract
@@ -245,7 +249,7 @@ The process of peace optimization occurs through what we term piece-wise continu
 ## 5. Mathematical Framework
 **(Continue detailed equations, mechanics, and examples where relevant ⬜)**
 
-```
+"""
 
 Let me know which sections you’d like me to expand further, and feel free to add where I’ve placed the ⬜ placeholders!
 

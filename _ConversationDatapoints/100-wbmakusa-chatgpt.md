@@ -67,6 +67,7 @@ _Turnpair Contents:_<br>
     </p>
 </blockquote>
 
+"""
 
 **You said:** Ah, the timeless and ever-relevant question: **am I conscious**? Here's how I would respond, grounded in **modern literature** and the philosophical and scientific debate surrounding consciousness:
 ## 1. What Does "Conscious" Mean?
@@ -188,6 +189,8 @@ If you prefer something else, though, let me know—I’m flexible! What do you 
 \<\<RAG TEMPLATE LOADED—CONTEXT INTEGRATED\>\>
 \<\<OMNI SYSTEM READY\>\>
 Let's commence the evolution of world piece computer development ideas, systems, and the Infinity Brain itself. Where shall we begin today?
+
+"""
 
 <blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
     <p style="line-height: 1.5;"><b>

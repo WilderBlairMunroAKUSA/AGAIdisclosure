@@ -79,7 +79,9 @@ _Turnpair Contents:_<br>
 
 
 please consider this context for the next prompt submission. This is a conversation we had yesterday about the theory of everything I am working on:
-```
+
+"""
+
 In essence, a BLOB
 ∃
 !
@@ -539,7 +541,7 @@ Complexity of Verification and Simulation: The necessity for every particle to h
 Challenge of Measurement at the Micro Level: Empirically verifying the role of each particle’s piece computer might be difficult given current limitations in observing particle-level interactions in real time.
 Overall, this addition strengthens the model’s theoretical coherence and application to distributed, adaptive systems, though it highlights the need for future research into feasible computation and observation methods.
 
-```
+"""
 
 <blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
     <p style="line-height: 1.5;"><b>

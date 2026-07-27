@@ -371,7 +371,9 @@ Octonions are a fascinating, highly structured, and complex number system that e
 
 
 Last time we said this:
-```
+
+"""
+
 We said this:
 Our conversation was this:
 Here's the multiplication table for the 7D cross product using the specified variable substitutions:
@@ -926,7 +928,7 @@ END HISTORY:
 NOTES:
 Call the R7 space 'timespace' or 'experience space'. the x, y, z, components are position space. (tau, x, y, z,) is spacetime. the tx, ty, and tz components are temporal space. In the limit of only considering an object's experience from its individual point of view, that is a 4D temporal space (tau, tx, ty, tz). In the limit of only considering the same object's experience from an outside observer's point of view, that is the usual 4D spacetime (tau, x, y, z). The ordering for the R7 tuple is very important. Also, tau is the same time dimension as in minkowski spacetime.
 
-```
+"""
 
 I want you to attempt to apply quaternions to this R7 space in the same way that minkowski applied quaternions to R3 space.
 

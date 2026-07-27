@@ -3893,7 +3893,7 @@ To compare the hypothetical consciousness of a banana to that of an apple using 
 2. **Global Workspace Activation $(G)$ for a Banana and Apple:**
    - Both bananas and apples have basic cellular signaling pathways.
    - We will assign a small positive constant to represent this.
-   - Let’s denote $G_{\text{banana}} = \epsilon_{G}$ and $G_{\text{apple}} = \epsilon_{G}$.
+   - Let’s denote $-G_{\text{banana}} = \epsilon_{G}$ and $G_{\text{apple}} = \epsilon_{G}$.
 
 ### Hypothetical Equation for Consciousness
 

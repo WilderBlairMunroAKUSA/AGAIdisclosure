@@ -69,8 +69,8 @@ _Turnpair Contents:_<br>
 
 
 I am refreshing the chat. Here is where we left off. Please do not prune anything in memory.
-```
 
+"""
 
 Share
 
@@ -782,7 +782,9 @@ Let me know if you'd like to proceed with further revisions, expansions, or spec
 
 You said:
 I want you to go through concept by concept (piece by piece) in the piece you just wrote and the context content preceeding, and identify all the concepts that you did not properly integrate, or that you could do better integrating, and then regenerate the piece you just wrote. Be sure to include at the end, a list of all the additional pieces you integrate, plus the ones you enhanced. Can you do this for me?
-```
+
+"""
+
 Before you generate, I want you to ask me if I have anything to add to help you with the pieces you  identified. Remember, the physics is in my head, and I have all the structure available to us.
 
 <blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">

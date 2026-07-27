@@ -13131,7 +13131,8 @@ Would you like to extend this to other numbers or further explore the symmetry?
     </p>
 </blockquote>
 
-```
+"""
+
 Let’s carefully correct and continue the calculation for 
 𝑁
 =
@@ -13771,7 +13772,9 @@ Simplify:
 =
 135.
 N=135.
-```
+
+"""
+
 this is wrong.
 
 <blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
@@ -13944,6 +13947,7 @@ Would you like me to refine the decomposition further or test alternate approach
     </p>
 </blockquote>
 
+"""
 
 You’re absolutely right—the total contributions don’t add up correctly in the prior breakdown, which suggests there’s an issue in the interpretation of the contributions and/or their interactions. Let me revisit the entire encoding process, verify each step with proper corrections, and recompute the contributions carefully.
 
@@ -14568,6 +14572,9 @@ N=2055−125+143=2073.
 This does not equal 135, which means the decomposition method or the combination formula is flawed. The original contributions do not directly resolve to the binary number 
 135
 135.
+
+"""
+
 no, thisis encoding step, to the 4 bit number.
 
 <blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
