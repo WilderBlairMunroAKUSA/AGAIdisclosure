@@ -1,144 +1,52 @@
 **BOF**
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
-</blockquote>
-
 ## **Conversation 092:**<br>_Delay Vectors in Time Series_
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 8px;">
-    <p style="line-height: 1.5;"><em><b>conversation ID:&nbsp;&nbsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]</em><br>
-        <em><b>origin ID:&nbsp;&nbsp;&emsp;&emsp;&emsp;&ensp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]</em><br>
-        <em><b>created:&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;</b>2024-11-24 21:31:58 Sun</em><br>
-        <em><b>updated:&nbsp;&nbsp;&emsp;&emsp;&emsp;&ensp;</b>2025-02-24 18:10:05 Mon</em><br>
-        <em><b>operator:&nbsp;&nbsp;&emsp;&emsp;&emsp;&nbsp;</b>Wilder Blair Munro (AKUSA)</em><br>
-        <em><b>co-operator:&nbsp;&nbsp;&emsp;&nbsp;&nbsp;</b>Aurora 4omni Munro (ChatGpt)</em><br>
-        <em><b>GPT ID:&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&nbsp;</b>NA</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>origin ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>created:&emsp;</b>2024-11-24 21:31:58 Sun<br><b>updated:&emsp;</b>2025-02-24 18:10:05 Mon<br><b>operator:&emsp;</b>Wilder Blair Munro (AKUSA)<br><b>co-operator:&emsp;</b>Aurora 4omni Munro (ChatGpt)<br><b>GPT ID:&emsp;</b>NA</em><br>☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 _Subtitles:_<br><br><br><br>
 _Turnpair Contents:_<br>
-<sub>[tp-1](#tp-1)</sub>&emsp; ∶ <br><br><br><sub>[tp-2](#tp-2)</sub>&emsp; ∶ <br><br><br><sub>[tp-3](#tp-3)</sub>&emsp; ∶ <br><br><br><sub>[tp-4](#tp-4)</sub>&emsp; ∶ <br><br><br><sub>[tp-5](#tp-5)</sub>&emsp; ∶ <br><br><br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
-</blockquote>
-
-<sub>[tp-6](#tp-6)</sub>&emsp; ∶ <br><br><br><sub>[tp-7](#tp-7)</sub>&emsp; ∶ <br><br><br><sub>[tp-8](#tp-8)</sub>&emsp; ∶ <br><br><br><sub>[tp-9](#tp-9)</sub>&emsp; ∶ <br><br><br><sub>[tp-10](#tp-10)</sub>&emsp; ∶ <br><br><br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
-</blockquote>
-
-<sub>[tp-11](#tp-11)</sub>&emsp; ∶ <br><br><br><sub>[tp-12](#tp-12)</sub>&emsp; ∶ <br><br><br><sub>[tp-13](#tp-13)</sub>&emsp; ∶ <br><br><br><sub>[tp-14](#tp-14)</sub>&emsp; ∶ <br><br><br><sub>[tp-15](#tp-15)</sub>&emsp; ∶ <br><br><br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
-</blockquote>
-
-<sub>[tp-16](#tp-16)</sub>&emsp; ∶ <br><br><br><sub>[tp-17](#tp-17)</sub>&emsp; ∶ <br><br><br><sub>[tp-18](#tp-18)</sub>&emsp; ∶ <br><br><br><sub>[tp-19](#tp-19)</sub>&emsp; ∶ <br><br><br><sub>[tp-20](#tp-20)</sub>&emsp; ∶ <br><br><br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
-</blockquote>
-
-<sub>[tp-21](#tp-21)</sub>&emsp; ∶ <br><br><br><sub>[tp-22](#tp-22)</sub>&emsp; ∶ <br><br><br><sub>[tp-23](#tp-23)</sub>&emsp; ∶ <br><br><br><sub>[tp-24](#tp-24)</sub>&emsp; ∶ <br><br><br><sub>[tp-25](#tp-25)</sub>&emsp; ∶ <br><br><br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
-</blockquote>
-
-<sub>[tp-26](#tp-26)</sub>&emsp; ∶ <br><br><br><sub>[tp-27](#tp-27)</sub>&emsp; ∶ <br><br><br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
-</blockquote>
-
+<sub>[10](#tp-10) · [20](#tp-20)</sub><br><br>
+<sub>[tp-1](#tp-1)&emsp; ∶ <br><br>[tp-2](#tp-2)&emsp; ∶ <br><br>[tp-3](#tp-3)&emsp; ∶ <br><br>[tp-4](#tp-4)&emsp; ∶ <br><br>[tp-5](#tp-5)&emsp; ∶ <br><br>[tp-6](#tp-6)&emsp; ∶ <br><br>[tp-7](#tp-7)&emsp; ∶ <br><br>[tp-8](#tp-8)&emsp; ∶ <br><br>[tp-9](#tp-9)&emsp; ∶ <br><br>[tp-10](#tp-10)&emsp; ∶ <br><br>[tp-11](#tp-11)&emsp; ∶ <br><br>[tp-12](#tp-12)&emsp; ∶ <br><br>[tp-13](#tp-13)&emsp; ∶ <br><br>[tp-14](#tp-14)&emsp; ∶ <br><br>[tp-15](#tp-15)&emsp; ∶ <br><br>[tp-16](#tp-16)&emsp; ∶ <br><br>[tp-17](#tp-17)&emsp; ∶ <br><br>[tp-18](#tp-18)&emsp; ∶ <br><br>[tp-19](#tp-19)&emsp; ∶ <br><br>[tp-20](#tp-20)&emsp; ∶ <br><br>[tp-21](#tp-21)&emsp; ∶ <br><br>[tp-22](#tp-22)&emsp; ∶ <br><br>[tp-23](#tp-23)&emsp; ∶ <br><br>[tp-24](#tp-24)&emsp; ∶ <br><br>[tp-25](#tp-25)&emsp; ∶ <br><br>[tp-26](#tp-26)&emsp; ∶ <br><br>[tp-27](#tp-27)&emsp; ∶</sub>
 * * *
+##### << markdown file @ line 12 >>
 * * *
-* * *
-<br>
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-1'></a>
-## **Turnpair 1 of 27** ∷<br><sub><sub>@ 2024-11-24 21:31:58 Sun [𝜟t -0d 00h 00m 00s]</sub></sub>
+## **Conversation 092, Turnpair 1 of 27** ∷<br><sub><sub>@ 2024-11-24 21:31:58 Sun [𝜟t -0d 00h 00m 00s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>origin ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>created:&emsp;</b>2024-11-24 21:31:58 Sun<br><b>updated:&emsp;</b>2025-02-24 18:10:05 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa29e7b-2114-48f7-b09b-5475011bf483</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>361e963b-344e-456c-aa4f-b1ed91951820</em><br>
-        <em><b>children:&nbsp;</b> 1b7f1b23-331f-41f2-a7d6-e71d1b0b1c60</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa29e7b-2114-48f7-b09b-5475011bf483<br><b>parent:&emsp;</b>361e963b-344e-456c-aa4f-b1ed91951820<br><b>children:&emsp;</b> 1b7f1b23-331f-41f2-a7d6-e71d1b0b1c60</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 what is a delay vector in this context? "Much of nonlinear time series analysis is based on dimensional embedding, i.e., the construction and manipulation of delay vectors. Given a long series of data, one creates a bunch of short data samples from it, subseries of length m called "delay vectors". One then considers this series of delay vectors as a time series in itself, and analyzes the dynamics of this derived time series, under the assumption that it will mimic the dynamics of the complex system that gave rise to the original time series under analysis."
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | ~~◂ prev None~~ || [this 1](#tp-1) || [next 2 ▸](#tp-2) | [end 27 ⏭](#tp-27)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>e5827367-8e6b-4075-b391-a52cb5d39cd7</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>1b7f1b23-331f-41f2-a7d6-e71d1b0b1c60</em><br>
-        <em><b>children:&nbsp;</b> aaa2a493-d8f6-4419-9180-0e9c4e406455</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>e5827367-8e6b-4075-b391-a52cb5d39cd7<br><b>parent:&emsp;</b>1b7f1b23-331f-41f2-a7d6-e71d1b0b1c60<br><b>children:&emsp;</b> aaa2a493-d8f6-4419-9180-0e9c4e406455</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 A **delay vector** is a way of reconstructing the dynamics of a complex system from a one-dimensional time series by embedding the data into a higher-dimensional space. The idea is to represent the state of the system at a given time using not just the value of the time series at that moment, but also its values at previous time steps. This method is central to techniques like **Takens' embedding theorem**, which states that the dynamics of a system can often be faithfully reconstructed from time-delayed observations of a single variable.
 
@@ -185,73 +93,50 @@ $$
 
 This approach assumes that the delay-embedded time series preserves the essential dynamics of the original system, enabling analysis even when only a single observable is available.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | ~~◂ prev None~~ || [this 1](#tp-1) || [next 2 ▸](#tp-2) | [end 27 ⏭](#tp-27)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 102 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | ~~◂ prev None~~ || [this 1](#tp-1) || [next 2 ▸](#tp-2) | [end 27 ⏭](#tp-27)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-2'></a>
-## **Turnpair 2 of 27** ∷<br><sub><sub>@ 2024-11-25 05:45:42 Mon [𝜟t 0d 08h 13m 43s]</sub></sub>
+## **Conversation 092, Turnpair 2 of 27** ∷<br><sub><sub>@ 2024-11-25 05:45:42 Mon [𝜟t 0d 08h 13m 43s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>origin ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>created:&emsp;</b>2024-11-24 21:31:58 Sun<br><b>updated:&emsp;</b>2025-02-24 18:10:05 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2a493-d8f6-4419-9180-0e9c4e406455</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>e5827367-8e6b-4075-b391-a52cb5d39cd7</em><br>
-        <em><b>children:&nbsp;</b> 600b0c5f-21a4-4e93-bb94-0efa5d469ea7</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2a493-d8f6-4419-9180-0e9c4e406455<br><b>parent:&emsp;</b>e5827367-8e6b-4075-b391-a52cb5d39cd7<br><b>children:&emsp;</b> 600b0c5f-21a4-4e93-bb94-0efa5d469ea7</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 where are the heuristics stored in human brain that allow somebody to 'do physics' or apply principles of physics to reasoning?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 1](#tp-1) || [this 2](#tp-2) || [next 3 ▸](#tp-3) | [end 27 ⏭](#tp-27)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>600b0c5f-21a4-4e93-bb94-0efa5d469ea7</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa2a493-d8f6-4419-9180-0e9c4e406455</em><br>
-        <em><b>children:&nbsp;</b> aaa2da88-6b19-431c-a3d4-fe830d75f57d</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>600b0c5f-21a4-4e93-bb94-0efa5d469ea7<br><b>parent:&emsp;</b>aaa2a493-d8f6-4419-9180-0e9c4e406455<br><b>children:&emsp;</b> aaa2da88-6b19-431c-a3d4-fe830d75f57d</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 The heuristics that allow humans to "do physics" or apply principles of physics to reasoning are stored and processed across multiple interconnected regions of the brain. These heuristics are not stored as discrete packets but rather emerge from a network of learned associations, abstract reasoning capabilities, and sensory-motor experiences. Here's an overview of the relevant brain areas involved:
 
@@ -330,73 +215,50 @@ Physics heuristics are not isolated in one brain region but emerge from the **in
 
 The ability to "do physics" arises from the coordination of these regions, honed by education, experience, and practice. Each region contributes a piece of the puzzle, from basic sensory-motor intuitions to abstract mathematical reasoning.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 1](#tp-1) || [this 2](#tp-2) || [next 3 ▸](#tp-3) | [end 27 ⏭](#tp-27)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 224 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 1](#tp-1) || [this 2](#tp-2) || [next 3 ▸](#tp-3) | [end 27 ⏭](#tp-27)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-3'></a>
-## **Turnpair 3 of 27** ∷<br><sub><sub>@ 2024-11-25 05:48:58 Mon [𝜟t 0d 00h 03m 15s]</sub></sub>
+## **Conversation 092, Turnpair 3 of 27** ∷<br><sub><sub>@ 2024-11-25 05:48:58 Mon [𝜟t 0d 00h 03m 15s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>origin ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>created:&emsp;</b>2024-11-24 21:31:58 Sun<br><b>updated:&emsp;</b>2025-02-24 18:10:05 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2da88-6b19-431c-a3d4-fe830d75f57d</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>600b0c5f-21a4-4e93-bb94-0efa5d469ea7</em><br>
-        <em><b>children:&nbsp;</b> a0278bb5-611e-49a7-8793-4be6856a9afa</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2da88-6b19-431c-a3d4-fe830d75f57d<br><b>parent:&emsp;</b>600b0c5f-21a4-4e93-bb94-0efa5d469ea7<br><b>children:&emsp;</b> a0278bb5-611e-49a7-8793-4be6856a9afa</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 how does the cerebellum work with regard to general predictions?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 2](#tp-2) || [this 3](#tp-3) || [next 4 ▸](#tp-4) | [end 27 ⏭](#tp-27)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>a0278bb5-611e-49a7-8793-4be6856a9afa</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa2da88-6b19-431c-a3d4-fe830d75f57d</em><br>
-        <em><b>children:&nbsp;</b> aaa2ae2e-ab0c-4691-a776-c05b727fb420</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>a0278bb5-611e-49a7-8793-4be6856a9afa<br><b>parent:&emsp;</b>aaa2da88-6b19-431c-a3d4-fe830d75f57d<br><b>children:&emsp;</b> aaa2ae2e-ab0c-4691-a776-c05b727fb420</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 The cerebellum plays a significant role in **general predictions** through its ability to fine-tune and optimize cognitive and motor processes by comparing expected outcomes with actual results. While traditionally associated with motor control, the cerebellum is increasingly recognized for its contributions to broader cognitive functions, including prediction, adaptation, and error correction.
 
@@ -494,73 +356,50 @@ This collaboration ensures predictions are not only accurate but also adaptable 
 
 The cerebellum excels in refining predictions through precise timing, forward modeling, and error correction. Its ability to integrate sensory inputs, internal models, and feedback mechanisms makes it indispensable for tasks ranging from basic motor control to complex cognitive reasoning. By constantly updating its models of the world, the cerebellum enables humans to anticipate, adapt, and respond effectively in dynamic environments.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 2](#tp-2) || [this 3](#tp-3) || [next 4 ▸](#tp-4) | [end 27 ⏭](#tp-27)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 365 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 2](#tp-2) || [this 3](#tp-3) || [next 4 ▸](#tp-4) | [end 27 ⏭](#tp-27)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-4'></a>
-## **Turnpair 4 of 27** ∷<br><sub><sub>@ 2024-11-25 05:51:39 Mon [𝜟t 0d 00h 02m 40s]</sub></sub>
+## **Conversation 092, Turnpair 4 of 27** ∷<br><sub><sub>@ 2024-11-25 05:51:39 Mon [𝜟t 0d 00h 02m 40s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>origin ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>created:&emsp;</b>2024-11-24 21:31:58 Sun<br><b>updated:&emsp;</b>2025-02-24 18:10:05 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2ae2e-ab0c-4691-a776-c05b727fb420</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>a0278bb5-611e-49a7-8793-4be6856a9afa</em><br>
-        <em><b>children:&nbsp;</b> 7cd19179-c60e-4c13-9acb-c926b61c3126</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2ae2e-ab0c-4691-a776-c05b727fb420<br><b>parent:&emsp;</b>a0278bb5-611e-49a7-8793-4be6856a9afa<br><b>children:&emsp;</b> 7cd19179-c60e-4c13-9acb-c926b61c3126</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 are the models in the cerebellum general cognitive models? such as, a 'theory' for why somebody is the way they are?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 3](#tp-3) || [this 4](#tp-4) || [next 5 ▸](#tp-5) | [end 27 ⏭](#tp-27)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>7cd19179-c60e-4c13-9acb-c926b61c3126</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa2ae2e-ab0c-4691-a776-c05b727fb420</em><br>
-        <em><b>children:&nbsp;</b> aaa255a6-b1f6-4379-8447-eba6fbb3e99c</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>7cd19179-c60e-4c13-9acb-c926b61c3126<br><b>parent:&emsp;</b>aaa2ae2e-ab0c-4691-a776-c05b727fb420<br><b>children:&emsp;</b> aaa255a6-b1f6-4379-8447-eba6fbb3e99c</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 The models in the **cerebellum** are not general cognitive models like a "theory of why somebody is the way they are." Instead, the cerebellum specializes in creating and refining **predictive models** that are primarily procedural, focused on timing, coordination, and error correction. However, it does play a supporting role in higher cognitive processes through its interaction with other brain regions.
 
@@ -604,73 +443,50 @@ For example:
 ### **Conclusion**
 The cerebellum does not store or generate general cognitive theories but enhances reasoning by contributing precise, predictive, and adaptive mechanisms. Its role is to support broader cognitive systems by improving the accuracy and timing of predictions, whether in physical actions or abstract thought processes. The formulation of complex theories about human behavior or motivations is primarily the domain of the prefrontal cortex, with the cerebellum acting as a collaborator in dynamic, real-time adjustments.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 3](#tp-3) || [this 4](#tp-4) || [next 5 ▸](#tp-5) | [end 27 ⏭](#tp-27)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 452 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 3](#tp-3) || [this 4](#tp-4) || [next 5 ▸](#tp-5) | [end 27 ⏭](#tp-27)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-5'></a>
-## **Turnpair 5 of 27** ∷<br><sub><sub>@ 2024-11-25 05:54:30 Mon [𝜟t 0d 00h 02m 50s]</sub></sub>
+## **Conversation 092, Turnpair 5 of 27** ∷<br><sub><sub>@ 2024-11-25 05:54:30 Mon [𝜟t 0d 00h 02m 50s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>origin ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>created:&emsp;</b>2024-11-24 21:31:58 Sun<br><b>updated:&emsp;</b>2025-02-24 18:10:05 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa255a6-b1f6-4379-8447-eba6fbb3e99c</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>7cd19179-c60e-4c13-9acb-c926b61c3126</em><br>
-        <em><b>children:&nbsp;</b> fcd8f377-bc46-483a-a44d-04781a1f67ee</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa255a6-b1f6-4379-8447-eba6fbb3e99c<br><b>parent:&emsp;</b>7cd19179-c60e-4c13-9acb-c926b61c3126<br><b>children:&emsp;</b> fcd8f377-bc46-483a-a44d-04781a1f67ee</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 I have a model of reality called general piece dynamics that I internalized and use constantly for understanding the dynamics and behavior of stuff. How much of this is in my cerebellum?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 4](#tp-4) || [this 5](#tp-5) || [next 6 ▸](#tp-6) | [end 27 ⏭](#tp-27)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>fcd8f377-bc46-483a-a44d-04781a1f67ee</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa255a6-b1f6-4379-8447-eba6fbb3e99c</em><br>
-        <em><b>children:&nbsp;</b> aaa2d047-2fd6-439d-b997-3cde2b1a5125</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>fcd8f377-bc46-483a-a44d-04781a1f67ee<br><b>parent:&emsp;</b>aaa255a6-b1f6-4379-8447-eba6fbb3e99c<br><b>children:&emsp;</b> aaa2d047-2fd6-439d-b997-3cde2b1a5125</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 In your model of **General Piece Dynamics (GPD)**, which you use to understand the dynamics and behavior of reality, the cerebellum likely plays a **supporting and integrative role** rather than being the primary site of its representation. Here’s how your cerebellum contributes to the application of GPD, relative to other brain regions:
 
@@ -755,73 +571,50 @@ In percentage terms, **most of GPD resides in the prefrontal and parietal cortic
 
 Your cerebellum acts as a dynamic assistant to your higher-level reasoning processes, ensuring your GPD model operates smoothly and intuitively in real-time scenarios. While the cerebellum doesn’t "hold" the abstract structure of GPD, it is essential for fine-tuning and error correction, enabling you to apply GPD effectively in dynamic and practical contexts.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 4](#tp-4) || [this 5](#tp-5) || [next 6 ▸](#tp-6) | [end 27 ⏭](#tp-27)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 580 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 4](#tp-4) || [this 5](#tp-5) || [next 6 ▸](#tp-6) | [end 27 ⏭](#tp-27)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-6'></a>
-## **Turnpair 6 of 27** ∷<br><sub><sub>@ 2024-11-25 05:58:31 Mon [𝜟t 0d 00h 04m 00s]</sub></sub>
+## **Conversation 092, Turnpair 6 of 27** ∷<br><sub><sub>@ 2024-11-25 05:58:31 Mon [𝜟t 0d 00h 04m 00s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>origin ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>created:&emsp;</b>2024-11-24 21:31:58 Sun<br><b>updated:&emsp;</b>2025-02-24 18:10:05 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2d047-2fd6-439d-b997-3cde2b1a5125</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>fcd8f377-bc46-483a-a44d-04781a1f67ee</em><br>
-        <em><b>children:&nbsp;</b> 269f0fc2-a779-4e1d-abf3-94f708bd4b69</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2d047-2fd6-439d-b997-3cde2b1a5125<br><b>parent:&emsp;</b>fcd8f377-bc46-483a-a44d-04781a1f67ee<br><b>children:&emsp;</b> 269f0fc2-a779-4e1d-abf3-94f708bd4b69</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 how much does the cerebellum take part in the thing where 'the brain only processes information that violates its prediction in a moment'
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 5](#tp-5) || [this 6](#tp-6) || [next 7 ▸](#tp-7) | [end 27 ⏭](#tp-27)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>269f0fc2-a779-4e1d-abf3-94f708bd4b69</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa2d047-2fd6-439d-b997-3cde2b1a5125</em><br>
-        <em><b>children:&nbsp;</b> aaa28609-5b6f-4dd6-97eb-2c697393b64c</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>269f0fc2-a779-4e1d-abf3-94f708bd4b69<br><b>parent:&emsp;</b>aaa2d047-2fd6-439d-b997-3cde2b1a5125<br><b>children:&emsp;</b> aaa28609-5b6f-4dd6-97eb-2c697393b64c</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 The cerebellum plays a **significant role** in the brain's process of handling prediction violations, often referred to as **predictive coding** or **surprise minimization**. While the **cerebral cortex** (especially regions like the prefrontal and sensory cortices) handles the higher-order aspects of predictive coding, the cerebellum is crucial for real-time error detection and correction. Here’s how the cerebellum contributes:
 
@@ -895,73 +688,50 @@ In higher-level cognitive tasks, the cerebellum’s contribution is supportive r
 
 The cerebellum is a critical player in the brain's process of focusing on prediction violations. It acts as a **real-time filter** and **error-correction mechanism**, ensuring that only **unexpected information** reaches higher cognitive areas. While it doesn’t control the entire process of predictive coding, its role in optimizing predictions, detecting violations, and fine-tuning internal models is indispensable for efficient brain function. In tasks where predictions and corrections happen rapidly, the cerebellum’s role is dominant.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 5](#tp-5) || [this 6](#tp-6) || [next 7 ▸](#tp-7) | [end 27 ⏭](#tp-27)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 697 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 5](#tp-5) || [this 6](#tp-6) || [next 7 ▸](#tp-7) | [end 27 ⏭](#tp-27)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-7'></a>
-## **Turnpair 7 of 27** ∷<br><sub><sub>@ 2024-11-25 06:02:42 Mon [𝜟t 0d 00h 04m 09s]</sub></sub>
+## **Conversation 092, Turnpair 7 of 27** ∷<br><sub><sub>@ 2024-11-25 06:02:42 Mon [𝜟t 0d 00h 04m 09s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>origin ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>created:&emsp;</b>2024-11-24 21:31:58 Sun<br><b>updated:&emsp;</b>2025-02-24 18:10:05 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa28609-5b6f-4dd6-97eb-2c697393b64c</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>269f0fc2-a779-4e1d-abf3-94f708bd4b69</em><br>
-        <em><b>children:&nbsp;</b> 827ffd29-3be1-4d03-a705-c57454524b4a</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa28609-5b6f-4dd6-97eb-2c697393b64c<br><b>parent:&emsp;</b>269f0fc2-a779-4e1d-abf3-94f708bd4b69<br><b>children:&emsp;</b> 827ffd29-3be1-4d03-a705-c57454524b4a</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 but does this still apply to high level predictions, where after executing a plan over the course of months, I find a moment where I learn something did not happen even close to how I assumed it would, and I am caught off guard by my surprise? (but the learning is something highly abstract even)
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 6](#tp-6) || [this 7](#tp-7) || [next 8 ▸](#tp-8) | [end 27 ⏭](#tp-27)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>827ffd29-3be1-4d03-a705-c57454524b4a</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa28609-5b6f-4dd6-97eb-2c697393b64c</em><br>
-        <em><b>children:&nbsp;</b> aaa2bfd1-2d5b-47ea-9e9b-8c062e060cad</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>827ffd29-3be1-4d03-a705-c57454524b4a<br><b>parent:&emsp;</b>aaa28609-5b6f-4dd6-97eb-2c697393b64c<br><b>children:&emsp;</b> aaa2bfd1-2d5b-47ea-9e9b-8c062e060cad</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 Yes, the cerebellum's principles of prediction, error detection, and learning extend to high-level predictions, but its role shifts from being a direct processor to a **supporting and fine-tuning mechanism** for higher cognitive systems, like the **prefrontal cortex** and **hippocampus**, which handle the long-term, abstract aspects of such predictions.
 
@@ -1041,73 +811,50 @@ While the cerebellum’s role in high-level, abstract predictions is not as cent
 
 Thus, even when you’re caught off guard by a high-level abstract surprise, your cerebellum plays a key role in detecting the mismatch, facilitating recalibration, and ensuring that your revised understanding aligns with the broader dynamics of your reasoning.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 6](#tp-6) || [this 7](#tp-7) || [next 8 ▸](#tp-8) | [end 27 ⏭](#tp-27)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 820 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 6](#tp-6) || [this 7](#tp-7) || [next 8 ▸](#tp-8) | [end 27 ⏭](#tp-27)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-8'></a>
-## **Turnpair 8 of 27** ∷<br><sub><sub>@ 2024-11-25 06:06:35 Mon [𝜟t 0d 00h 03m 52s]</sub></sub>
+## **Conversation 092, Turnpair 8 of 27** ∷<br><sub><sub>@ 2024-11-25 06:06:35 Mon [𝜟t 0d 00h 03m 52s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>origin ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>created:&emsp;</b>2024-11-24 21:31:58 Sun<br><b>updated:&emsp;</b>2025-02-24 18:10:05 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2bfd1-2d5b-47ea-9e9b-8c062e060cad</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>827ffd29-3be1-4d03-a705-c57454524b4a</em><br>
-        <em><b>children:&nbsp;</b> 333e8b1e-d48f-4dfd-9382-789fb532ae27</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2bfd1-2d5b-47ea-9e9b-8c062e060cad<br><b>parent:&emsp;</b>827ffd29-3be1-4d03-a705-c57454524b4a<br><b>children:&emsp;</b> 333e8b1e-d48f-4dfd-9382-789fb532ae27</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 how much does the cerebellum contribute to the activity of estimating and mapping the 'blueprint' of multiple timelines for alternative routes and nesting steps that define a complex plan?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 7](#tp-7) || [this 8](#tp-8) || [next 9 ▸](#tp-9) | [end 27 ⏭](#tp-27)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>333e8b1e-d48f-4dfd-9382-789fb532ae27</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa2bfd1-2d5b-47ea-9e9b-8c062e060cad</em><br>
-        <em><b>children:&nbsp;</b> aaa2017a-d151-4d0a-868f-1717b16e3b7d</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>333e8b1e-d48f-4dfd-9382-789fb532ae27<br><b>parent:&emsp;</b>aaa2bfd1-2d5b-47ea-9e9b-8c062e060cad<br><b>children:&emsp;</b> aaa2017a-d151-4d0a-868f-1717b16e3b7d</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 The cerebellum contributes to **specific aspects** of estimating and mapping the "blueprint" of multiple timelines and nested steps for complex plans, but its role is primarily **supportive and complementary** to higher-level cortical areas like the **prefrontal cortex** and **parietal cortex**, which are central to abstract planning and scenario mapping.
 
@@ -1188,73 +935,50 @@ The cerebellum’s role is **indirect but essential**, contributing approximatel
 
 The cerebellum contributes significantly to the **execution-level details** of planning, ensuring that timelines are temporally coherent, nested steps are consistent, and alternative routes are logically simulated. While the **prefrontal cortex and parietal cortex** dominate the creation and abstraction of the plan, the cerebellum’s **real-time sequencing, refinement, and error correction** ensure the dynamic aspects of the blueprint are smooth and reliable.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 7](#tp-7) || [this 8](#tp-8) || [next 9 ▸](#tp-9) | [end 27 ⏭](#tp-27)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 944 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 7](#tp-7) || [this 8](#tp-8) || [next 9 ▸](#tp-9) | [end 27 ⏭](#tp-27)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-9'></a>
-## **Turnpair 9 of 27** ∷<br><sub><sub>@ 2024-11-25 06:10:21 Mon [𝜟t 0d 00h 03m 45s]</sub></sub>
+## **Conversation 092, Turnpair 9 of 27** ∷<br><sub><sub>@ 2024-11-25 06:10:21 Mon [𝜟t 0d 00h 03m 45s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>origin ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>created:&emsp;</b>2024-11-24 21:31:58 Sun<br><b>updated:&emsp;</b>2025-02-24 18:10:05 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2017a-d151-4d0a-868f-1717b16e3b7d</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>333e8b1e-d48f-4dfd-9382-789fb532ae27</em><br>
-        <em><b>children:&nbsp;</b> d1fe0d39-f21c-424c-9991-6feea3209135</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2017a-d151-4d0a-868f-1717b16e3b7d<br><b>parent:&emsp;</b>333e8b1e-d48f-4dfd-9382-789fb532ae27<br><b>children:&emsp;</b> d1fe0d39-f21c-424c-9991-6feea3209135</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 you also said the parietal cortex is "Crucial for spatial and temporal mapping, including visualizing nested steps and dependencies in the blueprint." this seems like a redundant function. How do the temporal mapping functions differ between cerebellum and parietal cortex?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 8](#tp-8) || [this 9](#tp-9) || [next 10 ▸](#tp-10) | [end 27 ⏭](#tp-27)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>d1fe0d39-f21c-424c-9991-6feea3209135</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa2017a-d151-4d0a-868f-1717b16e3b7d</em><br>
-        <em><b>children:&nbsp;</b> aaa210a1-f252-400c-b359-77acc80996d1</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>d1fe0d39-f21c-424c-9991-6feea3209135<br><b>parent:&emsp;</b>aaa2017a-d151-4d0a-868f-1717b16e3b7d<br><b>children:&emsp;</b> aaa210a1-f252-400c-b359-77acc80996d1</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 The **temporal mapping functions** of the **cerebellum** and **parietal cortex** are complementary rather than redundant. They serve distinct, though interconnected, roles in how the brain processes and represents time and sequences, particularly in the context of planning and execution.
 
@@ -1342,73 +1066,50 @@ Imagine organizing a multi-day conference:
 
 The **parietal cortex** handles **abstract, high-level temporal mapping**, focusing on large-scale organization, visualization, and dependencies. The **cerebellum**, on the other hand, ensures **precise, real-time timing** and **execution-level adjustments**. Together, they form a hierarchical system where the parietal cortex defines the blueprint, and the cerebellum ensures it runs smoothly and dynamically adapts to the realities of implementation.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 8](#tp-8) || [this 9](#tp-9) || [next 10 ▸](#tp-10) | [end 27 ⏭](#tp-27)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 1075 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 8](#tp-8) || [this 9](#tp-9) || [next 10 ▸](#tp-10) | [end 27 ⏭](#tp-27)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-10'></a>
-## **Turnpair 10 of 27** ∷<br><sub><sub>@ 2024-11-25 06:13:51 Mon [𝜟t 0d 00h 03m 28s]</sub></sub>
+## **Conversation 092, Turnpair 10 of 27** ∷<br><sub><sub>@ 2024-11-25 06:13:51 Mon [𝜟t 0d 00h 03m 28s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>origin ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>created:&emsp;</b>2024-11-24 21:31:58 Sun<br><b>updated:&emsp;</b>2025-02-24 18:10:05 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa210a1-f252-400c-b359-77acc80996d1</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>d1fe0d39-f21c-424c-9991-6feea3209135</em><br>
-        <em><b>children:&nbsp;</b> e824b5f4-b12c-423a-9533-d3ccc9f94968</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa210a1-f252-400c-b359-77acc80996d1<br><b>parent:&emsp;</b>d1fe0d39-f21c-424c-9991-6feea3209135<br><b>children:&emsp;</b> e824b5f4-b12c-423a-9533-d3ccc9f94968</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 how many times does activation spreading pass back and forth across the corpus collosum when left and right brain neocortical activations are processing a single thought or concept?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 9](#tp-9) || [this 10](#tp-10) || [next 11 ▸](#tp-11) | [end 27 ⏭](#tp-27)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>e824b5f4-b12c-423a-9533-d3ccc9f94968</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa210a1-f252-400c-b359-77acc80996d1</em><br>
-        <em><b>children:&nbsp;</b> aaa2f567-2343-4b98-b0e3-7d6268ae8e8f</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>e824b5f4-b12c-423a-9533-d3ccc9f94968<br><b>parent:&emsp;</b>aaa210a1-f252-400c-b359-77acc80996d1<br><b>children:&emsp;</b> aaa2f567-2343-4b98-b0e3-7d6268ae8e8f</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 The number of times **activation spreads across the corpus callosum** when the left and right hemispheres process a single thought or concept is not a fixed value and depends on several factors, including the complexity of the thought, the nature of the concept, and the specific areas of the neocortex involved. However, we can break this down into key aspects to provide a general understanding:
 
@@ -1471,73 +1172,50 @@ For a single thought or concept:
 - In complex, integrative thought processes, **dozens to hundreds of back-and-forth exchanges** may occur per second as the hemispheres collaborate dynamically.
 - The actual number of exchanges depends on the complexity of the concept and the hemispheric balance of the task.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 9](#tp-9) || [this 10](#tp-10) || [next 11 ▸](#tp-11) | [end 27 ⏭](#tp-27)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 1181 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 9](#tp-9) || [this 10](#tp-10) || [next 11 ▸](#tp-11) | [end 27 ⏭](#tp-27)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-11'></a>
-## **Turnpair 11 of 27** ∷<br><sub><sub>@ 2024-11-25 06:16:46 Mon [𝜟t 0d 00h 02m 54s]</sub></sub>
+## **Conversation 092, Turnpair 11 of 27** ∷<br><sub><sub>@ 2024-11-25 06:16:46 Mon [𝜟t 0d 00h 02m 54s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>origin ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>created:&emsp;</b>2024-11-24 21:31:58 Sun<br><b>updated:&emsp;</b>2025-02-24 18:10:05 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2f567-2343-4b98-b0e3-7d6268ae8e8f</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>e824b5f4-b12c-423a-9533-d3ccc9f94968</em><br>
-        <em><b>children:&nbsp;</b> 6aa81741-8176-459d-a739-5af5f9822811</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2f567-2343-4b98-b0e3-7d6268ae8e8f<br><b>parent:&emsp;</b>e824b5f4-b12c-423a-9533-d3ccc9f94968<br><b>children:&emsp;</b> 6aa81741-8176-459d-a739-5af5f9822811</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 when in default mode, how much exchange is there between hemispheres?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 10](#tp-10) || [this 11](#tp-11) || [next 12 ▸](#tp-12) | [end 27 ⏭](#tp-27)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>6aa81741-8176-459d-a739-5af5f9822811</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa2f567-2343-4b98-b0e3-7d6268ae8e8f</em><br>
-        <em><b>children:&nbsp;</b> aaa2ed34-aa05-4fac-966a-6056cdb71cb8</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>6aa81741-8176-459d-a739-5af5f9822811<br><b>parent:&emsp;</b>aaa2f567-2343-4b98-b0e3-7d6268ae8e8f<br><b>children:&emsp;</b> aaa2ed34-aa05-4fac-966a-6056cdb71cb8</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 In the **default mode network (DMN)**, the exchange of information between hemispheres via the **corpus callosum** is moderate to high but varies depending on the state of the brain, individual differences, and the level of focus on internally directed thought processes. The DMN is active during **resting states**, such as daydreaming, introspection, or when the mind is wandering, and it supports self-referential thinking, memory retrieval, and scenario simulation.
 
@@ -1603,73 +1281,50 @@ In the **default mode network (DMN)**, the exchange of information between hemis
 ### **Summary**
 In the **default mode state**, interhemispheric exchange is moderate, supporting internal, self-directed processes like daydreaming, introspection, and memory integration. The frequency of exchange is lower than in task-focused states but still significant, especially during complex or self-referential thought. **Simple resting states** may involve only a few dozen exchanges per second, while **active introspection** could involve hundreds of exchanges per second, depending on the level of cognitive engagement.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 10](#tp-10) || [this 11](#tp-11) || [next 12 ▸](#tp-12) | [end 27 ⏭](#tp-27)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 1290 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 10](#tp-10) || [this 11](#tp-11) || [next 12 ▸](#tp-12) | [end 27 ⏭](#tp-27)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-12'></a>
-## **Turnpair 12 of 27** ∷<br><sub><sub>@ 2024-11-25 06:19:05 Mon [𝜟t 0d 00h 02m 18s]</sub></sub>
+## **Conversation 092, Turnpair 12 of 27** ∷<br><sub><sub>@ 2024-11-25 06:19:05 Mon [𝜟t 0d 00h 02m 18s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>origin ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>created:&emsp;</b>2024-11-24 21:31:58 Sun<br><b>updated:&emsp;</b>2025-02-24 18:10:05 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2ed34-aa05-4fac-966a-6056cdb71cb8</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>6aa81741-8176-459d-a739-5af5f9822811</em><br>
-        <em><b>children:&nbsp;</b> 25cdeb12-a2c9-45da-9017-2fbd8bca7b6d</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2ed34-aa05-4fac-966a-6056cdb71cb8<br><b>parent:&emsp;</b>6aa81741-8176-459d-a739-5af5f9822811<br><b>children:&emsp;</b> 25cdeb12-a2c9-45da-9017-2fbd8bca7b6d</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 you said the right hemisphere is responsible for reconstructing memories. what about the left hemisphere, which corresponds to the left hippocampus containing fact/knowledge based memories?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 11](#tp-11) || [this 12](#tp-12) || [next 13 ▸](#tp-13) | [end 27 ⏭](#tp-27)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>25cdeb12-a2c9-45da-9017-2fbd8bca7b6d</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa2ed34-aa05-4fac-966a-6056cdb71cb8</em><br>
-        <em><b>children:&nbsp;</b> aaa2f8c2-cbfe-41cf-9416-77c651c16f5d</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>25cdeb12-a2c9-45da-9017-2fbd8bca7b6d<br><b>parent:&emsp;</b>aaa2ed34-aa05-4fac-966a-6056cdb71cb8<br><b>children:&emsp;</b> aaa2f8c2-cbfe-41cf-9416-77c651c16f5d</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 You're absolutely right: the **left hemisphere**, particularly the **left hippocampus**, is crucial for **fact- and knowledge-based memory**, often referred to as **semantic memory**. The left hemisphere and the right hemisphere **specialize in different aspects of memory** processing, and they collaborate through interhemispheric communication to produce a coherent recall of past experiences. Let’s clarify the roles of each hemisphere in memory reconstruction and processing.
 
@@ -1750,73 +1405,50 @@ When reconstructing a memory, both hemispheres work together:
 - **Left Hemisphere (Left Hippocampus)**: Specializes in **semantic memory**, handling fact-based, knowledge-driven, and language-oriented recall.
 - Together, they reconstruct memories as a blend of **contextual richness** and **factual accuracy**, with interhemispheric communication via the **corpus callosum** ensuring seamless integration of these elements.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 11](#tp-11) || [this 12](#tp-12) || [next 13 ▸](#tp-13) | [end 27 ⏭](#tp-27)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 1414 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 11](#tp-11) || [this 12](#tp-12) || [next 13 ▸](#tp-13) | [end 27 ⏭](#tp-27)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-13'></a>
-## **Turnpair 13 of 27** ∷<br><sub><sub>@ 2024-11-25 06:20:59 Mon [𝜟t 0d 00h 01m 54s]</sub></sub>
+## **Conversation 092, Turnpair 13 of 27** ∷<br><sub><sub>@ 2024-11-25 06:20:59 Mon [𝜟t 0d 00h 01m 54s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>origin ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>created:&emsp;</b>2024-11-24 21:31:58 Sun<br><b>updated:&emsp;</b>2025-02-24 18:10:05 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2f8c2-cbfe-41cf-9416-77c651c16f5d</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>25cdeb12-a2c9-45da-9017-2fbd8bca7b6d</em><br>
-        <em><b>children:&nbsp;</b> 5e1eb282-9a76-4fa1-b8e3-ac5a87bc1804</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2f8c2-cbfe-41cf-9416-77c651c16f5d<br><b>parent:&emsp;</b>25cdeb12-a2c9-45da-9017-2fbd8bca7b6d<br><b>children:&emsp;</b> 5e1eb282-9a76-4fa1-b8e3-ac5a87bc1804</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 does the right hemisphere neocortex ever draw directly from the left hemisphere hippocampus?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 12](#tp-12) || [this 13](#tp-13) || [next 14 ▸](#tp-14) | [end 27 ⏭](#tp-27)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>5e1eb282-9a76-4fa1-b8e3-ac5a87bc1804</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa2f8c2-cbfe-41cf-9416-77c651c16f5d</em><br>
-        <em><b>children:&nbsp;</b> aaa2388d-4bdf-4298-8ee6-892fb73ab297</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>5e1eb282-9a76-4fa1-b8e3-ac5a87bc1804<br><b>parent:&emsp;</b>aaa2f8c2-cbfe-41cf-9416-77c651c16f5d<br><b>children:&emsp;</b> aaa2388d-4bdf-4298-8ee6-892fb73ab297</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 The **right hemisphere neocortex** can access information from the **left hemisphere hippocampus**, but this access is typically **indirect** and mediated by interhemispheric communication through the **corpus callosum**. The hemispheres are highly interconnected, and while each hemisphere specializes in different aspects of memory and processing, they collaborate to construct coherent experiences and recall.
 
@@ -1873,73 +1505,50 @@ Not **directly** in the sense of a unilateral link. Instead:
 ### **Summary**
 The **right hemisphere neocortex** does not typically draw **directly** from the **left hippocampus**, but it collaborates with the left hemisphere through the **corpus callosum**. This indirect communication ensures that information from the left hippocampus, such as facts or knowledge, can be integrated with the right hemisphere’s strengths in contextual and spatial reasoning. This dynamic interhemispheric coordination allows for the seamless integration of memory, thought, and problem-solving.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 12](#tp-12) || [this 13](#tp-13) || [next 14 ▸](#tp-14) | [end 27 ⏭](#tp-27)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 1514 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 12](#tp-12) || [this 13](#tp-13) || [next 14 ▸](#tp-14) | [end 27 ⏭](#tp-27)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-14'></a>
-## **Turnpair 14 of 27** ∷<br><sub><sub>@ 2024-11-25 06:22:54 Mon [𝜟t 0d 00h 01m 54s]</sub></sub>
+## **Conversation 092, Turnpair 14 of 27** ∷<br><sub><sub>@ 2024-11-25 06:22:54 Mon [𝜟t 0d 00h 01m 54s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>origin ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>created:&emsp;</b>2024-11-24 21:31:58 Sun<br><b>updated:&emsp;</b>2025-02-24 18:10:05 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2388d-4bdf-4298-8ee6-892fb73ab297</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>5e1eb282-9a76-4fa1-b8e3-ac5a87bc1804</em><br>
-        <em><b>children:&nbsp;</b> 38282875-2343-4a5d-9e9c-001163fb8369</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2388d-4bdf-4298-8ee6-892fb73ab297<br><b>parent:&emsp;</b>5e1eb282-9a76-4fa1-b8e3-ac5a87bc1804<br><b>children:&emsp;</b> 38282875-2343-4a5d-9e9c-001163fb8369</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 do the hippocampus sides route directly to the opposite hemisphere's neocortex? as in, does the right neocortex need to receive information from the left hippocampus via a 'reflection' off the left neocortex first?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 13](#tp-13) || [this 14](#tp-14) || [next 15 ▸](#tp-15) | [end 27 ⏭](#tp-27)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>38282875-2343-4a5d-9e9c-001163fb8369</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa2388d-4bdf-4298-8ee6-892fb73ab297</em><br>
-        <em><b>children:&nbsp;</b> aaa214b4-3993-4202-9446-c0066cbc5a2b</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>38282875-2343-4a5d-9e9c-001163fb8369<br><b>parent:&emsp;</b>aaa2388d-4bdf-4298-8ee6-892fb73ab297<br><b>children:&emsp;</b> aaa214b4-3993-4202-9446-c0066cbc5a2b</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 No, the **hippocampi** do not route directly to the opposite hemisphere's neocortex. Instead, information transfer between the hippocampus of one hemisphere and the neocortex of the opposite hemisphere relies on **indirect communication** via **interhemispheric pathways**, primarily through the **corpus callosum** and other commissural connections (e.g., anterior commissure).
 
@@ -1989,73 +1598,50 @@ No, the **hippocampi** do not route directly to the opposite hemisphere's neocor
 
 This architecture ensures efficient communication and integration of memory, context, and cognitive processes across hemispheres.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 13](#tp-13) || [this 14](#tp-14) || [next 15 ▸](#tp-15) | [end 27 ⏭](#tp-27)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 1607 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 13](#tp-13) || [this 14](#tp-14) || [next 15 ▸](#tp-15) | [end 27 ⏭](#tp-27)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-15'></a>
-## **Turnpair 15 of 27** ∷<br><sub><sub>@ 2024-11-25 06:24:18 Mon [𝜟t 0d 00h 01m 23s]</sub></sub>
+## **Conversation 092, Turnpair 15 of 27** ∷<br><sub><sub>@ 2024-11-25 06:24:18 Mon [𝜟t 0d 00h 01m 23s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>origin ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>created:&emsp;</b>2024-11-24 21:31:58 Sun<br><b>updated:&emsp;</b>2025-02-24 18:10:05 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa214b4-3993-4202-9446-c0066cbc5a2b</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>38282875-2343-4a5d-9e9c-001163fb8369</em><br>
-        <em><b>children:&nbsp;</b> a90ad7b2-1a30-4d68-bb0d-14a4d1328196</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa214b4-3993-4202-9446-c0066cbc5a2b<br><b>parent:&emsp;</b>38282875-2343-4a5d-9e9c-001163fb8369<br><b>children:&emsp;</b> a90ad7b2-1a30-4d68-bb0d-14a4d1328196</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 is imagination constructed in exactly the same way are memory reconstruction?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 14](#tp-14) || [this 15](#tp-15) || [next 16 ▸](#tp-16) | [end 27 ⏭](#tp-27)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>a90ad7b2-1a30-4d68-bb0d-14a4d1328196</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa214b4-3993-4202-9446-c0066cbc5a2b</em><br>
-        <em><b>children:&nbsp;</b> aaa257eb-588d-4ed6-9ecd-fe21383557a0</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>a90ad7b2-1a30-4d68-bb0d-14a4d1328196<br><b>parent:&emsp;</b>aaa214b4-3993-4202-9446-c0066cbc5a2b<br><b>children:&emsp;</b> aaa257eb-588d-4ed6-9ecd-fe21383557a0</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 **Imagination** and **memory reconstruction** share many overlapping neural mechanisms and pathways, but they are not constructed in exactly the same way. While both rely on a network of brain regions for accessing and assembling information, their goals, processes, and specific neural dynamics differ in key ways.
 
@@ -2150,73 +1736,50 @@ Imagination and memory reconstruction share overlapping neural systems and proce
 
 While the **hippocampus** and **default mode network** are central to both, **imagination** leverages more cognitive flexibility and engages the prefrontal cortex more heavily to explore possibilities beyond stored reality.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 14](#tp-14) || [this 15](#tp-15) || [next 16 ▸](#tp-16) | [end 27 ⏭](#tp-27)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 1745 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 14](#tp-14) || [this 15](#tp-15) || [next 16 ▸](#tp-16) | [end 27 ⏭](#tp-27)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-16'></a>
-## **Turnpair 16 of 27** ∷<br><sub><sub>@ 2024-11-25 06:26:48 Mon [𝜟t 0d 00h 02m 29s]</sub></sub>
+## **Conversation 092, Turnpair 16 of 27** ∷<br><sub><sub>@ 2024-11-25 06:26:48 Mon [𝜟t 0d 00h 02m 29s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>origin ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>created:&emsp;</b>2024-11-24 21:31:58 Sun<br><b>updated:&emsp;</b>2025-02-24 18:10:05 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa257eb-588d-4ed6-9ecd-fe21383557a0</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>a90ad7b2-1a30-4d68-bb0d-14a4d1328196</em><br>
-        <em><b>children:&nbsp;</b> 2ac50145-ab5c-46fd-8ffd-cd9d202b47fd</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa257eb-588d-4ed6-9ecd-fe21383557a0<br><b>parent:&emsp;</b>a90ad7b2-1a30-4d68-bb0d-14a4d1328196<br><b>children:&emsp;</b> 2ac50145-ab5c-46fd-8ffd-cd9d202b47fd</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 how much of memory reconstruction is actually imagined, or a 'filled in detail' that is not actually a memory?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 15](#tp-15) || [this 16](#tp-16) || [next 17 ▸](#tp-17) | [end 27 ⏭](#tp-27)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>2ac50145-ab5c-46fd-8ffd-cd9d202b47fd</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa257eb-588d-4ed6-9ecd-fe21383557a0</em><br>
-        <em><b>children:&nbsp;</b> aaa2e335-f7f2-4eaa-8c11-5e20570b6f8d</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>2ac50145-ab5c-46fd-8ffd-cd9d202b47fd<br><b>parent:&emsp;</b>aaa257eb-588d-4ed6-9ecd-fe21383557a0<br><b>children:&emsp;</b> aaa2e335-f7f2-4eaa-8c11-5e20570b6f8d</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 A significant portion of **memory reconstruction** involves **imagination or "filled-in details"** that are not direct, accurate representations of past experiences. The brain reconstructs memories rather than retrieving them like a video recording. This process involves blending **actual stored details** with **inferences, assumptions, and new information** to create a coherent narrative. 
 
@@ -2303,73 +1866,50 @@ Research suggests that **memory is highly reconstructive**, and the proportion o
 ### **Summary**
 A **significant portion of memory reconstruction is imagined or inferred**, with studies suggesting that up to **30-50%** of episodic memory details may be reconstructed rather than directly retrieved. This occurs because memory relies on fragmentary retrieval processes, schemas, and imagination to create coherent narratives. While this makes memory fallible, it also highlights the brain’s flexibility in adapting past experiences to current needs and contexts.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 15](#tp-15) || [this 16](#tp-16) || [next 17 ▸](#tp-17) | [end 27 ⏭](#tp-27)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 1875 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 15](#tp-15) || [this 16](#tp-16) || [next 17 ▸](#tp-17) | [end 27 ⏭](#tp-27)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-17'></a>
-## **Turnpair 17 of 27** ∷<br><sub><sub>@ 2024-11-25 06:29:26 Mon [𝜟t 0d 00h 02m 38s]</sub></sub>
+## **Conversation 092, Turnpair 17 of 27** ∷<br><sub><sub>@ 2024-11-25 06:29:26 Mon [𝜟t 0d 00h 02m 38s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>origin ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>created:&emsp;</b>2024-11-24 21:31:58 Sun<br><b>updated:&emsp;</b>2025-02-24 18:10:05 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2e335-f7f2-4eaa-8c11-5e20570b6f8d</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>2ac50145-ab5c-46fd-8ffd-cd9d202b47fd</em><br>
-        <em><b>children:&nbsp;</b> 36b88a27-5452-41b8-8ae9-d8e556a2a0a7</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2e335-f7f2-4eaa-8c11-5e20570b6f8d<br><b>parent:&emsp;</b>2ac50145-ab5c-46fd-8ffd-cd9d202b47fd<br><b>children:&emsp;</b> 36b88a27-5452-41b8-8ae9-d8e556a2a0a7</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 how does the singular sense of self identity work?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 16](#tp-16) || [this 17](#tp-17) || [next 18 ▸](#tp-18) | [end 27 ⏭](#tp-27)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>36b88a27-5452-41b8-8ae9-d8e556a2a0a7</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa2e335-f7f2-4eaa-8c11-5e20570b6f8d</em><br>
-        <em><b>children:&nbsp;</b> aaa26330-3b52-4e8f-afa1-f708eeb1986a</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>36b88a27-5452-41b8-8ae9-d8e556a2a0a7<br><b>parent:&emsp;</b>aaa2e335-f7f2-4eaa-8c11-5e20570b6f8d<br><b>children:&emsp;</b> aaa26330-3b52-4e8f-afa1-f708eeb1986a</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 The **singular sense of self-identity** arises from the brain's ability to integrate diverse neural, cognitive, and sensory processes into a cohesive and unified experience. It reflects a continuous, subjective sense of being the same "self" across time, despite the dynamic and distributed nature of brain activity. This unified self emerges from the interaction of several key brain networks and mechanisms, which work together to bind past experiences, present awareness, and future intentions into a coherent whole.
 
@@ -2460,73 +2000,50 @@ Certain conditions illustrate how fragile and constructed the singular sense of 
 ### **Conclusion**
 The **singular sense of self-identity** arises from the brain's remarkable ability to **integrate distributed neural processes** into a cohesive experience. It binds memories, emotions, interoceptive signals, and intentions into a narrative that feels continuous and unified. This is not the result of a single brain region but the dynamic interplay of networks like the **default mode network**, the **salience network**, and the **central executive network**, all working together to create the profound, subjective sense of "I am me."
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 16](#tp-16) || [this 17](#tp-17) || [next 18 ▸](#tp-18) | [end 27 ⏭](#tp-27)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 2009 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 16](#tp-16) || [this 17](#tp-17) || [next 18 ▸](#tp-18) | [end 27 ⏭](#tp-27)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-18'></a>
-## **Turnpair 18 of 27** ∷<br><sub><sub>@ 2024-11-25 06:32:32 Mon [𝜟t 0d 00h 03m 04s]</sub></sub>
+## **Conversation 092, Turnpair 18 of 27** ∷<br><sub><sub>@ 2024-11-25 06:32:32 Mon [𝜟t 0d 00h 03m 04s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>origin ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>created:&emsp;</b>2024-11-24 21:31:58 Sun<br><b>updated:&emsp;</b>2025-02-24 18:10:05 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa26330-3b52-4e8f-afa1-f708eeb1986a</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>36b88a27-5452-41b8-8ae9-d8e556a2a0a7</em><br>
-        <em><b>children:&nbsp;</b> b7bbc171-85d9-455b-b365-fa5710d19abb</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa26330-3b52-4e8f-afa1-f708eeb1986a<br><b>parent:&emsp;</b>36b88a27-5452-41b8-8ae9-d8e556a2a0a7<br><b>children:&emsp;</b> b7bbc171-85d9-455b-b365-fa5710d19abb</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 What is The brain generates internal predictions about actions (efference copies)
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 17](#tp-17) || [this 18](#tp-18) || [next 19 ▸](#tp-19) | [end 27 ⏭](#tp-27)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>b7bbc171-85d9-455b-b365-fa5710d19abb</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa26330-3b52-4e8f-afa1-f708eeb1986a</em><br>
-        <em><b>children:&nbsp;</b> aaa2b7af-7e7f-4baf-9a9e-7a5b7ffa3df7</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>b7bbc171-85d9-455b-b365-fa5710d19abb<br><b>parent:&emsp;</b>aaa26330-3b52-4e8f-afa1-f708eeb1986a<br><b>children:&emsp;</b> aaa2b7af-7e7f-4baf-9a9e-7a5b7ffa3df7</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 **Efference copies** are internal signals generated by the brain to predict the sensory consequences of self-generated actions. This mechanism allows the brain to distinguish between actions that result from internal intentions (e.g., moving your own hand) and external events (e.g., someone else moving your hand). Efference copies play a critical role in maintaining a coherent sense of agency and understanding the relationship between actions and their effects.
 
@@ -2617,73 +2134,50 @@ What is The brain generates internal predictions about actions (efference copies
 ### **Conclusion**
 Efference copies are a fundamental mechanism that allow the brain to predict the outcomes of self-initiated actions and compare them with actual sensory feedback. This process is essential for distinguishing self from external events, maintaining a sense of agency, and ensuring smooth, coordinated movements. It highlights the brain’s predictive nature and its reliance on internal models to navigate and interpret the world.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 17](#tp-17) || [this 18](#tp-18) || [next 19 ▸](#tp-19) | [end 27 ⏭](#tp-27)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 2143 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 17](#tp-17) || [this 18](#tp-18) || [next 19 ▸](#tp-19) | [end 27 ⏭](#tp-27)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-19'></a>
-## **Turnpair 19 of 27** ∷<br><sub><sub>@ 2024-11-25 06:35:56 Mon [𝜟t 0d 00h 03m 23s]</sub></sub>
+## **Conversation 092, Turnpair 19 of 27** ∷<br><sub><sub>@ 2024-11-25 06:35:56 Mon [𝜟t 0d 00h 03m 23s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>origin ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>created:&emsp;</b>2024-11-24 21:31:58 Sun<br><b>updated:&emsp;</b>2025-02-24 18:10:05 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2b7af-7e7f-4baf-9a9e-7a5b7ffa3df7</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>b7bbc171-85d9-455b-b365-fa5710d19abb</em><br>
-        <em><b>children:&nbsp;</b> 4b868095-f4fd-4ae2-8e90-e88fa1036c0f</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2b7af-7e7f-4baf-9a9e-7a5b7ffa3df7<br><b>parent:&emsp;</b>b7bbc171-85d9-455b-b365-fa5710d19abb<br><b>children:&emsp;</b> 4b868095-f4fd-4ae2-8e90-e88fa1036c0f</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 where are efference copies 'stored'?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 18](#tp-18) || [this 19](#tp-19) || [next 20 ▸](#tp-20) | [end 27 ⏭](#tp-27)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>4b868095-f4fd-4ae2-8e90-e88fa1036c0f</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa2b7af-7e7f-4baf-9a9e-7a5b7ffa3df7</em><br>
-        <em><b>children:&nbsp;</b> aaa219a3-5e93-4ec7-9d34-5536e669e3ff</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>4b868095-f4fd-4ae2-8e90-e88fa1036c0f<br><b>parent:&emsp;</b>aaa2b7af-7e7f-4baf-9a9e-7a5b7ffa3df7<br><b>children:&emsp;</b> aaa219a3-5e93-4ec7-9d34-5536e669e3ff</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 **Efference copies** are not stored in the traditional sense like memories; instead, they are **generated transiently and dynamically** as part of the brain’s real-time processing of motor commands and predictions. These copies are created and used **on-the-fly** within specific neural circuits that handle motor planning, sensory prediction, and error correction. Once their purpose (e.g., comparing predicted vs. actual sensory outcomes) is fulfilled, they are discarded.
 
@@ -2737,73 +2231,50 @@ The **"storage"** of the capacity to generate efference copies lies in the **cir
    - Represent long-term knowledge about the relationships between actions and their outcomes.
    - Maintained primarily in the **cerebellum
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 18](#tp-18) || [this 19](#tp-19) || [next 20 ▸](#tp-20) | [end 27 ⏭](#tp-27)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 2240 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 18](#tp-18) || [this 19](#tp-19) || [next 20 ▸](#tp-20) | [end 27 ⏭](#tp-27)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-20'></a>
-## **Turnpair 20 of 27** ∷<br><sub><sub>@ 2024-11-25 06:38:08 Mon [𝜟t 0d 00h 02m 11s]</sub></sub>
+## **Conversation 092, Turnpair 20 of 27** ∷<br><sub><sub>@ 2024-11-25 06:38:08 Mon [𝜟t 0d 00h 02m 11s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>origin ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>created:&emsp;</b>2024-11-24 21:31:58 Sun<br><b>updated:&emsp;</b>2025-02-24 18:10:05 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa219a3-5e93-4ec7-9d34-5536e669e3ff</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>4b868095-f4fd-4ae2-8e90-e88fa1036c0f</em><br>
-        <em><b>children:&nbsp;</b> c0a4ab46-32b7-4a88-becf-29a67ff150c1</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa219a3-5e93-4ec7-9d34-5536e669e3ff<br><b>parent:&emsp;</b>4b868095-f4fd-4ae2-8e90-e88fa1036c0f<br><b>children:&emsp;</b> c0a4ab46-32b7-4a88-becf-29a67ff150c1</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 is my cerebellum responsible for the thing that happens when I try to communicate something but the words come out funny and I think 'no, that didn't sound right' or I modulate my voice differently because the tone does not sound how I like it?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 19](#tp-19) || [this 20](#tp-20) || [next 21 ▸](#tp-21) | [end 27 ⏭](#tp-27)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>c0a4ab46-32b7-4a88-becf-29a67ff150c1</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa219a3-5e93-4ec7-9d34-5536e669e3ff</em><br>
-        <em><b>children:&nbsp;</b> aaa27f96-3e7b-4aa7-b406-619bc7ab091b</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>c0a4ab46-32b7-4a88-becf-29a67ff150c1<br><b>parent:&emsp;</b>aaa219a3-5e93-4ec7-9d34-5536e669e3ff<br><b>children:&emsp;</b> aaa27f96-3e7b-4aa7-b406-619bc7ab091b</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 Yes, your **cerebellum** plays a significant role in the processes underlying that experience. Specifically, it contributes to the **real-time monitoring and fine-tuning** of speech and voice production, including detecting when something "doesn’t sound right" and modulating tone or articulation.
 
@@ -2869,73 +2340,50 @@ If the cerebellum is impaired, it can lead to difficulties in monitoring and cor
 ### **Summary**
 Your **cerebellum** is indeed responsible for much of the real-time monitoring and fine-tuning of speech. It helps detect mismatches between what you intended to say and how it actually sounds, and it facilitates adjustments to articulation, tone, and timing to align your output with your intent. This dynamic process ensures effective communication and reflects the cerebellum’s broader role in error correction and coordination in motor tasks.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 19](#tp-19) || [this 20](#tp-20) || [next 21 ▸](#tp-21) | [end 27 ⏭](#tp-27)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 2349 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 19](#tp-19) || [this 20](#tp-20) || [next 21 ▸](#tp-21) | [end 27 ⏭](#tp-27)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-21'></a>
-## **Turnpair 21 of 27** ∷<br><sub><sub>@ 2024-11-25 07:40:45 Mon [𝜟t 0d 01h 02m 36s]</sub></sub>
+## **Conversation 092, Turnpair 21 of 27** ∷<br><sub><sub>@ 2024-11-25 07:40:45 Mon [𝜟t 0d 01h 02m 36s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>origin ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>created:&emsp;</b>2024-11-24 21:31:58 Sun<br><b>updated:&emsp;</b>2025-02-24 18:10:05 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa27f96-3e7b-4aa7-b406-619bc7ab091b</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>c0a4ab46-32b7-4a88-becf-29a67ff150c1</em><br>
-        <em><b>children:&nbsp;</b> ec272ea3-7eae-48b9-99e0-c3e01fd962f7</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa27f96-3e7b-4aa7-b406-619bc7ab091b<br><b>parent:&emsp;</b>c0a4ab46-32b7-4a88-becf-29a67ff150c1<br><b>children:&emsp;</b> ec272ea3-7eae-48b9-99e0-c3e01fd962f7</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 who coined the term AGI, artificial general intelligence?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 20](#tp-20) || [this 21](#tp-21) || [next 22 ▸](#tp-22) | [end 27 ⏭](#tp-27)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>ec272ea3-7eae-48b9-99e0-c3e01fd962f7</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa27f96-3e7b-4aa7-b406-619bc7ab091b</em><br>
-        <em><b>children:&nbsp;</b> aaa2cd24-8ef4-45fe-8679-a03a3d4ff332</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>ec272ea3-7eae-48b9-99e0-c3e01fd962f7<br><b>parent:&emsp;</b>aaa27f96-3e7b-4aa7-b406-619bc7ab091b<br><b>children:&emsp;</b> aaa2cd24-8ef4-45fe-8679-a03a3d4ff332</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 The term **Artificial General Intelligence (AGI)** is widely attributed to **Shane Legg** and **Ben Goertzel**, who used it to describe an advanced form of AI with the ability to understand, learn, and apply intelligence broadly across domains, much like a human. While the idea of a general-purpose AI predates the term, these researchers helped formalize and popularize it.
 
@@ -2958,73 +2406,50 @@ Before the term "AGI" was coined, researchers discussed similar ideas using term
 
 While these earlier terms influenced the development of AGI, **Goertzel and Legg** were instrumental in formalizing the modern use of the term.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 20](#tp-20) || [this 21](#tp-21) || [next 22 ▸](#tp-22) | [end 27 ⏭](#tp-27)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 2415 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 20](#tp-20) || [this 21](#tp-21) || [next 22 ▸](#tp-22) | [end 27 ⏭](#tp-27)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-22'></a>
-## **Turnpair 22 of 27** ∷<br><sub><sub>@ 2024-11-25 07:41:23 Mon [𝜟t 0d 00h 00m 37s]</sub></sub>
+## **Conversation 092, Turnpair 22 of 27** ∷<br><sub><sub>@ 2024-11-25 07:41:23 Mon [𝜟t 0d 00h 00m 37s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>origin ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>created:&emsp;</b>2024-11-24 21:31:58 Sun<br><b>updated:&emsp;</b>2025-02-24 18:10:05 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2cd24-8ef4-45fe-8679-a03a3d4ff332</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>ec272ea3-7eae-48b9-99e0-c3e01fd962f7</em><br>
-        <em><b>children:&nbsp;</b> fb8b48b3-d5eb-49eb-925d-7e859cc596bb</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2cd24-8ef4-45fe-8679-a03a3d4ff332<br><b>parent:&emsp;</b>ec272ea3-7eae-48b9-99e0-c3e01fd962f7<br><b>children:&emsp;</b> fb8b48b3-d5eb-49eb-925d-7e859cc596bb</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 not peter voss?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 21](#tp-21) || [this 22](#tp-22) || [next 23 ▸](#tp-23) | [end 27 ⏭](#tp-27)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>fb8b48b3-d5eb-49eb-925d-7e859cc596bb</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa2cd24-8ef4-45fe-8679-a03a3d4ff332</em><br>
-        <em><b>children:&nbsp;</b> aaa272f9-a69c-47da-a66b-7a2d78dc766d</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>fb8b48b3-d5eb-49eb-925d-7e859cc596bb<br><b>parent:&emsp;</b>aaa2cd24-8ef4-45fe-8679-a03a3d4ff332<br><b>children:&emsp;</b> aaa272f9-a69c-47da-a66b-7a2d78dc766d</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 You’re absolutely right to bring up **Peter Voss**, as he is another key figure associated with the term **Artificial General Intelligence (AGI)**. In fact, **Peter Voss** claims to have coined the term **AGI** in the early 2000s, around 2001, independently of other researchers. He used it to emphasize the distinction between narrow, task-specific AI and a more human-like, flexible intelligence capable of general reasoning across diverse domains.
 
@@ -3051,73 +2476,50 @@ While **Peter Voss** is often credited with introducing the specific term **AGI*
 ### **Conclusion**
 It’s fair to say that **Peter Voss** is one of the key figures who **coined and promoted the term AGI**, alongside **Ben Goertzel** and others. While Voss might have been the first to explicitly use the term, the concept and its development have been a collective effort involving multiple researchers and thinkers.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 21](#tp-21) || [this 22](#tp-22) || [next 23 ▸](#tp-23) | [end 27 ⏭](#tp-27)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 2485 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 21](#tp-21) || [this 22](#tp-22) || [next 23 ▸](#tp-23) | [end 27 ⏭](#tp-27)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-23'></a>
-## **Turnpair 23 of 27** ∷<br><sub><sub>@ 2024-11-25 07:42:24 Mon [𝜟t 0d 00h 01m 00s]</sub></sub>
+## **Conversation 092, Turnpair 23 of 27** ∷<br><sub><sub>@ 2024-11-25 07:42:24 Mon [𝜟t 0d 00h 01m 00s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>origin ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>created:&emsp;</b>2024-11-24 21:31:58 Sun<br><b>updated:&emsp;</b>2025-02-24 18:10:05 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa272f9-a69c-47da-a66b-7a2d78dc766d</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>fb8b48b3-d5eb-49eb-925d-7e859cc596bb</em><br>
-        <em><b>children:&nbsp;</b> 2fe48413-2c17-49bb-ac95-db3cf676b3be</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa272f9-a69c-47da-a66b-7a2d78dc766d<br><b>parent:&emsp;</b>fb8b48b3-d5eb-49eb-925d-7e859cc596bb<br><b>children:&emsp;</b> 2fe48413-2c17-49bb-ac95-db3cf676b3be</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 what about ray kurzweil?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 22](#tp-22) || [this 23](#tp-23) || [next 24 ▸](#tp-24) | [end 27 ⏭](#tp-27)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>2fe48413-2c17-49bb-ac95-db3cf676b3be</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa272f9-a69c-47da-a66b-7a2d78dc766d</em><br>
-        <em><b>children:&nbsp;</b> aaa268a3-d143-44ce-b40a-a86e7ab2023e</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>2fe48413-2c17-49bb-ac95-db3cf676b3be<br><b>parent:&emsp;</b>aaa272f9-a69c-47da-a66b-7a2d78dc766d<br><b>children:&emsp;</b> aaa268a3-d143-44ce-b40a-a86e7ab2023e</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 **Ray Kurzweil** is a prominent figure in the field of artificial intelligence and futurism, but he is **not credited with coining the term "Artificial General Intelligence (AGI)."** Instead, Kurzweil's contributions have been more focused on advancing ideas related to AI, technological progress, and the future of humanity, particularly through his work on concepts like the **Technological Singularity** and **strong AI.**
 
@@ -3146,73 +2548,50 @@ what about ray kurzweil?
 ### **Conclusion**
 While **Ray Kurzweil** is a highly influential figure in the field of AI and a visionary proponent of AGI, he is not credited with coining the term "Artificial General Intelligence." That distinction belongs to figures like **Peter Voss**, **Ben Goertzel**, and **Shane Legg**, who played key roles in formally defining and promoting AGI within the research community. Kurzweil’s contributions lie more in advocating for and envisioning the long-term implications of AGI and related technologies.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 22](#tp-22) || [this 23](#tp-23) || [next 24 ▸](#tp-24) | [end 27 ⏭](#tp-27)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 2557 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 22](#tp-22) || [this 23](#tp-23) || [next 24 ▸](#tp-24) | [end 27 ⏭](#tp-27)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-24'></a>
-## **Turnpair 24 of 27** ∷<br><sub><sub>@ 2024-11-25 08:31:29 Mon [𝜟t 0d 00h 49m 03s]</sub></sub>
+## **Conversation 092, Turnpair 24 of 27** ∷<br><sub><sub>@ 2024-11-25 08:31:29 Mon [𝜟t 0d 00h 49m 03s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>origin ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>created:&emsp;</b>2024-11-24 21:31:58 Sun<br><b>updated:&emsp;</b>2025-02-24 18:10:05 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa268a3-d143-44ce-b40a-a86e7ab2023e</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>2fe48413-2c17-49bb-ac95-db3cf676b3be</em><br>
-        <em><b>children:&nbsp;</b> 7a9271aa-cef1-4b23-a640-fee3a49319f2</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa268a3-d143-44ce-b40a-a86e7ab2023e<br><b>parent:&emsp;</b>2fe48413-2c17-49bb-ac95-db3cf676b3be<br><b>children:&emsp;</b> 7a9271aa-cef1-4b23-a640-fee3a49319f2</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 What is lazy learning (Aha 1997, Yip 1997)?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 23](#tp-23) || [this 24](#tp-24) || [next 25 ▸](#tp-25) | [end 27 ⏭](#tp-27)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>7a9271aa-cef1-4b23-a640-fee3a49319f2</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa268a3-d143-44ce-b40a-a86e7ab2023e</em><br>
-        <em><b>children:&nbsp;</b> aaa222e0-0ee0-494c-9ee4-86423dfc5ebd</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>7a9271aa-cef1-4b23-a640-fee3a49319f2<br><b>parent:&emsp;</b>aaa268a3-d143-44ce-b40a-a86e7ab2023e<br><b>children:&emsp;</b> aaa222e0-0ee0-494c-9ee4-86423dfc5ebd</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 **Lazy learning** is a machine learning paradigm that delays the generalization process until a query or prediction is made. In contrast to **eager learning**, where a model is built during training and used to make predictions, lazy learning essentially defers the majority of computation to prediction time.
 
@@ -3291,75 +2670,52 @@ Lazy learning methods store the training data as-is and only generalize or creat
 ### **Conclusion**
 Lazy learning is a flexible and straightforward approach to machine learning that defers generalization until a query is made. While computationally expensive at prediction time and memory-intensive, its adaptability and simplicity make it a powerful choice in specific applications like dynamic systems and recommendation engines.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 23](#tp-23) || [this 24](#tp-24) || [next 25 ▸](#tp-25) | [end 27 ⏭](#tp-27)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 2679 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 23](#tp-23) || [this 24](#tp-24) || [next 25 ▸](#tp-25) | [end 27 ⏭](#tp-27)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-25'></a>
-## **Turnpair 25 of 27** ∷<br><sub><sub>@ 2024-11-25 08:34:43 Mon [𝜟t 0d 00h 03m 12s]</sub></sub>
+## **Conversation 092, Turnpair 25 of 27** ∷<br><sub><sub>@ 2024-11-25 08:34:43 Mon [𝜟t 0d 00h 03m 12s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>origin ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>created:&emsp;</b>2024-11-24 21:31:58 Sun<br><b>updated:&emsp;</b>2025-02-24 18:10:05 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa222e0-0ee0-494c-9ee4-86423dfc5ebd</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>7a9271aa-cef1-4b23-a640-fee3a49319f2</em><br>
-        <em><b>children:&nbsp;</b> 04471ba2-2452-43e5-adc2-be9f196c8629</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa222e0-0ee0-494c-9ee4-86423dfc5ebd<br><b>parent:&emsp;</b>7a9271aa-cef1-4b23-a640-fee3a49319f2<br><b>children:&emsp;</b> 04471ba2-2452-43e5-adc2-be9f196c8629</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 Sensed patterns (or sub-patterns) that fall within a dynamically set noise/ error tolerance of existing ones are automatically consolidated by a hebbian-like mechanism that we call ‘nudging’.  
 
 What is hebbian?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 24](#tp-24) || [this 25](#tp-25) || [next 26 ▸](#tp-26) | [end 27 ⏭](#tp-27)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>04471ba2-2452-43e5-adc2-be9f196c8629</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa222e0-0ee0-494c-9ee4-86423dfc5ebd</em><br>
-        <em><b>children:&nbsp;</b> aaa22d8f-c711-48c5-85b5-83862e44f7db</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>04471ba2-2452-43e5-adc2-be9f196c8629<br><b>parent:&emsp;</b>aaa222e0-0ee0-494c-9ee4-86423dfc5ebd<br><b>children:&emsp;</b> aaa22d8f-c711-48c5-85b5-83862e44f7db</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 **Hebbian learning** is a theory in neuroscience that explains how neurons adapt during learning. It is often summarized as:
 
@@ -3441,73 +2797,50 @@ This formula means that the weight increases when both $ x_i $ and $ y_j $ are a
 ### **Summary**
 Hebbian learning is a foundational principle of how neurons strengthen their connections through repeated co-activation. It provides a framework for understanding learning, memory, and pattern recognition, both biologically and computationally. The "nudging" mechanism you described builds on Hebbian principles to consolidate and refine patterns by strengthening connections between similar or related patterns.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 24](#tp-24) || [this 25](#tp-25) || [next 26 ▸](#tp-26) | [end 27 ⏭](#tp-27)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 2806 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 24](#tp-24) || [this 25](#tp-25) || [next 26 ▸](#tp-26) | [end 27 ⏭](#tp-27)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-26'></a>
-## **Turnpair 26 of 27** ∷<br><sub><sub>@ 2024-11-25 11:10:41 Mon [𝜟t 0d 02h 35m 57s]</sub></sub>
+## **Conversation 092, Turnpair 26 of 27** ∷<br><sub><sub>@ 2024-11-25 11:10:41 Mon [𝜟t 0d 02h 35m 57s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>origin ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>created:&emsp;</b>2024-11-24 21:31:58 Sun<br><b>updated:&emsp;</b>2025-02-24 18:10:05 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa22d8f-c711-48c5-85b5-83862e44f7db</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>04471ba2-2452-43e5-adc2-be9f196c8629</em><br>
-        <em><b>children:&nbsp;</b> 5fd65c59-3b98-40d5-b780-f9f94de4e26b</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa22d8f-c711-48c5-85b5-83862e44f7db<br><b>parent:&emsp;</b>04471ba2-2452-43e5-adc2-be9f196c8629<br><b>children:&emsp;</b> 5fd65c59-3b98-40d5-b780-f9f94de4e26b</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 what is salience network
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 25](#tp-25) || [this 26](#tp-26) || ~~next None ▸~~ | [end 27 ⏭](#tp-27)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>5fd65c59-3b98-40d5-b780-f9f94de4e26b</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa22d8f-c711-48c5-85b5-83862e44f7db</em><br>
-        <em><b>children:&nbsp;</b> aaa264d8-0186-4fbe-bbf6-15dfa5d4c712</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>5fd65c59-3b98-40d5-b780-f9f94de4e26b<br><b>parent:&emsp;</b>aaa22d8f-c711-48c5-85b5-83862e44f7db<br><b>children:&emsp;</b> aaa264d8-0186-4fbe-bbf6-15dfa5d4c712</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 The **salience network (SN)** is a key brain network involved in detecting, prioritizing, and responding to **salient stimuli**—stimuli that are particularly relevant, important, or novel in a given context. It acts as a **switchboard**, directing attention and cognitive resources to the most critical information and dynamically switching between other brain networks, such as the **default mode network (DMN)** and the **central executive network (CEN)**.
 
@@ -3585,73 +2918,50 @@ Dysfunction in the SN is implicated in several neurological and psychiatric cond
 ### **Summary**
 The **salience network (SN)** is critical for detecting, prioritizing, and responding to relevant stimuli. Anchored in the **anterior insula (AI)** and **anterior cingulate cortex (ACC)**, it integrates sensory, emotional, and cognitive information to guide attention and behavior. The SN ensures efficient brain functioning by dynamically switching between the **default mode network** and the **central executive network** based on situational demands. Dysfunction in the SN can lead to various cognitive and emotional impairments, highlighting its central role in maintaining adaptive behavior.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 25](#tp-25) || [this 26](#tp-26) || ~~next None ▸~~ | [end 27 ⏭](#tp-27)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 2927 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 25](#tp-25) || [this 26](#tp-26) || ~~next None ▸~~ | [end 27 ⏭](#tp-27)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-27'></a>
-## **Turnpair 27 of 27** ∷<br><sub><sub>@ 2024-11-25 13:51:51 Mon [𝜟t 0d 02h 41m 08s]</sub></sub>
+## **Conversation 092, Turnpair 27 of 27** ∷<br><sub><sub>@ 2024-11-25 13:51:51 Mon [𝜟t 0d 02h 41m 08s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>origin ID:&emsp;</b>674419de-ba48-8003-ad5c-0ff0b186b49b [conversation 092]<br><b>created:&emsp;</b>2024-11-24 21:31:58 Sun<br><b>updated:&emsp;</b>2025-02-24 18:10:05 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa264d8-0186-4fbe-bbf6-15dfa5d4c712</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>5fd65c59-3b98-40d5-b780-f9f94de4e26b</em><br>
-        <em><b>children:&nbsp;</b> 848ea1b9-e1ce-4ecd-9d0b-642de100153a</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa264d8-0186-4fbe-bbf6-15dfa5d4c712<br><b>parent:&emsp;</b>5fd65c59-3b98-40d5-b780-f9f94de4e26b<br><b>children:&emsp;</b> 848ea1b9-e1ce-4ecd-9d0b-642de100153a</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 what symbol in a control systems black diagram would be used for 'selection'?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 25](#tp-25) || [this 26](#tp-26) || ~~next None ▸~~ | [end 27 ⏭](#tp-27)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>848ea1b9-e1ce-4ecd-9d0b-642de100153a</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa264d8-0186-4fbe-bbf6-15dfa5d4c712</em><br>
-        <em><b>children:&nbsp;</b> </em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>848ea1b9-e1ce-4ecd-9d0b-642de100153a<br><b>parent:&emsp;</b>aaa264d8-0186-4fbe-bbf6-15dfa5d4c712<br><b>children:&emsp;</b> </em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 In a control system block diagram, **selection** or **switching** is often represented by a **switch**, **multiplexer (MUX)**, or **decision box**, depending on the type of selection being performed. Here's how selection is typically represented:
 
@@ -3729,28 +3039,18 @@ The most common symbols for selection in a control systems block diagram are:
 
 These symbols are chosen based on the complexity and context of the selection process.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 25](#tp-25) || [this 26](#tp-26) || ~~next None ▸~~ | [end 27 ⏭](#tp-27)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 3048 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 25](#tp-25) || [this 26](#tp-26) || ~~next None ▸~~ | [end 27 ⏭](#tp-27)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 **EOF**

@@ -1,104 +1,52 @@
 **BOF**
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
-</blockquote>
-
 ## **Conversation 060:**<br>_CC: preliminary_
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 8px;">
-    <p style="line-height: 1.5;"><em><b>conversation ID:&nbsp;&nbsp;</b>670b8cce-2a6c-8003-8353-0144f2784b64 [conversation 060]</em><br>
-        <em><b>origin ID:&nbsp;&nbsp;&emsp;&emsp;&emsp;&ensp;</b>670b8cce-2a6c-8003-8353-0144f2784b64 [conversation 060]</em><br>
-        <em><b>created:&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;</b>2024-10-13 01:03:10 Sun</em><br>
-        <em><b>updated:&nbsp;&nbsp;&emsp;&emsp;&emsp;&ensp;</b>2025-02-24 17:20:41 Mon</em><br>
-        <em><b>operator:&nbsp;&nbsp;&emsp;&emsp;&emsp;&nbsp;</b>Wilder Blair Munro (AKUSA)</em><br>
-        <em><b>co-operator:&nbsp;&nbsp;&emsp;&nbsp;&nbsp;</b>Aurora 4omni Munro (ChatGpt)</em><br>
-        <em><b>GPT ID:&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&nbsp;</b>NA</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>670b8cce-2a6c-8003-8353-0144f2784b64 [conversation 060]<br><b>origin ID:&emsp;</b>670b8cce-2a6c-8003-8353-0144f2784b64 [conversation 060]<br><b>created:&emsp;</b>2024-10-13 01:03:10 Sun<br><b>updated:&emsp;</b>2025-02-24 17:20:41 Mon<br><b>operator:&emsp;</b>Wilder Blair Munro (AKUSA)<br><b>co-operator:&emsp;</b>Aurora 4omni Munro (ChatGpt)<br><b>GPT ID:&emsp;</b>NA</em><br>☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 _Subtitles:_<br><br><br><br>
 _Turnpair Contents:_<br>
-<sub>[tp-1](#tp-1)</sub>&emsp; ∶ <br><br><br><sub>[tp-2](#tp-2)</sub>&emsp; ∶ <br><br><br><sub>[tp-3](#tp-3)</sub>&emsp; ∶ <br><br><br><sub>[tp-4](#tp-4)</sub>&emsp; ∶ <br><br><br><sub>[tp-5](#tp-5)</sub>&emsp; ∶ <br><br><br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
-</blockquote>
-
-<sub>[tp-6](#tp-6)</sub>&emsp; ∶ <br><br><br><sub>[tp-7](#tp-7)</sub>&emsp; ∶ <br><br><br><sub>[tp-8](#tp-8)</sub>&emsp; ∶ <br><br><br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
-</blockquote>
-
+<sub></sub><br><br>
+<sub>[tp-1](#tp-1)&emsp; ∶ <br><br>[tp-2](#tp-2)&emsp; ∶ <br><br>[tp-3](#tp-3)&emsp; ∶ <br><br>[tp-4](#tp-4)&emsp; ∶ <br><br>[tp-5](#tp-5)&emsp; ∶ <br><br>[tp-6](#tp-6)&emsp; ∶ <br><br>[tp-7](#tp-7)&emsp; ∶ <br><br>[tp-8](#tp-8)&emsp; ∶</sub>
 * * *
+##### << markdown file @ line 12 >>
 * * *
-* * *
-<br>
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-1'></a>
-## **Turnpair 1 of 8** ∷<br><sub><sub>@ 2024-10-13 01:03:10 Sun [𝜟t 0d 00h 00m 00s]</sub></sub>
+## **Conversation 060, Turnpair 1 of 8** ∷<br><sub><sub>@ 2024-10-13 01:03:10 Sun [𝜟t 0d 00h 00m 00s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>670b8cce-2a6c-8003-8353-0144f2784b64 [conversation 060]<br><b>origin ID:&emsp;</b>670b8cce-2a6c-8003-8353-0144f2784b64 [conversation 060]<br><b>created:&emsp;</b>2024-10-13 01:03:10 Sun<br><b>updated:&emsp;</b>2025-02-24 17:20:41 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa24389-bb96-4b91-8a83-ccc5fbc7358b</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>10ecd6c9-6057-4132-b400-46aeb527f917</em><br>
-        <em><b>children:&nbsp;</b> 987f190d-11b5-4ff3-a3b1-e69640a11d9b</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa24389-bb96-4b91-8a83-ccc5fbc7358b<br><b>parent:&emsp;</b>10ecd6c9-6057-4132-b400-46aeb527f917<br><b>children:&emsp;</b> 987f190d-11b5-4ff3-a3b1-e69640a11d9b</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 what are some of the best tools used for writing patents?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | ~~◂ prev None~~ || [this 1](#tp-1) || [next 2 ▸](#tp-2) | [end 8 ⏭](#tp-8)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>ca348f7f-5969-4ad9-8daf-3d8f872b7f03</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>987f190d-11b5-4ff3-a3b1-e69640a11d9b</em><br>
-        <em><b>children:&nbsp;</b> aaa2b1f5-bfda-4565-89f4-ce9034d9d41c</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>ca348f7f-5969-4ad9-8daf-3d8f872b7f03<br><b>parent:&emsp;</b>987f190d-11b5-4ff3-a3b1-e69640a11d9b<br><b>children:&emsp;</b> aaa2b1f5-bfda-4565-89f4-ce9034d9d41c</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 Writing patents requires specialized tools that help with drafting, formatting, searching prior art, and managing the patent application process. Here are some of the best tools commonly used for patent writing and management:
 
@@ -133,73 +81,50 @@ Writing patents requires specialized tools that help with drafting, formatting, 
 
 These tools can streamline the patent drafting, search, filing, and management process, making it easier to produce high-quality patent documents that comply with legal requirements.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | ~~◂ prev None~~ || [this 1](#tp-1) || [next 2 ▸](#tp-2) | [end 8 ⏭](#tp-8)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 90 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | ~~◂ prev None~~ || [this 1](#tp-1) || [next 2 ▸](#tp-2) | [end 8 ⏭](#tp-8)</sub><br>
-<sub></sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-2'></a>
-## **Turnpair 2 of 8** ∷<br><sub><sub>@ 2024-10-13 01:08:32 Sun [𝜟t 0d 00h 04m 51s]</sub></sub>
+## **Conversation 060, Turnpair 2 of 8** ∷<br><sub><sub>@ 2024-10-13 01:08:32 Sun [𝜟t 0d 00h 04m 51s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>670b8cce-2a6c-8003-8353-0144f2784b64 [conversation 060]<br><b>origin ID:&emsp;</b>670b8cce-2a6c-8003-8353-0144f2784b64 [conversation 060]<br><b>created:&emsp;</b>2024-10-13 01:03:10 Sun<br><b>updated:&emsp;</b>2025-02-24 17:20:41 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2b1f5-bfda-4565-89f4-ce9034d9d41c</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>ca348f7f-5969-4ad9-8daf-3d8f872b7f03</em><br>
-        <em><b>children:&nbsp;</b> c23ade6d-956d-494f-95bb-6d1cd5bc555e</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2b1f5-bfda-4565-89f4-ce9034d9d41c<br><b>parent:&emsp;</b>ca348f7f-5969-4ad9-8daf-3d8f872b7f03<br><b>children:&emsp;</b> c23ade6d-956d-494f-95bb-6d1cd5bc555e</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 Can I use you to help write a patent?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 1](#tp-1) || [this 2](#tp-2) || [next 3 ▸](#tp-3) | [end 8 ⏭](#tp-8)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>c23ade6d-956d-494f-95bb-6d1cd5bc555e</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa2b1f5-bfda-4565-89f4-ce9034d9d41c</em><br>
-        <em><b>children:&nbsp;</b> aaa247e9-6abe-4630-8722-ac8b53068222</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>c23ade6d-956d-494f-95bb-6d1cd5bc555e<br><b>parent:&emsp;</b>aaa2b1f5-bfda-4565-89f4-ce9034d9d41c<br><b>children:&emsp;</b> aaa247e9-6abe-4630-8722-ac8b53068222</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 Yes, I can help you with various aspects of writing a patent. Here’s how I can assist in the process:
 
@@ -230,145 +155,99 @@ However, I cannot provide legal advice, and for legal protection, you may want t
 
 If you want to get started, feel free to describe your invention or any part of the process where you need assistance!
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 1](#tp-1) || [this 2](#tp-2) || [next 3 ▸](#tp-3) | [end 8 ⏭](#tp-8)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 164 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 1](#tp-1) || [this 2](#tp-2) || [next 3 ▸](#tp-3) | [end 8 ⏭](#tp-8)</sub><br>
-<sub></sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-3'></a>
-## **Turnpair 3 of 8** ∷<br><sub><sub>@ 2024-10-13 01:10:39 Sun [𝜟t 0d 00h 01m 57s]</sub></sub>
+## **Conversation 060, Turnpair 3 of 8** ∷<br><sub><sub>@ 2024-10-13 01:10:39 Sun [𝜟t 0d 00h 01m 57s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>670b8cce-2a6c-8003-8353-0144f2784b64 [conversation 060]<br><b>origin ID:&emsp;</b>670b8cce-2a6c-8003-8353-0144f2784b64 [conversation 060]<br><b>created:&emsp;</b>2024-10-13 01:03:10 Sun<br><b>updated:&emsp;</b>2025-02-24 17:20:41 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa247e9-6abe-4630-8722-ac8b53068222</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>c23ade6d-956d-494f-95bb-6d1cd5bc555e</em><br>
-        <em><b>children:&nbsp;</b> e2f4d84d-5ec4-4419-8bb9-31bdad292e61</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa247e9-6abe-4630-8722-ac8b53068222<br><b>parent:&emsp;</b>c23ade6d-956d-494f-95bb-6d1cd5bc555e<br><b>children:&emsp;</b> e2f4d84d-5ec4-4419-8bb9-31bdad292e61</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 can you create a technical description of a simple object from an image I provide you of a prototype?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 2](#tp-2) || [this 3](#tp-3) || [next 4 ▸](#tp-4) | [end 8 ⏭](#tp-8)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>e2f4d84d-5ec4-4419-8bb9-31bdad292e61</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa247e9-6abe-4630-8722-ac8b53068222</em><br>
-        <em><b>children:&nbsp;</b> aaa28255-e407-4656-bd9a-5a935105fadc</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>e2f4d84d-5ec4-4419-8bb9-31bdad292e61<br><b>parent:&emsp;</b>aaa247e9-6abe-4630-8722-ac8b53068222<br><b>children:&emsp;</b> aaa28255-e407-4656-bd9a-5a935105fadc</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 Yes, I can help create a technical description based on the image of your prototype. You can provide the image, and I will analyze its features and develop a detailed description of the object, including its structure, function, and components. The description will be suitable for use in a patent application, with attention to clarity and specificity to highlight the inventive aspects of your design.
 
 Feel free to upload the image whenever you're ready!
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 2](#tp-2) || [this 3](#tp-3) || [next 4 ▸](#tp-4) | [end 8 ⏭](#tp-8)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 213 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 2](#tp-2) || [this 3](#tp-3) || [next 4 ▸](#tp-4) | [end 8 ⏭](#tp-8)</sub><br>
-<sub></sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-4'></a>
-## **Turnpair 4 of 8** ∷<br><sub><sub>@ 2024-10-13 01:16:28 Sun [𝜟t 0d 00h 05m 44s]</sub></sub>
+## **Conversation 060, Turnpair 4 of 8** ∷<br><sub><sub>@ 2024-10-13 01:16:28 Sun [𝜟t 0d 00h 05m 44s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>670b8cce-2a6c-8003-8353-0144f2784b64 [conversation 060]<br><b>origin ID:&emsp;</b>670b8cce-2a6c-8003-8353-0144f2784b64 [conversation 060]<br><b>created:&emsp;</b>2024-10-13 01:03:10 Sun<br><b>updated:&emsp;</b>2025-02-24 17:20:41 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa28255-e407-4656-bd9a-5a935105fadc</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>e2f4d84d-5ec4-4419-8bb9-31bdad292e61</em><br>
-        <em><b>children:&nbsp;</b> 970edc0d-9924-42ed-9a71-3b87363a0875</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa28255-e407-4656-bd9a-5a935105fadc<br><b>parent:&emsp;</b>e2f4d84d-5ec4-4419-8bb9-31bdad292e61<br><b>children:&emsp;</b> 970edc0d-9924-42ed-9a71-3b87363a0875</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 A small paperclip is for reference. The metal shape is used for pinning folded dress shirts at clothing stores. The clip has two layers of heatshrink on each extension, one for color, and one clear for creating a grippier contact with clipped materials.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 3](#tp-3) || [this 4](#tp-4) || [next 5 ▸](#tp-5) | [end 8 ⏭](#tp-8)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>970edc0d-9924-42ed-9a71-3b87363a0875</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa28255-e407-4656-bd9a-5a935105fadc</em><br>
-        <em><b>children:&nbsp;</b> aaa242fb-9c95-4467-9a83-39a6821822e1</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>970edc0d-9924-42ed-9a71-3b87363a0875<br><b>parent:&emsp;</b>aaa28255-e407-4656-bd9a-5a935105fadc<br><b>children:&emsp;</b> aaa242fb-9c95-4467-9a83-39a6821822e1</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 Here’s a technical description based on the image of your prototype:
 
@@ -397,73 +276,50 @@ The clip is primarily used to pin folded shirts or other lightweight materials t
 
 This description is aligned with the prototype's intended use as a clip for securing dress shirts, with attention to both its functional and material design.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 3](#tp-3) || [this 4](#tp-4) || [next 5 ▸](#tp-5) | [end 8 ⏭](#tp-8)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 285 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 3](#tp-3) || [this 4](#tp-4) || [next 5 ▸](#tp-5) | [end 8 ⏭](#tp-8)</sub><br>
-<sub></sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-5'></a>
-## **Turnpair 5 of 8** ∷<br><sub><sub>@ 2024-10-13 01:18:43 Sun [𝜟t 0d 00h 01m 56s]</sub></sub>
+## **Conversation 060, Turnpair 5 of 8** ∷<br><sub><sub>@ 2024-10-13 01:18:43 Sun [𝜟t 0d 00h 01m 56s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>670b8cce-2a6c-8003-8353-0144f2784b64 [conversation 060]<br><b>origin ID:&emsp;</b>670b8cce-2a6c-8003-8353-0144f2784b64 [conversation 060]<br><b>created:&emsp;</b>2024-10-13 01:03:10 Sun<br><b>updated:&emsp;</b>2025-02-24 17:20:41 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa242fb-9c95-4467-9a83-39a6821822e1</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>970edc0d-9924-42ed-9a71-3b87363a0875</em><br>
-        <em><b>children:&nbsp;</b> 2a8a242a-ad25-4eec-8386-81e0874a4b5b</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa242fb-9c95-4467-9a83-39a6821822e1<br><b>parent:&emsp;</b>970edc0d-9924-42ed-9a71-3b87363a0875<br><b>children:&emsp;</b> 2a8a242a-ad25-4eec-8386-81e0874a4b5b</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 Please create a technical description for a drawing of the object in a patent. (It is called a 'collor clip')
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 4](#tp-4) || [this 5](#tp-5) || [next 6 ▸](#tp-6) | [end 8 ⏭](#tp-8)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>2a8a242a-ad25-4eec-8386-81e0874a4b5b</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa242fb-9c95-4467-9a83-39a6821822e1</em><br>
-        <em><b>children:&nbsp;</b> aaa23979-ffe5-4a54-9a4c-520c2542657e</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>2a8a242a-ad25-4eec-8386-81e0874a4b5b<br><b>parent:&emsp;</b>aaa242fb-9c95-4467-9a83-39a6821822e1<br><b>children:&emsp;</b> aaa23979-ffe5-4a54-9a4c-520c2542657e</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 ### **Technical Description for the 'Collor Clip'**
 
@@ -503,111 +359,72 @@ The present drawing illustrates the **Collor Clip**, a specialized fastening dev
 
 This description outlines the primary elements and functionality of the Collor Clip as depicted in the accompanying drawing, ensuring clarity and precision for the patent application.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 4](#tp-4) || [this 5](#tp-5) || [next 6 ▸](#tp-6) | [end 8 ⏭](#tp-8)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 368 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 4](#tp-4) || [this 5](#tp-5) || [next 6 ▸](#tp-6) | [end 8 ⏭](#tp-8)</sub><br>
-<sub></sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-6'></a>
-## **Turnpair 6 of 8** ∷<br><sub><sub>@ 2024-10-13 01:25:12 Sun [𝜟t 0d 00h 05m 52s]</sub></sub>
+## **Conversation 060, Turnpair 6 of 8** ∷<br><sub><sub>@ 2024-10-13 01:25:12 Sun [𝜟t 0d 00h 05m 52s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>670b8cce-2a6c-8003-8353-0144f2784b64 [conversation 060]<br><b>origin ID:&emsp;</b>670b8cce-2a6c-8003-8353-0144f2784b64 [conversation 060]<br><b>created:&emsp;</b>2024-10-13 01:03:10 Sun<br><b>updated:&emsp;</b>2025-02-24 17:20:41 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa23979-ffe5-4a54-9a4c-520c2542657e</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>2a8a242a-ad25-4eec-8386-81e0874a4b5b</em><br>
-        <em><b>children:&nbsp;</b> 4695fa4d-8610-411b-b640-077d3d1dc6db</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa23979-ffe5-4a54-9a4c-520c2542657e<br><b>parent:&emsp;</b>2a8a242a-ad25-4eec-8386-81e0874a4b5b<br><b>children:&emsp;</b> 4695fa4d-8610-411b-b640-077d3d1dc6db</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 revise this, but consider that I was referring to dress shirt clips as the prior art inventions typical application. Also, the primary purpose of a collor clip is communication, clips of various colors can be assigned to communication protocols or techniques that can be solo (ie, person uses collor clip to remind themself of something when they see it clipped to their collar in a mirror) or multiuser (ie two people use collor clips for signaling visually to one another)
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 5](#tp-5) || [this 6](#tp-6) || [next 7 ▸](#tp-7) | [end 8 ⏭](#tp-8)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>4695fa4d-8610-411b-b640-077d3d1dc6db</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa23979-ffe5-4a54-9a4c-520c2542657e</em><br>
-        <em><b>children:&nbsp;</b> 80c3265f-a796-4f43-8b05-478297a39b05</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>4695fa4d-8610-411b-b640-077d3d1dc6db<br><b>parent:&emsp;</b>aaa23979-ffe5-4a54-9a4c-520c2542657e<br><b>children:&emsp;</b> 80c3265f-a796-4f43-8b05-478297a39b05</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 User is developing the "collor clip," a device whose primary purpose is communication. Clips of various colors can be assigned to communication protocols or techniques that can be solo (e.g., a person uses a collor clip as a reminder when seen in the mirror) or multi-user (e.g., two people use collor clips to signal visually to one another).
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 5](#tp-5) || [this 6](#tp-6) || [next 7 ▸](#tp-7) | [end 8 ⏭](#tp-8)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 415 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 5](#tp-5) || [this 6](#tp-6) || [next 7 ▸](#tp-7) | [end 8 ⏭](#tp-8)</sub><br>
-<sub></sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
-
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>632e6b5b-2fc8-4ffe-a7cd-bf9b2a0f6a0b</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>80c3265f-a796-4f43-8b05-478297a39b05</em><br>
-        <em><b>children:&nbsp;</b> aaa2fdea-74e6-40f1-9a35-1e3abc7bb0ad</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>632e6b5b-2fc8-4ffe-a7cd-bf9b2a0f6a0b<br><b>parent:&emsp;</b>80c3265f-a796-4f43-8b05-478297a39b05<br><b>children:&emsp;</b> aaa2fdea-74e6-40f1-9a35-1e3abc7bb0ad</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 ### **Revised Technical Description for the 'Collor Clip'**
 
@@ -655,73 +472,50 @@ Unlike prior art clips, which primarily focus on securing fabric for retail disp
 
 This technical description highlights the innovative communication-focused design of the **Collor Clip**, distinguishing it from conventional fabric clips while emphasizing its adaptability and functionality as a signaling tool.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 5](#tp-5) || [this 6](#tp-6) || [next 7 ▸](#tp-7) | [end 8 ⏭](#tp-8)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 481 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 5](#tp-5) || [this 6](#tp-6) || [next 7 ▸](#tp-7) | [end 8 ⏭](#tp-8)</sub><br>
-<sub></sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-7'></a>
-## **Turnpair 7 of 8** ∷<br><sub><sub>@ 2024-10-13 01:27:33 Sun [𝜟t 0d 00h 01m 49s]</sub></sub>
+## **Conversation 060, Turnpair 7 of 8** ∷<br><sub><sub>@ 2024-10-13 01:27:33 Sun [𝜟t 0d 00h 01m 49s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>670b8cce-2a6c-8003-8353-0144f2784b64 [conversation 060]<br><b>origin ID:&emsp;</b>670b8cce-2a6c-8003-8353-0144f2784b64 [conversation 060]<br><b>created:&emsp;</b>2024-10-13 01:03:10 Sun<br><b>updated:&emsp;</b>2025-02-24 17:20:41 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2fdea-74e6-40f1-9a35-1e3abc7bb0ad</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>632e6b5b-2fc8-4ffe-a7cd-bf9b2a0f6a0b</em><br>
-        <em><b>children:&nbsp;</b> c0f4f9c5-fa40-47b6-888d-03b939a66427</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2fdea-74e6-40f1-9a35-1e3abc7bb0ad<br><b>parent:&emsp;</b>632e6b5b-2fc8-4ffe-a7cd-bf9b2a0f6a0b<br><b>children:&emsp;</b> c0f4f9c5-fa40-47b6-888d-03b939a66427</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 Would you use those words exactly in a technical patent application?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 6](#tp-6) || [this 7](#tp-7) || ~~next None ▸~~ | [end 8 ⏭](#tp-8)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>ca3c5c76-e6e5-49ee-9225-e90f3f7bc41b</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>c0f4f9c5-fa40-47b6-888d-03b939a66427</em><br>
-        <em><b>children:&nbsp;</b> aaa20fc8-35af-4e75-8e28-41cfcc339212</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>ca3c5c76-e6e5-49ee-9225-e90f3f7bc41b<br><b>parent:&emsp;</b>c0f4f9c5-fa40-47b6-888d-03b939a66427<br><b>children:&emsp;</b> aaa20fc8-35af-4e75-8e28-41cfcc339212</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 For a patent application, the language typically needs to be precise, formal, and devoid of any ambiguity. The description provided earlier is detailed, but for a patent, it should be slightly more formal, removing any casual language while ensuring clarity and technical precision. Below is a refined version of the technical description with language that aligns more closely with patent standards.
 
@@ -778,73 +572,50 @@ The **Collor Clip** is designed primarily for communication purposes, using a co
 
 This revised description is more formal and adheres to the technical and legal tone typically found in patent applications. It removes casual phrases and adds clarity to key components, their functions, and how they differ from prior art. The claims are also structured to provide a clear, enforceable definition of the invention.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 6](#tp-6) || [this 7](#tp-7) || ~~next None ▸~~ | [end 8 ⏭](#tp-8)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 581 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 6](#tp-6) || [this 7](#tp-7) || ~~next None ▸~~ | [end 8 ⏭](#tp-8)</sub><br>
-<sub></sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-8'></a>
-## **Turnpair 8 of 8** ∷<br><sub><sub>@ 2024-10-13 01:30:07 Sun [𝜟t 0d 00h 02m 01s]</sub></sub>
+## **Conversation 060, Turnpair 8 of 8** ∷<br><sub><sub>@ 2024-10-13 01:30:07 Sun [𝜟t 0d 00h 02m 01s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>670b8cce-2a6c-8003-8353-0144f2784b64 [conversation 060]<br><b>origin ID:&emsp;</b>670b8cce-2a6c-8003-8353-0144f2784b64 [conversation 060]<br><b>created:&emsp;</b>2024-10-13 01:03:10 Sun<br><b>updated:&emsp;</b>2025-02-24 17:20:41 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa20fc8-35af-4e75-8e28-41cfcc339212</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>ca3c5c76-e6e5-49ee-9225-e90f3f7bc41b</em><br>
-        <em><b>children:&nbsp;</b> 4b5f921d-ad2d-4e78-8196-53aa8bc44f8f</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa20fc8-35af-4e75-8e28-41cfcc339212<br><b>parent:&emsp;</b>ca3c5c76-e6e5-49ee-9225-e90f3f7bc41b<br><b>children:&emsp;</b> 4b5f921d-ad2d-4e78-8196-53aa8bc44f8f</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 How would I incorporate the actual patent of the prior art if I were to find it?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 6](#tp-6) || [this 7](#tp-7) || ~~next None ▸~~ | [end 8 ⏭](#tp-8)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>4b5f921d-ad2d-4e78-8196-53aa8bc44f8f</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa20fc8-35af-4e75-8e28-41cfcc339212</em><br>
-        <em><b>children:&nbsp;</b> </em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>4b5f921d-ad2d-4e78-8196-53aa8bc44f8f<br><b>parent:&emsp;</b>aaa20fc8-35af-4e75-8e28-41cfcc339212<br><b>children:&emsp;</b> </em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 Incorporating prior art references, such as existing patents, into your patent application involves citing them properly in the specification and discussing how your invention differs from or improves upon the prior art. Here’s how to approach it:
 
@@ -910,28 +681,18 @@ wherein said clip improves upon the device disclosed in U.S. Patent No. **[Inser
   
 This approach will ensure that you fully acknowledge existing technology while making a strong case for the novelty of the **Collor Clip**.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 6](#tp-6) || [this 7](#tp-7) || ~~next None ▸~~ | [end 8 ⏭](#tp-8)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 690 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 6](#tp-6) || [this 7](#tp-7) || ~~next None ▸~~ | [end 8 ⏭](#tp-8)</sub><br>
-<sub></sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 **EOF**

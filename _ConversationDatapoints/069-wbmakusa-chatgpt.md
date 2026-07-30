@@ -1,184 +1,52 @@
-**BOF**
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
-</blockquote>
-
+s**BOF**
 ## **Conversation 069:**<br>_Action Minimization in GCN_
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 8px;">
-    <p style="line-height: 1.5;"><em><b>conversation ID:&nbsp;&nbsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]</em><br>
-        <em><b>origin ID:&nbsp;&nbsp;&emsp;&emsp;&emsp;&ensp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]</em><br>
-        <em><b>created:&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;</b>2024-10-28 09:48:08 Mon</em><br>
-        <em><b>updated:&nbsp;&nbsp;&emsp;&emsp;&emsp;&ensp;</b>2025-02-24 18:06:01 Mon</em><br>
-        <em><b>operator:&nbsp;&nbsp;&emsp;&emsp;&emsp;&nbsp;</b>Wilder Blair Munro (AKUSA)</em><br>
-        <em><b>co-operator:&nbsp;&nbsp;&emsp;&nbsp;&nbsp;</b>Aurora 4omni Munro (ChatGpt)</em><br>
-        <em><b>GPT ID:&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&nbsp;</b>NA</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>operator:&emsp;</b>Wilder Blair Munro (AKUSA)<br><b>co-operator:&emsp;</b>Aurora 4omni Munro (ChatGpt)<br><b>GPT ID:&emsp;</b>NA</em><br>☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 _Subtitles:_<br><br><br><br>
 _Turnpair Contents:_<br>
-<sub>[tp-1](#tp-1)</sub>&emsp; ∶ <br><br><br><sub>[tp-2](#tp-2)</sub>&emsp; ∶ <br><br><br><sub>[tp-3](#tp-3)</sub>&emsp; ∶ <br><br><br><sub>[tp-4](#tp-4)</sub>&emsp; ∶ <br><br><br><sub>[tp-5](#tp-5)</sub>&emsp; ∶ <br><br><br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
-</blockquote>
-
-<sub>[tp-6](#tp-6)</sub>&emsp; ∶ <br><br><br><sub>[tp-7](#tp-7)</sub>&emsp; ∶ <br><br><br><sub>[tp-8](#tp-8)</sub>&emsp; ∶ <br><br><br><sub>[tp-9](#tp-9)</sub>&emsp; ∶ <br><br><br><sub>[tp-10](#tp-10)</sub>&emsp; ∶ <br><br><br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
-</blockquote>
-
-<sub>[tp-11](#tp-11)</sub>&emsp; ∶ <br><br><br><sub>[tp-12](#tp-12)</sub>&emsp; ∶ <br><br><br><sub>[tp-13](#tp-13)</sub>&emsp; ∶ <br><br><br><sub>[tp-14](#tp-14)</sub>&emsp; ∶ <br><br><br><sub>[tp-15](#tp-15)</sub>&emsp; ∶ <br><br><br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
-</blockquote>
-
-<sub>[tp-16](#tp-16)</sub>&emsp; ∶ <br><br><br><sub>[tp-17](#tp-17)</sub>&emsp; ∶ <br><br><br><sub>[tp-18](#tp-18)</sub>&emsp; ∶ <br><br><br><sub>[tp-19](#tp-19)</sub>&emsp; ∶ <br><br><br><sub>[tp-20](#tp-20)</sub>&emsp; ∶ <br><br><br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
-</blockquote>
-
-<sub>[tp-21](#tp-21)</sub>&emsp; ∶ <br><br><br><sub>[tp-22](#tp-22)</sub>&emsp; ∶ <br><br><br><sub>[tp-23](#tp-23)</sub>&emsp; ∶ <br><br><br><sub>[tp-24](#tp-24)</sub>&emsp; ∶ <br><br><br><sub>[tp-25](#tp-25)</sub>&emsp; ∶ <br><br><br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
-</blockquote>
-
-<sub>[tp-26](#tp-26)</sub>&emsp; ∶ <br><br><br><sub>[tp-27](#tp-27)</sub>&emsp; ∶ <br><br><br><sub>[tp-28](#tp-28)</sub>&emsp; ∶ <br><br><br><sub>[tp-29](#tp-29)</sub>&emsp; ∶ <br><br><br><sub>[tp-30](#tp-30)</sub>&emsp; ∶ <br><br><br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
-</blockquote>
-
-<sub>[tp-31](#tp-31)</sub>&emsp; ∶ <br><br><br><sub>[tp-32](#tp-32)</sub>&emsp; ∶ <br><br><br><sub>[tp-33](#tp-33)</sub>&emsp; ∶ <br><br><br><sub>[tp-34](#tp-34)</sub>&emsp; ∶ <br><br><br><sub>[tp-35](#tp-35)</sub>&emsp; ∶ <br><br><br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
-</blockquote>
-
-<sub>[tp-36](#tp-36)</sub>&emsp; ∶ <br><br><br><sub>[tp-37](#tp-37)</sub>&emsp; ∶ <br><br><br><sub>[tp-38](#tp-38)</sub>&emsp; ∶ <br><br><br><sub>[tp-39](#tp-39)</sub>&emsp; ∶ <br><br><br><sub>[tp-40](#tp-40)</sub>&emsp; ∶ <br><br><br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
-</blockquote>
-
-<sub>[tp-41](#tp-41)</sub>&emsp; ∶ <br><br><br><sub>[tp-42](#tp-42)</sub>&emsp; ∶ <br><br><br><sub>[tp-43](#tp-43)</sub>&emsp; ∶ <br><br><br><sub>[tp-44](#tp-44)</sub>&emsp; ∶ <br><br><br><sub>[tp-45](#tp-45)</sub>&emsp; ∶ <br><br><br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
-</blockquote>
-
-<sub>[tp-46](#tp-46)</sub>&emsp; ∶ <br><br><br><sub>[tp-47](#tp-47)</sub>&emsp; ∶ <br><br><br><sub>[tp-48](#tp-48)</sub>&emsp; ∶ <br><br><br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
-</blockquote>
-
+<sub>[10](#tp-10) · [20](#tp-20) · [30](#tp-30) · [40](#tp-40)</sub><br><br>
+<sub>[tp-1](#tp-1)&emsp; ∶ <br><br>[tp-2](#tp-2)&emsp; ∶ <br><br>[tp-3](#tp-3)&emsp; ∶ <br><br>[tp-4](#tp-4)&emsp; ∶ <br><br>[tp-5](#tp-5)&emsp; ∶ <br><br>[tp-6](#tp-6)&emsp; ∶ <br><br>[tp-7](#tp-7)&emsp; ∶ <br><br>[tp-8](#tp-8)&emsp; ∶ <br><br>[tp-9](#tp-9)&emsp; ∶ <br><br>[tp-10](#tp-10)&emsp; ∶ <br><br>[tp-11](#tp-11)&emsp; ∶ <br><br>[tp-12](#tp-12)&emsp; ∶ <br><br>[tp-13](#tp-13)&emsp; ∶ <br><br>[tp-14](#tp-14)&emsp; ∶ <br><br>[tp-15](#tp-15)&emsp; ∶ <br><br>[tp-16](#tp-16)&emsp; ∶ <br><br>[tp-17](#tp-17)&emsp; ∶ <br><br>[tp-18](#tp-18)&emsp; ∶ <br><br>[tp-19](#tp-19)&emsp; ∶ <br><br>[tp-20](#tp-20)&emsp; ∶ <br><br>[tp-21](#tp-21)&emsp; ∶ <br><br>[tp-22](#tp-22)&emsp; ∶ <br><br>[tp-23](#tp-23)&emsp; ∶ <br><br>[tp-24](#tp-24)&emsp; ∶ <br><br>[tp-25](#tp-25)&emsp; ∶ <br><br>[tp-26](#tp-26)&emsp; ∶ <br><br>[tp-27](#tp-27)&emsp; ∶ <br><br>[tp-28](#tp-28)&emsp; ∶ <br><br>[tp-29](#tp-29)&emsp; ∶ <br><br>[tp-30](#tp-30)&emsp; ∶ <br><br>[tp-31](#tp-31)&emsp; ∶ <br><br>[tp-32](#tp-32)&emsp; ∶ <br><br>[tp-33](#tp-33)&emsp; ∶ <br><br>[tp-34](#tp-34)&emsp; ∶ <br><br>[tp-35](#tp-35)&emsp; ∶ <br><br>[tp-36](#tp-36)&emsp; ∶ <br><br>[tp-37](#tp-37)&emsp; ∶ <br><br>[tp-38](#tp-38)&emsp; ∶ <br><br>[tp-39](#tp-39)&emsp; ∶ <br><br>[tp-40](#tp-40)&emsp; ∶ <br><br>[tp-41](#tp-41)&emsp; ∶ <br><br>[tp-42](#tp-42)&emsp; ∶ <br><br>[tp-43](#tp-43)&emsp; ∶ <br><br>[tp-44](#tp-44)&emsp; ∶ <br><br>[tp-45](#tp-45)&emsp; ∶ <br><br>[tp-46](#tp-46)&emsp; ∶ <br><br>[tp-47](#tp-47)&emsp; ∶ <br><br>[tp-48](#tp-48)&emsp; ∶</sub>
 * * *
+##### << markdown file @ line 12 >>
 * * *
-* * *
-<br>
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-1'></a>
-## **Turnpair 1 of 48** ∷<br><sub><sub>@ 2024-10-28 09:48:08 Mon [𝜟t 0d 00h 00m 00s]</sub></sub>
+## **Conversation 069, Turnpair 1 of 48** ∷<br><sub><sub>@ 2024-10-28 09:48:08 Mon [𝜟t 0d 00h 00m 00s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2c13a-5ce1-4be4-a527-8e96c944bbbd</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>6c80204a-a02c-4158-a4e6-c6285102880f</em><br>
-        <em><b>children:&nbsp;</b> 79f8a562-2681-479a-88d9-97e93f0f8f1c</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2c13a-5ce1-4be4-a527-8e96c944bbbd<br><b>parent:&emsp;</b>6c80204a-a02c-4158-a4e6-c6285102880f<br><b>children:&emsp;</b> 79f8a562-2681-479a-88d9-97e93f0f8f1c</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 How would I incorporate a generalized action minimization for a loss function in a GCN? Is the action minimization principle applied as a loss function ever in ML neural network systems?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | ~~◂ prev None~~ || [this 1](#tp-1) || [next 2 ▸](#tp-2) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>bcd2f203-7233-460c-bd20-3325d3287403</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>79f8a562-2681-479a-88d9-97e93f0f8f1c</em><br>
-        <em><b>children:&nbsp;</b> aaa26cff-a6c0-4956-8352-f3a31f64ce41</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>bcd2f203-7233-460c-bd20-3325d3287403<br><b>parent:&emsp;</b>79f8a562-2681-479a-88d9-97e93f0f8f1c<br><b>children:&emsp;</b> aaa26cff-a6c0-4956-8352-f3a31f64ce41</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 Incorporating a generalized action minimization for a loss function in a Graph Convolutional Network (GCN) involves framing your optimization problem such that the objective aligns with the principles of action minimization. Here's a breakdown of how you can approach this:
 
@@ -266,73 +134,50 @@ for data, targets in dataloader:
 
 This framework allows you to experiment with the idea of action minimization within the context of GCNs, offering a fresh perspective on loss functions in machine learning.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | ~~◂ prev None~~ || [this 1](#tp-1) || [next 2 ▸](#tp-2) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 143 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | ~~◂ prev None~~ || [this 1](#tp-1) || [next 2 ▸](#tp-2) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-2'></a>
-## **Turnpair 2 of 48** ∷<br><sub><sub>@ 2024-10-28 09:50:42 Mon [𝜟t 0d 00h 02m 18s]</sub></sub>
+## **Conversation 069, Turnpair 2 of 48** ∷<br><sub><sub>@ 2024-10-28 09:50:42 Mon [𝜟t 0d 00h 02m 18s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa26cff-a6c0-4956-8352-f3a31f64ce41</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>bcd2f203-7233-460c-bd20-3325d3287403</em><br>
-        <em><b>children:&nbsp;</b> 0f42f7be-5b94-446b-8723-d27df9fc46d2</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa26cff-a6c0-4956-8352-f3a31f64ce41<br><b>parent:&emsp;</b>bcd2f203-7233-460c-bd20-3325d3287403<br><b>children:&emsp;</b> 0f42f7be-5b94-446b-8723-d27df9fc46d2</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 Repeat the action minimization but this time be explicit about generalized potential and kinetic energy difference as typically defined by the lagrangian.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 1](#tp-1) || [this 2](#tp-2) || [next 3 ▸](#tp-3) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>0f42f7be-5b94-446b-8723-d27df9fc46d2</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa26cff-a6c0-4956-8352-f3a31f64ce41</em><br>
-        <em><b>children:&nbsp;</b> aaa2a637-0042-42e0-9e1b-efa45c36c3f1</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>0f42f7be-5b94-446b-8723-d27df9fc46d2<br><b>parent:&emsp;</b>aaa26cff-a6c0-4956-8352-f3a31f64ce41<br><b>children:&emsp;</b> aaa2a637-0042-42e0-9e1b-efa45c36c3f1</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 To explicitly incorporate the concepts of generalized potential and kinetic energy in the context of action minimization for a loss function in a Graph Convolutional Network (GCN), we can define the Lagrangian in a way that parallels physical systems. Here’s a structured approach to this idea:
 
@@ -441,73 +286,50 @@ To practically implement this in a GCN, we follow similar steps as before, expli
 
 In this approach, we explicitly define the kinetic and potential energy terms based on the gradients of the loss and the loss function itself. By treating the optimization of a GCN as an action minimization problem, you can explore new perspectives on model training, potentially leading to improved learning dynamics and generalization in graph-based tasks.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 1](#tp-1) || [this 2](#tp-2) || [next 3 ▸](#tp-3) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 295 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 1](#tp-1) || [this 2](#tp-2) || [next 3 ▸](#tp-3) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-3'></a>
-## **Turnpair 3 of 48** ∷<br><sub><sub>@ 2024-10-28 09:52:33 Mon [𝜟t 0d 00h 01m 36s]</sub></sub>
+## **Conversation 069, Turnpair 3 of 48** ∷<br><sub><sub>@ 2024-10-28 09:52:33 Mon [𝜟t 0d 00h 01m 36s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2a637-0042-42e0-9e1b-efa45c36c3f1</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>0f42f7be-5b94-446b-8723-d27df9fc46d2</em><br>
-        <em><b>children:&nbsp;</b> 2e1e90de-d408-481c-a348-9b741a0f20e3</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2a637-0042-42e0-9e1b-efa45c36c3f1<br><b>parent:&emsp;</b>0f42f7be-5b94-446b-8723-d27df9fc46d2<br><b>children:&emsp;</b> 2e1e90de-d408-481c-a348-9b741a0f20e3</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 does the script L refer to the model itself?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 2](#tp-2) || [this 3](#tp-3) || [next 4 ▸](#tp-4) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>2e1e90de-d408-481c-a348-9b741a0f20e3</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa2a637-0042-42e0-9e1b-efa45c36c3f1</em><br>
-        <em><b>children:&nbsp;</b> aaa2220c-ae4f-4661-9710-2196650fb574</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>2e1e90de-d408-481c-a348-9b741a0f20e3<br><b>parent:&emsp;</b>aaa2a637-0042-42e0-9e1b-efa45c36c3f1<br><b>children:&emsp;</b> aaa2220c-ae4f-4661-9710-2196650fb574</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 In the context of the formulation I provided, $ L $ refers specifically to the **Lagrangian** of the system, not the model itself. Here’s a clarification of the terminology:
 
@@ -530,51 +352,40 @@ In the context of the formulation I provided, $ L $ refers specifically to the *
 
 In essence, $ L $ encapsulates the dynamics of the learning process, while the model itself is defined by the architecture and the parameters $ \theta $ that are being optimized.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 2](#tp-2) || [this 3](#tp-3) || [next 4 ▸](#tp-4) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 361 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 2](#tp-2) || [this 3](#tp-3) || [next 4 ▸](#tp-4) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-4'></a>
-## **Turnpair 4 of 48** ∷<br><sub><sub>@ 2024-10-28 09:53:20 Mon [𝜟t 0d 00h 00m 41s]</sub></sub>
+## **Conversation 069, Turnpair 4 of 48** ∷<br><sub><sub>@ 2024-10-28 09:53:20 Mon [𝜟t 0d 00h 00m 41s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2220c-ae4f-4661-9710-2196650fb574</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>2e1e90de-d408-481c-a348-9b741a0f20e3</em><br>
-        <em><b>children:&nbsp;</b> 163c2bdf-cdc2-424b-a91d-eaea812928e7</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2220c-ae4f-4661-9710-2196650fb574<br><b>parent:&emsp;</b>2e1e90de-d408-481c-a348-9b741a0f20e3<br><b>children:&emsp;</b> 163c2bdf-cdc2-424b-a91d-eaea812928e7</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 No, this L, V=L(predictions,targets), T= 
 2
@@ -594,25 +405,13 @@ i
  ) 
 2
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 3](#tp-3) || [this 4](#tp-4) || [next 5 ▸](#tp-5) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>163c2bdf-cdc2-424b-a91d-eaea812928e7</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa2220c-ae4f-4661-9710-2196650fb574</em><br>
-        <em><b>children:&nbsp;</b> aaa2644e-a913-4a44-b87b-041dabc1613b</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>163c2bdf-cdc2-424b-a91d-eaea812928e7<br><b>parent:&emsp;</b>aaa2220c-ae4f-4661-9710-2196650fb574<br><b>children:&emsp;</b> aaa2644e-a913-4a44-b87b-041dabc1613b</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 Thank you for the clarification! In this context, it seems there’s a mix-up with the terminology. Let’s clarify the definitions and relationships involved:
 
@@ -706,143 +505,97 @@ for data, targets in dataloader:
 
 This implementation explicitly calculates the potential and kinetic energies based on the loss function and its gradients, reflecting the dynamics of the model training process.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 3](#tp-3) || [this 4](#tp-4) || [next 5 ▸](#tp-5) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 514 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 3](#tp-3) || [this 4](#tp-4) || [next 5 ▸](#tp-5) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-5'></a>
-## **Turnpair 5 of 48** ∷<br><sub><sub>@ 2024-10-28 09:53:59 Mon [𝜟t 0d 00h 00m 25s]</sub></sub>
+## **Conversation 069, Turnpair 5 of 48** ∷<br><sub><sub>@ 2024-10-28 09:53:59 Mon [𝜟t 0d 00h 00m 25s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2644e-a913-4a44-b87b-041dabc1613b</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>163c2bdf-cdc2-424b-a91d-eaea812928e7</em><br>
-        <em><b>children:&nbsp;</b> b93dc721-dea3-4c51-8393-5f0a96c88bfe</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2644e-a913-4a44-b87b-041dabc1613b<br><b>parent:&emsp;</b>163c2bdf-cdc2-424b-a91d-eaea812928e7<br><b>children:&emsp;</b> b93dc721-dea3-4c51-8393-5f0a96c88bfe</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 Much better.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 4](#tp-4) || [this 5](#tp-5) || [next 6 ▸](#tp-6) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>b93dc721-dea3-4c51-8393-5f0a96c88bfe</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa2644e-a913-4a44-b87b-041dabc1613b</em><br>
-        <em><b>children:&nbsp;</b> aaa23796-b092-47b5-a56f-ada0580c4316</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>b93dc721-dea3-4c51-8393-5f0a96c88bfe<br><b>parent:&emsp;</b>aaa2644e-a913-4a44-b87b-041dabc1613b<br><b>children:&emsp;</b> aaa23796-b092-47b5-a56f-ada0580c4316</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 I'm glad that was helpful! If you have any more questions or need further clarification on any topics—whether about GCNs, action minimization, or anything else—feel free to ask!
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 4](#tp-4) || [this 5](#tp-5) || [next 6 ▸](#tp-6) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 561 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 4](#tp-4) || [this 5](#tp-5) || [next 6 ▸](#tp-6) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-6'></a>
-## **Turnpair 6 of 48** ∷<br><sub><sub>@ 2024-10-28 09:56:47 Mon [𝜟t 0d 00h 02m 47s]</sub></sub>
+## **Conversation 069, Turnpair 6 of 48** ∷<br><sub><sub>@ 2024-10-28 09:56:47 Mon [𝜟t 0d 00h 02m 47s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa23796-b092-47b5-a56f-ada0580c4316</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>b93dc721-dea3-4c51-8393-5f0a96c88bfe</em><br>
-        <em><b>children:&nbsp;</b> 101f3749-ba2b-4a68-bfb2-7ba8db794c90</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa23796-b092-47b5-a56f-ada0580c4316<br><b>parent:&emsp;</b>b93dc721-dea3-4c51-8393-5f0a96c88bfe<br><b>children:&emsp;</b> 101f3749-ba2b-4a68-bfb2-7ba8db794c90</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 Why MSE for potential energy (loss function) error? Why not a linear term instead? I see how you could be thinking in terms of spring/capacitor/inductor potential, but why not a linear term such as potential due to gravity in constant field? Should both be used?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 5](#tp-5) || [this 6](#tp-6) || [next 7 ▸](#tp-7) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>101f3749-ba2b-4a68-bfb2-7ba8db794c90</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa23796-b092-47b5-a56f-ada0580c4316</em><br>
-        <em><b>children:&nbsp;</b> aaa2170e-d0ed-4d89-a1e6-d964b508565a</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>101f3749-ba2b-4a68-bfb2-7ba8db794c90<br><b>parent:&emsp;</b>aaa23796-b092-47b5-a56f-ada0580c4316<br><b>children:&emsp;</b> aaa2170e-d0ed-4d89-a1e6-d964b508565a</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 That's a great question! The choice of the potential energy term in the context of a loss function in machine learning can indeed be influenced by various physical analogies, and it can vary based on the specific properties and behaviors you want to capture in your model. Let's break down the reasoning behind using Mean Squared Error (MSE) versus a linear term, as well as the implications of each.
 
@@ -878,111 +631,72 @@ Ultimately, the choice between MSE and a linear term (or even other forms of pot
 
 If you want to explore specific scenarios or ideas for combining different forms of potential energy in your loss functions, I'd be happy to discuss those further!
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 5](#tp-5) || [this 6](#tp-6) || [next 7 ▸](#tp-7) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 640 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 5](#tp-5) || [this 6](#tp-6) || [next 7 ▸](#tp-7) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-7'></a>
-## **Turnpair 7 of 48** ∷<br><sub><sub>@ 2024-10-28 09:59:25 Mon [𝜟t 0d 00h 02m 28s]</sub></sub>
+## **Conversation 069, Turnpair 7 of 48** ∷<br><sub><sub>@ 2024-10-28 09:59:25 Mon [𝜟t 0d 00h 02m 28s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2170e-d0ed-4d89-a1e6-d964b508565a</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>101f3749-ba2b-4a68-bfb2-7ba8db794c90</em><br>
-        <em><b>children:&nbsp;</b> ccc3930f-04f2-4efe-8bc6-3b88fa46487e</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2170e-d0ed-4d89-a1e6-d964b508565a<br><b>parent:&emsp;</b>101f3749-ba2b-4a68-bfb2-7ba8db794c90<br><b>children:&emsp;</b> ccc3930f-04f2-4efe-8bc6-3b88fa46487e</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 I like the smoothness aspect. This seems more appropriate for backpropagation in all contexts. Besides, linear potential due to gravity is actually a local limit approximation to actual gravitational potential which reflects a power law inverse square relationship.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 6](#tp-6) || [this 7](#tp-7) || [next 8 ▸](#tp-8) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>ccc3930f-04f2-4efe-8bc6-3b88fa46487e</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa2170e-d0ed-4d89-a1e6-d964b508565a</em><br>
-        <em><b>children:&nbsp;</b> 167f4a9d-a98d-44e0-afaa-5d028f4b7107</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>ccc3930f-04f2-4efe-8bc6-3b88fa46487e<br><b>parent:&emsp;</b>aaa2170e-d0ed-4d89-a1e6-d964b508565a<br><b>children:&emsp;</b> 167f4a9d-a98d-44e0-afaa-5d028f4b7107</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 User prefers using smooth loss functions, like Mean Squared Error (MSE), for backpropagation in all contexts due to their differentiability and appropriateness for optimization. They recognize that linear potential due to gravity is a local limit approximation to the actual gravitational potential, which follows a power law inverse square relationship.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 6](#tp-6) || [this 7](#tp-7) || [next 8 ▸](#tp-8) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 687 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 6](#tp-6) || [this 7](#tp-7) || [next 8 ▸](#tp-8) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
-
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>90ed1933-4b6c-4e0b-8876-3af887083602</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>167f4a9d-a98d-44e0-afaa-5d028f4b7107</em><br>
-        <em><b>children:&nbsp;</b> aaa2e028-6e46-452a-bb72-dfa5d2d98d63</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>90ed1933-4b6c-4e0b-8876-3af887083602<br><b>parent:&emsp;</b>167f4a9d-a98d-44e0-afaa-5d028f4b7107<br><b>children:&emsp;</b> aaa2e028-6e46-452a-bb72-dfa5d2d98d63</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 Absolutely! You make a solid point about the smoothness of loss functions. The differentiability of functions like MSE allows for more effective gradient-based optimization, which is crucial for training neural networks. 
 
@@ -1020,73 +734,50 @@ In machine learning, especially in deep learning and GCNs, using loss functions 
 
 Given these considerations, sticking with smooth loss functions like MSE seems well-justified, especially in the context of neural networks where optimization dynamics are crucial. If you have further thoughts on this topic or want to explore specific aspects, feel free to share!
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 6](#tp-6) || [this 7](#tp-7) || [next 8 ▸](#tp-8) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 743 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 6](#tp-6) || [this 7](#tp-7) || [next 8 ▸](#tp-8) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-8'></a>
-## **Turnpair 8 of 48** ∷<br><sub><sub>@ 2024-10-28 10:00:49 Mon [𝜟t 0d 00h 01m 16s]</sub></sub>
+## **Conversation 069, Turnpair 8 of 48** ∷<br><sub><sub>@ 2024-10-28 10:00:49 Mon [𝜟t 0d 00h 01m 16s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2e028-6e46-452a-bb72-dfa5d2d98d63</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>90ed1933-4b6c-4e0b-8876-3af887083602</em><br>
-        <em><b>children:&nbsp;</b> 83eef654-1e27-4226-921e-f9f94a67c981</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2e028-6e46-452a-bb72-dfa5d2d98d63<br><b>parent:&emsp;</b>90ed1933-4b6c-4e0b-8876-3af887083602<br><b>children:&emsp;</b> 83eef654-1e27-4226-921e-f9f94a67c981</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 Would there be a clever simple way to 'select' between MSE vs linear potential forms of lagrangian to simplify computations for small-signal linear regimes?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 7](#tp-7) || [this 8](#tp-8) || [next 9 ▸](#tp-9) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>409914f1-cbc9-4d8c-8b51-8d827de12914</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>83eef654-1e27-4226-921e-f9f94a67c981</em><br>
-        <em><b>children:&nbsp;</b> aaa204ac-0b99-4d26-ae1c-2310aa55938a</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>409914f1-cbc9-4d8c-8b51-8d827de12914<br><b>parent:&emsp;</b>83eef654-1e27-4226-921e-f9f94a67c981<br><b>children:&emsp;</b> aaa204ac-0b99-4d26-ae1c-2310aa55938a</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 Yes, there are clever strategies to dynamically select between Mean Squared Error (MSE) and a linear potential form of the Lagrangian, especially in small-signal linear regimes. This approach can simplify computations and provide the benefits of both methods based on the operational context. Here are a few methods to achieve this:
 
@@ -1168,73 +859,50 @@ These approaches allow you to leverage the strengths of both loss functions, ens
 
 Using dynamic selection or a combination of loss functions based on the context will allow for computational efficiency and potentially improved model performance. If you have further thoughts on this or need help with implementation, feel free to ask!
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 7](#tp-7) || [this 8](#tp-8) || [next 9 ▸](#tp-9) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 868 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 7](#tp-7) || [this 8](#tp-8) || [next 9 ▸](#tp-9) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-9'></a>
-## **Turnpair 9 of 48** ∷<br><sub><sub>@ 2024-10-28 10:05:15 Mon [𝜟t 0d 00h 04m 14s]</sub></sub>
+## **Conversation 069, Turnpair 9 of 48** ∷<br><sub><sub>@ 2024-10-28 10:05:15 Mon [𝜟t 0d 00h 04m 14s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa204ac-0b99-4d26-ae1c-2310aa55938a</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>409914f1-cbc9-4d8c-8b51-8d827de12914</em><br>
-        <em><b>children:&nbsp;</b> 81cc1516-b6e4-4de6-8baa-bc2412b51c49</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa204ac-0b99-4d26-ae1c-2310aa55938a<br><b>parent:&emsp;</b>409914f1-cbc9-4d8c-8b51-8d827de12914<br><b>children:&emsp;</b> 81cc1516-b6e4-4de6-8baa-bc2412b51c49</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 How would I make the thresholds learnable parameters, allowing the model to adaptively choose between these three regimes? Like, how would I actually implement that as part of the 'learning' that the model undergoes as it back propagates and calculates the piecewise loss function?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 8](#tp-8) || [this 9](#tp-9) || [next 10 ▸](#tp-10) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>81cc1516-b6e4-4de6-8baa-bc2412b51c49</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa204ac-0b99-4d26-ae1c-2310aa55938a</em><br>
-        <em><b>children:&nbsp;</b> aaa27ad9-8929-413d-8741-211a86729994</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>81cc1516-b6e4-4de6-8baa-bc2412b51c49<br><b>parent:&emsp;</b>aaa204ac-0b99-4d26-ae1c-2310aa55938a<br><b>children:&emsp;</b> aaa27ad9-8929-413d-8741-211a86729994</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 To implement learnable thresholds that allow the model to adaptively choose between different loss regimes (small signal, moderate errors, and large errors), you can incorporate the thresholds as trainable parameters. This way, they can be adjusted during the backpropagation process along with the model's weights. Below is a step-by-step guide on how to achieve this, along with code examples.
 
@@ -1319,73 +987,50 @@ for data, targets in dataloader:  # Assuming dataloader is defined
 
 Feel free to adjust the initialization of the thresholds or the conditions for the piecewise loss to fit your specific use case better! If you have further questions or need additional help with the implementation, let me know!
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 8](#tp-8) || [this 9](#tp-9) || [next 10 ▸](#tp-10) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 996 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 8](#tp-8) || [this 9](#tp-9) || [next 10 ▸](#tp-10) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-10'></a>
-## **Turnpair 10 of 48** ∷<br><sub><sub>@ 2024-10-28 10:07:58 Mon [𝜟t 0d 00h 02m 30s]</sub></sub>
+## **Conversation 069, Turnpair 10 of 48** ∷<br><sub><sub>@ 2024-10-28 10:07:58 Mon [𝜟t 0d 00h 02m 30s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa27ad9-8929-413d-8741-211a86729994</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>81cc1516-b6e4-4de6-8baa-bc2412b51c49</em><br>
-        <em><b>children:&nbsp;</b> c8f2393f-ab45-4319-a3b4-d020303c179c</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa27ad9-8929-413d-8741-211a86729994<br><b>parent:&emsp;</b>81cc1516-b6e4-4de6-8baa-bc2412b51c49<br><b>children:&emsp;</b> c8f2393f-ab45-4319-a3b4-d020303c179c</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 Now show how to implement this in the previous context of using action minimization as the loss function
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 9](#tp-9) || [this 10](#tp-10) || [next 11 ▸](#tp-11) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>c8f2393f-ab45-4319-a3b4-d020303c179c</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa27ad9-8929-413d-8741-211a86729994</em><br>
-        <em><b>children:&nbsp;</b> aaa29fe7-6667-45b8-bbc5-b092d1a3fd02</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>c8f2393f-ab45-4319-a3b4-d020303c179c<br><b>parent:&emsp;</b>aaa27ad9-8929-413d-8741-211a86729994<br><b>children:&emsp;</b> aaa29fe7-6667-45b8-bbc5-b092d1a3fd02</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 Sure! To integrate learnable thresholds for adaptive loss selection into the context of using action minimization as the loss function, we'll modify the previous implementation of the action minimization approach. This will involve incorporating the adaptive thresholds into the calculation of the kinetic and potential energies, allowing for a piecewise loss function that can switch between Mean Squared Error (MSE) and linear potential based on the learned thresholds.
 
@@ -1480,73 +1125,50 @@ This implementation integrates the concept of adaptive thresholds into the actio
 
 If you have further questions or want to explore additional modifications, feel free to ask!
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 9](#tp-9) || [this 10](#tp-10) || [next 11 ▸](#tp-11) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 1134 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 9](#tp-9) || [this 10](#tp-10) || [next 11 ▸](#tp-11) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-11'></a>
-## **Turnpair 11 of 48** ∷<br><sub><sub>@ 2024-10-28 10:10:54 Mon [𝜟t 0d 00h 02m 42s]</sub></sub>
+## **Conversation 069, Turnpair 11 of 48** ∷<br><sub><sub>@ 2024-10-28 10:10:54 Mon [𝜟t 0d 00h 02m 42s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa29fe7-6667-45b8-bbc5-b092d1a3fd02</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>c8f2393f-ab45-4319-a3b4-d020303c179c</em><br>
-        <em><b>children:&nbsp;</b> 091ab2eb-89e0-4642-9cfb-4119312f9f69</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa29fe7-6667-45b8-bbc5-b092d1a3fd02<br><b>parent:&emsp;</b>c8f2393f-ab45-4319-a3b4-d020303c179c<br><b>children:&emsp;</b> 091ab2eb-89e0-4642-9cfb-4119312f9f69</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 Please thoughtfully criticize the application of the least-action principle applied in this context. Please bear in mind as you do so, that the application asserts as a postulate that dynamic complex systems (including information systems) obey the fundamental least-action principle that defines straight line motion in spacetime, the fundamental fabric of reality.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 10](#tp-10) || [this 11](#tp-11) || [next 12 ▸](#tp-12) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>091ab2eb-89e0-4642-9cfb-4119312f9f69</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa29fe7-6667-45b8-bbc5-b092d1a3fd02</em><br>
-        <em><b>children:&nbsp;</b> aaa29693-0c9e-4019-a3e8-43c8d7684419</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>091ab2eb-89e0-4642-9cfb-4119312f9f69<br><b>parent:&emsp;</b>aaa29fe7-6667-45b8-bbc5-b092d1a3fd02<br><b>children:&emsp;</b> aaa29693-0c9e-4019-a3e8-43c8d7684419</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 The application of the least-action principle (LAP) in the context of machine learning, especially in dynamic complex systems like Graph Convolutional Networks (GCNs), is both intriguing and complex. Here are some critical reflections on this approach, considering the foundational implications of the LAP as a postulate that dynamic systems obey this principle:
 
@@ -1586,75 +1208,52 @@ While the least-action principle presents a fascinating framework for thinking a
 
 In essence, while the postulate that dynamic complex systems obey the least-action principle can inspire innovative approaches, its implications must be critically examined to address potential limitations and align with the realities of complex system behavior. This reflection can guide further research and development in applying the LAP within computational frameworks, promoting a more robust and comprehensive understanding of dynamic systems.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 10](#tp-10) || [this 11](#tp-11) || [next 12 ▸](#tp-12) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 1217 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 10](#tp-10) || [this 11](#tp-11) || [next 12 ▸](#tp-12) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-12'></a>
-## **Turnpair 12 of 48** ∷<br><sub><sub>@ 2024-10-28 10:20:35 Mon [𝜟t 0d 00h 09m 28s]</sub></sub>
+## **Conversation 069, Turnpair 12 of 48** ∷<br><sub><sub>@ 2024-10-28 10:20:35 Mon [𝜟t 0d 00h 09m 28s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa29693-0c9e-4019-a3e8-43c8d7684419</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>091ab2eb-89e0-4642-9cfb-4119312f9f69</em><br>
-        <em><b>children:&nbsp;</b> 67342825-8885-4374-a98c-191463b50488</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa29693-0c9e-4019-a3e8-43c8d7684419<br><b>parent:&emsp;</b>091ab2eb-89e0-4642-9cfb-4119312f9f69<br><b>children:&emsp;</b> 67342825-8885-4374-a98c-191463b50488</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 Would LAP be more appropriate if we treated the weights of each parameter as the analog to 'mass' in kinetic and potential terms?
 
 Also, this generalized LAP approach is intended to capture the essence of causality, where the kinetic energy parameter would need to extend to higher derivatives for abrupt nonlinear motion, where, change in acceleration (or jerk, two time derivatives higher than the kinetic term state variable) is defined by having higher order derivatives equal to zero. Does this make sense?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 11](#tp-11) || [this 12](#tp-12) || [next 13 ▸](#tp-13) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>67342825-8885-4374-a98c-191463b50488</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa29693-0c9e-4019-a3e8-43c8d7684419</em><br>
-        <em><b>children:&nbsp;</b> aaa23163-1150-424c-bcd8-77decc563e23</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>67342825-8885-4374-a98c-191463b50488<br><b>parent:&emsp;</b>aaa29693-0c9e-4019-a3e8-43c8d7684419<br><b>children:&emsp;</b> aaa23163-1150-424c-bcd8-77decc563e23</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 Yes, treating the weights of each parameter in a neural network as analogous to "mass" in the context of kinetic and potential energy can provide a more meaningful interpretation of the least-action principle (LAP) in machine learning models. This analogy can enhance the understanding of how the learning dynamics of the model relate to physical principles. Here’s how this analogy works and how it connects to your idea about extending the concept to higher derivatives for capturing abrupt nonlinear motion:
 
@@ -1700,51 +1299,40 @@ Incorporating the analogy of weights as mass and extending the concept of kineti
 
 By acknowledging the role of higher-order derivatives in the learning process, you can design more sophisticated models that can respond to abrupt changes and maintain stability, further enhancing the connection between physical principles and machine learning dynamics. If you have further thoughts or questions on this concept, feel free to share!
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 11](#tp-11) || [this 12](#tp-12) || [next 13 ▸](#tp-13) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 1308 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 11](#tp-11) || [this 12](#tp-12) || [next 13 ▸](#tp-13) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-13'></a>
-## **Turnpair 13 of 48** ∷<br><sub><sub>@ 2024-10-28 10:24:45 Mon [𝜟t 0d 00h 03m 57s]</sub></sub>
+## **Conversation 069, Turnpair 13 of 48** ∷<br><sub><sub>@ 2024-10-28 10:24:45 Mon [𝜟t 0d 00h 03m 57s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa23163-1150-424c-bcd8-77decc563e23</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>67342825-8885-4374-a98c-191463b50488</em><br>
-        <em><b>children:&nbsp;</b> 692b174c-705c-46c2-9efb-c6470b101d6e</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa23163-1150-424c-bcd8-77decc563e23<br><b>parent:&emsp;</b>67342825-8885-4374-a98c-191463b50488<br><b>children:&emsp;</b> 692b174c-705c-46c2-9efb-c6470b101d6e</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 When you provide mass and weight in the same kinetic term, how would you relate mass to weight? Would we need to incorporate a gravitational constant term to reflect the W=mg relationship? T= 
 2
@@ -1767,25 +1355,13 @@ i
  ) 
 2
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 12](#tp-12) || [this 13](#tp-13) || [next 14 ▸](#tp-14) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>692b174c-705c-46c2-9efb-c6470b101d6e</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa23163-1150-424c-bcd8-77decc563e23</em><br>
-        <em><b>children:&nbsp;</b> aaa2f652-c266-40db-b598-cefdbc38005d</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>692b174c-705c-46c2-9efb-c6470b101d6e<br><b>parent:&emsp;</b>aaa23163-1150-424c-bcd8-77decc563e23<br><b>children:&emsp;</b> aaa2f652-c266-40db-b598-cefdbc38005d</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 When discussing mass and weight in the context of kinetic energy within the least-action principle applied to a machine learning model, it’s important to clarify the relationship between mass and weight, particularly if we want to keep the framework coherent.
 
@@ -1845,73 +1421,50 @@ Incorporating both mass and weight in your kinetic energy expression provides a 
 
 This adjustment allows for an analogical framework that reflects the physical realities of motion and force, making the application of LAP in machine learning more robust and interpretable. If you have further questions or wish to delve deeper into any specific aspect, let me know!
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 12](#tp-12) || [this 13](#tp-13) || [next 14 ▸](#tp-14) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 1430 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 12](#tp-12) || [this 13](#tp-13) || [next 14 ▸](#tp-14) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-14'></a>
-## **Turnpair 14 of 48** ∷<br><sub><sub>@ 2024-10-28 10:25:58 Mon [𝜟t 0d 00h 01m 02s]</sub></sub>
+## **Conversation 069, Turnpair 14 of 48** ∷<br><sub><sub>@ 2024-10-28 10:25:58 Mon [𝜟t 0d 00h 01m 02s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2f652-c266-40db-b598-cefdbc38005d</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>692b174c-705c-46c2-9efb-c6470b101d6e</em><br>
-        <em><b>children:&nbsp;</b> 7f96af38-afa4-45ee-a8ae-4e5f4cace10a</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2f652-c266-40db-b598-cefdbc38005d<br><b>parent:&emsp;</b>692b174c-705c-46c2-9efb-c6470b101d6e<br><b>children:&emsp;</b> 7f96af38-afa4-45ee-a8ae-4e5f4cace10a</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 I think we would want W and w in the partial derivative to be the same quantity, no?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 13](#tp-13) || [this 14](#tp-14) || [next 15 ▸](#tp-15) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>7f96af38-afa4-45ee-a8ae-4e5f4cace10a</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa2f652-c266-40db-b598-cefdbc38005d</em><br>
-        <em><b>children:&nbsp;</b> aaa26249-e3c4-45e7-b4b0-cb2686d9b530</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>7f96af38-afa4-45ee-a8ae-4e5f4cace10a<br><b>parent:&emsp;</b>aaa2f652-c266-40db-b598-cefdbc38005d<br><b>children:&emsp;</b> aaa26249-e3c4-45e7-b4b0-cb2686d9b530</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 You're correct! For clarity and consistency, we should ensure that the terms we are using in the kinetic energy expression are directly related to the same underlying quantity. If $W$ represents the weight, and we are considering the changes in that quantity in relation to the loss function, then it makes sense to use the same symbol.
 
@@ -1952,73 +1505,50 @@ By ensuring that $W$ and $w$ refer to the same quantity in the context of the ki
 
 If you have any further thoughts or additional adjustments you'd like to explore, feel free to share!
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 13](#tp-13) || [this 14](#tp-14) || [next 15 ▸](#tp-15) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 1514 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 13](#tp-13) || [this 14](#tp-14) || [next 15 ▸](#tp-15) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-15'></a>
-## **Turnpair 15 of 48** ∷<br><sub><sub>@ 2024-10-28 10:28:53 Mon [𝜟t 0d 00h 02m 46s]</sub></sub>
+## **Conversation 069, Turnpair 15 of 48** ∷<br><sub><sub>@ 2024-10-28 10:28:53 Mon [𝜟t 0d 00h 02m 46s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa26249-e3c4-45e7-b4b0-cb2686d9b530</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>7f96af38-afa4-45ee-a8ae-4e5f4cace10a</em><br>
-        <em><b>children:&nbsp;</b> 6d3e5b60-72f6-485a-ad90-20cff2b79212</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa26249-e3c4-45e7-b4b0-cb2686d9b530<br><b>parent:&emsp;</b>7f96af38-afa4-45ee-a8ae-4e5f4cace10a<br><b>children:&emsp;</b> 6d3e5b60-72f6-485a-ad90-20cff2b79212</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 What would the physical/informational significance of g be in the context of a neural network, and how would we go about adjusting g? We have to remember that in W=mg relationship, g is only a constant because this is the small-signal linear approximation of the greater non-linear gravitational potential relationship of two massive bodies. Would a constant g signify that our model training increment factor is sufficiently small to justify this local approximation?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 14](#tp-14) || [this 15](#tp-15) || [next 16 ▸](#tp-16) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>6d3e5b60-72f6-485a-ad90-20cff2b79212</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa26249-e3c4-45e7-b4b0-cb2686d9b530</em><br>
-        <em><b>children:&nbsp;</b> aaa2aad7-dc9b-428d-9309-6787bbe48c3b</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>6d3e5b60-72f6-485a-ad90-20cff2b79212<br><b>parent:&emsp;</b>aaa26249-e3c4-45e7-b4b0-cb2686d9b530<br><b>children:&emsp;</b> aaa2aad7-dc9b-428d-9309-6787bbe48c3b</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 The inclusion of $g$ in the context of a neural network, particularly when relating it to the weight of parameters through the equation $W = mg$, can carry significant physical and informational implications. Here’s a breakdown of what $g$ could represent and how it might be adjusted within a learning framework.
 
@@ -2056,73 +1586,50 @@ In summary, the constant $g$ in the $W = mg$ relationship within a neural networ
 
 This approach not only enriches the modeling of neural networks through physical analogies but also provides practical insights into optimizing training dynamics. If you have further thoughts on this topic or wish to explore specific implementations, let me know!
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 14](#tp-14) || [this 15](#tp-15) || [next 16 ▸](#tp-16) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 1595 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 14](#tp-14) || [this 15](#tp-15) || [next 16 ▸](#tp-16) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-16'></a>
-## **Turnpair 16 of 48** ∷<br><sub><sub>@ 2024-10-28 10:34:53 Mon [𝜟t 0d 00h 05m 48s]</sub></sub>
+## **Conversation 069, Turnpair 16 of 48** ∷<br><sub><sub>@ 2024-10-28 10:34:53 Mon [𝜟t 0d 00h 05m 48s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2aad7-dc9b-428d-9309-6787bbe48c3b</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>6d3e5b60-72f6-485a-ad90-20cff2b79212</em><br>
-        <em><b>children:&nbsp;</b> 0d545eb7-02fd-4cb5-9c07-4f3c9befd0d9</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2aad7-dc9b-428d-9309-6787bbe48c3b<br><b>parent:&emsp;</b>6d3e5b60-72f6-485a-ad90-20cff2b79212<br><b>children:&emsp;</b> 0d545eb7-02fd-4cb5-9c07-4f3c9befd0d9</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 This would naturally suggest that stable solutions/states entail a g that approaches infinity, which would force the kinetic loss terms to zero, leaving only potential terms which if nonzero would imply that the solution is either a local minima or maxima thus the model needs to explore the solution space. Would you agree?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 15](#tp-15) || [this 16](#tp-16) || [next 17 ▸](#tp-17) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>0d545eb7-02fd-4cb5-9c07-4f3c9befd0d9</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa2aad7-dc9b-428d-9309-6787bbe48c3b</em><br>
-        <em><b>children:&nbsp;</b> aaa222e7-039c-4185-89c5-14ff9a5b9553</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>0d545eb7-02fd-4cb5-9c07-4f3c9befd0d9<br><b>parent:&emsp;</b>aaa2aad7-dc9b-428d-9309-6787bbe48c3b<br><b>children:&emsp;</b> aaa222e7-039c-4185-89c5-14ff9a5b9553</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 Yes, your reasoning aligns well with the concepts of stability and exploration in the context of neural network training through the lens of the least-action principle. Here’s a breakdown of your argument and its implications:
 
@@ -2158,73 +1665,50 @@ Your conclusion that stable solutions with $g$ approaching infinity would force 
 
 In practice, leveraging this understanding can help guide the design of learning algorithms that maintain balance between stability (convergence) and exploration (discovery of better solutions). If you wish to explore specific methods for implementing these ideas or have additional inquiries, feel free to ask!
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 15](#tp-15) || [this 16](#tp-16) || [next 17 ▸](#tp-17) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 1674 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 15](#tp-15) || [this 16](#tp-16) || [next 17 ▸](#tp-17) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-17'></a>
-## **Turnpair 17 of 48** ∷<br><sub><sub>@ 2024-10-28 10:40:00 Mon [𝜟t 0d 00h 04m 57s]</sub></sub>
+## **Conversation 069, Turnpair 17 of 48** ∷<br><sub><sub>@ 2024-10-28 10:40:00 Mon [𝜟t 0d 00h 04m 57s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa222e7-039c-4185-89c5-14ff9a5b9553</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>0d545eb7-02fd-4cb5-9c07-4f3c9befd0d9</em><br>
-        <em><b>children:&nbsp;</b> cf5001b6-0d37-42f9-a501-4e36b955b0dc</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa222e7-039c-4185-89c5-14ff9a5b9553<br><b>parent:&emsp;</b>0d545eb7-02fd-4cb5-9c07-4f3c9befd0d9<br><b>children:&emsp;</b> cf5001b6-0d37-42f9-a501-4e36b955b0dc</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 I think an escalating perturbation routine would be natural to apply to situations where g has  converged on a very large number. If the system is incapable of perturbing the state to a point where the kinetic energy is _greater_ then the potential energy's well (be it falling out the well and down to a deeper minima, or falling out the well and up to a higher maxima) then this would serve as a conclusion that without some sort of external force (to provide more energy to the system) then the system is in its global maxima or minima (as in, it is as optimized as it is physically capable of being)
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 16](#tp-16) || [this 17](#tp-17) || [next 18 ▸](#tp-18) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>cf5001b6-0d37-42f9-a501-4e36b955b0dc</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa222e7-039c-4185-89c5-14ff9a5b9553</em><br>
-        <em><b>children:&nbsp;</b> aaa2d3a1-0cb6-42b1-9f1b-746cf8a1ffa3</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>cf5001b6-0d37-42f9-a501-4e36b955b0dc<br><b>parent:&emsp;</b>aaa222e7-039c-4185-89c5-14ff9a5b9553<br><b>children:&emsp;</b> aaa2d3a1-0cb6-42b1-9f1b-746cf8a1ffa3</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 Your insight about applying an escalating perturbation routine in situations where $g$ has converged to a very large number is indeed a thoughtful approach to handling the exploration-exploitation trade-off in the training of neural networks. Let’s break this down further:
 
@@ -2261,73 +1745,50 @@ Your insight about applying an escalating perturbation routine in situations whe
 
 This comprehensive approach provides a structured methodology for navigating the optimization landscape of neural networks, allowing for both stability and the capacity to escape local traps. If you have further thoughts or would like to discuss specific implementations or adjustments to this routine, feel free to share!
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 16](#tp-16) || [this 17](#tp-17) || [next 18 ▸](#tp-18) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 1754 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 16](#tp-16) || [this 17](#tp-17) || [next 18 ▸](#tp-18) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-18'></a>
-## **Turnpair 18 of 48** ∷<br><sub><sub>@ 2024-10-28 10:44:56 Mon [𝜟t 0d 00h 04m 48s]</sub></sub>
+## **Conversation 069, Turnpair 18 of 48** ∷<br><sub><sub>@ 2024-10-28 10:44:56 Mon [𝜟t 0d 00h 04m 48s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2d3a1-0cb6-42b1-9f1b-746cf8a1ffa3</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>cf5001b6-0d37-42f9-a501-4e36b955b0dc</em><br>
-        <em><b>children:&nbsp;</b> 8c160f28-e541-4fad-a9d6-e2159de1998f</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2d3a1-0cb6-42b1-9f1b-746cf8a1ffa3<br><b>parent:&emsp;</b>cf5001b6-0d37-42f9-a501-4e36b955b0dc<br><b>children:&emsp;</b> 8c160f28-e541-4fad-a9d6-e2159de1998f</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 Ok, how would I actually implement g in code. However it happens, it must depend linearly on model weights in the local limit due to the constraint we impose on the loss function, where we assert smoothness (because otherwise the gradient backpropagation would not work well, which we know it does work very well by experience)
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 17](#tp-17) || [this 18](#tp-18) || [next 19 ▸](#tp-19) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>8c160f28-e541-4fad-a9d6-e2159de1998f</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa2d3a1-0cb6-42b1-9f1b-746cf8a1ffa3</em><br>
-        <em><b>children:&nbsp;</b> aaa21e1d-7232-4ba1-a5cd-07682c04bf6f</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>8c160f28-e541-4fad-a9d6-e2159de1998f<br><b>parent:&emsp;</b>aaa2d3a1-0cb6-42b1-9f1b-746cf8a1ffa3<br><b>children:&emsp;</b> aaa21e1d-7232-4ba1-a5cd-07682c04bf6f</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 To implement $g$ in code such that it depends linearly on model weights and respects the smoothness constraint of the loss function, you can follow these steps. The key here is to ensure that $g$ is computed based on the weights of the model and adjust it dynamically during training. Below is a conceptual outline followed by an example implementation in Python using a framework like TensorFlow or PyTorch.
 
@@ -2426,73 +1887,50 @@ This example provides a basic structure to implement $g$ in a way that depends o
 
 If you have any further modifications or specific scenarios you'd like to explore in this implementation, feel free to let me know!
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 17](#tp-17) || [this 18](#tp-18) || [next 19 ▸](#tp-19) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 1896 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 17](#tp-17) || [this 18](#tp-18) || [next 19 ▸](#tp-19) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-19'></a>
-## **Turnpair 19 of 48** ∷<br><sub><sub>@ 2024-10-28 10:48:33 Mon [𝜟t 0d 00h 03m 28s]</sub></sub>
+## **Conversation 069, Turnpair 19 of 48** ∷<br><sub><sub>@ 2024-10-28 10:48:33 Mon [𝜟t 0d 00h 03m 28s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa21e1d-7232-4ba1-a5cd-07682c04bf6f</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>8c160f28-e541-4fad-a9d6-e2159de1998f</em><br>
-        <em><b>children:&nbsp;</b> 310bbee1-7781-4fe6-87a0-eb0a38caeb77</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa21e1d-7232-4ba1-a5cd-07682c04bf6f<br><b>parent:&emsp;</b>8c160f28-e541-4fad-a9d6-e2159de1998f<br><b>children:&emsp;</b> 310bbee1-7781-4fe6-87a0-eb0a38caeb77</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 There is something wrong. In order to properly determine the LAP loss, we need to calculate the expected action, and the actual action, taking the difference of the two integrals
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 18](#tp-18) || [this 19](#tp-19) || [next 20 ▸](#tp-20) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>310bbee1-7781-4fe6-87a0-eb0a38caeb77</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa21e1d-7232-4ba1-a5cd-07682c04bf6f</em><br>
-        <em><b>children:&nbsp;</b> aaa21739-c313-4f7f-93dd-1bd10d96fcad</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>310bbee1-7781-4fe6-87a0-eb0a38caeb77<br><b>parent:&emsp;</b>aaa21e1d-7232-4ba1-a5cd-07682c04bf6f<br><b>children:&emsp;</b> aaa21739-c313-4f7f-93dd-1bd10d96fcad</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 You're right. To compute the least-action principle (LAP) loss function correctly in the context of a neural network, we need to consider both the expected action and the actual action. This involves calculating the integrals of the action over the relevant trajectories and then taking the difference between them.
 
@@ -2597,73 +2035,50 @@ This example provides a more accurate framework for incorporating the least-acti
 
 If you have any specific considerations or additional adjustments you'd like to make to this implementation, please let me know!
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 18](#tp-18) || [this 19](#tp-19) || [next 20 ▸](#tp-20) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 2044 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 18](#tp-18) || [this 19](#tp-19) || [next 20 ▸](#tp-20) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-20'></a>
-## **Turnpair 20 of 48** ∷<br><sub><sub>@ 2024-10-28 10:50:04 Mon [𝜟t 0d 00h 01m 21s]</sub></sub>
+## **Conversation 069, Turnpair 20 of 48** ∷<br><sub><sub>@ 2024-10-28 10:50:04 Mon [𝜟t 0d 00h 01m 21s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa21739-c313-4f7f-93dd-1bd10d96fcad</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>310bbee1-7781-4fe6-87a0-eb0a38caeb77</em><br>
-        <em><b>children:&nbsp;</b> 7e498c34-6751-4216-8dbe-cd477e704d0e</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa21739-c313-4f7f-93dd-1bd10d96fcad<br><b>parent:&emsp;</b>310bbee1-7781-4fe6-87a0-eb0a38caeb77<br><b>children:&emsp;</b> 7e498c34-6751-4216-8dbe-cd477e704d0e</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 You are neglecting to incorporate the time integral, which in our case would be the discrete reimannian form
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 19](#tp-19) || [this 20](#tp-20) || [next 21 ▸](#tp-21) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>7e498c34-6751-4216-8dbe-cd477e704d0e</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa21739-c313-4f7f-93dd-1bd10d96fcad</em><br>
-        <em><b>children:&nbsp;</b> aaa22c7c-5e0d-4861-a914-a52fec8872b0</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>7e498c34-6751-4216-8dbe-cd477e704d0e<br><b>parent:&emsp;</b>aaa21739-c313-4f7f-93dd-1bd10d96fcad<br><b>children:&emsp;</b> aaa22c7c-5e0d-4861-a914-a52fec8872b0</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 You're correct. To properly implement the least-action principle (LAP) with a time integral in a discrete setting, we can utilize the Riemann sum to approximate the integral. This approach is particularly relevant when working with neural networks in a training loop where time is represented as discrete steps.
 
@@ -2781,73 +2196,50 @@ This implementation now properly incorporates the concept of a discrete Riemann 
 
 If you have further specifications or refinements you'd like to discuss or implement, let me know!
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 19](#tp-19) || [this 20](#tp-20) || [next 21 ▸](#tp-21) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 2205 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 19](#tp-19) || [this 20](#tp-20) || [next 21 ▸](#tp-21) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-21'></a>
-## **Turnpair 21 of 48** ∷<br><sub><sub>@ 2024-10-28 10:52:32 Mon [𝜟t 0d 00h 02m 16s]</sub></sub>
+## **Conversation 069, Turnpair 21 of 48** ∷<br><sub><sub>@ 2024-10-28 10:52:32 Mon [𝜟t 0d 00h 02m 16s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa22c7c-5e0d-4861-a914-a52fec8872b0</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>7e498c34-6751-4216-8dbe-cd477e704d0e</em><br>
-        <em><b>children:&nbsp;</b> e442dd5a-cd5d-448e-aa96-2872449e2659</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa22c7c-5e0d-4861-a914-a52fec8872b0<br><b>parent:&emsp;</b>7e498c34-6751-4216-8dbe-cd477e704d0e<br><b>children:&emsp;</b> e442dd5a-cd5d-448e-aa96-2872449e2659</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 wouldn't we want to have *= delta_t/time_steps within the for loop instead?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 20](#tp-20) || [this 21](#tp-21) || [next 22 ▸](#tp-22) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>e442dd5a-cd5d-448e-aa96-2872449e2659</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa22c7c-5e0d-4861-a914-a52fec8872b0</em><br>
-        <em><b>children:&nbsp;</b> aaa2392f-6fd5-48b7-a391-1a90f392028a</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>e442dd5a-cd5d-448e-aa96-2872449e2659<br><b>parent:&emsp;</b>aaa22c7c-5e0d-4861-a914-a52fec8872b0<br><b>children:&emsp;</b> aaa2392f-6fd5-48b7-a391-1a90f392028a</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 You’re correct! To correctly approximate the Riemann integral using the discrete time steps, the scaling factor $ \Delta t $ should indeed be applied within the loop that iterates over the time steps. This ensures that each contribution to the total action accounts for the duration of each time step appropriately.
 
@@ -2922,73 +2314,50 @@ This adjustment ensures the discrete action calculation aligns with the principl
 
 If you have further questions or adjustments in mind, feel free to ask!
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 20](#tp-20) || [this 21](#tp-21) || [next 22 ▸](#tp-22) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 2323 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 20](#tp-20) || [this 21](#tp-21) || [next 22 ▸](#tp-22) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-22'></a>
-## **Turnpair 22 of 48** ∷<br><sub><sub>@ 2024-10-28 10:53:53 Mon [𝜟t 0d 00h 01m 14s]</sub></sub>
+## **Conversation 069, Turnpair 22 of 48** ∷<br><sub><sub>@ 2024-10-28 10:53:53 Mon [𝜟t 0d 00h 01m 14s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2392f-6fd5-48b7-a391-1a90f392028a</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>e442dd5a-cd5d-448e-aa96-2872449e2659</em><br>
-        <em><b>children:&nbsp;</b> 16998bf4-fd8d-47d3-80cf-0d488a635637</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2392f-6fd5-48b7-a391-1a90f392028a<br><b>parent:&emsp;</b>e442dd5a-cd5d-448e-aa96-2872449e2659<br><b>children:&emsp;</b> 16998bf4-fd8d-47d3-80cf-0d488a635637</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 Now, what would the actual significance of 'delta_t' and 'timesteps' be in the context of a model processing an input?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 21](#tp-21) || [this 22](#tp-22) || [next 23 ▸](#tp-23) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>16998bf4-fd8d-47d3-80cf-0d488a635637</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa2392f-6fd5-48b7-a391-1a90f392028a</em><br>
-        <em><b>children:&nbsp;</b> aaa2ba92-ab15-47ee-b0fb-03f6791e68d9</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>16998bf4-fd8d-47d3-80cf-0d488a635637<br><b>parent:&emsp;</b>aaa2392f-6fd5-48b7-a391-1a90f392028a<br><b>children:&emsp;</b> aaa2ba92-ab15-47ee-b0fb-03f6791e68d9</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 In the context of a model processing an input, the parameters $\Delta t$ (delta_t) and `time_steps` serve specific roles in defining how the model interacts with sequential or temporal data. Let’s explore their significance in detail:
 
@@ -3025,73 +2394,50 @@ When designing a model that processes sequential or temporal data, the relations
 
 In summary, `time_steps` and $\Delta t$ are vital parameters in the context of processing inputs in temporal data models. They define how the model interprets and learns from sequential information, influencing everything from model performance to training efficiency. Adjusting these parameters allows practitioners to fine-tune models for specific tasks, ensuring they can capture the underlying dynamics of the data they are working with. If you have any further questions or need clarification, feel free to ask!
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 21](#tp-21) || [this 22](#tp-22) || [next 23 ▸](#tp-23) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 2403 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 21](#tp-21) || [this 22](#tp-22) || [next 23 ▸](#tp-23) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-23'></a>
-## **Turnpair 23 of 48** ∷<br><sub><sub>@ 2024-10-28 10:55:31 Mon [𝜟t 0d 00h 01m 29s]</sub></sub>
+## **Conversation 069, Turnpair 23 of 48** ∷<br><sub><sub>@ 2024-10-28 10:55:31 Mon [𝜟t 0d 00h 01m 29s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2ba92-ab15-47ee-b0fb-03f6791e68d9</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>16998bf4-fd8d-47d3-80cf-0d488a635637</em><br>
-        <em><b>children:&nbsp;</b> d7f6774e-07dc-43f9-8132-1bd846708324</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2ba92-ab15-47ee-b0fb-03f6791e68d9<br><b>parent:&emsp;</b>16998bf4-fd8d-47d3-80cf-0d488a635637<br><b>children:&emsp;</b> d7f6774e-07dc-43f9-8132-1bd846708324</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 What about steps within the model itself, such as the action of hidden layers and various computational steps that information must pass through before being output. Would this provide a better representation of 'timesteps' and 'delta_t'?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 22](#tp-22) || [this 23](#tp-23) || [next 24 ▸](#tp-24) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>d7f6774e-07dc-43f9-8132-1bd846708324</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa2ba92-ab15-47ee-b0fb-03f6791e68d9</em><br>
-        <em><b>children:&nbsp;</b> aaa24058-c1f9-4596-9a89-c5422a714897</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>d7f6774e-07dc-43f9-8132-1bd846708324<br><b>parent:&emsp;</b>aaa2ba92-ab15-47ee-b0fb-03f6791e68d9<br><b>children:&emsp;</b> aaa24058-c1f9-4596-9a89-c5422a714897</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 Yes, incorporating the concepts of `time_steps` and $\Delta t$ into the model's internal structure, particularly regarding hidden layers and the processing steps that information passes through, can indeed provide a richer and more nuanced representation of temporal dynamics. Here's how these ideas can be effectively integrated into a neural network's architecture:
 
@@ -3133,73 +2479,50 @@ By conceptualizing `time_steps` and $\Delta t$ in terms of hidden layers and the
 
 In summary, using layers as time steps and introducing dynamic updates to hidden states can significantly enrich the temporal modeling capabilities of neural networks, enabling them to capture intricate patterns and relationships in time-dependent data. If you have more specific aspects you'd like to explore or any questions about implementation, feel free to ask!
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 22](#tp-22) || [this 23](#tp-23) || [next 24 ▸](#tp-24) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 2488 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 22](#tp-22) || [this 23](#tp-23) || [next 24 ▸](#tp-24) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-24'></a>
-## **Turnpair 24 of 48** ∷<br><sub><sub>@ 2024-10-28 11:03:17 Mon [𝜟t 0d 00h 07m 38s]</sub></sub>
+## **Conversation 069, Turnpair 24 of 48** ∷<br><sub><sub>@ 2024-10-28 11:03:17 Mon [𝜟t 0d 00h 07m 38s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa24058-c1f9-4596-9a89-c5422a714897</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>d7f6774e-07dc-43f9-8132-1bd846708324</em><br>
-        <em><b>children:&nbsp;</b> 00258f88-1d0f-4ce8-aad4-5e182f39f4a8</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa24058-c1f9-4596-9a89-c5422a714897<br><b>parent:&emsp;</b>d7f6774e-07dc-43f9-8132-1bd846708324<br><b>children:&emsp;</b> 00258f88-1d0f-4ce8-aad4-5e182f39f4a8</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 I feel like the logically consistent way to proceed will be to define two timescales: the actual action is just delta_t_actual = 1, a straight line path for the action integral, whereas the predicted action is taken over steps, delta_t_predict*layersteps=delta_t_actual. This predicted action will deviate or veer from the straight line path, which will increase loss. If a deviating predicted loss converges on a path that is not straightline, then it implies that the actual action is not physically minimized, thus the model is constrained in an unnatural manner and needs to apply a transform to the lagrangian representation it is using to navigate the solution space (reality) itself. Does this make sense?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 23](#tp-23) || [this 24](#tp-24) || [next 25 ▸](#tp-25) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>00258f88-1d0f-4ce8-aad4-5e182f39f4a8</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa24058-c1f9-4596-9a89-c5422a714897</em><br>
-        <em><b>children:&nbsp;</b> aaa2215c-3776-4ff2-bb9a-3b7bf2377c87</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>00258f88-1d0f-4ce8-aad4-5e182f39f4a8<br><b>parent:&emsp;</b>aaa24058-c1f9-4596-9a89-c5422a714897<br><b>children:&emsp;</b> aaa2215c-3776-4ff2-bb9a-3b7bf2377c87</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 Yes, your reasoning makes sense and presents a compelling framework for understanding how to utilize two timescales—one for actual action and one for predicted action—in the context of a neural network model using the least-action principle. Let’s break down your concepts:
 
@@ -3237,73 +2560,50 @@ Your framework of defining two timescales—actual action as a straight-line pat
 
 If you have further questions or want to dive deeper into any specific aspect of this framework, feel free to ask!
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 23](#tp-23) || [this 24](#tp-24) || [next 25 ▸](#tp-25) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 2569 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 23](#tp-23) || [this 24](#tp-24) || [next 25 ▸](#tp-25) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-25'></a>
-## **Turnpair 25 of 48** ∷<br><sub><sub>@ 2024-10-28 11:08:48 Mon [𝜟t 0d 00h 05m 24s]</sub></sub>
+## **Conversation 069, Turnpair 25 of 48** ∷<br><sub><sub>@ 2024-10-28 11:08:48 Mon [𝜟t 0d 00h 05m 24s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2215c-3776-4ff2-bb9a-3b7bf2377c87</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>00258f88-1d0f-4ce8-aad4-5e182f39f4a8</em><br>
-        <em><b>children:&nbsp;</b> 4c13bed6-a746-4e69-8fb1-5ce58342d78e</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2215c-3776-4ff2-bb9a-3b7bf2377c87<br><b>parent:&emsp;</b>00258f88-1d0f-4ce8-aad4-5e182f39f4a8<br><b>children:&emsp;</b> 4c13bed6-a746-4e69-8fb1-5ce58342d78e</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 how is cosine similarity calculated for high dimensional embedding spaces?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 24](#tp-24) || [this 25](#tp-25) || [next 26 ▸](#tp-26) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>4c13bed6-a746-4e69-8fb1-5ce58342d78e</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa2215c-3776-4ff2-bb9a-3b7bf2377c87</em><br>
-        <em><b>children:&nbsp;</b> aaa266b1-5f8b-4b82-805b-c1aaa7920dc0</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>4c13bed6-a746-4e69-8fb1-5ce58342d78e<br><b>parent:&emsp;</b>aaa2215c-3776-4ff2-bb9a-3b7bf2377c87<br><b>children:&emsp;</b> aaa266b1-5f8b-4b82-805b-c1aaa7920dc0</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 Cosine similarity is a metric used to measure how similar two vectors are, regardless of their magnitude. It’s particularly useful in high-dimensional embedding spaces, such as those used in natural language processing or machine learning, where vectors represent complex data like words or images. Here's how it’s calculated and its significance in high-dimensional spaces:
 
@@ -3389,73 +2689,50 @@ $$
 
 Cosine similarity is a powerful measure for determining the similarity of high-dimensional vectors based on their direction rather than magnitude. This characteristic makes it particularly useful in various applications, such as natural language processing, where the focus is often on semantic similarity rather than vector size. If you have any further questions or would like to see a specific implementation example, feel free to ask!
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 24](#tp-24) || [this 25](#tp-25) || [next 26 ▸](#tp-26) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 2698 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 24](#tp-24) || [this 25](#tp-25) || [next 26 ▸](#tp-26) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-26'></a>
-## **Turnpair 26 of 48** ∷<br><sub><sub>@ 2024-10-28 11:09:38 Mon [𝜟t 0d 00h 00m 41s]</sub></sub>
+## **Conversation 069, Turnpair 26 of 48** ∷<br><sub><sub>@ 2024-10-28 11:09:38 Mon [𝜟t 0d 00h 00m 41s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa266b1-5f8b-4b82-805b-c1aaa7920dc0</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>4c13bed6-a746-4e69-8fb1-5ce58342d78e</em><br>
-        <em><b>children:&nbsp;</b> daf5304e-e6d6-4b6f-8bcc-c365d89a71ec</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa266b1-5f8b-4b82-805b-c1aaa7920dc0<br><b>parent:&emsp;</b>4c13bed6-a746-4e69-8fb1-5ce58342d78e<br><b>children:&emsp;</b> daf5304e-e6d6-4b6f-8bcc-c365d89a71ec</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 So is 0.941 the 'angle'?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 25](#tp-25) || [this 26](#tp-26) || [next 27 ▸](#tp-27) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>daf5304e-e6d6-4b6f-8bcc-c365d89a71ec</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa266b1-5f8b-4b82-805b-c1aaa7920dc0</em><br>
-        <em><b>children:&nbsp;</b> aaa209ae-bf82-47b5-972e-a7e33129ce94</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>daf5304e-e6d6-4b6f-8bcc-c365d89a71ec<br><b>parent:&emsp;</b>aaa266b1-5f8b-4b82-805b-c1aaa7920dc0<br><b>children:&emsp;</b> aaa209ae-bf82-47b5-972e-a7e33129ce94</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 No, the value of 0.941 is not the angle itself; it is the cosine of the angle between the two vectors $A$ and $B$. The cosine similarity measures how closely the two vectors are aligned in high-dimensional space based on their direction.
 
@@ -3506,73 +2783,50 @@ print(f"Angle in degrees: {angle_degrees}")
 
 If you run the calculation, you'll find that the angle corresponding to a cosine similarity of 0.941 is relatively small, confirming the strong similarity between the two vectors. If you have any more questions or need further clarification, feel free to ask!
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 25](#tp-25) || [this 26](#tp-26) || [next 27 ▸](#tp-27) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 2792 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 25](#tp-25) || [this 26](#tp-26) || [next 27 ▸](#tp-27) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-27'></a>
-## **Turnpair 27 of 48** ∷<br><sub><sub>@ 2024-10-28 11:10:24 Mon [𝜟t 0d 00h 00m 40s]</sub></sub>
+## **Conversation 069, Turnpair 27 of 48** ∷<br><sub><sub>@ 2024-10-28 11:10:24 Mon [𝜟t 0d 00h 00m 40s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa209ae-bf82-47b5-972e-a7e33129ce94</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>daf5304e-e6d6-4b6f-8bcc-c365d89a71ec</em><br>
-        <em><b>children:&nbsp;</b> b293abd7-8bac-4674-bb0b-9aaf1cc6707f</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa209ae-bf82-47b5-972e-a7e33129ce94<br><b>parent:&emsp;</b>daf5304e-e6d6-4b6f-8bcc-c365d89a71ec<br><b>children:&emsp;</b> b293abd7-8bac-4674-bb0b-9aaf1cc6707f</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 Do people every use phasors to capture both euclidean distance and angle at the same time for two embeddings?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 26](#tp-26) || [this 27](#tp-27) || [next 28 ▸](#tp-28) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>b293abd7-8bac-4674-bb0b-9aaf1cc6707f</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa209ae-bf82-47b5-972e-a7e33129ce94</em><br>
-        <em><b>children:&nbsp;</b> aaa2859e-a389-4c53-9806-e70f12cfe194</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>b293abd7-8bac-4674-bb0b-9aaf1cc6707f<br><b>parent:&emsp;</b>aaa209ae-bf82-47b5-972e-a7e33129ce94<br><b>children:&emsp;</b> aaa2859e-a389-4c53-9806-e70f12cfe194</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 Yes, phasors (or phasor representation) can be used to effectively capture both the Euclidean distance and the angle between two embeddings, particularly in contexts involving complex numbers or vector representations in the plane. This approach is common in fields such as signal processing, physics, and sometimes in machine learning when dealing with embeddings that exhibit periodic or oscillatory behavior. Here’s how phasors work in this context:
 
@@ -3651,73 +2905,50 @@ print(f"Angle (degrees): {np.degrees(angle)}")
 
 Using phasors provides a powerful way to represent and analyze relationships between embeddings, allowing for a combined understanding of both distance and angle. This can enhance performance in applications that benefit from considering both aspects simultaneously, particularly in complex or high-dimensional spaces. If you have further questions or want to explore a specific application, let me know!
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 26](#tp-26) || [this 27](#tp-27) || [next 28 ▸](#tp-28) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 2914 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 26](#tp-26) || [this 27](#tp-27) || [next 28 ▸](#tp-28) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-28'></a>
-## **Turnpair 28 of 48** ∷<br><sub><sub>@ 2024-10-28 11:11:35 Mon [𝜟t 0d 00h 01m 02s]</sub></sub>
+## **Conversation 069, Turnpair 28 of 48** ∷<br><sub><sub>@ 2024-10-28 11:11:35 Mon [𝜟t 0d 00h 01m 02s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2859e-a389-4c53-9806-e70f12cfe194</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>b293abd7-8bac-4674-bb0b-9aaf1cc6707f</em><br>
-        <em><b>children:&nbsp;</b> 1b61828d-b00e-45f6-8639-6e17a3ca094c</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2859e-a389-4c53-9806-e70f12cfe194<br><b>parent:&emsp;</b>b293abd7-8bac-4674-bb0b-9aaf1cc6707f<br><b>children:&emsp;</b> 1b61828d-b00e-45f6-8639-6e17a3ca094c</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 Is arctan a computationally expensive calculation?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 27](#tp-27) || [this 28](#tp-28) || [next 29 ▸](#tp-29) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>1b61828d-b00e-45f6-8639-6e17a3ca094c</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa2859e-a389-4c53-9806-e70f12cfe194</em><br>
-        <em><b>children:&nbsp;</b> aaa20d32-537e-4431-b814-1634fc121fec</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>1b61828d-b00e-45f6-8639-6e17a3ca094c<br><b>parent:&emsp;</b>aaa2859e-a389-4c53-9806-e70f12cfe194<br><b>children:&emsp;</b> aaa20d32-537e-4431-b814-1634fc121fec</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 The computational expense of the arctangent function $(\text{atan}$ or $\text{atan2})$ can vary based on the context and the hardware used, but in general, it is considered relatively fast compared to many other mathematical operations. Here’s a breakdown of factors influencing its computational cost:
 
@@ -3742,73 +2973,50 @@ The computational expense of the arctangent function $(\text{atan}$ or $\text{at
 ### **Conclusion**
 In summary, while $\text{atan}$ and $\text{atan2}$ are not as computationally intensive as some other mathematical operations, they still require more than just simple arithmetic. For most applications, especially in high-performance computing contexts, they are sufficiently efficient. However, it's always wise to consider the specific performance requirements of your application and test if the computational expense is significant in your use case. If you have any further questions or specific scenarios in mind, feel free to ask!
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 27](#tp-27) || [this 28](#tp-28) || [next 29 ▸](#tp-29) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 2982 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 27](#tp-27) || [this 28](#tp-28) || [next 29 ▸](#tp-29) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-29'></a>
-## **Turnpair 29 of 48** ∷<br><sub><sub>@ 2024-10-28 11:14:20 Mon [𝜟t 0d 00h 02m 39s]</sub></sub>
+## **Conversation 069, Turnpair 29 of 48** ∷<br><sub><sub>@ 2024-10-28 11:14:20 Mon [𝜟t 0d 00h 02m 39s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa20d32-537e-4431-b814-1634fc121fec</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>1b61828d-b00e-45f6-8639-6e17a3ca094c</em><br>
-        <em><b>children:&nbsp;</b> e39d520c-9afd-4d99-95f9-f6237d326eea</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa20d32-537e-4431-b814-1634fc121fec<br><b>parent:&emsp;</b>1b61828d-b00e-45f6-8639-6e17a3ca094c<br><b>children:&emsp;</b> e39d520c-9afd-4d99-95f9-f6237d326eea</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 How would complex number embeddings (as phasors) be leveraged to promote "Embedding Alignment ensures that outputs from diverse models are transformed into a standardized feature space for seamless integration."
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 28](#tp-28) || [this 29](#tp-29) || [next 30 ▸](#tp-30) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>e39d520c-9afd-4d99-95f9-f6237d326eea</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa20d32-537e-4431-b814-1634fc121fec</em><br>
-        <em><b>children:&nbsp;</b> aaa2d5c4-e054-4a76-b28b-21368e04153f</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>e39d520c-9afd-4d99-95f9-f6237d326eea<br><b>parent:&emsp;</b>aaa20d32-537e-4431-b814-1634fc121fec<br><b>children:&emsp;</b> aaa2d5c4-e054-4a76-b28b-21368e04153f</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 Leveraging complex number embeddings (or phasors) to promote embedding alignment can enhance the integration of outputs from diverse models by providing a unified feature representation. Here’s how this can be achieved:
 
@@ -3853,51 +3061,40 @@ Leveraging complex number embeddings (or phasors) to promote embedding alignment
 ### **Conclusion**
 Using complex number embeddings as phasors can significantly enhance embedding alignment across diverse models. By focusing on both magnitude and angle, this approach ensures that outputs can be seamlessly integrated into a standardized feature space. This can improve the robustness and performance of machine learning systems that rely on combining information from multiple sources. If you have specific applications or further questions in mind, let me know!
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 28](#tp-28) || [this 29](#tp-29) || [next 30 ▸](#tp-30) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 3070 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 28](#tp-28) || [this 29](#tp-29) || [next 30 ▸](#tp-30) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-30'></a>
-## **Turnpair 30 of 48** ∷<br><sub><sub>@ 2024-10-28 11:18:56 Mon [𝜟t 0d 00h 04m 28s]</sub></sub>
+## **Conversation 069, Turnpair 30 of 48** ∷<br><sub><sub>@ 2024-10-28 11:18:56 Mon [𝜟t 0d 00h 04m 28s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2d5c4-e054-4a76-b28b-21368e04153f</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>e39d520c-9afd-4d99-95f9-f6237d326eea</em><br>
-        <em><b>children:&nbsp;</b> 69e9b985-55f8-40eb-8608-8624ef14c550</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2d5c4-e054-4a76-b28b-21368e04153f<br><b>parent:&emsp;</b>e39d520c-9afd-4d99-95f9-f6237d326eea<br><b>children:&emsp;</b> 69e9b985-55f8-40eb-8608-8624ef14c550</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 1) What is this? Procrustes analysis
 2) How is this so? "Complex embeddings can represent nonlinear relationships more effectively than traditional Euclidean spaces. By leveraging the properties of phasors, you can capture interactions between features that may not be apparent in linear embeddings."
@@ -3905,25 +3102,13 @@ Using complex number embeddings as phasors can significantly enhance embedding a
 
 Basically, I think it would be very intuitive/reasonable to identify embeddings from different models with highly similar angles, then use the difference in their individual magnitudes to assign appropriate attention weights to each 'embedding feature head' for use by the larger GCN the smaller models feed into.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 29](#tp-29) || [this 30](#tp-30) || [next 31 ▸](#tp-31) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>69e9b985-55f8-40eb-8608-8624ef14c550</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa2d5c4-e054-4a76-b28b-21368e04153f</em><br>
-        <em><b>children:&nbsp;</b> aaa2cee3-06a6-48ef-a191-5666360250be</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>69e9b985-55f8-40eb-8608-8624ef14c550<br><b>parent:&emsp;</b>aaa2d5c4-e054-4a76-b28b-21368e04153f<br><b>children:&emsp;</b> aaa2cee3-06a6-48ef-a191-5666360250be</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 Let’s address your questions one by one:
 
@@ -3991,73 +3176,50 @@ Your approach to using the angles of embeddings from different models to identif
 ### Conclusion
 By leveraging phasor representations of embeddings, you can effectively align features from diverse models and utilize their magnitudes to inform attention mechanisms. This approach facilitates seamless integration into a standardized feature space, enhancing the performance and robustness of the overall model. If you have further questions or need more detailed examples, feel free to ask!
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 29](#tp-29) || [this 30](#tp-30) || [next 31 ▸](#tp-31) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 3185 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 29](#tp-29) || [this 30](#tp-30) || [next 31 ▸](#tp-31) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-31'></a>
-## **Turnpair 31 of 48** ∷<br><sub><sub>@ 2024-10-28 11:23:19 Mon [𝜟t 0d 00h 04m 11s]</sub></sub>
+## **Conversation 069, Turnpair 31 of 48** ∷<br><sub><sub>@ 2024-10-28 11:23:19 Mon [𝜟t 0d 00h 04m 11s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2cee3-06a6-48ef-a191-5666360250be</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>69e9b985-55f8-40eb-8608-8624ef14c550</em><br>
-        <em><b>children:&nbsp;</b> a049ed9a-0d9c-4452-bc16-4dfb6111f393</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2cee3-06a6-48ef-a191-5666360250be<br><b>parent:&emsp;</b>69e9b985-55f8-40eb-8608-8624ef14c550<br><b>children:&emsp;</b> a049ed9a-0d9c-4452-bc16-4dfb6111f393</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 How is this done in practice? "ensuring that the model integrates features based on both their direction (angle) and importance (magnitude)"
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 30](#tp-30) || [this 31](#tp-31) || [next 32 ▸](#tp-32) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>a049ed9a-0d9c-4452-bc16-4dfb6111f393</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa2cee3-06a6-48ef-a191-5666360250be</em><br>
-        <em><b>children:&nbsp;</b> aaa2bc0f-d599-441f-b79c-283ac1cbbb63</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>a049ed9a-0d9c-4452-bc16-4dfb6111f393<br><b>parent:&emsp;</b>aaa2cee3-06a6-48ef-a191-5666360250be<br><b>children:&emsp;</b> aaa2bc0f-d599-441f-b79c-283ac1cbbb63</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 Integrating features based on both their direction (angle) and importance (magnitude) in practice involves a series of steps that can be incorporated into a machine learning pipeline. Here’s how this can be accomplished, particularly in the context of neural networks and embedding spaces:
 
@@ -4141,73 +3303,50 @@ print("Final Embedding:", final_embedding)
 ### Conclusion
 This process ensures that the model effectively integrates features by considering both the angle (directionality) and magnitude (importance) of each embedding. By aligning features based on angles and weighting them by their magnitudes, you create a more robust representation that captures the underlying relationships in the data. This approach can improve the performance of machine learning models, especially in scenarios involving multiple sources of information or diverse feature sets. If you have more questions or specific scenarios to explore, feel free to ask!
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 30](#tp-30) || [this 31](#tp-31) || [next 32 ▸](#tp-32) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 3312 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 30](#tp-30) || [this 31](#tp-31) || [next 32 ▸](#tp-32) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-32'></a>
-## **Turnpair 32 of 48** ∷<br><sub><sub>@ 2024-10-28 11:26:15 Mon [𝜟t 0d 00h 02m 46s]</sub></sub>
+## **Conversation 069, Turnpair 32 of 48** ∷<br><sub><sub>@ 2024-10-28 11:26:15 Mon [𝜟t 0d 00h 02m 46s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2bc0f-d599-441f-b79c-283ac1cbbb63</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>a049ed9a-0d9c-4452-bc16-4dfb6111f393</em><br>
-        <em><b>children:&nbsp;</b> afeec0aa-5fb8-4adf-8d45-7ef98f3bddf0</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2bc0f-d599-441f-b79c-283ac1cbbb63<br><b>parent:&emsp;</b>a049ed9a-0d9c-4452-bc16-4dfb6111f393<br><b>children:&emsp;</b> afeec0aa-5fb8-4adf-8d45-7ef98f3bddf0</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 Does your code example provide a step where you check for angle similarity before calculating attention weights?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 31](#tp-31) || [this 32](#tp-32) || [next 33 ▸](#tp-33) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>1d68e374-c7d2-4d44-b969-186a80235e47</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>afeec0aa-5fb8-4adf-8d45-7ef98f3bddf0</em><br>
-        <em><b>children:&nbsp;</b> aaa236a5-5c6b-456f-8718-3bd6b4b9d915</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>1d68e374-c7d2-4d44-b969-186a80235e47<br><b>parent:&emsp;</b>afeec0aa-5fb8-4adf-8d45-7ef98f3bddf0<br><b>children:&emsp;</b> aaa236a5-5c6b-456f-8718-3bd6b4b9d915</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 Good observation! In the code example, I didn't include a step for checking angle similarity before calculating the attention weights. Let’s add that step so that we filter for embeddings with similar angles before assigning weights, which will further align features in the combined embedding.
 
@@ -4291,73 +3430,50 @@ print("Final Embedding:", final_embedding)
 
 This code now incorporates the angle similarity check before calculating attention weights, ensuring that only the aligned embeddings contribute to the final integrated embedding.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 31](#tp-31) || [this 32](#tp-32) || [next 33 ▸](#tp-33) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 3439 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 31](#tp-31) || [this 32](#tp-32) || [next 33 ▸](#tp-33) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-33'></a>
-## **Turnpair 33 of 48** ∷<br><sub><sub>@ 2024-10-28 11:29:03 Mon [𝜟t 0d 00h 02m 04s]</sub></sub>
+## **Conversation 069, Turnpair 33 of 48** ∷<br><sub><sub>@ 2024-10-28 11:29:03 Mon [𝜟t 0d 00h 02m 04s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa236a5-5c6b-456f-8718-3bd6b4b9d915</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>1d68e374-c7d2-4d44-b969-186a80235e47</em><br>
-        <em><b>children:&nbsp;</b> 2fa7ccc0-a4d0-45f7-a7be-d2089dba3d32</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa236a5-5c6b-456f-8718-3bd6b4b9d915<br><b>parent:&emsp;</b>1d68e374-c7d2-4d44-b969-186a80235e47<br><b>children:&emsp;</b> 2fa7ccc0-a4d0-45f7-a7be-d2089dba3d32</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 But what about embeddings with high dimensionality, are these converted into ordered pairs, or do they have high-dimensional angle components?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 32](#tp-32) || [this 33](#tp-33) || [next 34 ▸](#tp-34) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>2fa7ccc0-a4d0-45f7-a7be-d2089dba3d32</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa236a5-5c6b-456f-8718-3bd6b4b9d915</em><br>
-        <em><b>children:&nbsp;</b> aaa23fc8-db53-4a37-ae97-7de4c4f80f51</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>2fa7ccc0-a4d0-45f7-a7be-d2089dba3d32<br><b>parent:&emsp;</b>aaa236a5-5c6b-456f-8718-3bd6b4b9d915<br><b>children:&emsp;</b> aaa23fc8-db53-4a37-ae97-7de4c4f80f51</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 For high-dimensional embeddings, converting them to complex numbers directly as ordered pairs is an oversimplification, as each embedding has multiple components and thus multiple angular relationships across its dimensions. In high-dimensional spaces, angles are not single values but rather complex combinations across multiple dimensions. Here's how we generally handle angles in high-dimensional embeddings:
 
@@ -4440,73 +3556,50 @@ print("Final Integrated Embedding:", final_embedding)
 ### Summary
 In high-dimensional spaces, angle alignment can be effectively managed using cosine similarity, and magnitudes can be combined to form attention weights for integrating features. This approach keeps the computation practical while respecting both the direction and importance of embeddings across all dimensions.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 32](#tp-32) || [this 33](#tp-33) || [next 34 ▸](#tp-34) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 3565 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 32](#tp-32) || [this 33](#tp-33) || [next 34 ▸](#tp-34) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-34'></a>
-## **Turnpair 34 of 48** ∷<br><sub><sub>@ 2024-10-28 11:33:36 Mon [𝜟t 0d 00h 03m 16s]</sub></sub>
+## **Conversation 069, Turnpair 34 of 48** ∷<br><sub><sub>@ 2024-10-28 11:33:36 Mon [𝜟t 0d 00h 03m 16s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa23fc8-db53-4a37-ae97-7de4c4f80f51</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>2fa7ccc0-a4d0-45f7-a7be-d2089dba3d32</em><br>
-        <em><b>children:&nbsp;</b> 6391f837-baa8-4bfc-a43a-85c46f07b603</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa23fc8-db53-4a37-ae97-7de4c4f80f51<br><b>parent:&emsp;</b>2fa7ccc0-a4d0-45f7-a7be-d2089dba3d32<br><b>children:&emsp;</b> 6391f837-baa8-4bfc-a43a-85c46f07b603</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 Is this technique used in current applications that you know of?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 33](#tp-33) || [this 34](#tp-34) || [next 35 ▸](#tp-35) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>6391f837-baa8-4bfc-a43a-85c46f07b603</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa23fc8-db53-4a37-ae97-7de4c4f80f51</em><br>
-        <em><b>children:&nbsp;</b> aaa23677-f78c-42f1-a48a-dfa02598f9fe</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>6391f837-baa8-4bfc-a43a-85c46f07b603<br><b>parent:&emsp;</b>aaa23fc8-db53-4a37-ae97-7de4c4f80f51<br><b>children:&emsp;</b> aaa23677-f78c-42f1-a48a-dfa02598f9fe</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 Yes, using magnitude and angle (or direction) information, particularly through cosine similarity and attention weighting, is a fundamental technique in several modern machine learning applications. Here’s where similar concepts are applied today:
 
@@ -4530,73 +3623,50 @@ Yes, using magnitude and angle (or direction) information, particularly through 
 
 In these applications, aligning high-dimensional embeddings through cosine similarity and magnitude adjustment is both effective and computationally efficient for integrating information. While most implementations focus on cosine similarity without explicit phasor transformations, the conceptual alignment based on angle and magnitude underpins the techniques and proves highly useful in practical, scalable systems.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 33](#tp-33) || [this 34](#tp-34) || [next 35 ▸](#tp-35) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 3632 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 33](#tp-33) || [this 34](#tp-34) || [next 35 ▸](#tp-35) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-35'></a>
-## **Turnpair 35 of 48** ∷<br><sub><sub>@ 2024-10-28 11:37:31 Mon [𝜟t 0d 00h 03m 16s]</sub></sub>
+## **Conversation 069, Turnpair 35 of 48** ∷<br><sub><sub>@ 2024-10-28 11:37:31 Mon [𝜟t 0d 00h 03m 16s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa23677-f78c-42f1-a48a-dfa02598f9fe</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>6391f837-baa8-4bfc-a43a-85c46f07b603</em><br>
-        <em><b>children:&nbsp;</b> a366d2ab-d3b0-4212-818e-06f5c849cc61</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa23677-f78c-42f1-a48a-dfa02598f9fe<br><b>parent:&emsp;</b>6391f837-baa8-4bfc-a43a-85c46f07b603<br><b>children:&emsp;</b> a366d2ab-d3b0-4212-818e-06f5c849cc61</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 Do practitioners use quaternions or octonions to capture deeper features from otherwise real or complex embedding representations?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 34](#tp-34) || [this 35](#tp-35) || [next 36 ▸](#tp-36) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>a366d2ab-d3b0-4212-818e-06f5c849cc61</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa23677-f78c-42f1-a48a-dfa02598f9fe</em><br>
-        <em><b>children:&nbsp;</b> aaa21b16-e60c-4b2b-89f0-9070d1e02afa</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>a366d2ab-d3b0-4212-818e-06f5c849cc61<br><b>parent:&emsp;</b>aaa23677-f78c-42f1-a48a-dfa02598f9fe<br><b>children:&emsp;</b> aaa21b16-e60c-4b2b-89f0-9070d1e02afa</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 Yes, quaternions and octonions have gained traction among practitioners and researchers in specific areas where they offer advantages in capturing intricate relationships that real or complex embeddings alone cannot represent effectively. These hypercomplex numbers are particularly valuable in fields requiring nuanced representations of multi-dimensional transformations, spatial rotations, or feature hierarchies. Here’s how they’re used:
 
@@ -4621,73 +3691,50 @@ Despite their advantages, quaternions and octonions are computationally more com
 
 In summary, quaternions and octonions can represent deeper, more interconnected features in ways that real or complex embeddings cannot easily achieve. They’re primarily applied in research-driven or niche fields, and as computational tools and software support improve, we may see broader applications in high-dimensional and multi-modal learning tasks.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 34](#tp-34) || [this 35](#tp-35) || [next 36 ▸](#tp-36) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 3700 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 34](#tp-34) || [this 35](#tp-35) || [next 36 ▸](#tp-36) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-36'></a>
-## **Turnpair 36 of 48** ∷<br><sub><sub>@ 2024-10-28 11:43:36 Mon [𝜟t 0d 00h 05m 00s]</sub></sub>
+## **Conversation 069, Turnpair 36 of 48** ∷<br><sub><sub>@ 2024-10-28 11:43:36 Mon [𝜟t 0d 00h 05m 00s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa21b16-e60c-4b2b-89f0-9070d1e02afa</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>a366d2ab-d3b0-4212-818e-06f5c849cc61</em><br>
-        <em><b>children:&nbsp;</b> 9355607c-46c1-47c8-a683-0072672016fd</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa21b16-e60c-4b2b-89f0-9070d1e02afa<br><b>parent:&emsp;</b>a366d2ab-d3b0-4212-818e-06f5c849cc61<br><b>children:&emsp;</b> 9355607c-46c1-47c8-a683-0072672016fd</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 Why are octonions inherently more expensive? a single high dimensional embedding would just be represented as a matrix, and an embedding collection a tensor. Multiplicative algebraic properties can be captured easily by a multiplication table (matrix)
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 35](#tp-35) || [this 36](#tp-36) || [next 37 ▸](#tp-37) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>9355607c-46c1-47c8-a683-0072672016fd</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa21b16-e60c-4b2b-89f0-9070d1e02afa</em><br>
-        <em><b>children:&nbsp;</b> aaa21b0a-f1fd-4a5c-8535-250a0e0988de</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>9355607c-46c1-47c8-a683-0072672016fd<br><b>parent:&emsp;</b>aaa21b16-e60c-4b2b-89f0-9070d1e02afa<br><b>children:&emsp;</b> aaa21b0a-f1fd-4a5c-8535-250a0e0988de</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 You're absolutely right that octonions, like any embeddings, can indeed be represented as tensors, and that their multiplicative properties are captured by well-defined matrices. However, their computational expense arises from several unique algebraic properties and non-standard behaviors that introduce challenges when integrating them into neural network operations:
 
@@ -4711,73 +3758,50 @@ Despite these challenges, frameworks are emerging to help integrate octonion rep
 
 In summary, octonions are computationally expensive primarily because they break some of the foundational assumptions—like associativity and distributivity—that make standard embedding operations efficient. However, with optimized libraries and further exploration into specialized training techniques, octonion networks hold significant potential for capturing complex, high-dimensional relationships in data.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 35](#tp-35) || [this 36](#tp-36) || [next 37 ▸](#tp-37) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 3767 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 35](#tp-35) || [this 36](#tp-36) || [next 37 ▸](#tp-37) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-37'></a>
-## **Turnpair 37 of 48** ∷<br><sub><sub>@ 2024-10-28 11:46:58 Mon [𝜟t 0d 00h 02m 46s]</sub></sub>
+## **Conversation 069, Turnpair 37 of 48** ∷<br><sub><sub>@ 2024-10-28 11:46:58 Mon [𝜟t 0d 00h 02m 46s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa21b0a-f1fd-4a5c-8535-250a0e0988de</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>9355607c-46c1-47c8-a683-0072672016fd</em><br>
-        <em><b>children:&nbsp;</b> 1dbaae17-6525-446c-bd44-b35e3252aaeb</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa21b0a-f1fd-4a5c-8535-250a0e0988de<br><b>parent:&emsp;</b>9355607c-46c1-47c8-a683-0072672016fd<br><b>children:&emsp;</b> 1dbaae17-6525-446c-bd44-b35e3252aaeb</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 are there any embedding frameworks that decompose octonions into quaternions and complex pairs to facilitate computations?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 36](#tp-36) || [this 37](#tp-37) || [next 38 ▸](#tp-38) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>1dbaae17-6525-446c-bd44-b35e3252aaeb</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa21b0a-f1fd-4a5c-8535-250a0e0988de</em><br>
-        <em><b>children:&nbsp;</b> aaa2e68f-5ed6-4c89-b558-e8acb48ef56b</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>1dbaae17-6525-446c-bd44-b35e3252aaeb<br><b>parent:&emsp;</b>aaa21b0a-f1fd-4a5c-8535-250a0e0988de<br><b>children:&emsp;</b> aaa2e68f-5ed6-4c89-b558-e8acb48ef56b</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 Yes, there are some emerging techniques and frameworks that address the computational complexity of octonions by decomposing them into simpler components, specifically quaternions and complex pairs. This approach effectively leverages the hierarchical structure of hypercomplex numbers (complex numbers as building blocks of quaternions, and quaternions for octonions) to reduce computational load while preserving key algebraic properties.
 
@@ -4805,73 +3829,50 @@ Here's how this decomposition is being utilized:
 
 In summary, decomposing octonions into quaternions and complex pairs is a promising approach in hypercomplex embeddings, balancing efficiency with the advantages of octonion representations. The field is still evolving, but such decompositions show strong potential, particularly in areas like spatial transformations, relational data, and high-dimensional embeddings.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 36](#tp-36) || [this 37](#tp-37) || [next 38 ▸](#tp-38) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 3838 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 36](#tp-36) || [this 37](#tp-37) || [next 38 ▸](#tp-38) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-38'></a>
-## **Turnpair 38 of 48** ∷<br><sub><sub>@ 2024-10-28 11:51:42 Mon [𝜟t 0d 00h 04m 00s]</sub></sub>
+## **Conversation 069, Turnpair 38 of 48** ∷<br><sub><sub>@ 2024-10-28 11:51:42 Mon [𝜟t 0d 00h 04m 00s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2e68f-5ed6-4c89-b558-e8acb48ef56b</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>1dbaae17-6525-446c-bd44-b35e3252aaeb</em><br>
-        <em><b>children:&nbsp;</b> 2ffd7a41-1e9b-45cf-9b50-9ae2446e30d0</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2e68f-5ed6-4c89-b558-e8acb48ef56b<br><b>parent:&emsp;</b>1dbaae17-6525-446c-bd44-b35e3252aaeb<br><b>children:&emsp;</b> 2ffd7a41-1e9b-45cf-9b50-9ae2446e30d0</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 Are there any frameworks that compute octonion backpropogation gradients by reducing to R7 space where the cross product (thus multiplication table) is clearly defined and captures the atypical features of the normed division algebra? The cross operation represents the noncommuntative nature between terms, which could be interpreted as descent steepness between terms.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 37](#tp-37) || [this 38](#tp-38) || [next 39 ▸](#tp-39) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>2ffd7a41-1e9b-45cf-9b50-9ae2446e30d0</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa2e68f-5ed6-4c89-b558-e8acb48ef56b</em><br>
-        <em><b>children:&nbsp;</b> aaa24ab5-025d-445d-9cdf-e7ad221e527e</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>2ffd7a41-1e9b-45cf-9b50-9ae2446e30d0<br><b>parent:&emsp;</b>aaa2e68f-5ed6-4c89-b558-e8acb48ef56b<br><b>children:&emsp;</b> aaa24ab5-025d-445d-9cdf-e7ad221e527e</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 Currently, no major frameworks are built specifically to compute octonion backpropagation gradients by directly reducing octonions to the 7-dimensional cross-product space $(\mathbb{R}^7)$. However, some research and techniques indirectly use the properties of $\mathbb{R}^7$ to simplify octonion gradient calculations by interpreting the unique cross-product operations as a way to manage non-commutativity and non-associativity in gradient descent.
 
@@ -4899,73 +3900,50 @@ Here's how some methods could approach this:
 
 In summary, while this approach isn’t widely implemented yet, reducing octonions to $\mathbb{R}^7$ could leverage cross products for non-commutative interactions, with gradient steepness between terms implicitly representing the descent in the solution space. This could be a powerful method, especially for high-dimensional embeddings and relational learning tasks where octonions naturally excel.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 37](#tp-37) || [this 38](#tp-38) || [next 39 ▸](#tp-39) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 3909 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 37](#tp-37) || [this 38](#tp-38) || [next 39 ▸](#tp-39) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-39'></a>
-## **Turnpair 39 of 48** ∷<br><sub><sub>@ 2024-10-28 11:56:12 Mon [𝜟t 0d 00h 03m 15s]</sub></sub>
+## **Conversation 069, Turnpair 39 of 48** ∷<br><sub><sub>@ 2024-10-28 11:56:12 Mon [𝜟t 0d 00h 03m 15s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa24ab5-025d-445d-9cdf-e7ad221e527e</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>2ffd7a41-1e9b-45cf-9b50-9ae2446e30d0</em><br>
-        <em><b>children:&nbsp;</b> 9964e355-8e03-41c7-b62e-425b6f355765</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa24ab5-025d-445d-9cdf-e7ad221e527e<br><b>parent:&emsp;</b>2ffd7a41-1e9b-45cf-9b50-9ae2446e30d0<br><b>children:&emsp;</b> 9964e355-8e03-41c7-b62e-425b6f355765</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 How does this work? Is the gradient of a layer's output represented as a tuple of weights in the same way an embedding is?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 38](#tp-38) || [this 39](#tp-39) || [next 40 ▸](#tp-40) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>9964e355-8e03-41c7-b62e-425b6f355765</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa24ab5-025d-445d-9cdf-e7ad221e527e</em><br>
-        <em><b>children:&nbsp;</b> aaa251ea-52ef-43ae-8148-460899727fe0</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>9964e355-8e03-41c7-b62e-425b6f355765<br><b>parent:&emsp;</b>aaa24ab5-025d-445d-9cdf-e7ad221e527e<br><b>children:&emsp;</b> aaa251ea-52ef-43ae-8148-460899727fe0</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 In a neural network, the gradient of a layer's output is indeed treated similarly to how embeddings are represented, but there are key distinctions in how gradients and embeddings are used and structured:
 
@@ -4994,181 +3972,119 @@ In a neural network, the gradient of a layer's output is indeed treated similarl
 
 In short, while gradients and embeddings share structural similarities, gradients represent dynamic "sensitivities" that indicate how to change weights, whereas embeddings represent relatively stable latent feature vectors that reflect learned relationships. Hypercomplex embeddings and gradients in octonion or quaternion spaces add rich geometric and interaction-based features to these representations, helping capture non-linear and multi-dimensional relationships between features more effectively.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 38](#tp-38) || [this 39](#tp-39) || [next 40 ▸](#tp-40) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 3981 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 38](#tp-38) || [this 39](#tp-39) || [next 40 ▸](#tp-40) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-40'></a>
-## **Turnpair 40 of 48** ∷<br><sub><sub>@ 2024-10-28 11:59:57 Mon [𝜟t 0d 00h 03m 03s]</sub></sub>
+## **Conversation 069, Turnpair 40 of 48** ∷<br><sub><sub>@ 2024-10-28 11:59:57 Mon [𝜟t 0d 00h 03m 03s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa251ea-52ef-43ae-8148-460899727fe0</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>9964e355-8e03-41c7-b62e-425b6f355765</em><br>
-        <em><b>children:&nbsp;</b> 24228c5f-36c0-4239-b49a-2a5417d5047e</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa251ea-52ef-43ae-8148-460899727fe0<br><b>parent:&emsp;</b>9964e355-8e03-41c7-b62e-425b6f355765<br><b>children:&emsp;</b> 24228c5f-36c0-4239-b49a-2a5417d5047e</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 Do you remember our treatment of LAP for the loss function?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 39](#tp-39) || [this 40](#tp-40) || [next 41 ▸](#tp-41) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>24228c5f-36c0-4239-b49a-2a5417d5047e</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa251ea-52ef-43ae-8148-460899727fe0</em><br>
-        <em><b>children:&nbsp;</b> 6fec0771-5e32-4597-beb7-d570fae1a95b</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>24228c5f-36c0-4239-b49a-2a5417d5047e<br><b>parent:&emsp;</b>aaa251ea-52ef-43ae-8148-460899727fe0<br><b>children:&emsp;</b> 6fec0771-5e32-4597-beb7-d570fae1a95b</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 User is exploring implementing a least-action principle (LAP) as a loss function in machine learning, treating the model's predictions as following a path of minimal action. In this approach, the kinetic and potential terms are used to calculate expected versus actual actions to measure deviation from minimized action, guiding the model’s optimization.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 39](#tp-39) || [this 40](#tp-40) || [next 41 ▸](#tp-41) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 4028 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 39](#tp-39) || [this 40](#tp-40) || [next 41 ▸](#tp-41) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
-
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>86e9d79c-8f71-430a-9a0f-1e00424c45b0</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>6fec0771-5e32-4597-beb7-d570fae1a95b</em><br>
-        <em><b>children:&nbsp;</b> aaa28729-21da-4626-84e6-c780bfb57562</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>86e9d79c-8f71-430a-9a0f-1e00424c45b0<br><b>parent:&emsp;</b>6fec0771-5e32-4597-beb7-d570fae1a95b<br><b>children:&emsp;</b> aaa28729-21da-4626-84e6-c780bfb57562</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 Yes, we developed a least-action principle (LAP) framework for the loss function, where deviations from minimal action serve as the measure for optimization. This framework uses kinetic and potential terms to distinguish the actual versus expected action and incorporates the model's predictions as a pathway within a simplified action integral. We also considered incorporating a discrete time-slice structure, using a Riemann sum approximation for calculating action integrals, and discussed adjustments for smooth backpropagation, where a "g" parameter would act as a weighting factor for different regimes in the loss function. This approach allows the model to assess how closely its internal state and outputs align with the minimal action path, ideally guiding it toward a more optimized representation of reality.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 39](#tp-39) || [this 40](#tp-40) || [next 41 ▸](#tp-41) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 4050 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 39](#tp-39) || [this 40](#tp-40) || [next 41 ▸](#tp-41) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-41'></a>
-## **Turnpair 41 of 48** ∷<br><sub><sub>@ 2024-10-28 12:00:48 Mon [𝜟t 0d 00h 00m 32s]</sub></sub>
+## **Conversation 069, Turnpair 41 of 48** ∷<br><sub><sub>@ 2024-10-28 12:00:48 Mon [𝜟t 0d 00h 00m 32s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa28729-21da-4626-84e6-c780bfb57562</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>86e9d79c-8f71-430a-9a0f-1e00424c45b0</em><br>
-        <em><b>children:&nbsp;</b> ff8b648e-3285-4bd9-9150-0d06ea249cee</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa28729-21da-4626-84e6-c780bfb57562<br><b>parent:&emsp;</b>86e9d79c-8f71-430a-9a0f-1e00424c45b0<br><b>children:&emsp;</b> ff8b648e-3285-4bd9-9150-0d06ea249cee</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 Ok. Good. I just remembered, that we forgot to talk about the Euler-Lagrange equation in that context.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 40](#tp-40) || [this 41](#tp-41) || [next 42 ▸](#tp-42) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>93036f4f-9dfd-4d76-b3a0-8dcbcfb47bde</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>ff8b648e-3285-4bd9-9150-0d06ea249cee</em><br>
-        <em><b>children:&nbsp;</b> aaa22007-366f-48f0-97bf-a96902cdfa6d</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>93036f4f-9dfd-4d76-b3a0-8dcbcfb47bde<br><b>parent:&emsp;</b>ff8b648e-3285-4bd9-9150-0d06ea249cee<br><b>children:&emsp;</b> aaa22007-366f-48f0-97bf-a96902cdfa6d</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 You're absolutely right—using the Euler-Lagrange equation would be essential to the least-action framework, as it formalizes the conditions needed for a function to minimize the action. In the context of a LAP loss function, the Euler-Lagrange equation helps identify the path of minimum action within the model by setting up the conditions that the model’s predictions must satisfy to minimize the loss. Here’s how it could tie into our framework:
 
@@ -5202,73 +4118,50 @@ You're absolutely right—using the Euler-Lagrange equation would be essential t
 
 In essence, the Euler-Lagrange equation provides a formalized criterion for loss minimization in the least-action sense, allowing the model’s predictions to align more closely with an optimized pathway. Adding this equation into our LAP-based loss would reinforce the principle that the model’s updates should mirror a “path of minimal effort.”
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 40](#tp-40) || [this 41](#tp-41) || [next 42 ▸](#tp-42) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 4127 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 40](#tp-40) || [this 41](#tp-41) || [next 42 ▸](#tp-42) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-42'></a>
-## **Turnpair 42 of 48** ∷<br><sub><sub>@ 2024-10-28 12:03:58 Mon [𝜟t 0d 00h 02m 31s]</sub></sub>
+## **Conversation 069, Turnpair 42 of 48** ∷<br><sub><sub>@ 2024-10-28 12:03:58 Mon [𝜟t 0d 00h 02m 31s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa22007-366f-48f0-97bf-a96902cdfa6d</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>93036f4f-9dfd-4d76-b3a0-8dcbcfb47bde</em><br>
-        <em><b>children:&nbsp;</b> b3d1dbe4-8c82-4bd0-8c51-8722ae6926d2</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa22007-366f-48f0-97bf-a96902cdfa6d<br><b>parent:&emsp;</b>93036f4f-9dfd-4d76-b3a0-8dcbcfb47bde<br><b>children:&emsp;</b> b3d1dbe4-8c82-4bd0-8c51-8722ae6926d2</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 we fall back to the dilemma of how to define time though. I am thinking perhaps a sliding 'layerstep' window would be more appropriate now. where discrete time derivatives are calculated by taking past values in window memory and present values in output for derivative calculation
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 41](#tp-41) || [this 42](#tp-42) || [next 43 ▸](#tp-43) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>11d42bef-17de-4cf8-9842-2bdc1419e279</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>b3d1dbe4-8c82-4bd0-8c51-8722ae6926d2</em><br>
-        <em><b>children:&nbsp;</b> aaa219cc-cef2-4bf6-98a0-cc63b09eeae4</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>11d42bef-17de-4cf8-9842-2bdc1419e279<br><b>parent:&emsp;</b>b3d1dbe4-8c82-4bd0-8c51-8722ae6926d2<br><b>children:&emsp;</b> aaa219cc-cef2-4bf6-98a0-cc63b09eeae4</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 The concept of using a sliding "layerstep" window to define time for calculating discrete time derivatives in the context of the least-action principle (LAP) is indeed a compelling approach. This methodology can enhance the model's ability to capture temporal dynamics and facilitate more accurate modeling of the relationships between layers. Here’s how you might implement this idea:
 
@@ -5336,73 +4229,50 @@ The concept of using a sliding "layerstep" window to define time for calculating
 
 Using a sliding layerstep window offers a practical and intuitive method for incorporating discrete time representations into the LAP framework. It enriches the model's capability to learn temporal dependencies and facilitates the incorporation of historical context into the optimization process. This approach could lead to better performance in dynamic environments where past information significantly influences current and future outputs.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 41](#tp-41) || [this 42](#tp-42) || [next 43 ▸](#tp-43) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 4238 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 41](#tp-41) || [this 42](#tp-42) || [next 43 ▸](#tp-43) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-43'></a>
-## **Turnpair 43 of 48** ∷<br><sub><sub>@ 2024-10-28 12:07:22 Mon [𝜟t 0d 00h 03m 13s]</sub></sub>
+## **Conversation 069, Turnpair 43 of 48** ∷<br><sub><sub>@ 2024-10-28 12:07:22 Mon [𝜟t 0d 00h 03m 13s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa219cc-cef2-4bf6-98a0-cc63b09eeae4</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>11d42bef-17de-4cf8-9842-2bdc1419e279</em><br>
-        <em><b>children:&nbsp;</b> a5004971-1733-4298-9deb-1fcd9af5284f</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa219cc-cef2-4bf6-98a0-cc63b09eeae4<br><b>parent:&emsp;</b>11d42bef-17de-4cf8-9842-2bdc1419e279<br><b>children:&emsp;</b> a5004971-1733-4298-9deb-1fcd9af5284f</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 The Euler-lagrange derivation variational process however, includes elements of virtual work variation in the lagrangian. Would this not imply that we need a lookahead aspect to our 'temporal computation' window because there virtual variations are not actually happening, they are 'internal simulations'
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 42](#tp-42) || [this 43](#tp-43) || [next 44 ▸](#tp-44) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>a5004971-1733-4298-9deb-1fcd9af5284f</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa219cc-cef2-4bf6-98a0-cc63b09eeae4</em><br>
-        <em><b>children:&nbsp;</b> aaa204d8-6629-4ad5-ba10-29030147626c</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>a5004971-1733-4298-9deb-1fcd9af5284f<br><b>parent:&emsp;</b>aaa219cc-cef2-4bf6-98a0-cc63b09eeae4<br><b>children:&emsp;</b> aaa204d8-6629-4ad5-ba10-29030147626c</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 You're absolutely correct that the Euler-Lagrange derivation includes concepts of virtual work and variations in the Lagrangian, which do imply a need for a lookahead aspect in your temporal computation model. This notion is particularly relevant in the context of neural networks, where internal simulations may guide future outputs based on variations in the current state. Here's how you might integrate this lookahead mechanism into your framework:
 
@@ -5481,73 +4351,50 @@ You're absolutely correct that the Euler-Lagrange derivation includes concepts o
 
 Incorporating a lookahead aspect into your temporal computation model allows you to effectively simulate virtual variations and internal dynamics, aligning closely with the principles of the Euler-Lagrange equation. By capturing both past and predicted future outputs, this approach enhances the model's ability to navigate complex relationships and optimize its trajectory through the solution space. This method could significantly improve performance, particularly in scenarios where future outcomes are crucial for decision-making.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 42](#tp-42) || [this 43](#tp-43) || [next 44 ▸](#tp-44) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 4360 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 42](#tp-42) || [this 43](#tp-43) || [next 44 ▸](#tp-44) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-44'></a>
-## **Turnpair 44 of 48** ∷<br><sub><sub>@ 2024-10-28 12:10:04 Mon [𝜟t 0d 00h 02m 31s]</sub></sub>
+## **Conversation 069, Turnpair 44 of 48** ∷<br><sub><sub>@ 2024-10-28 12:10:04 Mon [𝜟t 0d 00h 02m 31s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa204d8-6629-4ad5-ba10-29030147626c</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>a5004971-1733-4298-9deb-1fcd9af5284f</em><br>
-        <em><b>children:&nbsp;</b> 074f9fa3-ab57-42dc-bf8f-0d7cd0c7287e</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa204d8-6629-4ad5-ba10-29030147626c<br><b>parent:&emsp;</b>a5004971-1733-4298-9deb-1fcd9af5284f<br><b>children:&emsp;</b> 074f9fa3-ab57-42dc-bf8f-0d7cd0c7287e</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 But isn't the euler-lagrange equation all we need to minimize action? Do we really need to include the virtual work lookahead that the derivation relies on?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 43](#tp-43) || [this 44](#tp-44) || [next 45 ▸](#tp-45) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>074f9fa3-ab57-42dc-bf8f-0d7cd0c7287e</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa204d8-6629-4ad5-ba10-29030147626c</em><br>
-        <em><b>children:&nbsp;</b> aaa27f17-7dd2-4b21-8c38-17093e02bc05</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>074f9fa3-ab57-42dc-bf8f-0d7cd0c7287e<br><b>parent:&emsp;</b>aaa204d8-6629-4ad5-ba10-29030147626c<br><b>children:&emsp;</b> aaa27f17-7dd2-4b21-8c38-17093e02bc05</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 The Euler-Lagrange equation indeed provides a powerful framework for minimizing action, but the inclusion of virtual work and lookahead considerations can enhance your understanding and implementation of dynamic systems, especially in the context of machine learning and neural networks. Let's explore why these concepts might still be relevant, even when the Euler-Lagrange equation is your primary tool.
 
@@ -5584,73 +4431,50 @@ The Euler-Lagrange equation indeed provides a powerful framework for minimizing 
 
 In summary, while the Euler-Lagrange equation is a foundational tool for minimizing action in your model, incorporating concepts like virtual work and lookahead can provide deeper insights into the system's dynamics. These enhancements can improve the model's adaptability and performance, particularly in more complex scenarios where understanding internal dynamics and future states is crucial. Whether to include these aspects depends on the specific application and desired level of model sophistication.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 43](#tp-43) || [this 44](#tp-44) || [next 45 ▸](#tp-45) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 4440 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 43](#tp-43) || [this 44](#tp-44) || [next 45 ▸](#tp-45) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-45'></a>
-## **Turnpair 45 of 48** ∷<br><sub><sub>@ 2024-10-28 12:10:46 Mon [𝜟t 0d 00h 00m 36s]</sub></sub>
+## **Conversation 069, Turnpair 45 of 48** ∷<br><sub><sub>@ 2024-10-28 12:10:46 Mon [𝜟t 0d 00h 00m 36s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa27f17-7dd2-4b21-8c38-17093e02bc05</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>074f9fa3-ab57-42dc-bf8f-0d7cd0c7287e</em><br>
-        <em><b>children:&nbsp;</b> c3e9e39c-603e-4f7b-8eac-aae4368519f7</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa27f17-7dd2-4b21-8c38-17093e02bc05<br><b>parent:&emsp;</b>074f9fa3-ab57-42dc-bf8f-0d7cd0c7287e<br><b>children:&emsp;</b> c3e9e39c-603e-4f7b-8eac-aae4368519f7</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 please derive the euler-lagrange equation for me now
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 44](#tp-44) || [this 45](#tp-45) || [next 46 ▸](#tp-46) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>c3e9e39c-603e-4f7b-8eac-aae4368519f7</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa27f17-7dd2-4b21-8c38-17093e02bc05</em><br>
-        <em><b>children:&nbsp;</b> aaa2991c-1ba0-4c41-824a-514f589c5036</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>c3e9e39c-603e-4f7b-8eac-aae4368519f7<br><b>parent:&emsp;</b>aaa27f17-7dd2-4b21-8c38-17093e02bc05<br><b>children:&emsp;</b> aaa2991c-1ba0-4c41-824a-514f589c5036</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 Certainly! The derivation of the Euler-Lagrange equation is based on the principle of least action, which states that the path taken by a system between two points in configuration space is the one for which the action integral is stationary (typically minimized).
 
@@ -5714,73 +4538,50 @@ Certainly! The derivation of the Euler-Lagrange equation is based on the princip
 
 The Euler-Lagrange equation is derived from the principle of least action, showing that the dynamics of a system can be described by a Lagrangian function. This equation provides the necessary conditions for the paths taken by systems described by generalized coordinates, playing a crucial role in both classical mechanics and its applications in modern fields like machine learning.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 44](#tp-44) || [this 45](#tp-45) || [next 46 ▸](#tp-46) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 4547 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 44](#tp-44) || [this 45](#tp-45) || [next 46 ▸](#tp-46) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-46'></a>
-## **Turnpair 46 of 48** ∷<br><sub><sub>@ 2024-10-28 12:12:41 Mon [𝜟t 0d 00h 01m 44s]</sub></sub>
+## **Conversation 069, Turnpair 46 of 48** ∷<br><sub><sub>@ 2024-10-28 12:12:41 Mon [𝜟t 0d 00h 01m 44s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2991c-1ba0-4c41-824a-514f589c5036</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>c3e9e39c-603e-4f7b-8eac-aae4368519f7</em><br>
-        <em><b>children:&nbsp;</b> ddbf5521-f35f-4399-8901-d852516e3371</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2991c-1ba0-4c41-824a-514f589c5036<br><b>parent:&emsp;</b>c3e9e39c-603e-4f7b-8eac-aae4368519f7<br><b>children:&emsp;</b> ddbf5521-f35f-4399-8901-d852516e3371</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 if we take the gradient of the LAP loss function we derived, what would that look like mathematically?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 45](#tp-45) || [this 46](#tp-46) || [next 47 ▸](#tp-47) | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>ddbf5521-f35f-4399-8901-d852516e3371</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa2991c-1ba0-4c41-824a-514f589c5036</em><br>
-        <em><b>children:&nbsp;</b> aaa260f5-b9f1-423f-b4ab-82191f306923</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>ddbf5521-f35f-4399-8901-d852516e3371<br><b>parent:&emsp;</b>aaa2991c-1ba0-4c41-824a-514f589c5036<br><b>children:&emsp;</b> aaa260f5-b9f1-423f-b4ab-82191f306923</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 To derive the gradient of the Least Action Principle (LAP) loss function, we first need to recall the expression for the LAP loss function we formulated earlier. The LAP loss can be expressed in terms of the expected action and the actual action:
 
@@ -5852,73 +4653,50 @@ $$
 ### Summary
 The gradient of the LAP loss function quantifies how changes in the generalized coordinates $ q $ and their velocities $ \dot{q} $ affect the loss, which can be used in the optimization process during training to update the model's parameters to minimize the action. This approach inherently captures the dynamics of the system being modeled, adhering to the principles of least action.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 45](#tp-45) || [this 46](#tp-46) || [next 47 ▸](#tp-47) | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 4662 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 45](#tp-45) || [this 46](#tp-46) || [next 47 ▸](#tp-47) | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-47'></a>
-## **Turnpair 47 of 48** ∷<br><sub><sub>@ 2024-10-28 12:13:58 Mon [𝜟t 0d 00h 01m 08s]</sub></sub>
+## **Conversation 069, Turnpair 47 of 48** ∷<br><sub><sub>@ 2024-10-28 12:13:58 Mon [𝜟t 0d 00h 01m 08s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa260f5-b9f1-423f-b4ab-82191f306923</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>ddbf5521-f35f-4399-8901-d852516e3371</em><br>
-        <em><b>children:&nbsp;</b> 892369e1-4849-4696-83f6-7c6979074694</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa260f5-b9f1-423f-b4ab-82191f306923<br><b>parent:&emsp;</b>ddbf5521-f35f-4399-8901-d852516e3371<br><b>children:&emsp;</b> 892369e1-4849-4696-83f6-7c6979074694</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 Does this include our consideration of the euler-lagrange equation that we use to satisfy minimization constraint?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 46](#tp-46) || [this 47](#tp-47) || ~~next None ▸~~ | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>892369e1-4849-4696-83f6-7c6979074694</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa260f5-b9f1-423f-b4ab-82191f306923</em><br>
-        <em><b>children:&nbsp;</b> aaa2a4ad-12fb-40d6-8853-acf9a7453a44</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>892369e1-4849-4696-83f6-7c6979074694<br><b>parent:&emsp;</b>aaa260f5-b9f1-423f-b4ab-82191f306923<br><b>children:&emsp;</b> aaa2a4ad-12fb-40d6-8853-acf9a7453a44</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 To include the consideration of the Euler-Lagrange equation in the context of minimizing the Least Action Principle (LAP) loss function, we can explicitly relate the gradient derived previously to the Euler-Lagrange formulation. 
 
@@ -5967,73 +4745,50 @@ This adjustment links the minimization of the LAP loss to the dynamics dictated 
 ### Conclusion
 By deriving the gradient of the LAP loss function in this way, we ensure that the training process respects the underlying principles of mechanics as articulated by the Euler-Lagrange equation. Thus, as we adjust model parameters, we effectively enforce the system's trajectory to stay close to those defined by the least action, fulfilling both the objective of minimizing the loss and adhering to the constraints of motion dictated by the physical laws.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 46](#tp-46) || [this 47](#tp-47) || ~~next None ▸~~ | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 4754 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 46](#tp-46) || [this 47](#tp-47) || ~~next None ▸~~ | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-48'></a>
-## **Turnpair 48 of 48** ∷<br><sub><sub>@ 2024-10-28 12:15:17 Mon [𝜟t 0d 00h 01m 12s]</sub></sub>
+## **Conversation 069, Turnpair 48 of 48** ∷<br><sub><sub>@ 2024-10-28 12:15:17 Mon [𝜟t 0d 00h 01m 12s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>origin ID:&emsp;</b>671fce58-42fc-8003-ac4a-77f98cdd8f20 [conversation 069]<br><b>created:&emsp;</b>2024-10-28 09:48:08 Mon<br><b>updated:&emsp;</b>2025-02-24 18:06:01 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2a4ad-12fb-40d6-8853-acf9a7453a44</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>892369e1-4849-4696-83f6-7c6979074694</em><br>
-        <em><b>children:&nbsp;</b> 044ffd76-507a-41a8-b9ef-9a7efd1018b5</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2a4ad-12fb-40d6-8853-acf9a7453a44<br><b>parent:&emsp;</b>892369e1-4849-4696-83f6-7c6979074694<br><b>children:&emsp;</b> 044ffd76-507a-41a8-b9ef-9a7efd1018b5</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 is the integral necessary calculating the LAP loss gradient as you just did?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 46](#tp-46) || [this 47](#tp-47) || ~~next None ▸~~ | [end 48 ⏭](#tp-48)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o-mini</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>044ffd76-507a-41a8-b9ef-9a7efd1018b5</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa2a4ad-12fb-40d6-8853-acf9a7453a44</em><br>
-        <em><b>children:&nbsp;</b> </em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o-mini<br><b>turn ID:&emsp;</b>044ffd76-507a-41a8-b9ef-9a7efd1018b5<br><b>parent:&emsp;</b>aaa2a4ad-12fb-40d6-8853-acf9a7453a44<br><b>children:&emsp;</b> </em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 You're correct to question whether the integral is strictly necessary when calculating the gradient of the Least Action Principle (LAP) loss. 
 
@@ -6073,28 +4828,18 @@ Even without the integral, you can still utilize the Euler-Lagrange formulation 
 ### Conclusion
 In summary, while integrating over a continuous domain provides a thorough theoretical foundation, in practice, you can effectively compute the LAP loss gradient using discrete sums without the need for integration. This approach simplifies the computation and aligns more closely with typical implementations in machine learning, where data is inherently discrete. The Euler-Lagrange equation can still be respected by enforcing its conditions during the update step for your model parameters.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 46](#tp-46) || [this 47](#tp-47) || ~~next None ▸~~ | [end 48 ⏭](#tp-48)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 4837 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 46](#tp-46) || [this 47](#tp-47) || ~~next None ▸~~ | [end 48 ⏭](#tp-48)</sub><br>
-<sub>[10](#tp-10)·[20](#tp-20)·[30](#tp-30)·[40](#tp-40)</sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 **EOF**

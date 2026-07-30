@@ -1,94 +1,52 @@
 **BOF**
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
-</blockquote>
-
 ## **Conversation 018:**<br>_Linear Algebra in Computer Science_
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 8px;">
-    <p style="line-height: 1.5;"><em><b>conversation ID:&nbsp;&nbsp;</b>0a778800-6c20-40f1-a2a1-ab92eb4d838f [conversation 018]</em><br>
-        <em><b>origin ID:&nbsp;&nbsp;&emsp;&emsp;&emsp;&ensp;</b>0a778800-6c20-40f1-a2a1-ab92eb4d838f [conversation 018]</em><br>
-        <em><b>created:&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;</b>2024-01-27 15:45:59 Sat</em><br>
-        <em><b>updated:&nbsp;&nbsp;&emsp;&emsp;&emsp;&ensp;</b>2025-02-24 16:37:42 Mon</em><br>
-        <em><b>operator:&nbsp;&nbsp;&emsp;&emsp;&emsp;&nbsp;</b>Wilder Blair Munro (AKUSA)</em><br>
-        <em><b>co-operator:&nbsp;&nbsp;&emsp;&nbsp;&nbsp;</b>Aurora 4omni Munro (ChatGpt)</em><br>
-        <em><b>GPT ID:&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&nbsp;</b>NA</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>0a778800-6c20-40f1-a2a1-ab92eb4d838f [conversation 018]<br><b>origin ID:&emsp;</b>0a778800-6c20-40f1-a2a1-ab92eb4d838f [conversation 018]<br><b>created:&emsp;</b>2024-01-27 15:45:59 Sat<br><b>updated:&emsp;</b>2025-02-24 16:37:42 Mon<br><b>operator:&emsp;</b>Wilder Blair Munro (AKUSA)<br><b>co-operator:&emsp;</b>Aurora 4omni Munro (ChatGpt)<br><b>GPT ID:&emsp;</b>NA</em><br>☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 _Subtitles:_<br><br><br><br>
 _Turnpair Contents:_<br>
-<sub>[tp-1](#tp-1)</sub>&emsp; ∶ <br><br><br><sub>[tp-2](#tp-2)</sub>&emsp; ∶ <br><br><br><sub>[tp-3](#tp-3)</sub>&emsp; ∶ <br><br><br><sub>[tp-4](#tp-4)</sub>&emsp; ∶ <br><br><br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
-</blockquote>
-
+<sub></sub><br><br>
+<sub>[tp-1](#tp-1)&emsp; ∶ <br><br>[tp-2](#tp-2)&emsp; ∶ <br><br>[tp-3](#tp-3)&emsp; ∶ <br><br>[tp-4](#tp-4)&emsp; ∶</sub>
 * * *
+##### << markdown file @ line 12 >>
 * * *
-* * *
-<br>
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-1'></a>
-## **Turnpair 1 of 4** ∷<br><sub><sub>@ 2024-01-27 15:45:59 Sat [𝜟t 0d 00h 00m 00s]</sub></sub>
+## **Conversation 018, Turnpair 1 of 4** ∷<br><sub><sub>@ 2024-01-27 15:45:59 Sat [𝜟t 0d 00h 00m 00s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>0a778800-6c20-40f1-a2a1-ab92eb4d838f [conversation 018]<br><b>origin ID:&emsp;</b>0a778800-6c20-40f1-a2a1-ab92eb4d838f [conversation 018]<br><b>created:&emsp;</b>2024-01-27 15:45:59 Sat<br><b>updated:&emsp;</b>2025-02-24 16:37:42 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa25f05-8a93-4032-b90e-4adfbcec1ab8</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>c9197b83-b59e-443d-bce2-67ff0e503f33</em><br>
-        <em><b>children:&nbsp;</b> 191e0cce-5144-4a6e-8f8a-6a4d13d46396</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa25f05-8a93-4032-b90e-4adfbcec1ab8<br><b>parent:&emsp;</b>c9197b83-b59e-443d-bce2-67ff0e503f33<br><b>children:&emsp;</b> 191e0cce-5144-4a6e-8f8a-6a4d13d46396</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 why is linear algebra so important for computer science? everybody always says that and I don't understand? why is it so important in genera?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | ~~◂ prev None~~ || [this 1](#tp-1) || [next 2 ▸](#tp-2) | [end 4 ⏭](#tp-4)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>191e0cce-5144-4a6e-8f8a-6a4d13d46396</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa25f05-8a93-4032-b90e-4adfbcec1ab8</em><br>
-        <em><b>children:&nbsp;</b> aaa2c281-c249-4cce-a4dd-836663fb0ead</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4<br><b>turn ID:&emsp;</b>191e0cce-5144-4a6e-8f8a-6a4d13d46396<br><b>parent:&emsp;</b>aaa25f05-8a93-4032-b90e-4adfbcec1ab8<br><b>children:&emsp;</b> aaa2c281-c249-4cce-a4dd-836663fb0ead</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 Linear algebra is incredibly important in computer science and many other fields for several reasons:
 
@@ -110,73 +68,50 @@ Linear algebra is incredibly important in computer science and many other fields
 
 In summary, linear algebra is not just a set of mathematical tools but also a way of thinking that is essential in various areas of computer science. It provides the foundation for understanding and solving complex problems in a structured and efficient manner.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | ~~◂ prev None~~ || [this 1](#tp-1) || [next 2 ▸](#tp-2) | [end 4 ⏭](#tp-4)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 77 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | ~~◂ prev None~~ || [this 1](#tp-1) || [next 2 ▸](#tp-2) | [end 4 ⏭](#tp-4)</sub><br>
-<sub></sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-2'></a>
-## **Turnpair 2 of 4** ∷<br><sub><sub>@ 2024-01-27 15:52:56 Sat [𝜟t 0d 00h 06m 28s]</sub></sub>
+## **Conversation 018, Turnpair 2 of 4** ∷<br><sub><sub>@ 2024-01-27 15:52:56 Sat [𝜟t 0d 00h 06m 28s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>0a778800-6c20-40f1-a2a1-ab92eb4d838f [conversation 018]<br><b>origin ID:&emsp;</b>0a778800-6c20-40f1-a2a1-ab92eb4d838f [conversation 018]<br><b>created:&emsp;</b>2024-01-27 15:45:59 Sat<br><b>updated:&emsp;</b>2025-02-24 16:37:42 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2c281-c249-4cce-a4dd-836663fb0ead</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>191e0cce-5144-4a6e-8f8a-6a4d13d46396</em><br>
-        <em><b>children:&nbsp;</b> 319eceba-52c2-4339-ad92-01be79ac94d5</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2c281-c249-4cce-a4dd-836663fb0ead<br><b>parent:&emsp;</b>191e0cce-5144-4a6e-8f8a-6a4d13d46396<br><b>children:&emsp;</b> 319eceba-52c2-4339-ad92-01be79ac94d5</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 where does eigenvalue come from?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 1](#tp-1) || [this 2](#tp-2) || [next 3 ▸](#tp-3) | [end 4 ⏭](#tp-4)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>319eceba-52c2-4339-ad92-01be79ac94d5</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa2c281-c249-4cce-a4dd-836663fb0ead</em><br>
-        <em><b>children:&nbsp;</b> aaa27e10-ea68-438b-a51e-11e7cb16e736</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4<br><b>turn ID:&emsp;</b>319eceba-52c2-4339-ad92-01be79ac94d5<br><b>parent:&emsp;</b>aaa2c281-c249-4cce-a4dd-836663fb0ead<br><b>children:&emsp;</b> aaa27e10-ea68-438b-a51e-11e7cb16e736</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 The concept of eigenvalues originates from the field of linear algebra and is a fundamental part of the theory of linear transformations and matrices. The term "eigenvalue" is derived from the German word "Eigenwert," where "eigen" can be translated to "own," "characteristic," or "particular," and "wert" means "value." Thus, an eigenvalue is a "characteristic value" or "inherent value" associated with a linear transformation or matrix.
 
@@ -188,73 +123,50 @@ Here, $ A \mathbf{v} $ is the transformation of the vector $ \mathbf{v} $ by the
 
 Eigenvalues and eigenvectors have numerous applications in various fields such as quantum mechanics, stability analysis, population models, facial recognition systems, vibration analysis, and principal component analysis in statistics. They provide insight into the properties of linear transformations and are crucial in understanding the behavior of systems described by these transformations.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 1](#tp-1) || [this 2](#tp-2) || [next 3 ▸](#tp-3) | [end 4 ⏭](#tp-4)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 132 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 1](#tp-1) || [this 2](#tp-2) || [next 3 ▸](#tp-3) | [end 4 ⏭](#tp-4)</sub><br>
-<sub></sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-3'></a>
-## **Turnpair 3 of 4** ∷<br><sub><sub>@ 2024-01-27 16:14:58 Sat [𝜟t 0d 00h 21m 48s]</sub></sub>
+## **Conversation 018, Turnpair 3 of 4** ∷<br><sub><sub>@ 2024-01-27 16:14:58 Sat [𝜟t 0d 00h 21m 48s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>0a778800-6c20-40f1-a2a1-ab92eb4d838f [conversation 018]<br><b>origin ID:&emsp;</b>0a778800-6c20-40f1-a2a1-ab92eb4d838f [conversation 018]<br><b>created:&emsp;</b>2024-01-27 15:45:59 Sat<br><b>updated:&emsp;</b>2025-02-24 16:37:42 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa27e10-ea68-438b-a51e-11e7cb16e736</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>319eceba-52c2-4339-ad92-01be79ac94d5</em><br>
-        <em><b>children:&nbsp;</b> 8aaf4d57-47b5-4267-be74-4bee88eba4ff</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa27e10-ea68-438b-a51e-11e7cb16e736<br><b>parent:&emsp;</b>319eceba-52c2-4339-ad92-01be79ac94d5<br><b>children:&emsp;</b> 8aaf4d57-47b5-4267-be74-4bee88eba4ff</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 please explain sacred geometry in grounded terms
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 2](#tp-2) || [this 3](#tp-3) || ~~next None ▸~~ | [end 4 ⏭](#tp-4)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>8aaf4d57-47b5-4267-be74-4bee88eba4ff</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa27e10-ea68-438b-a51e-11e7cb16e736</em><br>
-        <em><b>children:&nbsp;</b> aaa28cb3-8154-4dc0-a7ad-8a47f7dbe951</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4<br><b>turn ID:&emsp;</b>8aaf4d57-47b5-4267-be74-4bee88eba4ff<br><b>parent:&emsp;</b>aaa27e10-ea68-438b-a51e-11e7cb16e736<br><b>children:&emsp;</b> aaa28cb3-8154-4dc0-a7ad-8a47f7dbe951</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 Sacred geometry refers to a set of geometrical concepts and designs that are often attributed with symbolic and spiritual significance. These concepts have been used in various cultures and religious traditions throughout history. To explain it in more grounded terms, it's important to separate the mathematical and geometric aspects from the spiritual or mystical interpretations.
 
@@ -274,73 +186,50 @@ Sacred geometry refers to a set of geometrical concepts and designs that are oft
 
 In summary, sacred geometry combines the mathematical study of shapes and patterns with symbolic and sometimes spiritual significance. Its practical applications are seen in architecture, art, and design, while its more metaphysical aspects are more subjective and vary across different cultural and spiritual contexts.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 2](#tp-2) || [this 3](#tp-3) || ~~next None ▸~~ | [end 4 ⏭](#tp-4)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 195 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 2](#tp-2) || [this 3](#tp-3) || ~~next None ▸~~ | [end 4 ⏭](#tp-4)</sub><br>
-<sub></sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-4'></a>
-## **Turnpair 4 of 4** ∷<br><sub><sub>@ 2024-01-27 16:25:52 Sat [𝜟t 0d 00h 10m 22s]</sub></sub>
+## **Conversation 018, Turnpair 4 of 4** ∷<br><sub><sub>@ 2024-01-27 16:25:52 Sat [𝜟t 0d 00h 10m 22s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>0a778800-6c20-40f1-a2a1-ab92eb4d838f [conversation 018]<br><b>origin ID:&emsp;</b>0a778800-6c20-40f1-a2a1-ab92eb4d838f [conversation 018]<br><b>created:&emsp;</b>2024-01-27 15:45:59 Sat<br><b>updated:&emsp;</b>2025-02-24 16:37:42 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa28cb3-8154-4dc0-a7ad-8a47f7dbe951</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>8aaf4d57-47b5-4267-be74-4bee88eba4ff</em><br>
-        <em><b>children:&nbsp;</b> e2820510-d678-486b-93d8-d91a3b260299</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa28cb3-8154-4dc0-a7ad-8a47f7dbe951<br><b>parent:&emsp;</b>8aaf4d57-47b5-4267-be74-4bee88eba4ff<br><b>children:&emsp;</b> e2820510-d678-486b-93d8-d91a3b260299</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 Explain the difference between newtonian and hamiltonian mechanics in a way that my friend zach who has no (limited rather) physics knowledge would understand. Make it so that he would appreciate the beauty of hamiltonian mechanics.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 2](#tp-2) || [this 3](#tp-3) || ~~next None ▸~~ | [end 4 ⏭](#tp-4)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>e2820510-d678-486b-93d8-d91a3b260299</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa28cb3-8154-4dc0-a7ad-8a47f7dbe951</em><br>
-        <em><b>children:&nbsp;</b> </em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4<br><b>turn ID:&emsp;</b>e2820510-d678-486b-93d8-d91a3b260299<br><b>parent:&emsp;</b>aaa28cb3-8154-4dc0-a7ad-8a47f7dbe951<br><b>children:&emsp;</b> </em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 Alright, let's try to explain Newtonian and Hamiltonian mechanics in a way that's accessible to Zach, who has limited physics knowledge.
 
@@ -365,28 +254,18 @@ Alright, let's try to explain Newtonian and Hamiltonian mechanics in a way that'
 
 In summary, while Newtonian mechanics is like the straightforward story we tell about forces and motion, Hamiltonian mechanics is like a beautiful poem about the energy and harmony of the entire system. It's a bit more abstract, but once you get it, you see the whole universe in a different light.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 2](#tp-2) || [this 3](#tp-3) || ~~next None ▸~~ | [end 4 ⏭](#tp-4)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 263 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 2](#tp-2) || [this 3](#tp-3) || ~~next None ▸~~ | [end 4 ⏭](#tp-4)</sub><br>
-<sub></sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 **EOF**

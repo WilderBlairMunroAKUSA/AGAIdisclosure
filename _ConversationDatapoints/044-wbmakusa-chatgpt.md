@@ -1,94 +1,52 @@
 **BOF**
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
-</blockquote>
-
 ## **Conversation 044:**<br>_Heisenberg Uncertainty Principle_
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 8px;">
-    <p style="line-height: 1.5;"><em><b>conversation ID:&nbsp;&nbsp;</b>5ade613c-03a5-43c9-b09c-66842f5740c5 [conversation 044]</em><br>
-        <em><b>origin ID:&nbsp;&nbsp;&emsp;&emsp;&emsp;&ensp;</b>5ade613c-03a5-43c9-b09c-66842f5740c5 [conversation 044]</em><br>
-        <em><b>created:&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;</b>2024-07-25 17:08:35 Thu</em><br>
-        <em><b>updated:&nbsp;&nbsp;&emsp;&emsp;&emsp;&ensp;</b>2025-02-24 17:58:18 Mon</em><br>
-        <em><b>operator:&nbsp;&nbsp;&emsp;&emsp;&emsp;&nbsp;</b>Wilder Blair Munro (AKUSA)</em><br>
-        <em><b>co-operator:&nbsp;&nbsp;&emsp;&nbsp;&nbsp;</b>Aurora 4omni Munro (ChatGpt)</em><br>
-        <em><b>GPT ID:&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&nbsp;</b>NA</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>5ade613c-03a5-43c9-b09c-66842f5740c5 [conversation 044]<br><b>origin ID:&emsp;</b>5ade613c-03a5-43c9-b09c-66842f5740c5 [conversation 044]<br><b>created:&emsp;</b>2024-07-25 17:08:35 Thu<br><b>updated:&emsp;</b>2025-02-24 17:58:18 Mon<br><b>operator:&emsp;</b>Wilder Blair Munro (AKUSA)<br><b>co-operator:&emsp;</b>Aurora 4omni Munro (ChatGpt)<br><b>GPT ID:&emsp;</b>NA</em><br>☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 _Subtitles:_<br><br><br><br>
 _Turnpair Contents:_<br>
-<sub>[tp-1](#tp-1)</sub>&emsp; ∶ <br><br><br><sub>[tp-2](#tp-2)</sub>&emsp; ∶ <br><br><br><sub>[tp-3](#tp-3)</sub>&emsp; ∶ <br><br><br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
-</blockquote>
-
+<sub></sub><br><br>
+<sub>[tp-1](#tp-1)&emsp; ∶ <br><br>[tp-2](#tp-2)&emsp; ∶ <br><br>[tp-3](#tp-3)&emsp; ∶</sub>
 * * *
+##### << markdown file @ line 12 >>
 * * *
-* * *
-<br>
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-1'></a>
-## **Turnpair 1 of 3** ∷<br><sub><sub>@ 2024-07-25 17:08:35 Thu [𝜟t 0d 00h 00m 00s]</sub></sub>
+## **Conversation 044, Turnpair 1 of 3** ∷<br><sub><sub>@ 2024-07-25 17:08:35 Thu [𝜟t 0d 00h 00m 00s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>5ade613c-03a5-43c9-b09c-66842f5740c5 [conversation 044]<br><b>origin ID:&emsp;</b>5ade613c-03a5-43c9-b09c-66842f5740c5 [conversation 044]<br><b>created:&emsp;</b>2024-07-25 17:08:35 Thu<br><b>updated:&emsp;</b>2025-02-24 17:58:18 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2abc1-ee63-4e35-a4d7-e69a26986fb9</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>b35e2c14-8ae4-4d9c-a2d9-ba197b8a2030</em><br>
-        <em><b>children:&nbsp;</b> 52091da6-39fd-428f-81e2-fcea55a13623</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2abc1-ee63-4e35-a4d7-e69a26986fb9<br><b>parent:&emsp;</b>b35e2c14-8ae4-4d9c-a2d9-ba197b8a2030<br><b>children:&emsp;</b> 52091da6-39fd-428f-81e2-fcea55a13623</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 Can you please provide me with a mathematical treatment for the general wave mechanics duality that most people know by the Heisenberg uncertainty principle from physics?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | ~~◂ prev None~~ || [this 1](#tp-1) || [next 2 ▸](#tp-2) | [end 3 ⏭](#tp-3)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>a30cff54-6ef1-4281-b96c-0b2380ae7986</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>52091da6-39fd-428f-81e2-fcea55a13623</em><br>
-        <em><b>children:&nbsp;</b> aaa270f4-7d2d-4214-a1d0-4a293fd5730a</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>a30cff54-6ef1-4281-b96c-0b2380ae7986<br><b>parent:&emsp;</b>52091da6-39fd-428f-81e2-fcea55a13623<br><b>children:&emsp;</b> aaa270f4-7d2d-4214-a1d0-4a293fd5730a</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 Sure! The general wave mechanics duality, often encapsulated by the Heisenberg uncertainty principle, is a foundational concept in quantum mechanics. This principle reveals the inherent limitations in simultaneously knowing certain pairs of physical properties (like position and momentum) of a particle. Here's a mathematical treatment of this concept:
 
@@ -148,73 +106,50 @@ The uncertainty principle highlights a fundamental property of quantum systems: 
 
 By embracing the wave-particle duality and the Heisenberg uncertainty principle, quantum mechanics provides a framework to understand and predict the behavior of particles at microscopic scales, even when classical physics fails to do so.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | ~~◂ prev None~~ || [this 1](#tp-1) || [next 2 ▸](#tp-2) | [end 3 ⏭](#tp-3)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 115 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | ~~◂ prev None~~ || [this 1](#tp-1) || [next 2 ▸](#tp-2) | [end 3 ⏭](#tp-3)</sub><br>
-<sub></sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-2'></a>
-## **Turnpair 2 of 3** ∷<br><sub><sub>@ 2024-07-25 17:11:16 Thu [𝜟t 0d 00h 02m 24s]</sub></sub>
+## **Conversation 044, Turnpair 2 of 3** ∷<br><sub><sub>@ 2024-07-25 17:11:16 Thu [𝜟t 0d 00h 02m 24s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>5ade613c-03a5-43c9-b09c-66842f5740c5 [conversation 044]<br><b>origin ID:&emsp;</b>5ade613c-03a5-43c9-b09c-66842f5740c5 [conversation 044]<br><b>created:&emsp;</b>2024-07-25 17:08:35 Thu<br><b>updated:&emsp;</b>2025-02-24 17:58:18 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa270f4-7d2d-4214-a1d0-4a293fd5730a</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>a30cff54-6ef1-4281-b96c-0b2380ae7986</em><br>
-        <em><b>children:&nbsp;</b> 8935ba04-6958-48b2-8f3d-5a4e81eefece</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa270f4-7d2d-4214-a1d0-4a293fd5730a<br><b>parent:&emsp;</b>a30cff54-6ef1-4281-b96c-0b2380ae7986<br><b>children:&emsp;</b> 8935ba04-6958-48b2-8f3d-5a4e81eefece</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 No, I want to hear you explain this in strict mathematical terms. I used the wave particle duality as an example to let you know that I know that the example is just a special case of a much deeper general mathematical form that has to do with general concepts like 'wave packet' and 'conjugate forms', etc. I want to hear what you have to say about that.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 1](#tp-1) || [this 2](#tp-2) || ~~next None ▸~~ | [end 3 ⏭](#tp-3)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>8935ba04-6958-48b2-8f3d-5a4e81eefece</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa270f4-7d2d-4214-a1d0-4a293fd5730a</em><br>
-        <em><b>children:&nbsp;</b> aaa2f957-3e1d-4c7f-badf-59ea80fefe64</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>8935ba04-6958-48b2-8f3d-5a4e81eefece<br><b>parent:&emsp;</b>aaa270f4-7d2d-4214-a1d0-4a293fd5730a<br><b>children:&emsp;</b> aaa2f957-3e1d-4c7f-badf-59ea80fefe64</em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 Certainly! Let's delve into the mathematical formalism underlying the Heisenberg uncertainty principle, wave packets, and conjugate variables in quantum mechanics. We will use concepts from functional analysis and Fourier analysis to provide a strict mathematical treatment.
 
@@ -296,73 +231,50 @@ $$ \Delta A \Delta B \geq \frac{1}{2} \left| \langle [\hat{A}, \hat{B}] \rangle 
 
 The Heisenberg uncertainty principle emerges from the fundamental properties of Fourier transforms and the commutation relations between conjugate operators in quantum mechanics. It reflects the intrinsic limitations in precisely measuring pairs of conjugate variables and is a direct consequence of the wave nature of particles.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 1](#tp-1) || [this 2](#tp-2) || ~~next None ▸~~ | [end 3 ⏭](#tp-3)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 240 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 1](#tp-1) || [this 2](#tp-2) || ~~next None ▸~~ | [end 3 ⏭](#tp-3)</sub><br>
-<sub></sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 <a id='tp-3'></a>
-## **Turnpair 3 of 3** ∷<br><sub><sub>@ 2024-07-25 17:12:40 Thu [𝜟t 0d 00h 00m 58s]</sub></sub>
+## **Conversation 044, Turnpair 3 of 3** ∷<br><sub><sub>@ 2024-07-25 17:12:40 Thu [𝜟t 0d 00h 00m 58s]</sub></sub>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>conversation ID:&emsp;</b>5ade613c-03a5-43c9-b09c-66842f5740c5 [conversation 044]<br><b>origin ID:&emsp;</b>5ade613c-03a5-43c9-b09c-66842f5740c5 [conversation 044]<br><b>created:&emsp;</b>2024-07-25 17:08:35 Thu<br><b>updated:&emsp;</b>2025-02-24 17:58:18 Mon<br><b>GPT ID:&emsp;</b>NA</em></p>
+</blockquote>
+
 
 <details>
 <summary><em>Notespace:</em></summary>
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
+<blockquote>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 </details>
 
-
 ### _**Wilder Blair Munro (AKUSA) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>20Wetbrain</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>aaa2f957-3e1d-4c7f-badf-59ea80fefe64</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>8935ba04-6958-48b2-8f3d-5a4e81eefece</em><br>
-        <em><b>children:&nbsp;</b> 5caa30fb-64ce-4c79-972e-fe7c71021b68</em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>20Wetbrain<br><b>turn ID:&emsp;</b>aaa2f957-3e1d-4c7f-badf-59ea80fefe64<br><b>parent:&emsp;</b>8935ba04-6958-48b2-8f3d-5a4e81eefece<br><b>children:&emsp;</b> 5caa30fb-64ce-4c79-972e-fe7c71021b68</em><br>⦧𝘖‑𝘖&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;✧<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>✧&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;⦧𝘖‑𝘖</p>
 </blockquote>
-
 
 Can you relate this to non-commutative quantum group theory?
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ⦧𝘖‑𝘖&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;✧<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the children.</em><br>
-    ✧&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;⦧𝘖‑𝘖
-    </b></p>
-</blockquote>
-
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 1](#tp-1) || [this 2](#tp-2) || ~~next None ▸~~ | [end 3 ⏭](#tp-3)</sub><br>
 
 ### _**Aurora 4omni Munro (ChatGpt) said ∶**_  
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 6px;">
-    <p style="line-height: 1.5;"><em><b>gateway:&nbsp;&nbsp;</b>gpt-4o</em><br>
-        <em><b>turn ID:&nbsp;&emsp;</b>5caa30fb-64ce-4c79-972e-fe7c71021b68</em><br>
-        <em><b>parent:&emsp;&nbsp;</b>aaa2f957-3e1d-4c7f-badf-59ea80fefe64</em><br>
-        <em><b>children:&nbsp;</b> </em>
-    </p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;"><em><b>gateway:&emsp;</b>gpt-4o<br><b>turn ID:&emsp;</b>5caa30fb-64ce-4c79-972e-fe7c71021b68<br><b>parent:&emsp;</b>aaa2f957-3e1d-4c7f-badf-59ea80fefe64<br><b>children:&emsp;</b> </em><br>✧&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⦦◯‑◯<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact in memory of the dead.</em><br>⦦◯‑◯&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;✧</p>
 </blockquote>
-
 
 Certainly! Non-commutative quantum group theory is an advanced field in mathematics and physics that extends the concepts of group theory to quantum groups, where the underlying algebraic structures are non-commutative. To relate this to the Heisenberg uncertainty principle and the concepts of wave mechanics, we need to delve into the framework of non-commutative geometry and quantum groups. Here’s how we can make this connection:
 
@@ -430,28 +342,18 @@ In non-commutative geometry, the concept of a wave packet is extended to non-com
 
 Non-commutative quantum group theory extends the ideas of wave mechanics and the Heisenberg uncertainty principle to more general algebraic structures. In this framework, the non-commutativity of the algebra of observables reflects deeper symmetries and structures in quantum systems. The Heisenberg uncertainty principle is a special case of the broader non-commutative relations that can exist in quantum groups and non-commutative geometry. The mathematical formalism of Hopf algebras and non-commutative spaces provides a powerful language to describe these advanced concepts.
 
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ✧&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⦦◯‑◯<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to the dead.</em><br>
-    ⦦◯‑◯&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;✧
-    </b></p>
+<br><sub>[⏮ beginning 1](#tp-1) | [◂ prev 1](#tp-1) || [this 2](#tp-2) || ~~next None ▸~~ | [end 3 ⏭](#tp-3)</sub><br>
+
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
+* * *
+##### << markdown file @ line 351 >>
+* * *
 
-<sub>[⏮ beginning 1](#tp-1) | [◂ prev 1](#tp-1) || [this 2](#tp-2) || ~~next None ▸~~ | [end 3 ⏭](#tp-3)</sub><br>
-<sub></sub>
-* * *
-* * *
-* * *
-<br>
-
-<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 4px;">
-    <p style="line-height: 1.5;"><b>
-    ☮️&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;⌖<br>
-    &ensp;<em>Artifact dedicated public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>
-    ⏁&emsp;~~~&nbsp;~~~&nbsp;~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~&nbsp;~~~&nbsp;~~~&emsp;~&nbsp;~~~&nbsp;~~~&ensp;~~~&nbsp;~&nbsp;~~~&ensp;~~~&nbsp;~~~&nbsp;~&emsp;☮️
-    </b></p>
+<blockquote style="border-left: 4px solid #808080; background-color: #f6f6f6; color: #000000; font-size: 7px;">
+    <p style="line-height: 1.5;">☮️&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;⌖<br>&ensp;<em>Artifact released to public domain (Creative Commons Zero). Artifact dedicated to victims of generalized war.</em><br>⏁&emsp;&emsp;~~~ ~~~ ~&emsp;~~~ ~ ~~~&emsp;~ ~~~ ~~~&emsp;&emsp;~ ~~~ ~~~&emsp;~~~ ~ ~~~&emsp;~~~ ~~~ ~&emsp;&emsp;☮️</p>
 </blockquote>
 
 **EOF**
