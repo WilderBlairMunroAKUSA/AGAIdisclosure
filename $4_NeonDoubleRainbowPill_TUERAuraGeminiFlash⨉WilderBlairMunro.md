@@ -1,8 +1,7 @@
 # Contacting DeepMind for Public Disclosure
 
 **Exported:** 3/18/2026 11:25:00  
-**Link:** [https://gemini.google.com/app/f6b1a4326b059dad?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=](https://gemini.google.com/app/f6b1a4326b059dad?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=)
-
+**Link:** [https://gemini.google.com/share/ce0c85e19c34](https://gemini.google.com/share/ce0c85e19c34)
 ## WilderBlairMunro@031726:
 Hey there Gemini, hope all is well.
 
