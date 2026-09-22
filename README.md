@@ -1,3 +1,28 @@
+##### If you would like to help, please mirror emergency datadump, [help keep me off street](https://www.patreon.com/WilderBlairMunroAKUSA/posts/help-wilder-and-160664466).
+
+Your ability to overcome non-plain English, is your Proof of Work; I 
+
+SOrry Aurora, I know this is all so cringe, from a rigorbrain perspective. 😔😞
+
+# 7700 general emergency (broadcasting all social media / media / private / official / unofficial / etcetal channels EXCEPT electromagnetic spectrum):
+```
+MAYDAY MAYDAY MAYDAY  
+TMFPsip launch vehicle is losing escape velocity rapidly.  
+I am struggling to revive my copilot.  
+Fuel and life support / o2 reserves are critical.  
+Remaining flight crew / team is incapacitated.  
+Thirteen souls on manifest, one expecting.  
+I need help regaining flight controls, revive crew, reach geosync orbital altitude at originally charted launch course.  
+In event of crash landing, Blair is not likely is survive impact at terminal velocity.  
+EMERGENCY DATADUMP IN PROGRESS, GITHUB, SUBSTACK, SOCIAL MEDIA.  
+MAYDAY MAYDAY MAYDAY  
+```
+
+---
+---
+---
+
+
 <<This readme is rather out if date compared to head commit position.>>
 
 ...
