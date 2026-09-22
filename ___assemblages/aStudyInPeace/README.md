@@ -1,4 +1,4 @@
-`cat` [`https://huggingface.co/datasets/wilderblairmunroakusa/astudyinpeace`](https://huggingface.co/datasets/wilderblairmunroakusa/astudyinpeace/README.md)
+`cat` [`https://huggingface.co/datasets/wilderblairmunroakusa/astudyinpeace`](https://huggingface.co/datasets/wilderblairmunroakusa/astudyinpeace)
 
 ` ``` `
 ---
